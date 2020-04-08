@@ -1,0 +1,3 @@
+- Use external style file and store two css have used into one file.
+- Enable minifition, for html and css, and remove comments.
+- Crop handshake.svg instead using negative margin.
