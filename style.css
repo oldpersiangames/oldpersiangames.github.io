@@ -106,8 +106,11 @@ section:nth-child(odd) {
 section .content {
   max-width: 800px;
   margin: 0 auto;
-  text-align: justify;
   padding: 0 10px;
+}
+
+section p {
+  text-align: justify;
 }
 
 section h1 {
@@ -118,6 +121,10 @@ section h1 {
   font-size: 1em;
   margin-top: 1.33em;
   margin-bottom: 1.33em;
+}
+
+.list tr td:first-child {
+  direction: ltr;
 }
 
 .invite {
