@@ -1,0 +1,185 @@
+body {
+  font-family: 'Vazir', sans-serif;
+  color: #2d2b31;
+  line-height: 1.5;
+}
+
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+table {
+  background: white;
+  color: #555555;
+  border-spacing: 0;
+  border: 1px solid #e8e8e8;
+  border-radius:30px;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+table tr:nth-child(even) {
+  background-color: #f5f5f5
+}
+
+table tr.lost {
+  background-color: pink
+}
+
+table th,
+table td {
+  padding: 10px 15px
+}
+
+table thead tr {
+  background-color: #6c7ae0;
+  color: #fff;
+}
+
+table td:nth-child(1) {
+  direction: ltr;
+}
+
+/* Thanks: http://vmorneau.me/css-responsive-table/ */
+@media screen and (max-width: 600px) {
+    table thead {
+        display: none;
+    }
+
+    table tr {
+        display: block;
+        margin: 0;
+        border: none;
+        padding: 30px 0;
+    }
+
+    table td {
+        display: block;
+        text-align: left;
+        border: none;
+    }
+    
+    table td:before {
+        color: #999999;
+        float: right;
+        font-weight: bold;
+    }
+    table tr.lost td:before {
+      color: #666666;
+    }
+    table td:nth-child(1):before {
+      content: "عنوان"
+    }
+    table td:nth-child(2):before {
+    content: "عنوان فارسی"
+    }
+    table td:nth-child(3):before {
+    content: "دوبله از"
+    }
+    table td:nth-child(4):before {
+    content: "نوع فایل"
+    }
+    table td:nth-child(5):before {
+    content: "وضعیت"
+    }
+}
+
+figure {
+  text-align: center;
+}
+
+figure figcaption {
+  font-weight: bold;
+}
+
+header {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  overflow: auto;
+  /* look at: https://stackoverflow.com/questions/20689575/css-margin-top-of-h1-affects-parents-margin */
+}
+
+footer {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+footer p {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header h1 {
+  font-size: 1.5em;
+}
+
+header h1 a:link,
+header h1 a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+section {
+  overflow: auto;
+}
+
+section#about {
+  background: #f5f4f0;
+}
+
+section#list {
+  background: #f5f4f0;
+}
+
+section .content {
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+section .content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+section p {
+  text-align: justify;
+}
+
+section h1 {
+  text-align: center;
+}
+
+.invite {
+  padding: 5px 0;
+  background: green;
+  text-align: center;
+  font-weight: bold;
+  color: #fff
+}
+
+.invite a:link,
+.invite a:hover,
+.invite a:visited,
+.invite a:active {
+  color: #FFE4C4;
+}

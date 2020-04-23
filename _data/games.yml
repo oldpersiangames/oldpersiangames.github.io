@@ -1,0 +1,29 @@
+- title: "The Sum of All Fears"
+  titlefa: "اسلحه مرگبار"
+  dubbedby: novinpendar
+  status: uploaded
+  file_type: iso
+
+- title: "Return to Castle Wolfenstein"
+  titlefa: "بازگشت به قلعه ولفنشتاين"
+  dubbedby: novinpendar
+  release_date: "تابستان ۱۳۸۱"
+  status: uploaded
+  file_type: iso
+  
+- title: "Half-Life 2"
+  titlefa: "نیمه‌جان ۲"
+  dubbedby: novinpendar
+  status: lost
+
+- title: "Grand Theft Auto: Vice City"
+  titlefa: "اتومبیل‌دزدی بزرگ: وایس سیتی"
+  dubbedby: "پارس گیم"
+  status: available
+  file_type: iso
+  
+- title: "True Crime: Streets of LA"
+  titlefa: "جنایت واقعی: خیابان‌های لس آنجلس"
+  dubbedby: "نامعلوم"
+  status: uploaded
+  file_type: preinstalled
