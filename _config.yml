@@ -1,4 +1,4 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oldpersiangames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "بازی‌های فارسی قدیمی - Old Persian Games" # the name of your site, e.g. ACME Corp.
 description: "پایگاه حفظ، نشر و دانلود بازی‌های دوبله به فارسی و بازی‌های ایرانی؛ از جمله محصولات شرکت‌های نوین پندار، دارینوس، آرین، عصر بازی، سریرگیم و..."
