@@ -1,18 +1,20 @@
+---
+# this is an empty front matter to make liquid tags working. 
+---
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="پایگاه حفظ، نشر و دانلود بازی‌های دوبله به فارسی و بازی‌های ایرانی؛ از جمله محصولات شرکت‌های نوین پندار، دارینوس، آرین، عصر بازی، سریرگیم و...">
-    <title>بازی‌های فارسی قدیمی | پایگاه حفظ، نشر و دانلود بازی‌های دوبله به فارسی و بازی‌های ایرانی - Old Persian Games</title>
+    {%- seo -%}
     <link href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/vazir-font@24.1.0/dist/font-face.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <header>
-      <h1><a href="https://oldpersiangames.github.io/">بازی‌های فارسی قدیمی - Old Persian Games</a></h1>
-      <p>پایگاه حفظ، نشر و دانلود بازی‌های دوبله به فارسی و بازی‌های ایرانی؛ از جمله محصولات شرکت‌های نوین پندار، دارینوس، آرین، عصر بازی، سریرگیم و...</p>
+      <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+      <p>{{ site.description | escape }}</p>
     </header>
     <section id="about">
       <h1>چطور میشه بازی‌های فارسی رو تهیه کرد؟</h1>
@@ -21,7 +23,7 @@
         <p> کم بودن نظارت‌های دولتی، شرایط مناسب‌تر اقتصادی، و همچنین غیرممکن بودن تهیه‌ی رایگان بازی‌های حجیم از طریق اینترنت، از جمله عواملی بودن که کمک زیادی به رشد این صنعت کردن. بعد از مدت کوتاهی، بازارهای سراسر کشور از بازی‌هایی که به زبان شیرین فارسی برگردونده شده بودن پر شد، و این نتیجه‌ی رقابت نفس‌گیری بود بین شرکت‌های دوبله‌کننده. بعضی از آثار کیفیتی در حد شاهکار داشتن، و بعضی‌هاشون فقط قابل قبول بودن.</p>
         <p>بدبختانه امروز اکثر اون شرکت‌ها تعطیل شدن، و اغلب اون محصولات قابل تهیه نیستن. تا جایی که ما می‌دونیم، هیچ نهاد و یا سازمانی متولی حفظ و نگهداری این محصولات نشده. پس این کاری هست که خودمون باید انجام بدیم، تا این آثار و هنرهای ارزشمند فراموش نشن.</p>
         <figure>
-          <img src="handshake.svg" alt="همکاری" style="margin-top:-40px;margin-bottom:-40px;width:250px">
+          <img src="/handshake.svg" alt="همکاری" style="margin-top:-40px;margin-bottom:-40px;width:250px">
           <figcaption>تنها راه تهیه و حفظ این محصولات این هست که اون‌ها رو با هم‌دیگه به اشتراک بذاریم</figcaption>
         </figure>
         <p>ما اینجا کنار هم جمع شدیم تا با کمک علاقه‌مندان این کار مهم رو انجام بدیم؛ و از شما برای همکاری دعوت می‌کنیم. ما یک گروه اینترنتی تشکیل دادیم و بازی‌های فارسی خودمون رو بین اعضا به اشتراک می‌ذاریم. تلاش می‌شه از طریق همین وبسایت، دسترسی رایگان به بعضی از بازی‌های دوبله و یا ایرانی فراهم بشه، اما در حال حاضر دسترسی به بسیاری از عناوین فقط از طریق عضویت در گروه امکانپذیر هست. البته این وضعیت احتمالاً به مرور زمان تغییر می‌کنه و شاید روزی برسه که تمام بازی‌های فارسی از طریق همین صفحه قابل دانلود باشن...</p>
@@ -29,38 +31,39 @@
         <p class="invite">جهت پیوستن به ما، به حساب تلگرام مدیر گروه، <span dir="ltr"><a href="https://t.me/mjsayr">@mjsayr</a></span>، پیام بدین.</p>
       </div>
     </section>
-    <section class="list" id="list-of-shared-games">
-      <h1>لیست بازی‌هایی که تا الان بین اعضا به اشتراک گذاشته شده</h1>
+    <section id="list">
+      <h1>لیست بازی‌های فارسی</h1>
       <div class="content">
-        <table style="width:100%">
+      <p>تلاش می‌کنیم در اینجا لیست کاملی از بازی‌های دوبله به فارسی و بازی‌های ایرانی ارائه بدیم. در این لیست، مشخص شده که «چه بازی‌هایی در گروه آپلود شدن»، و «چه بازی‌هایی موجود و قابل دستیابی هستن اما هنوز آپلود نشدن»، و «چه بازی‌هایی مفقود و گمشده هستن»...</p>
+      <table>
+          <thead>
           <tr>
             <th>عنوان</th>
             <th>عنوان فارسی</th>
-            <th>دوبله از</th>
+            <th>دوبله</th>
+            <th>نوع فایل</th>
+            <td>وضعیت</td>
           </tr>
-          <tr>
-<td>Return to Castle Wolfenstein</td>
-<td>بازگشت به قلعه ولفنشتاین</td>
-<td>نوین پندار</td>
-          </tr>
+          </thead>
+          <tbody>
+      {% assign games = site.data.games %}
+      {% for game in games %}
+      <tr class="{{ game.status }}">
+      <td>{{ game.title }}&nbsp;</td>
+      <td>{{ game.titlefa }}&nbsp;</td>
+      <td>{% include companynames.html content=game.dubbedby %}&nbsp;</td>
+      <td>{% include file_type.html content=game.file_type %}&nbsp;</td>
+      <td>{% include status.html content=game.status %}&nbsp;</td>
+      </tr>
+      {% endfor %}
+      </tbody>
         </table>
-<p>        این لیست ناقص است و تاکنون بالغ بر هشتاد عنوان به اشتراک گذاشته شده. در اسرع وقت لیست تکمیل خواهد شد. </p>
-      </div>
-    </section>
-    <section class="list" id="list-of-available-games">
-      <h1>لیست بازی‌هایی که نزد اعضای گروه موجود هست اما هنوز زحمت آپلودش رو نکشیدن</h1>
-      <div class="content">
-<p>        در سریعترین وقت ممکن، لیست قرار خواهد گرفت. </p>
-      </div>
-    </section>
-    <section class="list" id="list-of-lost-games">
-      <h1>لیست بازی‌هایی که سال‌ها پیش توی بازار منتشر شده بودن ولی الان در دسترس ما نیستن و در خطر فراموشی هستن</h1>
-      <div class="content">
- <p>     در سریعترین وقت ممکن، لیست قرار خواهد گرفت. </p>
+        <p>در حال حاضر لیست فوق بسیار ناقص هست. </p>
       </div>
     </section>
     <footer>
-      <p>آخرین بروزرسانی سایت: ۱ اردیبهشت ۱۳۹۹</p>
+      <p>آخرین بروزرسانی سایت: ۴ اردیبهشت ۱۳۹۹</p>
+      <p>میزبانی در <a href="https://github.com/oldpersiangames/oldpersiangames.github.io">گیت‌هاب</a>. برای مشارکت در توسعه‌ی این وب‌سایت، از گیت‌هاب اقدام کنید. همچنین می‌تونید با تلگرام مدیر وبسایت، <span dir="ltr"><a href="https://t.me/alihardan">@alihardan</a></span> در تماس باشید.</p>
     </footer>
   </body>
 </html>
