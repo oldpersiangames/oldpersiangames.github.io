@@ -1,29 +1,320 @@
 - title: "The Sum of All Fears"
   titlefa: "اسلحه مرگبار"
-  dubbedby: novinpendar
+  game_type: dubbed
+  producer: novinpendar
+  publisher: novinpendar
+  guidebook: "ندارد"
   status: uploaded
-  file_type: iso
+  file_type: image
 
 - title: "Return to Castle Wolfenstein"
-  titlefa: "بازگشت به قلعه ولفنشتاين"
-  dubbedby: novinpendar
+  titlefa: "بازگشت به قلعه ولفنشتاین"
+  game_type: dubbed
+  producer: novinpendar
+  guidebook: "PDF"
+  publisher: "novinpendar"
   release_date: "تابستان ۱۳۸۱"
   status: uploaded
-  file_type: iso
-  
+  file_type: image
+
+- title: "Peter Pan in Disney's Return to Never Land"
+  titlefa: "پیترپن - بازگشت به سرزمین رویاها"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "Sid Meier's Civilization IV"
+  titlefa: "تمدن 4"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Clive Barker's Undying"
+  titlefa: "روئین تن"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Soul Reaver 2"
+  titlefa: "روح ربای 2"
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "PDF"
+  status: uploaded
+  file_type: image
+  notes: "این بازی به فارسی دوبله نشده و فقط کتابچه‌ی راهنما برای آن تهیه شده است."
+
+- title: "Serious Sam: The First Encounter"
+  titlefa: "سام ماجراجو - ماموریت در اهرام مصر"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "ندارد"
+  status: uploaded
+  file_type: image
+
+- title: "Serious Sam: The Second Encounter"
+  titlefa: "سام ماجراجو - ماموریت در پرسپولیس"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "ندارد"
+  status: uploaded
+  file_type: image
+
+- title: "Counter Strike 1.6"
+  titlefa: "کانتر استرایک 1.8"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Soldiers: Heroes of World War II"
+  titlefa: "سربازان قهرمانان جنگ جهانی دوم"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Delta Ops: Army Special Forces"
+  titlefa: "عملیات دلتا"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Tom Clancy's Ghost Recon: Desert Siege"
+  titlefa: "عملیات صحرا - گروه ضربت 2"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "Flanker 2.5"
+  titlefa: "فلنکر 2.5"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Commandos 2: Men of Courage"
+  titlefa: "کماندوها 3 - دلاوران جنگ"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "Commandos 3: Destination Berlin"
+  titlefa: "کماندوها 4 - فتح برلین"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Red Faction"
+  titlefa: "گروه سرخ"
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+  notes: "این بازی به فارسی دوبله نشده و فقط کتابچه‌ی راهنما برای آن تهیه شده است."
+
+- title: "Tom Clancy's Ghost Recon"
+  titlefa: "گروه ضربت"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "The Operative: No One Lives Forever"
+  titlefa: "مامور مخفی 1 - کیت آرچر"
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+  notes: "این بازی به فارسی دوبله نشده و فقط کتابچه‌ی راهنما برای آن تهیه شده است."
+
+- title: "No One Lives Forever 2: A Spy in H.A.R.M.'s Way"
+  titlefa: "مامور مخفی 2 - کیت آرچر"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "NASCAR Racing 2003 Season"
+  titlefa: "مسابقات اتومبیلرانی نسکار"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Max Payne"
+  titlefa: "مکس پین 1"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+  notes: "صداهای این بازی به فارسی برگردانده نشده است. نوشته‌های میان‌پرده‌ها به فارسی برگردانده شده و کتابچه‌ی راهنمای فارسی برای بازی تهیه شده است."
+
+- title: "IL-2 Sturmovik"
+  titlefa: "نبرد هوایی 1"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "IL-2 Sturmovik: Forgotten Battles"
+  titlefa: "نبرد هوایی 2"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Medieval: Total War - Viking Invasion"
+  titlefa: "نبردهای قرون وسطی"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Call of Duty 2"
+  titlefa: "ندای وظیفه 2"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: novinpendar
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Dungeon Siege"
+  titlefa: "نفرین شدگان"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: PDF
+  status: uploaded
+  file_type: image
+
+- title: "Hugo: The Evil Mirror"
+  titlefa: "هوگو و آئینه جادویی"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: uploaded
+  file_type: image
+
+- title: "Command & Conquer: Renegade"
+  titlefa: "ویرانگر"
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "PDF"
+  status: uploaded
+  file_type: image
+  notes: "این بازی به فارسی دوبله نشده و فقط میان‌پرده‌های بازی زیرنویس‌گذاری شده‌اند و کتابچه‌ی راهنمای فارسی تهیه شده است."
+
+
+- title: "F.E.A.R. First Encounter Assault Recon"
+  titlefa: "وحشت"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  guidebook: "چاپی (مفقود)"
+  status: lost
+
+- title: "Commandos: Strike Force"
+  titlefa: "کماندوها 5 - گروه ضربت"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  status: lost
+
+- title: "Serious Sam 2"
+  titlefa: "سام ماجراجو 2"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  status: lost
+
 - title: "Half-Life 2"
-  titlefa: "نیمه‌جان ۲"
-  dubbedby: novinpendar
+  titlefa: "نیمه جان 2"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  release_date: "تابستان ۱۳۸۴"
+  status: lost
+
+- title: "Flight Simulator 2004"
+  titlefa: "شبیه ساز پرواز"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
+  status: lost
+
+- title: "Land of the Dead: Road to Fiddler's Green"
+  titlefa: "سرزمین مردگان"
+  game_type: dubbed
+  producer: novinpendar
+  publisher: "novinpendar"
   status: lost
 
 - title: "Grand Theft Auto: Vice City"
   titlefa: "اتومبیل‌دزدی بزرگ: وایس سیتی"
-  dubbedby: "پارس گیم"
+  game_type: dubbed
+  producer: "پارس گیم"
   status: available
-  file_type: iso
+  file_type: image
   
 - title: "True Crime: Streets of LA"
   titlefa: "جنایت واقعی: خیابان‌های لس آنجلس"
-  dubbedby: "نامعلوم"
+  game_type: dubbed
+  producer: "نامعلوم"
   status: uploaded
   file_type: preinstalled
+
+- title: "Alavi Animator"
+  titlefa: "کارآگاه علوی"
+  game_type: iranian
+  producer: "اندیشه وران"
+  publisher: "novinpendar"
+  status: uploaded
+  file_type: image

@@ -9,7 +9,59 @@
     {%- seo -%}
     <link href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/vazir-font@24.1.0/dist/font-face.css" rel="stylesheet" type="text/css" />
-    <link href="/style.css?u1" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <link href="/style.css" rel="stylesheet" type="text/css" />
+    <script>
+$(document).ready(function() {
+    var table = $('#games').DataTable({
+        "responsive": {
+            details: {
+                type: 'column',
+                renderer: function(api, rowIdx, columns) {
+                    var data = $.map(columns, function(col, i) {
+                        return col.hidden ?
+                            '<tr data-dt-row="' + col.rowIndex + '" data-dt-column="' + col.columnIndex + '">' +
+                            '<td>' + col.title + ':' + '</td> ' +
+                            '<td>' + col.data + '</td>' +
+                            '</tr>' :
+                            '';
+                    }).join('');
+
+                    return data ?
+                        $('<table/>').append(data) :
+                        false;
+                }
+
+            }
+        },
+        columnDefs: [{
+            className: 'control',
+            orderable: false,
+            targets: 0
+        }],
+        order: [3, 'asc'],
+        "lengthMenu": [100, 200, 500],
+        "pageLength": 100,
+        "lengthChange": false,
+        "language": {
+            "url": "https://cdn.datatables.net/plug-ins/1.10.20/i18n/Persian.json"
+        }
+    });
+
+    $('#btn-show-all-children').on('click', function() {
+        table.rows(':not(.parent)').nodes().to$().find('td:first-child').trigger('click');
+    });
+
+    $('#btn-hide-all-children').on('click', function() {
+        table.rows('.parent').nodes().to$().find('td:first-child').trigger('click');
+    });
+
+});
+    </script>
   </head>
   <body>
     <header>
@@ -35,34 +87,50 @@
       <h1>لیست بازی‌های فارسی</h1>
       <div class="content">
       <p>تلاش می‌کنیم در اینجا لیست کاملی از بازی‌های دوبله به فارسی و بازی‌های ایرانی ارائه بدیم. در این لیست، مشخص شده که «چه بازی‌هایی در گروه آپلود شدن»، و «چه بازی‌هایی موجود و قابل دستیابی هستن اما هنوز آپلود نشدن»، و «چه بازی‌هایی مفقود و گمشده هستن»...</p>
-      <table>
+
+<button id="btn-show-all-children" type="button">نمایش همه‌ی جزئیات</button>
+<button id="btn-hide-all-children" type="button">مخفی کردن همه‌ی جزئیات</button>
+<hr>
+      <table class="display" id="games" style="width:100%">
           <thead>
           <tr>
-            <th>عنوان</th>
-            <th>عنوان فارسی</th>
-            <th>دوبله</th>
-            <th>نوع فایل</th>
-            <td>وضعیت</td>
+            <th></th>
+            <th data-priority="3">عنوان انگلیسی</th>
+            <th data-priority="1">عنوان فارسی</th>
+            <th data-priority="2">تولید کننده</th>
+            <th class="none">ناشر</th>
+            <th class="none">کتابچه راهنما</th>
+            <th class="none">نوع فایل</th>
+            <th>نوع محصول</th>
+            <th class="none">تاریخ انتشار</th>
+            <td data-priority="4">وضعیت</td>
+            <th class="none">ملاحظات</th>
           </tr>
           </thead>
           <tbody>
       {% assign games = site.data.games %}
       {% for game in games %}
       <tr class="{{ game.status }}">
-      <td>{{ game.title }}&nbsp;</td>
+      <td></td>
+      <td dir="ltr">{{ game.title }}&nbsp;</td>
       <td>{{ game.titlefa }}&nbsp;</td>
-      <td>{% include companynames.html content=game.dubbedby %}&nbsp;</td>
+      <td>{% include companynames.html content=game.producer %}&nbsp;</td>
+      <td>{% include companynames.html content=game.publisher %}&nbsp;</td>
+      <td>{{ game.guidebook }}</td>
       <td>{% include file_type.html content=game.file_type %}&nbsp;</td>
+      <td>{% include game_type.html content=game.game_type %}&nbsp;</td>
+      <td>{{ game.release_date }}</td>
       <td>{% include status.html content=game.status %}&nbsp;</td>
+      <td>{{ game.notes }}</td>
       </tr>
       {% endfor %}
       </tbody>
         </table>
-        <p>در حال حاضر لیست فوق بسیار ناقص هست. </p>
+        <p>در حال حاضر لیست فوق بسیار ناقص هست؛ برای مشارکت در تکمیل این لیست، <a href="https://github.com/oldpersiangames/oldpersiangames.github.io/blob/master/_data/games.yml" target="_blank">اینجا کلیک کنید</a>.</p>
       </div>
     </section>
     <footer>
-      <p>آخرین بروزرسانی سایت: ۴ اردیبهشت ۱۳۹۹</p>
+      <p>آخرین بروزرسانی سایت: ۱۵ اردیبهشت ۱۳۹۹</p>
       <p>میزبانی در <a href="https://github.com/oldpersiangames/oldpersiangames.github.io">گیت‌هاب</a>. برای مشارکت در توسعه‌ی این وب‌سایت، از گیت‌هاب اقدام کنید. همچنین می‌تونید با تلگرام مدیر وبسایت، <span dir="ltr"><a href="https://t.me/alihardan">@alihardan</a></span> در تماس باشید.</p>
     </footer>
   </body>
