@@ -1,0 +1,159 @@
+body {
+  font-family: 'Vazir', sans-serif;
+  color: #2d2b31;
+  line-height: 1.5;
+}
+
+.ltr { direction:ltr }
+
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+figure {
+  text-align: center;
+}
+
+figure figcaption {
+  font-weight: bold;
+}
+
+header {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  overflow: auto;
+  /* look at: https://stackoverflow.com/questions/20689575/css-margin-top-of-h1-affects-parents-margin */
+}
+
+footer {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+footer p {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header h1 {
+  font-size: 1.5em;
+}
+
+header h1 a:link,
+header h1 a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+section {
+  overflow: auto;
+}
+
+section#about {
+  background: #f5f4f0;
+}
+
+section#list {
+  background: #f5f4f0;
+}
+
+section .content {
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+section .content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+section p {
+  text-align: justify;
+}
+
+section h1 {
+  text-align: center;
+}
+
+.invite {
+  padding: 5px 0;
+  background: green;
+  text-align: center;
+  font-weight: bold;
+  color: #fff
+}
+
+.invite a:link,
+.invite a:hover,
+.invite a:visited,
+.invite a:active {
+  color: #FFE4C4;
+}
+
+ul.tableguide {
+  list-style-type: '☜ ';
+  list-style-position: inside;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #000;
+  clear: both;
+  text-align: justify;
+}
+
+ul.tableguide li {
+  padding: 5px;
+}
+
+ul.tableguide li:nth-child(1) {
+  background: pink;
+}
+
+ul.tableguide li:nth-child(2) {
+  background: Wheat;
+}
+
+ul.tableguide li::marker {
+  font-weight: bold;
+  color: #000;
+}
+
+#games .child {
+  background: none !important;
+}
+
+#games .child table {
+  width: 100%;
+}
+
+#games .child table td:nth-child(1) {
+  font-weight:bold;width:1%;white-space:nowrap
+}
+
+#games .lost, #games .lost td {
+  background: pink;
+}
+
+#games .incomplete, #games .incomplete td {
+  background: Wheat;
+}
+
+#games td img {max-width:100%;max-height:300px}
