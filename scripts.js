@@ -171,6 +171,9 @@ $(document).ready(function() {
     var table = $('#games').DataTable({
         "ajax": "games.json",
         "deferRender": false,
+        drawCallback: function () {
+          $( 'a.paginate_button', this.api().table().container() ).attr('href', '#!');
+        },
         "columns": [{
                 className: 'control',
                 orderable: false
