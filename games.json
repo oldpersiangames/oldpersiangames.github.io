@@ -349,7 +349,9 @@
     "producer": "novinpendar",
     "publisher": "novinpendar",
     "release_date": "تابستان ۱۳۸۴",
-    "status": "lost"
+    "guidebook": "چاپی (اسکن و آپلود شد)",
+    "status": "uploaded",
+    "file_type": "image"
   },
   {
     "title": "Flight Simulator 2004",
