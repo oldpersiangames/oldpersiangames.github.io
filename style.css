@@ -99,7 +99,8 @@ section h1 {
   background: green;
   text-align: center;
   font-weight: bold;
-  color: #fff
+  color: #fff;
+  margin: 0 0 5px 0;
 }
 
 .invite a:link,
@@ -107,6 +108,19 @@ section h1 {
 .invite a:visited,
 .invite a:active {
   color: #FFE4C4;
+}
+
+.admin {
+  text-align: center;
+  font-size:0.7em;
+  margin: 0;
+}
+
+.admin a:link,
+.admin a:hover,
+.admin a:visited,
+.admin a:active {
+  color: #666;
 }
 
 ul.tableguide {
