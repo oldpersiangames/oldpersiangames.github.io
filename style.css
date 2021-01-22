@@ -35,7 +35,7 @@ header {
   background-color: #1a222c;
   color: #fff;
   text-align: center;
-  overflow: auto;
+  overflow: hidden;
   /* look at: https://stackoverflow.com/questions/20689575/css-margin-top-of-h1-affects-parents-margin */
 }
 
@@ -46,7 +46,7 @@ footer {
   padding: 10px 0;
 }
 footer p {
-  max-width: 500px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -65,7 +65,7 @@ header h1 a:visited {
 }
 
 section {
-  overflow: auto;
+  overflow: hidden;
 }
 
 section#about {
@@ -102,7 +102,9 @@ section h1 {
   color: #fff;
   margin: 0 0 5px 0;
 }
-
+.admin span[dir="ltr"], .invite span[dir="ltr"], footer span[dir="ltr"] {
+  font-family: serif;
+}
 .invite a:link,
 .invite a:hover,
 .invite a:visited,
