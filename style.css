@@ -100,7 +100,7 @@ section h1 {
   text-align: center;
   font-weight: bold;
   color: #fff;
-  margin: 0 0 5px 0;
+  margin: 0;
 }
 .admin span[dir="ltr"], .invite span[dir="ltr"], footer span[dir="ltr"] {
   font-family: serif;
@@ -109,12 +109,14 @@ section h1 {
 .invite a:hover,
 .invite a:visited,
 .invite a:active {
-  color: #FFE4C4;
+  color: SpringGreen;
 }
 
 .admin {
   text-align: center;
   font-size:0.7em;
+  padding: 2px 0;
+  background: wheat;
   margin: 0;
 }
 
@@ -122,7 +124,8 @@ section h1 {
 .admin a:hover,
 .admin a:visited,
 .admin a:active {
-  color: #666;
+  color: Sienna;
+  font-weight:bold;
 }
 
 ul.tableguide {
