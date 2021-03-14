@@ -114,36 +114,13 @@ input[type=submit]:hover {
     width: 100%;
 }
 </style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Include base CSS (optional) -->
-<!--link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/base.min.css"
-/-->
-<!-- Include Choices CSS -->
 <link
   rel="stylesheet"
   href="choices.min.css"
 />
-<!-- Include Choices JavaScript (latest) -->
 <script src="choices.min.js"></script>
 <script src="jszip.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+<!-- script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script -->
 
 
 
@@ -172,9 +149,29 @@ function string_to_slug (str) {
     function sendData() {
       //const FD = new FormData( form );console.log(JSON.stringify(Object.fromEntries(FD)));console.log(FD.get("title"));
       var formElement = document.getElementById( "form" );
+      //console.log(formElement.querySelector("[name='title']"))
+      titleInput = formElement.querySelector("[name='title']");
+      var title = titleInput.value.split(",").filter(o=>o);
+      if(titleInput.nextElementSibling.nextElementSibling.value) {
+        title.push(titleInput.nextElementSibling.nextElementSibling.value);
+      }
+
+      titlefaInput = formElement.querySelector("[name='titlefa']");
+      var titlefa = titlefaInput.value.split(",").filter(o=>o);
+      if(titlefaInput.nextElementSibling.nextElementSibling.value) {
+        titlefa.push(titlefaInput.nextElementSibling.nextElementSibling.value);
+      }
+
+      defectsInput = formElement.querySelector("[name='defects']");
+      var defects = defectsInput.value.split(",").filter(o=>o);
+      if(defectsInput.nextElementSibling.nextElementSibling.value) {
+        defects.push(defectsInput.nextElementSibling.nextElementSibling.value);
+      }
+
+      
       var result = {
-        "title": formElement.querySelector("[name='title']").value.split(",").filter(o=>o),
-        "titlefa": formElement.querySelector("[name='titlefa']").value.split(",").filter(o=>o),
+        "title": title,
+        "titlefa": titlefa,
         "hashtags": "",
         "producer": Array.from(formElement.querySelector("[name='producer']").selectedOptions).map(option => option.value),
         "publisher": Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value),
@@ -182,7 +179,7 @@ function string_to_slug (str) {
         "release_date": [{"date": formElement.querySelector("[name='release_date']").value, "ref": formElement.querySelector("[name='release_date_ref']").value}],
         "released_on": [formElement.querySelector("[name='released_on']").value],
         "no_of_discs": [formElement.querySelector("[name='no_of_discs']").value*1],
-        "defects": formElement.querySelector("[name='defects']").value.split(",").filter(o=>o),
+        "defects": defects,
         "dubbed": formElement.querySelector("[name='dubbed']").checked,
         "subtitle": formElement.querySelector("[name='subtitle']").checked,
         "iraniangame": formElement.querySelector("[name='iraniangame']").checked,
