@@ -9,7 +9,7 @@
       .choices > * {
         box-sizing: border-box;
       }
-input:not([type="submit"]):not([type="checkbox"]):not([type="file"]):not(.choices__input), select:not(.photo_title), textarea {
+input:not([type="button"]):not([type="checkbox"]):not([type="file"]):not(.choices__input), select:not(.photo_title), textarea {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -28,7 +28,7 @@ input:not([type="submit"]):not([type="checkbox"]):not([type="file"]):not(.choice
 input[type=file] {
   display: none;
 }
-input[type=submit] {
+input[type=button] {
   width: 100%;
   background-color: #4CAF50;
   color: white;
@@ -150,6 +150,115 @@ input[type=submit]:hover {
 
 <script type="text/javascript">
   
+
+    function sendData() {
+      //const FD = new FormData( form );console.log(JSON.stringify(Object.fromEntries(FD)));console.log(FD.get("title"));
+      var formElement = document.getElementById( "form" );
+      var result = {
+        "title": formElement.querySelector("[name='title']").value.split(",").filter(o=>o),
+        "titlefa": formElement.querySelector("[name='titlefa']").value.split(",").filter(o=>o),
+        "hashtags": "",
+        "producer": Array.from(formElement.querySelector("[name='producer']").selectedOptions).map(option => option.value),
+        "publisher": Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value),
+        "price": [formElement.querySelector("[name='price']").value*10],
+        "release_date": [{"date": formElement.querySelector("[name='release_date']").value, "ref": formElement.querySelector("[name='release_date_ref']").value}],
+        "released_on": [formElement.querySelector("[name='released_on']").value],
+        "no_of_discs": [formElement.querySelector("[name='no_of_discs']").value*1],
+        "defects": formElement.querySelector("[name='defects']").value.split(",").filter(o=>o),
+        "dubbed": formElement.querySelector("[name='dubbed']").checked,
+        "subtitle": formElement.querySelector("[name='subtitle']").checked,
+        "iraniangame": formElement.querySelector("[name='iraniangame']").checked,
+        "selling": formElement.querySelector("[name='selling']").checked
+      };
+      if(!formElement.querySelector("[name='manual']").checked) {
+        result["manual"] = false;
+      } else {
+        result["manual"] = [{
+          "release_type": "printed",
+          "no_of_pages": 0,
+          "files": JSON.parse("["+formElement.querySelector("[name='manual_files']").value+"]")
+        }];
+      }
+      result["files"] = JSON.parse("["+formElement.querySelector("[name='files']").value+"]");
+      result["links"] = [];
+      formElement.querySelector("[name='links']").value.split(",").filter(o=>o).forEach(function myFunction(item, index) {
+        result["links"].push({"title": item, "url": document.getElementById("link_"+item).value})
+      });
+      result["contributors"] = [];
+      Array.from(formElement.querySelector("[name='contributors']").selectedOptions).map(option => option.value).forEach(function myFunction(item, index) {
+        result["contributors"].push({"username": item, "contribute": Array.from(document.getElementById("user_"+item).selectedOptions).map(option => option.value)})
+      });
+      result["photos"] = [];
+
+
+  var zip = new JSZip();
+  var photos = zip.folder("photos");
+
+  var c = document.createElement("canvas");
+  var ctx = c.getContext("2d");
+
+  var photoschildren = document.getElementById("photos").children;
+  for (var i = 0; i < photoschildren.length; i++) {
+    var child = photoschildren[i];
+    var filename = Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(formElement.querySelector("[name='title']").value.split(",")[0])+"-"+i.toString()+".jpg";
+    result["photos"].push({"title": child.querySelector(".photo_title").value, "path": filename, "rebuilt": child.querySelector("[name='rebuilt']").checked});
+    var img = child.querySelector("img");
+    if(img.naturalWidth > 1280 || img.naturalHeight > 1280) {
+      if(img.naturalWidth > img.naturalHeight) {
+        c.width = 1280;
+        c.height = 1280*img.naturalHeight/img.naturalWidth;
+      } else {
+        c.height = 1280;
+        c.width = 1280*img.naturalWidth/img.naturalHeight;
+      }
+    } else {
+      c.width = img.naturalWidth;
+      c.height = img.naturalHeight;
+    }
+    ctx.drawImage(img, 0, 0, c.width, c.height);
+    photos.file(filename, c.toDataURL("image/jpeg", 0.8).split(",")[1], {base64: true});
+    //document.getElementById('output').value=imgData;
+  }
+  zip.file("details.json", JSON.stringify(result, null, 2));
+
+
+
+zip.generateAsync({type:"blob"})
+.then(function(content) {
+  //saveAs(content, "example.zip");
+
+  var formData = new FormData();
+
+  formData.append("ajib", content, "ajib.zip");
+  formData.append("details", JSON.stringify(result, null, 2));
+
+  var xhr = new XMLHttpRequest();
+  xhr.open('POST', "https://opg-submit.herokuapp.com/", true);
+  xhr.onload = function(e) {
+    //console.log(xhr.response);
+    if(xhr.status!=200) {
+      xhr.onerror(e);
+    } else {
+      document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkgreen;padding:5px'>ثبت شد.</span>";
+    }
+  };
+  xhr.onerror = function(e) {
+    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>خطایی پیش اومده.</span>";
+  };
+  xhr.ontimeout = function(e) {
+    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>پاسخی از سرور دریافت نشد.</span>";
+  };
+  document.getElementById("result").innerHTML = "در حال ارسال اطلاعات...";
+  xhr.send(formData);  // multipart/form-data
+
+});
+      
+    }
+    
+
+
+
+
 window.onload = function() {
   //Check File API support
   if (window.File && window.FileList && window.FileReader) {
@@ -209,120 +318,6 @@ function string_to_slug (str) {
     return str;
 }
 
-
-
-    function sendData() {
-      //const FD = new FormData( form );console.log(JSON.stringify(Object.fromEntries(FD)));console.log(FD.get("title"));
-      var formElement = document.forms['form'];
-      var result = {
-        "title": formElement.elements['title'].value.split(",").filter(o=>o),
-        "titlefa": formElement.elements['titlefa'].value.split(",").filter(o=>o),
-        "hashtags": "",
-        "producer": Array.from(formElement.elements['producer'].selectedOptions).map(option => option.value),
-        "publisher": Array.from(formElement.elements['publisher'].selectedOptions).map(option => option.value),
-        "price": [formElement.elements['price'].value*10],
-        "release_date": [{"date": formElement.elements['release_date'].value, "ref": formElement.elements['release_date_ref'].value}],
-        "released_on": [formElement.elements['released_on'].value],
-        "no_of_discs": [formElement.elements['no_of_discs'].value*1],
-        "defects": formElement.elements['defects'].value.split(",").filter(o=>o),
-        "dubbed": formElement.elements['dubbed'].checked,
-        "subtitle": formElement.elements['subtitle'].checked,
-        "iraniangame": formElement.elements['iraniangame'].checked,
-        "selling": formElement.elements['selling'].checked
-      };
-      if(!formElement.elements['manual'].checked) {
-        result["manual"] = false;
-      } else {
-        result["manual"] = [{
-          "release_type": "printed",
-          "no_of_pages": 0,
-          "files": JSON.parse("["+formElement.elements['manual_files'].value+"]")
-        }];
-      }
-      result["files"] = JSON.parse("["+formElement.elements['files'].value+"]");
-      result["links"] = [];
-      formElement.elements['links'].value.split(",").filter(o=>o).forEach(function myFunction(item, index) {
-        result["links"].push({"title": item, "url": document.getElementById("link_"+item).value})
-      });
-      result["contributors"] = [];
-      Array.from(formElement.elements['contributors'].selectedOptions).map(option => option.value).forEach(function myFunction(item, index) {
-        result["contributors"].push({"username": item, "contribute": Array.from(document.getElementById("user_"+item).selectedOptions).map(option => option.value)})
-      });
-      result["photos"] = [];
-
-
-  var zip = new JSZip();
-  var photos = zip.folder("photos");
-
-  var c = document.createElement("canvas");
-  var ctx = c.getContext("2d");
-
-  var photoschildren = document.getElementById("photos").children;
-  for (var i = 0; i < photoschildren.length; i++) {
-    var child = photoschildren[i];
-    var filename = Array.from(formElement.elements['publisher'].selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(formElement.elements['title'].value.split(",")[0])+"-"+i.toString()+".jpg";
-    result["photos"].push({"title": child.querySelector(".photo_title").value, "path": filename, "rebuilt": child.querySelector("[name='rebuilt']").checked});
-    var img = child.querySelector("img");
-    if(img.naturalWidth > 1280 || img.naturalHeight > 1280) {
-      if(img.naturalWidth > img.naturalHeight) {
-        c.width = 1280;
-        c.height = 1280*img.naturalHeight/img.naturalWidth;
-      } else {
-        c.height = 1280;
-        c.width = 1280*img.naturalWidth/img.naturalHeight;
-      }
-    } else {
-      c.width = img.naturalWidth;
-      c.height = img.naturalHeight;
-    }
-    ctx.drawImage(img, 0, 0, c.width, c.height);
-    photos.file(filename, c.toDataURL("image/jpeg", 0.8).split(",")[1], {base64: true});
-    //document.getElementById('output').value=imgData;
-  }
-  zip.file("details.json", JSON.stringify(result, null, 2));
-
-
-
-zip.generateAsync({type:"blob"})
-.then(function(content) {
-  //saveAs(content, "example.zip");
-
-  var formData = new FormData();
-
-  formData.append("ajib", content, "ajib.zip");
-  formData.append("details", JSON.stringify(result, null, 2));
-
-  var xhr = new XMLHttpRequest();
-  xhr.open('POST', "https://opg-submit.herokuapp.com/", true);
-  xhr.onload = function(e) {
-    //console.log(xhr.response);
-    if(xhr.status!=200) {
-      xhr.onerror(e);
-    } else {
-      document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkgreen;padding:5px'>ثبت شد.</span>";
-    }
-  };
-  xhr.onerror = function(e) {
-    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>خطایی پیش اومده.</span>";
-  };
-  xhr.ontimeout = function(e) {
-    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>پاسخی از سرور دریافت نشد.</span>";
-  };
-  document.getElementById("result").innerHTML = "در حال ارسال اطلاعات...";
-  xhr.send(formData);  // multipart/form-data
-
-});
-      
-    }
-
-    // Access the form element...
-    const form = document.getElementById( "form" );
-
-    // ...and take over its submit event.
-    form.addEventListener( "submit", function ( event ) {
-      event.preventDefault();
-      sendData();
-    } );
 }
 
 </script>
@@ -332,7 +327,7 @@ zip.generateAsync({type:"blob"})
 <div class="section">
 <h3>ثبت مشخصات بازی</h3>
 
-  <form id="form">
+  <div id="form">
   <label for='photos_input' class="photos-upload">آپلود تصاویر کاور</label>
   <input id='photos_input' type='file' accept="image/*" autocomplete="off" multiple>
  
@@ -464,14 +459,14 @@ zip.generateAsync({type:"blob"})
 
     <div style="text-align:center;font-weight:bold" id="result"></div>
 
-    <input type="submit" value="ارسال">
+    <input type="button" onclick="return sendData()" value="ارسال">
 
     <label for="files">مشخصات فایل‌ها <small>(این بخش رو خودم پر می‌کنم. خالی بذارید.)</small></label>
     <textarea id="files" name="files" dir="ltr"></textarea>
 
     <label for="manual_files">مشخصات فایل‌های کتابچه <small>(این بخش رو خودم پر می‌کنم. خالی بذارید.)</small></label>
     <textarea id="manual_files" name="manual_files" dir="ltr"></textarea>
-  </form>
+  </div>
 
 <script type="text/javascript">
   
