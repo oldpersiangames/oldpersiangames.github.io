@@ -68,9 +68,11 @@ input[type=submit]:hover {
 #photos {
   
 }
+.img-parent {
+  display: inline-block;
+}
 .img-wrap {
     position: relative;
-    display: inline-block;
 }
 .img-wrap .remove {
     background: #fff;
@@ -83,7 +85,7 @@ input[type=submit]:hover {
 .img-wrap .move-left {
     background: #fff;
     position: absolute;
-    top: 2px;
+    bottom: 2px;
     left: 2px;
     z-index: 100;
     cursor: pointer;
@@ -91,7 +93,7 @@ input[type=submit]:hover {
 .img-wrap .move-right {
     background: #fff;
     position: absolute;
-    top: 2px;
+    bottom: 2px;
     left: 16px;
     z-index: 100;
     cursor: pointer;
@@ -164,9 +166,9 @@ window.onload = function() {
         picReader.addEventListener("load", function(event) {
           var picFile = event.target;
           var div = document.createElement("div");
-          div.setAttribute("class", "img-wrap");
-          div.innerHTML = "<span class='remove' onclick='return this.parentNode.remove();'>&times;</span><span class='move-left' onclick='this.parentNode.parentNode.insertBefore(this.parentNode, this.parentNode.previousElementSibling);'><</span><span class='move-right' onclick='if(this.parentNode.nextElementSibling){refNode=this.parentNode.nextElementSibling.nextElementSibling}else{refNode=this.parentNode.parentNode.firstElementChild}this.parentNode.parentNode.insertBefore(this.parentNode, refNode);'>></span><img class='thumbnail' src='" + picFile.result + "'" +
-            "title='" + picFile.name + "'/><div dir='rtl'><select class='photo_title' style='width:100%'><option value='Front Cover'>کاور: رو</option><option value='Back Cover'>کاور: پشت</option><option value='Media: Disc'>محتوا: دیسک</option><option value='Manual Front'>کتابچه: رو</option></select><br><label><input type='checkbox' name='rebuilt' value='true'>بازسازی</label></div>";
+          div.setAttribute("class", "img-parent");
+          div.innerHTML = "<div class='img-wrap'><span class='remove' onclick='imgParent=this.parentNode.parentNode;return imgParent.remove();'>&times;</span><span class='move-left' onclick='imgParent=this.parentNode.parentNode;imgParent.parentNode.insertBefore(imgParent, imgParent.previousElementSibling);'><</span><span class='move-right' onclick='imgParent=this.parentNode.parentNode;if(imgParent.nextElementSibling){refNode=imgParent.nextElementSibling.nextElementSibling}else{refNode=imgParent.parentNode.firstElementChild}imgParent.parentNode.insertBefore(imgParent, refNode);'>></span><img class='thumbnail' src='" + picFile.result + "'" +
+            "title='" + picFile.name + "'/></div><div dir='rtl'><select class='photo_title' style='width:100%'><option value='Front Cover'>کاور: رو</option><option value='Back Cover'>کاور: پشت</option><option value='Media: Disc'>محتوا: دیسک</option><option value='Manual Front'>کتابچه: رو</option></select><br><label><input type='checkbox' name='rebuilt' value='true'>بازسازی</label></div>";
           output.appendChild(div);
         });
         //Read the image
