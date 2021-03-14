@@ -244,7 +244,7 @@ zip.generateAsync({type:"blob"})
 
   var formData = new FormData();
 
-  formData.append("ajib", content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(formElement.querySelector("[name='title']").value.split(",")[0])+".zip");
+  formData.append("ajib", content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
   //formData.append("details", JSON.stringify(result, null, 2));
 
   var xhr = new XMLHttpRequest();
