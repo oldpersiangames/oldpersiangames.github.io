@@ -215,7 +215,7 @@ function string_to_slug (str) {
   var photoschildren = document.getElementById("photos").children;
   for (var i = 0; i < photoschildren.length; i++) {
     var child = photoschildren[i];
-    var filename = Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(formElement.querySelector("[name='title']").value.split(",")[0])+"-"+i.toString()+".jpg";
+    var filename = Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+"-"+i.toString()+".jpg";
     result["photos"].push({"title": child.querySelector(".photo_title").value, "path": filename, "rebuilt": child.querySelector("[name='rebuilt']").checked});
     var img = child.querySelector("img");
     if(img.naturalWidth > 1280 || img.naturalHeight > 1280) {
