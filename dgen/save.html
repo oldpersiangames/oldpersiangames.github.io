@@ -120,7 +120,7 @@ input[type=submit]:hover {
 />
 <script src="choices.min.js"></script>
 <script src="jszip.min.js"></script>
-<!-- script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script -->
+<script src="FileSaver.min.js"></script>
 
 
 
@@ -240,9 +240,9 @@ function string_to_slug (str) {
 
 zip.generateAsync({type:"blob"})
 .then(function(content) {
-  //saveAs(content, "example.zip");
+  saveAs(content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
 
-  var formData = new FormData();
+  /*var formData = new FormData();
 
   formData.append("ajib", content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
   //formData.append("details", JSON.stringify(result, null, 2));
@@ -264,7 +264,7 @@ zip.generateAsync({type:"blob"})
     document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>پاسخی از سرور دریافت نشد.</span>";
   };
   document.getElementById("result").innerHTML = "در حال ارسال اطلاعات...";
-  xhr.send(formData);  // multipart/form-data
+  xhr.send(formData);  // multipart/form-data*/
 
 });
       
