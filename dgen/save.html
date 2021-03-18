@@ -292,7 +292,7 @@ window.onload = function() {
           var div = document.createElement("div");
           div.setAttribute("class", "img-parent");
           div.innerHTML = "<div class='img-wrap'><span class='remove' onclick='imgParent=this.parentNode.parentNode;return imgParent.remove();'>&times;</span><span class='move-left' onclick='imgParent=this.parentNode.parentNode;imgParent.parentNode.insertBefore(imgParent, imgParent.previousElementSibling);'><</span><span class='move-right' onclick='imgParent=this.parentNode.parentNode;if(imgParent.nextElementSibling){refNode=imgParent.nextElementSibling.nextElementSibling}else{refNode=imgParent.parentNode.firstElementChild}imgParent.parentNode.insertBefore(imgParent, refNode);'>></span><img class='thumbnail' src='" + picFile.result + "'" +
-            "title='" + picFile.name + "'/></div><div dir='rtl'><select class='photo_title' style='width:100%'><option value='Front Cover'>کاور: رو</option><option value='Back Cover'>کاور: پشت</option><option value='Media: Disc'>محتوا: دیسک</option><option value='Manual Front'>کتابچه: رو</option></select><br><label><input type='checkbox' name='rebuilt' value='true'>بازسازی</label></div>";
+            "title='" + picFile.name + "'/></div><div dir='rtl'><select class='photo_title' style='width:100%'><option value='Front Cover'>کاور: رو</option><option value='Back Cover'>کاور: پشت</option><option value='Media: Disc'>محتوا: دیسک</option><option value='Manual Front'>کتابچه: رو</option><option value='Autorun'>آتوران</option><option value='Setup'>ستاپ</option></select><br><label><input type='checkbox' name='rebuilt' value='true'>بازسازی</label></div>";
           output.appendChild(div);
         });
         //Read the image

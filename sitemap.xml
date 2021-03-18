@@ -300,7 +300,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/medieval-total-war-viking-invasion-novinpendar/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/novinpendar/medieval-total-war-1.png</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/novinpendar/medieval-total-war-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -774,6 +774,61 @@
             <loc>https://oldpersiangames.github.io/games/spider-man-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/roga-novin-spider-man-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/serious-sam-the-first-encounter-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-serious-sam-the-first-encounter-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/die-hard-nakatomi-plaza-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-die-hard-nakatomi-plaza-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/half-life-opposing-force-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-half-life-opposing-force-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/call-of-duty-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-call-of-duty-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/syberia-ii-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-syberia-ii-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
