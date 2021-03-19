@@ -377,7 +377,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/commandos-strike-force-novinpendar/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/novinpendar/commandos-strike-force-1.jpg</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/novinpendar-commandos-strike-force-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -829,6 +829,28 @@
             <loc>https://oldpersiangames.github.io/games/syberia-ii-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/darinoos-syberia-ii-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/warcraft-iii-the-frozen-throne-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-warcraft-iii-the-frozen-throne-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/dracula-origin-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-dracula-origin-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
