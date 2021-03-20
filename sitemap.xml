@@ -859,6 +859,83 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/fifa-09-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-fifa-09-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/murder-in-the-streets-of-tehran-1312-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-murder-in-the-streets-of-tehran-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/pure-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-pure-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/terminator-salvation-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-terminator-salvation-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/terminator-salvation-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/newtech-terminator-salvation-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/return-to-mysterious-island-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-return-to-mysterious-island-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/paradise-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-paradise-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
             
             <changefreq>monthly</changefreq>
