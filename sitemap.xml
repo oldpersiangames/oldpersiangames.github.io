@@ -432,7 +432,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/jekyll-and-hyde-darinoos-novintechnology/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/darinoos-jekyll-hide-front-1.gif</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-jekyll-hyde-front-1.gif</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -608,7 +608,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/jekyll-and-hyde-novin/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/novinnei-jekyll-hide-front-1.jpg</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/novin-jekyll-hyde-front-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -1390,6 +1390,204 @@
             <loc>https://oldpersiangames.github.io/games/syberia-ii-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/sarirgame-syberia-ii-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/dead-to-rights-ariana/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/ariana-dead-to-rights-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/mob-enforcer-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-mob-enforcer-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/condemned-criminal-origins-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-condemned-criminal-origins-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/panzer-elite-action-dunes-of-war-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-panzer-elite-action-dunes-of-war-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/kabus-22-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-kabus-22-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/age-of-mythology-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-age-of-mythology-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/call-of-duty-ghosts-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/modern-call-of-duty-ghosts-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/call-of-duty-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-call-of-duty-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/chrome-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-chrome-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/still-life-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/magmasoft-still-life-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/onimusha-3-demon-siege-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-onimusha-3-demon-siege-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/land-of-the-dead-road-to-fiddlers-green-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/magmasoft-land-of-the-dead-road-to-fiddlers-green-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/fear-perseus-mandate-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-fear-perseus-mandate-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/donkey-xote-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-donkey-xote-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/disneypixar-brave-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/newtech-disneypixar-brave-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/pro-evolution-soccer-2012-novinpendar/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/novinpendar-pro-evolution-soccer-2012-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/counter-strike-16-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-counter-strike-16-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/half-life-2-aryan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/aryan-half-life-2-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
