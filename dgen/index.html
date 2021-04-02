@@ -120,13 +120,17 @@ input[type=submit]:hover {
 />
 <script src="choices.min.js"></script>
 <script src="jszip.min.js"></script>
-<!-- script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script -->
 
 
 
 
 <script type="text/javascript">
-  
+  const urlParams = new URLSearchParams(window.location.search);
+if(urlParams.has("save")) {
+  var script = document.createElement("script");
+  script.src = "FileSaver.min.js";
+  document.head.appendChild(script); 
+}  
 
 function string_to_slug (str) {
     str = str.replace(/^\s+|\s+$/g, ''); // trim
@@ -240,32 +244,33 @@ function string_to_slug (str) {
 
 zip.generateAsync({type:"blob"})
 .then(function(content) {
-  //saveAs(content, "example.zip");
+  if(urlParams.has("save")) {
+    saveAs(content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
+  } else {
+    var formData = new FormData();
 
-  var formData = new FormData();
+    formData.append("ajib", content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
+    //formData.append("details", JSON.stringify(result, null, 2));
 
-  formData.append("ajib", content, Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value).join("-")+"-"+string_to_slug(title[0])+".zip");
-  //formData.append("details", JSON.stringify(result, null, 2));
-
-  var xhr = new XMLHttpRequest();
-  xhr.open('POST', "https://opg-submit.herokuapp.com/", true);
-  xhr.onload = function(e) {
-    //console.log(xhr.response);
-    if(xhr.status!=200) {
-      xhr.onerror(e);
-    } else {
-      document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkgreen;padding:5px'>ثبت شد.</span>";
-    }
-  };
-  xhr.onerror = function(e) {
-    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>خطایی پیش اومده.</span>";
-  };
-  xhr.ontimeout = function(e) {
-    document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>پاسخی از سرور دریافت نشد.</span>";
-  };
-  document.getElementById("result").innerHTML = "در حال ارسال اطلاعات...";
-  xhr.send(formData);  // multipart/form-data
-
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', "https://opg-submit.herokuapp.com/", true);
+    xhr.onload = function(e) {
+      //console.log(xhr.response);
+      if(xhr.status!=200) {
+        xhr.onerror(e);
+      } else {
+        document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkgreen;padding:5px'>ثبت شد.</span>";
+      }
+    };
+    xhr.onerror = function(e) {
+      document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>خطایی پیش اومده.</span>";
+    };
+    xhr.ontimeout = function(e) {
+      document.getElementById("result").innerHTML = "<span style='color:#fff;background:darkred;padding:5px'>پاسخی از سرور دریافت نشد.</span>";
+    };
+    document.getElementById("result").innerHTML = "در حال ارسال اطلاعات...";
+    xhr.send(formData);  // multipart/form-data
+  }
 });
       
     }
@@ -393,10 +398,10 @@ window.onload = function() {
     <input type="number" id="price" name="price" step="500" dir="ltr">
 
     <label for="release_date">تاریخ انتشار <small>(میلادی)</small></label>
-    <div dir="ltr"><input style="width:50%" type="date" id="release_date" name="release_date" dir="ltr"><input style="width:50%" type="text" id="release_date_ref" name="release_date_ref" placeholder="منبع تاریخ؟" dir="rtl"></div>
+    <div dir="ltr"><input style="width:50%" type="date" id="release_date" name="release_date" dir="ltr"><input style="width:50%" type="text" id="release_date_ref" name="release_date_ref" placeholder="منبع تاریخ؟" value="بر اساس تاریخ فایل‌های دیسک." dir="rtl"></div>
 
     <label for="released_on">منتشر شده روی</small></label>
-    <div dir="ltr"><input type="number" id="no_of_discs" name="no_of_discs" dir="ltr" style="width:20%"><select style="width:80%" id="released_on" name="released_on" dir="ltr">
+    <div dir="ltr"><input type="number" id="no_of_discs" name="no_of_discs" dir="ltr" value="1" style="width:20%"><select style="width:80%" id="released_on" name="released_on" dir="ltr">
       <option value="CD">CD</option>
       <option value="DVD">DVD</option>
       <option value="web">Web</option>
