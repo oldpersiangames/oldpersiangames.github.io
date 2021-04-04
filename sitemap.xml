@@ -1849,6 +1849,94 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/conflict-desert-storm-ii-parsgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/parsgame-conflict-desert-storm-ii-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/alone-in-the-dark-the-new-nightmare-pardisgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/pardisgame-alone-in-the-dark-the-new-nightmare-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/alone-in-the-dark-the-new-nightmare-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-alone-in-the-dark-the-new-nightmare-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/infernal-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/hi-vu-infernal-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/iron-storm-roga/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-iron-storm-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/sas-secure-tomorrow-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-sas-secure-tomorrow-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/80-days-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-80-days-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/terrorist-takedown-covert-operations-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-terrorist-takedown-covert-operations-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
             
             <changefreq>monthly</changefreq>
