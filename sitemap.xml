@@ -1794,6 +1794,61 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/art-of-murder-hunt-for-the-puppeteer-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-art-of-murder-hunt-for-the-puppeteer-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/doom-3-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/novin-doom-3-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/cia-operative-solo-missions-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-cia-operative-solo-missions-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/global-operations-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-global-operations-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/stronghold-crusader-extreme-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/hi-vu-stronghold-crusader-extreme-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
             
             <changefreq>monthly</changefreq>
