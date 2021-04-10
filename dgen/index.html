@@ -166,6 +166,12 @@ function string_to_slug (str) {
         titlefa.push(titlefaInput.nextElementSibling.nextElementSibling.value);
       }
 
+      /*link_to_titlesInput = formElement.querySelector("[name='link_to_titles']");
+      var link_to_titles = link_to_titlesInput.value.split(",").filter(o=>o);
+      if(link_to_titlesInput.nextElementSibling.nextElementSibling.value) {
+        link_to_titles.push(link_to_titlesInput.nextElementSibling.nextElementSibling.value);
+      }*/
+
       defectsInput = formElement.querySelector("[name='defects']");
       var defects = defectsInput.value.split(",").filter(o=>o);
       if(defectsInput.nextElementSibling.nextElementSibling.value) {
@@ -176,6 +182,7 @@ function string_to_slug (str) {
       var result = {
         "title": title,
         "titlefa": titlefa,
+        //"link_to_titles": link_to_titles,
         "hashtags": "",
         "producer": Array.from(formElement.querySelector("[name='producer']").selectedOptions).map(option => option.value),
         "publisher": Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value),
@@ -442,6 +449,7 @@ window.onload = function() {
       <option>Aras_Max</option>
       <option>pejman</option>
       <option>mohammad_af313</option>
+      <option>SHERLOCKED3</option>
     </select>
 
     <div id="contributes">
@@ -454,6 +462,9 @@ window.onload = function() {
     <div id="linkss">
 
     </div>
+
+    <!--label for="link_to_titles">لینک به عنوان‌ها <small>(بخشی از پرونده «ضوابط دیتابیس»: بازی‌های ویرایش شده‌ی منتشر شده با عنوان متفاوت (مثلاً ایرانیان ماد و مراحل اضافه کرده‌اند و یک نام دیگر به بازی داده‌اند)، باید به انتشارهای دیگر آن بازی که ویرایش شده یا نشده هستند لینک شوند. در link_to_titles عنوان‌هایی که این بازی باید به آن‌ها لینک شود نوشته شود.)</small></label>
+    <input type="text" id="link_to_titles" name="link_to_titles" dir="rtl"-->
 
     <div style="text-align:center;font-weight:bold" id="result"></div>
 
@@ -486,6 +497,12 @@ window.onload = function() {
     editItems: true,
     duplicateItemsAllowed: false
   });
+  /*const link_to_titles = new Choices('#link_to_titles', {
+    removeItems: true,
+    removeItemButton: true,
+    editItems: true,
+    duplicateItemsAllowed: false
+  });*/
   const producer = new Choices('#producer', {
     removeItems: true,
     removeItemButton: true,
