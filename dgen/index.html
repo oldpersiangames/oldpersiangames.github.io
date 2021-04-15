@@ -192,6 +192,7 @@ function string_to_slug (str) {
         "no_of_discs": [formElement.querySelector("[name='no_of_discs']").value*1],
         "defects": defects,
         "dubbed": formElement.querySelector("[name='dubbed']").checked,
+        "modified": formElement.querySelector("[name='modified']").checked,
         "subtitle": formElement.querySelector("[name='subtitle']").checked,
         "iranian": formElement.querySelector("[name='iranian']").checked,
         "selling": formElement.querySelector("[name='selling']").checked
@@ -333,6 +334,7 @@ window.onload = function() {
 </div>
 <br>
 <input type="checkbox" id="dubbed" name="dubbed" value="true" checked><label for="dubbed">دوبله شده به فارسی</label>
+<input type="checkbox" id="modified" name="modified" value="true"><label for="modified">به همراه تغییرات</label>
 <input type="checkbox" id="subtitle" name="subtitle" value="true"><label for="subtitle">زیرنویس فارسی</label>
 <input type="checkbox" id="iranian" name="iranian" value="true"><label for="iranian">بازی ایرانی</label>
 <input type="checkbox" id="selling" name="selling" value="true"><label for="selling">در حال فروش توسط ناشر</label>
@@ -371,6 +373,13 @@ window.onload = function() {
       <option value="cyber">سایبر</option>
       <option value="kgs">کهکشان</option>
       <option value="magmasoft">ماگما سافت</option>
+      <option value="yadafarin">حامد یادآفرین</option>
+      <option value="tebyan">تبیان</option>
+      <option value="argo">آرگو</option>
+      <option value="raya">رایا</option>
+      <option value="glory">گلوری</option>
+      <option value="doosteman">دوست من</option>
+      <option value="srayaneh">سرزمین رایانه</option>
     </select>
 
     <label for="publisher">ناشر(ها)</label>
@@ -399,6 +408,12 @@ window.onload = function() {
       <option value="cyber">سایبر</option>
       <option value="kgs">کهکشان</option>
       <option value="magmasoft">ماگما سافت</option>
+      <option value="yadafarin">حامد یادآفرین</option>
+      <option value="argo">آرگو</option>
+      <option value="raya">رایا</option>
+      <option value="glory">گلوری</option>
+      <option value="doosteman">دوست من</option>
+      <option value="srayaneh">سرزمین رایانه</option>
     </select>
 
     <label for="price">قیمت در زمان عرضه <small>(تومان)</small></label>
@@ -450,6 +465,7 @@ window.onload = function() {
       <option>pejman</option>
       <option>mohammad_af313</option>
       <option>SHERLOCKED3</option>
+      <option>M_M_N_7</option>
     </select>
 
     <div id="contributes">
