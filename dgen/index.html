@@ -177,7 +177,12 @@ function string_to_slug (str) {
       if(defectsInput.nextElementSibling.nextElementSibling.value) {
         defects.push(defectsInput.nextElementSibling.nextElementSibling.value);
       }
-
+      var release_date = [];
+      if(formElement.querySelector("[name='release_date']").value) {
+        release_date.push(
+          {"date": formElement.querySelector("[name='release_date']").value, "ref": formElement.querySelector("[name='release_date_ref']").value}
+        );
+      }
       
       var result = {
         "title": title,
@@ -187,7 +192,7 @@ function string_to_slug (str) {
         "producer": Array.from(formElement.querySelector("[name='producer']").selectedOptions).map(option => option.value),
         "publisher": Array.from(formElement.querySelector("[name='publisher']").selectedOptions).map(option => option.value),
         "price": [formElement.querySelector("[name='price']").value*10],
-        "release_date": [{"date": formElement.querySelector("[name='release_date']").value, "ref": formElement.querySelector("[name='release_date_ref']").value}],
+        "release_date": release_date,
         "released_on": [formElement.querySelector("[name='released_on']").value],
         "no_of_discs": [formElement.querySelector("[name='no_of_discs']").value*1],
         "defects": defects,
