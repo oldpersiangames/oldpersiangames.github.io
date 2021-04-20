@@ -575,7 +575,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/mafia-darinoos/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/darinoos-mafia-front-1.png</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-mafia-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -2058,7 +2058,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/games/vampire-the-masquerade-–-redemption-darinoos/</loc>
+            <loc>https://oldpersiangames.github.io/games/vampire-the-masquerade-redemption-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/darinoos-vampire-the-masquerade-redemption-1.jpg</image:loc>
             </image:image>
@@ -3051,6 +3051,17 @@
             <loc>https://oldpersiangames.github.io/games/port-royale-2-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/darinoos-port-royale-2-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/world-in-conflict-complete-edition-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-world-in-conflict-complete-edition-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
