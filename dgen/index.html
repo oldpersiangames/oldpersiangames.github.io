@@ -192,10 +192,16 @@ function convertToSlug(text)
         "released_on": [formElement.querySelector("[name='released_on']").value],
         "no_of_discs": [formElement.querySelector("[name='no_of_discs']").value*1],
         "defects": defects,
-        "dubbed": formElement.querySelector("[name='dubbed']").checked,
-        "modified": formElement.querySelector("[name='modified']").checked,
-        "subtitle": formElement.querySelector("[name='subtitle']").checked,
-        "iranian": formElement.querySelector("[name='iranian']").checked,
+        "games": [
+          {
+            "title": [],
+            "titlefa": [],
+            "dubbed": formElement.querySelector("[name='dubbed']").checked,
+            "modified": formElement.querySelector("[name='modified']").checked,
+            "subtitle": formElement.querySelector("[name='subtitle']").checked,
+            "iranian": formElement.querySelector("[name='iranian']").checked
+          }
+        ],
         "selling": formElement.querySelector("[name='selling']").checked
       };
       if(!formElement.querySelector("[name='manual']").checked) {
@@ -383,6 +389,7 @@ window.onload = function() {
       <option value="srayaneh">سرزمین رایانه</option>
       <option value="pouyaarts">هنرهای پویا</option>
       <option value="novinsazan">نوین سازان</option>
+      <option value="unknown">نامعلوم</option>
     </select>
 
     <label for="publisher">ناشر(ها)</label>
@@ -419,6 +426,7 @@ window.onload = function() {
       <option value="srayaneh">سرزمین رایانه</option>
       <option value="pouyaarts">هنرهای پویا</option>
       <option value="novinsazan">نوین سازان</option>
+      <option value="unknown">نامعلوم</option>
     </select>
 
     <label for="price">قیمت در زمان عرضه <small>(تومان)</small></label>

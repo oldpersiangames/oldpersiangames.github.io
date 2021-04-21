@@ -1191,7 +1191,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/return-to-castle-wolfenstein-modern/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/modern-return-to-castle-wolfenstein-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -1728,7 +1728,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/games/grand-ages-rome-gold-edition-asrebazi-modern/</loc>
+            <loc>https://oldpersiangames.github.io/games/grand-ages-rome-asrebazi-modern/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-grand-ages-rome-1.jpg</image:loc>
             </image:image>
@@ -3062,6 +3062,17 @@
             <loc>https://oldpersiangames.github.io/games/world-in-conflict-complete-edition-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/darinoos-world-in-conflict-complete-edition-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/darinoos-pc-game-collection-3-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-darinoos-pc-game-collection-3-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
