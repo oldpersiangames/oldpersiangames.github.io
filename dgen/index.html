@@ -208,7 +208,8 @@ function convertToSlug(text)
             "iranian": formElement.querySelector("[name='iranian']").checked
           }
         ],
-        "selling": formElement.querySelector("[name='selling']").checked
+        "selling": formElement.querySelector("[name='selling']").checked,
+        "platform": [formElement.querySelector("[name='platform']").value]
       };
       if(!formElement.querySelector("[name='manual']").checked) {
         result["manuals"] = false;
@@ -517,6 +518,7 @@ readTextFile("file://///x/companies.json");*/
       <option>mohammad_af313</option>
       <option>SHERLOCKED3</option>
       <option>M_M_N_7</option>
+      <option>HosseinEnr7que</option>
     </select>
 
     <div id="contributes">
@@ -529,6 +531,9 @@ readTextFile("file://///x/companies.json");*/
     <div id="linkss">
 
     </div>
+
+    <label for="links">سکو</label>
+    <input type="text" id="platform" name="platform" autocomplete="off" dir="ltr" value="Windows">
 
     <!--label for="link_to_titles">لینک به عنوان‌ها <small>(بخشی از پرونده «ضوابط دیتابیس»: بازی‌های ویرایش شده‌ی منتشر شده با عنوان متفاوت (مثلاً ایرانیان ماد و مراحل اضافه کرده‌اند و یک نام دیگر به بازی داده‌اند)، باید به انتشارهای دیگر آن بازی که ویرایش شده یا نشده هستند لینک شوند. در link_to_titles عنوان‌هایی که این بازی باید به آن‌ها لینک شود نوشته شود.)</small></label>
     <input type="text" id="link_to_titles" name="link_to_titles" dir="rtl"-->
