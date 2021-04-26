@@ -3466,6 +3466,28 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/operation-disposal-black-scorpion-2-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-operation-disposal-black-scorpion-2-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/qajarys-cat-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-qajarys-cat-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
             
             <changefreq>monthly</changefreq>
