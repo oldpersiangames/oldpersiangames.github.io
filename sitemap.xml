@@ -3499,6 +3499,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/max-payne-2-the-fall-of-max-payne-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-max-payne-2-the-fall-of-max-payne-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
             
             <changefreq>monthly</changefreq>
