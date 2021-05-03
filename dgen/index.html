@@ -373,81 +373,83 @@ window.onload = function() {
   var select2 = document.getElementById("publisher"); 
   var companies = {
         "novinpendar":
-            {"titlefa": "نوین پندار", "order": 1, "order": 1},
+            {"title": "Novin Pendar", "titlefa": "نوین پندار", "order": 1, "order": 1},
         "darinoos":
-            {"titlefa": "دارینوس", "order": 2},
+            {"title": "Darinoos", "titlefa": "دارینوس", "order": 2},
         "novintechnology":
-            {"titlefa": "نوین تکنولوژی", "order": 2},
+            {"title": "Novin Technology", "titlefa": "نوین تکنولوژی", "order": 2},
         "vistarayane":
-            {"titlefa": "ویستا رایانه", "order": 3},
+            {"title": "Vista Rayane", "titlefa": "ویستا رایانه", "order": 3},
         "novin":
-            {"titlefa": "نوین", "order": 4},
+            {"title": "Novin", "titlefa": "نوین", "order": 4},
         "roga":
-            {"titlefa": "رگا", "order": 4},
+            {"title": "Roga", "titlefa": "رگا", "order": 4},
         "novinsazan":
-            {"titlefa": "نوین سازان", "order": 4},
+            {"title": "Novin Sazan", "titlefa": "نوین سازان", "order": 4},
         "aryan":
-            {"titlefa": "آرین", "order": 5},
+            {"title": "Aryan", "titlefa": "آرین", "order": 5},
         "ebay":
-            {"titlefa": "ایبی", "order": 5},
+            {"title": "eBay", "titlefa": "ایبی", "order": 5},
         "ariana":
-            {"titlefa": "آریانا", "order": 6},
+            {"title": "Ariana", "titlefa": "آریانا", "order": 6},
         "cyber":
-            {"titlefa": "سایبر", "order": 7},
+            {"title": "Cyber", "titlefa": "سایبر", "order": 7},
         "parsgame":
-            {"titlefa": "پارس گیم", "order": 8},
+            {"title": "Pars Game", "titlefa": "پارس گیم", "order": 8},
         "pardisgame":
-            {"titlefa": "پردیس گیم", "order": 9},
+            {"title": "Pardis Game", "titlefa": "پردیس گیم", "order": 9},
         "sanobar":
-            {"titlefa": "صنوبر (امپرور)", "order": 10},
+            {"title": "Sanobar", "titlefa": "صنوبر (امپرور)", "order": 10},
         "sarirgame":
-            {"titlefa": "سریر گیم", "order": 11},
+            {"title": "Sarir Game", "titlefa": "سریر گیم", "order": 11},
         "vnv":
-            {"titlefa": "ویرایشگران نصر وصال", "order": 12},
+            {"title": "VNV", "titlefa": "ویرایشگران نصر وصال", "order": 12},
         "asrebazi":
-            {"titlefa": "عصر بازی", "order": 13},
+            {"title": "Asre Bazi {T.B.N}", "titlefa": "عصر بازی {تکین بازی‌نما}", "order": 13},
         "modern":
-            {"titlefa": "مدرن", "order": 14},
+            {"title": "Modern", "titlefa": "مدرن", "order": 14},
         "newtech":
-            {"titlefa": "نیوتک", "order": 15},
+            {"title": "New Tech", "titlefa": "نیوتک", "order": 15},
         "hi-vu":
-            {"titlefa": "های وی یو", "order": 16},
+            {"title": "HI-VU", "titlefa": "های وی یو", "order": 16},
         "rasaneh":
-            {"titlefa": "رسانه افزار مهر", "order": 99},
+            {"title": "Rasaneh Afzare Mehr", "titlefa": "رسانه افزار مهر", "order": 99},
         "rsk":
-            {"titlefa": "رسانا شکوه کویر", "order": 99},
+            {"title": "RSK Entertainment", "titlefa": "رسانا شکوه کویر", "order": 99},
         "speed":
-            {"titlefa": "اسپید", "order": 99},
+            {"title": "Speed", "titlefa": "اسپید", "order": 99},
         "kgs":
-            {"titlefa": "کهکشان", "order": 99},
+            {"title": "KGS", "titlefa": "کهکشان", "order": 99},
         "magmasoft":
-            {"titlefa": "ماگما سافت", "order": 99},
+            {"title": "Magma Soft", "titlefa": "ماگما سافت", "order": 98},
         "yadafarin":
-            {"titlefa": "حامد یادآفرین", "order": 99},
+            {"title": "YadAfarin", "titlefa": "حامد یادآفرین", "order": 99},
         "tebyan":
-            {"titlefa": "تبیان", "order": 99},
+            {"title": "Tebyan", "titlefa": "تبیان", "order": 99},
         "argo":
-            {"titlefa": "آرگو", "order": 99},
+            {"title": "Argo", "titlefa": "آرگو", "order": 99},
         "raya":
-            {"titlefa": "رایا", "order": 99},
+            {"title": "Raya", "titlefa": "رایا", "order": 99},
         "glory":
-            {"titlefa": "گلوری", "order": 99},
+            {"title": "Glory", "titlefa": "گلوری", "order": 99},
         "doosteman":
-            {"titlefa": "دوست من", "order": 99},
+            {"title": "Dooste-Man", "titlefa": "دوست من", "order": 99},
         "srayaneh":
-            {"titlefa": "سرزمین رایانه", "order": 99},
+            {"title": "Sarzamin Rayaneh", "titlefa": "سرزمین رایانه", "order": 99},
         "pouyaarts":
-            {"titlefa": "هنرهای پویا", "order": 99},
+            {"title": "Pouya Art", "titlefa": "هنرهای پویا", "order": 99},
         "iogame":
-            {"titlefa": "استودیو آیو", "order": 99},
+            {"title": "IOGame", "titlefa": "استودیو آیو", "order": 99},
         "kosarnegarrayane":
-            {"titlefa": "کوثر نگار رایانه", "order": 99},
+            {"title": "Kosar Negar Rayane", "titlefa": "کوثر نگار رایانه", "order": 99},
         "venus":
             {"title": "Venus", "titlefa": "ونوس", "order": 99},
         "lohezarrinenikan":
             {"title": "Lohe Zarrine Nikan", "titlefa": "لوح زرین نیکان", "order": 99},
+        "mediaco":
+            {"title": "Media Co", "titlefa": "داده پردازان مدیا", "order": 99},
         "unknown":
-            {"titlefa": "نامعلوم", "order": 99}
+            {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 };
 /*function readTextFile(file)
 {
