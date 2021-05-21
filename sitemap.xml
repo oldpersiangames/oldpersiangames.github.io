@@ -4830,61 +4830,6 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/games/warcommander-roga-novin/</loc>
-            <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-warcommander-1.jpg</image:loc>
-            </image:image>
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://oldpersiangames.github.io/games/alcatraz-sarirgame/</loc>
-            <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-alcatraz-1.jpg</image:loc>
-            </image:image>
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://oldpersiangames.github.io/games/commander-conquest-of-the-americas-asrebazi-modern/</loc>
-            <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-commander-conquest-of-the-americas-1.jpg</image:loc>
-            </image:image>
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://oldpersiangames.github.io/games/lost-horizon-darinoos/</loc>
-            <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/darinoos-lost-horizon-1.jpg</image:loc>
-            </image:image>
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://oldpersiangames.github.io/games/disneys-chicken-little-ace-in-action-sarirgame/</loc>
-            <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-disneys-chicken-little-ace-in-action-1.jpg</image:loc>
-            </image:image>
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
             <loc>https://oldpersiangames.github.io/games/max-payne-gamedooble/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/gamedooble-max-payne-1.jpg</image:loc>
@@ -4998,6 +4943,94 @@
             <loc>https://oldpersiangames.github.io/games/visage-gamedooble/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/gamedooble-visage-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/warcommander-roga-novin/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/roga-novin-warcommander-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/alcatraz-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-alcatraz-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/commander-conquest-of-the-americas-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-commander-conquest-of-the-americas-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/lost-horizon-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-lost-horizon-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/disneys-chicken-little-ace-in-action-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-disneys-chicken-little-ace-in-action-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/rambo-the-video-game-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-rambo-the-video-game-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/eragon-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-eragon-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/faces-of-war-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-faces-of-war-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
