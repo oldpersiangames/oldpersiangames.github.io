@@ -212,7 +212,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/il-2-sturmovik-forgotten-battles-novinpendar/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/novinpendar/il2sfb-1.jpg</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/novinpendar-il-2-sturmovik-forgotten-battles-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -509,7 +509,7 @@
         <url>
             <loc>https://oldpersiangames.github.io/games/codename-outbreak-darinoos-novintechnology/</loc>
             <image:image>
-              <image:loc>https://oldpersiangames.github.io/photos/darinoos-codename-outbreak-front-1.gif</image:loc>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-codename-outbreak-front-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -6098,6 +6098,314 @@
             <loc>https://oldpersiangames.github.io/games/bad-boys-miami-takedown-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/magmasoft-bad-boys-miami-takedown-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/alcatraz-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/magmasoft-alcatraz-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/codename-nina-global-terrorism-strike-force-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/magmasoft-codename-nina-global-terrorism-strike-force-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/napoleon-total-war-gold-edition-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-napoleon-total-war-gold-edition-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/call-of-duty-4-modern-warfare-pardisgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/pardisgame-call-of-duty-4-modern-warfare-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/chessmaster-9000-aryan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/aryan-chessmaster-9000-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/terrorist-takedown-war-in-colombia-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-terrorist-takedown-war-in-colombia-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/metro-2033-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/shrek-forever-after-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-shrek-forever-after-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/battlestations-pacific-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-battlestations-pacific-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/call-of-duty-modern-warfare-3-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-call-of-duty-modern-warfare-3-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/dead-to-rights-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/magmasoft-dead-to-rights-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/insecticide-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/newtech-insecticide-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/age-of-empires-ii-hd-edition-srayaneh/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/srayaneh-age-of-empires-ii-hd-edition-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/kung-fu-panda-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/newtech-kung-fu-panda-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/total-war-shogun-2-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-total-war-shogun-2-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/battlestrike-western-and-eastern-front-all-in-one-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-battlestrike-western-and-eastern-front-all-in-one-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/mir-mahna-espris/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/ESPRIS-mir-mahna-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/the-dark-phantom-dawn-of-darkness-pardisgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/pardisgame-the-dark-phantom-dawn-of-darkness-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/the-punisher-return-to-castle-wolfenstein-apadana/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/apadana-the-punisher-return-to-castle-wolfenstein-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/doom-3-ebay/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/ebay-doom-3-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/age-of-pahlevans-15-pardisgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/pardisgame-age-of-pahlevans-15-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/knight-rider-2-the-game-ebay/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/ebay-knight-rider-2-the-game-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/pro-evolution-soccer-2014-novinpendar/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/novinpendar-pro-evolution-soccer-2014-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/dar-ghalamroye-doshman-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/modern-dar-ghalamroye-doshman-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/garshasp-the-secret-of-the-dragon-lohezarrinenikan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/lohezarrinenikan-garshasp-the-secret-of-the-dragon-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/grand-theft-auto-iv-tehran-2-mod-bazirayaneh/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/bazirayaneh-grand-theft-auto-iv-tehran-2-mod-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/marine-heavy-gunner-vietnam-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-marine-heavy-gunner-vietnam-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/warcraft-iii-reign-of-chaos-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/darinoos-warcraft-iii-reign-of-chaos-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
