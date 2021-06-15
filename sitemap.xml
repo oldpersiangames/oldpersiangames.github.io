@@ -6843,15 +6843,6 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-02-14T11:23:09.462Z</lastmod>
-            
-            <changefreq>monthly</changefreq>
-            
-        </url>
-        
-    
-       
-        <url>
             <loc>https://oldpersiangames.github.io/terms_and_conditions/</loc><lastmod>2021-02-14T11:23:09.480Z</lastmod>
             
             <changefreq>monthly</changefreq>
@@ -6880,6 +6871,15 @@
        
         <url>
             <loc>https://oldpersiangames.github.io/free-downloadable-games/</loc><lastmod>2021-05-17T02:07:51.652Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-06-11T20:40:57.920Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
