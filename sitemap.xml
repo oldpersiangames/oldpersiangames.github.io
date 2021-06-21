@@ -6953,6 +6953,28 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/games/splitsecond-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-split-second-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/grand-theft-auto-iranian-tsg/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/tsg-grand-theft-auto-iranian-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/terms_and_conditions/</loc><lastmod>2021-02-14T11:23:09.480Z</lastmod>
             
             <changefreq>monthly</changefreq>
