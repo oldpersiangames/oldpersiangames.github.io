@@ -12,6 +12,60 @@
     
        
         <url>
+            <loc>https://oldpersiangames.github.io/terms_and_conditions/</loc><lastmod>2021-02-14T11:23:09.480Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/contributors/</loc><lastmod>2021-02-14T20:49:55.418Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/blog/review-gamedooble-and-its-strange-admin/</loc><lastmod>2021-05-16T23:30:21.760Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/free-downloadable-games/</loc><lastmod>2021-05-17T02:07:51.652Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-07-14T23:27:55.502Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/copying-guide/</loc><lastmod>2021-07-15T01:17:38.009Z</lastmod>
+            
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.github.io/games/commandos-2-men-of-courage-novinpendar/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.github.io/photos/novinpendar/commandos-2-1.jpg</image:loc>
@@ -7239,8 +7293,10 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/terms_and_conditions/</loc><lastmod>2021-02-14T11:23:09.480Z</lastmod>
-            
+            <loc>https://oldpersiangames.github.io/games/outland-lohegostaresh/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/lohegostaresh-outland-2.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -7248,8 +7304,10 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/contributors/</loc><lastmod>2021-02-14T20:49:55.418Z</lastmod>
-            
+            <loc>https://oldpersiangames.github.io/games/tournoment-fighters-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-tournoment-fighters-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -7257,8 +7315,10 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/blog/review-gamedooble-and-its-strange-admin/</loc><lastmod>2021-05-16T23:30:21.760Z</lastmod>
-            
+            <loc>https://oldpersiangames.github.io/games/nuraldin-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-nuraldin-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -7266,8 +7326,10 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/free-downloadable-games/</loc><lastmod>2021-05-17T02:07:51.652Z</lastmod>
-            
+            <loc>https://oldpersiangames.github.io/games/the-way-of-love-sub-zero-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/modern-the-way-of-love-sub-zero-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -7275,8 +7337,76 @@
     
        
         <url>
-            <loc>https://oldpersiangames.github.io/download-contribute-guide/</loc><lastmod>2021-06-11T20:40:57.920Z</lastmod>
+            <loc>https://oldpersiangames.github.io/games/epic-of-alvatan-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/hi-vu-epic-of-alvatan-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
             
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/earth-2124-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/hi-vu-earth-2124-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/akherin-parvaz-noorozahra/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/noorozahra-akherin-parvaz-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/gando-lohezarrinenikan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/lohezarrinenikan-gando-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/wall-e-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/asrebazi-modern-wall-e-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/warcraft-iii-the-frozen-throne-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/sarirgame-warcraft-iii-the-frozen-throne-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.github.io/games/hard-reset-extended-edition-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.github.io/photos/newtech-hard-reset-extended-edition-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
