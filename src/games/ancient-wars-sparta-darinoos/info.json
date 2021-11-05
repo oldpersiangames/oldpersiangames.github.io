@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Ancient Wars: Sparta"
+  ],
+  "titlefa": [
+    "جنگ‌های باستانی: ایران، یونان، مصر"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    48000
+  ],
+  "release_date": [
+    {
+      "date": "2013-06-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&path=60&product_id=70"
+    }
+  ]
+}

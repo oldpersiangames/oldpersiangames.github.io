@@ -1,0 +1,93 @@
+{
+  "title": [
+    "SimCity Societies: Deluxe Edition"
+  ],
+  "titlefa": [
+    "شهر مجازی (جامعه) [نسخه دلاکس]"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-02-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "SimCity Societies"
+      ],
+      "titlefa": [
+        "شهر مجازی (جامعه)"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "SimCity Societies: Destinations"
+      ],
+      "titlefa": [
+        "شهر مجازی (جامعه): مقصد"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "mohamadrajaei",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

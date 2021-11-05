@@ -1,0 +1,66 @@
+{
+  "title": [
+    "Mr. Bean",
+    "Mr. Bean's Wacky World"
+  ],
+  "titlefa": [
+    "مستر بین"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-12-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ImanS0",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

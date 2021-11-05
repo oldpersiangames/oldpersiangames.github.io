@@ -1,0 +1,82 @@
+{
+  "title": [
+    "Call of Duty: United Offensive"
+  ],
+  "titlefa": [
+    "ندای وظیفه ۲: حمله متفقین"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "aryan"
+  ],
+  "price": [
+    49000
+  ],
+  "release_date": [
+    {
+      "date": "2004-10-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Call of Duty"
+      ],
+      "titlefa": [
+        "ندای وظیفه"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Call of Duty: United Offensive"
+      ],
+      "titlefa": [
+        "ندای وظیفه ۲: حمله متفقین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

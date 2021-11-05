@@ -1,0 +1,107 @@
+{
+  "title": [
+    "The Settlers: Rise of an Empire - Gold Edition"
+  ],
+  "titlefa": [
+    "مهاجران ۶: نسخه طلایی"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    105000
+  ],
+  "release_date": [
+    {
+      "date": "2013-12-24",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "The Settlers: Rise of an Empire"
+      ],
+      "titlefa": [
+        "مهاجران ۶: ظهور یک امپراطوری"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "The Settlers: Rise of an Empire - The Eastern Realm"
+      ],
+      "titlefa": [
+        "مهاجران ۶: مشرق زمین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 35,
+      "files": [
+        "The Settlers Gold Edition Manual.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "mohamadrajaei",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "korosh_darabi",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "manual",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&path=60&product_id=51"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Serious Sam: The Second Encounter"
+  ],
+  "titlefa": [
+    "سام ماجراجو: مأموریت در پرسپولیس"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    22000
+  ],
+  "release_date": [
+    {
+      "date": "2002-07-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070205155425/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000008"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709074821/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=10&Def=5&CurrPN=3"
+    }
+  ]
+}

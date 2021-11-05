@@ -1,0 +1,85 @@
+{
+  "title": [
+    "Return of Cyrus Epitaph"
+  ],
+  "titlefa": [
+    "بازگشت کتیبه کوروش"
+  ],
+  "producer": [
+    "ariagame"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    60000
+  ],
+  "release_date": [
+    {
+      "date": "2014-09-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "کپی بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 8,
+      "files": [
+        "katibe korosh.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "manual",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "FS_DISC1.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAVxgWzlWNXdl7PW3bgABfsPSIONiWOQAAoYIAAIBighSX0o0z2zMdwoeBA",
+    "file_unique_id": "AgADhggAAgGKCFI",
+    "file_size": 652044288
+  },
+  {
+    "file_name": "FS_DISC2.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAV1gWzlYCBi1H2iFCZ623NQoD63yzQAChwgAAgGKCFIci6BtPZWQFh4E",
+    "file_unique_id": "AgADhwgAAgGKCFI",
+    "file_size": 689565696
+  },
+  {
+    "file_name": "FS_DISC4.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAV5gWzlfh6S7NSHKWowLqzfI8CMybQACiAgAAgGKCFKC0nTjzRCXHR4E",
+    "file_unique_id": "AgADiAgAAgGKCFI",
+    "file_size": 640315392
+  }
+]

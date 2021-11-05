@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Art of Murder: Hunt for the Puppeteer",
+    "Art of Murder 2"
+  ],
+  "titlefa": [
+    "هنر جنایت: شکار خیمه شب باز"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2014-03-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "saeed",
+      "contribute": [
+        "game"
+      ]
+    }
+  ],
+  "links": []
+}

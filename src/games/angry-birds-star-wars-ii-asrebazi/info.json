@@ -1,0 +1,76 @@
+{
+  "title": [
+    "Angry Birds Star Wars II"
+  ],
+  "titlefa": [
+    "پرندگان خشمگین: جنگ ستارگان ۲"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2013-11-07",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Rasoulrsl",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "Bardiamohamadi",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

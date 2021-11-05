@@ -1,0 +1,58 @@
+{
+  "title": [
+    "Obscure"
+  ],
+  "titlefa": [
+    "اقامتگاه شیطان"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "aryan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2005-09-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

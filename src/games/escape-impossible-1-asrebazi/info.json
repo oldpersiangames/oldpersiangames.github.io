@@ -1,0 +1,83 @@
+{
+  "title": [
+    "Escape Impossible 1"
+  ],
+  "titlefa": [
+    "فرار غیر ممکن ۱"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    29000
+  ],
+  "release_date": [
+    {
+      "date": "2008-06-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Obscure"
+      ],
+      "titlefa": [
+        "اقامتگاه شیطان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Indiana Jones and the Emperor's Tomb"
+      ],
+      "titlefa": [
+        "ایندیانا جونز و مقبره امپراطور"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Hamidreza_764",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

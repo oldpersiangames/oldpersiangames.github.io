@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Code of Honor 2: Conspiracy Island"
+  ],
+  "titlefa": [
+    "نشان شجاعت ۲: جزیره توطئه"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2008-11-24",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [
+    "ایمیج نسخه‌ی DVD این بازی را موجود نداریم. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mohammadn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

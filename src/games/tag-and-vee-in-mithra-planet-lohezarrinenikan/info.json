@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Tag & Vee In Mithra Planet"
+  ],
+  "titlefa": [
+    "تگ و وی در سیاره میترا"
+  ],
+  "producer": [
+    "rasgames"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [
+    45000,
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2011-08-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD",
+    "DVD"
+  ],
+  "no_of_discs": [
+    2,
+    1
+  ],
+  "defects": [
+    "ایمیج نسخه‌ی DVD این بازی موجود نیست. دیسکش را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alikarimi0870",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "https://hayoola.com/game/2010#!/"
+    }
+  ]
+}

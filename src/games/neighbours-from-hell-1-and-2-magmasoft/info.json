@@ -1,0 +1,74 @@
+{
+  "title": [
+    "Neighbours from Hell 1 & 2"
+  ],
+  "titlefa": [
+    "همسایه جهنمی ۱ و ۲"
+  ],
+  "producer": [
+    "speed"
+  ],
+  "publisher": [
+    "magmasoft"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-09-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Neighbours from Hell"
+      ],
+      "titlefa": [
+        "همسایه جهنمی ۱"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Neighbours from Hell 2: On Vacation"
+      ],
+      "titlefa": [
+        "همسایه جهنمی ۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Theeaali",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

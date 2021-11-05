@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Split/Second"
+  ],
+  "titlefa": [
+    "اسپلیت سکند"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "iogame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2012-08-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mohammadn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

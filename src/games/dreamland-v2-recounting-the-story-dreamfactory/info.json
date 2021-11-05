@@ -1,0 +1,69 @@
+{
+  "title": [
+    "DreamLand V2: Recounting the Story",
+    "Dream Land V2: Recounting the Story"
+  ],
+  "titlefa": [
+    "سرزمین رویا نسخه ۲: بازگویی داستان"
+  ],
+  "producer": [
+    "dreamfactory"
+  ],
+  "publisher": [
+    "dreamfactory"
+  ],
+  "price": [
+    0
+  ],
+  "release_date": [
+    {
+      "date": "2013-05-01",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "web"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

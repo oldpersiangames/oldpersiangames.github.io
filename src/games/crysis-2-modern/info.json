@@ -1,0 +1,56 @@
+{
+  "title": [
+    "Crysis 2"
+  ],
+  "titlefa": [
+    "کرایسیس ۲"
+  ],
+  "producer": [
+    "modern"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت از پیش نصب‌شده موجود داریم. دیسک بازی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

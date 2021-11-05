@@ -1,0 +1,83 @@
+{
+  "title": [
+    "Three strategy games"
+  ],
+  "titlefa": [
+    "مجموعه سه بازی استراتژیک"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2008-04-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Commandos: Beyond the Call of Duty"
+      ],
+      "titlefa": [
+        "کماندوها: فراتر از ندای وظیفه"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stalingrad",
+        "Great Battles of WWII: Stalingrad"
+      ],
+      "titlefa": [
+        "استالینگراد"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Jagged Alliance 2: Wildfire"
+      ],
+      "titlefa": [
+        "اتحاد ناهموار ۲: آتش‌سوزی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

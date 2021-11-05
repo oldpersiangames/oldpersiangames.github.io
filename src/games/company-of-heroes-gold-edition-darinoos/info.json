@@ -1,0 +1,89 @@
+{
+  "title": [
+    "Company of Heroes: Gold Edition"
+  ],
+  "titlefa": [
+    "گروه قهرمانان: نسخه طلایی"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    52000
+  ],
+  "release_date": [
+    {
+      "date": "2009-08-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Company of Heroes"
+      ],
+      "titlefa": [
+        "گروه قهرمانان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Company of Heroes: Opposing Fronts"
+      ],
+      "titlefa": [
+        "گروه قهرمانان: خط مقدم"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Company of Heroes: Tales of Valor"
+      ],
+      "titlefa": [
+        "گروه قهرمانان: افسانه افتخار"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

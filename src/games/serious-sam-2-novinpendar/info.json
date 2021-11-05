@@ -1,0 +1,80 @@
+{
+  "title": [
+    "Serious Sam 2"
+  ],
+  "titlefa": [
+    "سام ماجراجو ۲"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2006-05-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 34,
+      "files": [
+        "Serious Sam 2 Persian Walkthrough Guide - Scanned (NP).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Amirp0941",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "game",
+        "manual",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070205155425/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000053"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": [
+    "Sniper: Ghost Warrior 2 + Siberian Strike"
+  ],
+  "titlefa": [
+    "جنگجوی نامرئی ۲ + عملیات سیبری"
+  ],
+  "producer": [
+    "glory"
+  ],
+  "publisher": [
+    "srayaneh"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2014-02-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Sniper: Ghost Warrior 2"
+      ],
+      "titlefa": [
+        "جنگجوی نامرئی"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Sniper: Ghost Warrior 2 - Siberian Strike"
+      ],
+      "titlefa": [
+        "جنگجوی نامرئی - عملیات سیبری"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Sunsetman2012",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

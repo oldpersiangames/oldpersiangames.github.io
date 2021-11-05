@@ -1,0 +1,77 @@
+{
+  "title": [
+    "Tom Clancy's: Ghost Recon"
+  ],
+  "titlefa": [
+    "گروه ضربت"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    22000
+  ],
+  "release_date": [
+    {
+      "date": "2002-08-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "indisc",
+      "no_of_pages": 86,
+      "files": [
+        "Ghost Recon Help (Farsi).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070212083103/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000015"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709075209/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=15&Def=5&CurrPN=4"
+    }
+  ]
+}

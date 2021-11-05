@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Stronghold: Crusader Extreme"
+  ],
+  "titlefa": [
+    "جنگ‌های صلیبی"
+  ],
+  "producer": [
+    "iogame",
+    "kosarnegarrayane"
+  ],
+  "publisher": [
+    "iogame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2012-08-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Stronghold: Crusader"
+      ],
+      "titlefa": [
+        "جنگ‌های صلیبی"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stronghold: Crusader Extreme"
+      ],
+      "titlefa": [
+        "جنگ‌های صلیبی بی‌نهایت"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

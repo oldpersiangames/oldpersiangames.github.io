@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Disney Learning Adventure: Search for the Secret Keys"
+  ],
+  "titlefa": [
+    "در جستجوی کلیدهای مخفی"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2010-09-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

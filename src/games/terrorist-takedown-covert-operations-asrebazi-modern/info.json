@@ -1,0 +1,66 @@
+{
+  "title": [
+    "Terrorist Takedown: Covert Operations"
+  ],
+  "titlefa": [
+    "سقوط تروریست: عملیات مخفی"
+  ],
+  "producer": [
+    "asrebazi",
+    "modern"
+  ],
+  "publisher": [
+    "asrebazi",
+    "modern"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2008-12-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "saeed",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

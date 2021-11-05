@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Empire Earth II"
+  ],
+  "titlefa": [
+    "امپراطوری زمین ۲"
+  ],
+  "producer": [
+    "sarirgame"
+  ],
+  "publisher": [
+    "sarirgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-01-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alirezaw_ken2",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

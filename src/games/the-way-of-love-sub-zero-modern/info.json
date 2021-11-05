@@ -1,0 +1,68 @@
+{
+  "title": [
+    "The Way Of Love: Sub Zero"
+  ],
+  "titlefa": [
+    "مسیر عشق: زیر صفر"
+  ],
+  "producer": [
+    "rsk"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-03-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 16,
+      "files": [
+        "The Way Of Love Sub Zero - Manual.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

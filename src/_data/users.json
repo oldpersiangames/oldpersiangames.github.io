@@ -1,0 +1,63 @@
+{
+	"MJSAYR": {
+		"telegram": "MJSAYR",
+		"contributes": [
+			"بنیانگذاری گروه «نسخه‌ی فارسی» و مدیریت آن"
+		]
+	},
+	"Aras_Max": {
+		"telegram": "Aras_Max",
+		"contributes": [
+			"طراحی الگوی نگارش کپشن‌ها",
+			"طراحی لوگوی Old Persian Games"
+		]
+	},
+	"alihardan": {
+		"telegram": "alihardan",
+		"website": "https://alihardan.github.io/",
+		"github": "alihardan",
+		"email": "ali.hardan76@gmail.com",
+		"contributes": [
+			"تأسیس و مدیریت این وبسایت (Old Persian Games)",
+			"پشتیبان‌گیری و نگهداری فایل‌های آرشیو در فضاهای ابری"
+		]
+	},
+	"AG_e_e_kA": {
+		"telegram": "AG_e_e_kA",
+		"email": "alirezash796@gmail.com",
+		"contributes": [
+			"رابط ارتباطی پایگاه"
+		]
+	},
+	"docfarzad": {
+		"telegram": "docfarzad",
+		"display_name": "فرزاد عباس پور",
+		"website": "https://me.refinedview.com/",
+		"email": "farzad@refinedview.com",
+		"contributes": [
+			"تهیه‌ی دامنه‌ی oldpersiangames.org"
+		]
+	},
+	"pejman": {
+		"telegram": "none"
+	},
+	"mohammadn": {
+		"telegram": "none"
+	},
+	"Mr_Mohammad2002": {
+		"telegram": "Mr_Mohammad2002",
+		"display_name": "محمد اسکندری"
+	},
+	"saeed": {
+		"telegram": "none"
+	},
+	"mohamadrajaei": {
+		"telegram": "none"
+	},
+	"Abbasi": {
+		"telegram": "none"
+	},
+	"Mohammadbagher": {
+		"telegram": "none"
+	}
+}

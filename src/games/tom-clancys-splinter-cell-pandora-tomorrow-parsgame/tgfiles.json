@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "SC2_CD1.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAWVgW6CavsNmWsiQaGO5pwYCMY3_egACMggAAhi84VIrFzOIL48F8h4E",
+    "file_unique_id": "AgADMggAAhi84VI",
+    "file_size": 613296128
+  },
+  {
+    "file_name": "SC2_CD2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAWZgW6IOT1EPZC5tOONF8LhY1MiwWwACIQsAAq484VInIr3xfG2ACR4E",
+    "file_unique_id": "AgADIQsAAq484VI",
+    "file_size": 563562496
+  },
+  {
+    "file_name": "SC2_CD3.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAWdgW6IiHx7z_YwTg7IGl5IqThg05gACLAsAAl6R2FIbgRAHzzCafx4E",
+    "file_unique_id": "AgADLAsAAl6R2FI",
+    "file_size": 564066304
+  },
+  {
+    "file_name": "SC2_CD4.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACAWhgW6Ip-55HKwbv1dp9jq1_ef1tTgACOAgAAhi84VIDg8z9AAE5WZ8eBA",
+    "file_unique_id": "AgADOAgAAhi84VI",
+    "file_size": 438472704
+  }
+]

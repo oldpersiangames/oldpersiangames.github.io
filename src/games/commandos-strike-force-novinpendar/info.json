@@ -1,0 +1,86 @@
+{
+  "title": [
+    "Commandos: Strike Force"
+  ],
+  "titlefa": [
+    "کماندوها ۵: گروه ضربت"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2006-06-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    5
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 35,
+      "files": [
+        "Commandos Strike Force Manual-Orginal.rar",
+        "Commandos Strike Force Manual-NP.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "http://web.archive.org/web/20070207132619/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000044"
+    }
+  ]
+}

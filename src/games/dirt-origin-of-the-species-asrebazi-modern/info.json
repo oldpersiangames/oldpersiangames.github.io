@@ -1,0 +1,70 @@
+{
+  "title": [
+    "D.i.R.T.: Origin of the Species"
+  ],
+  "titlefa": [
+    "به دنبال منشأ آلودگی"
+  ],
+  "producer": [
+    "asrebazi",
+    "modern"
+  ],
+  "publisher": [
+    "asrebazi",
+    "modern"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2009-12-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,88 @@
+{
+  "title": [
+    "Post Mortem"
+  ],
+  "titlefa": [
+    "جنایتکار هتل اورفه"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2003-06-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 25,
+      "files": [
+        "Post Mortem Manual Darinoos.pdf"
+      ]
+    },
+    {
+      "release_type": "inweb",
+      "no_of_pages": 0,
+      "files": [
+        "hotel orfeh.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=138"
+    }
+  ]
+}

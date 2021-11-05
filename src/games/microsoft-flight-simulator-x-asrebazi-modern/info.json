@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Microsoft Flight Simulator X"
+  ],
+  "titlefa": [
+    "شبیه‌ساز پرواز"
+  ],
+  "producer": [
+    "asrebazi",
+    "modern"
+  ],
+  "publisher": [
+    "asrebazi",
+    "modern"
+  ],
+  "price": [
+    60000
+  ],
+  "release_date": [
+    {
+      "date": "2011-04-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

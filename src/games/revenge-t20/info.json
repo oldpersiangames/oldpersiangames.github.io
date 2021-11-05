@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Revenge"
+  ],
+  "titlefa": [
+    "انتقام"
+  ],
+  "producer": [
+    "studiopadideh"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2010-07-11",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

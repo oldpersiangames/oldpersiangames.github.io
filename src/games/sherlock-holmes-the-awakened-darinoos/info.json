@@ -1,0 +1,91 @@
+{
+  "title": [
+    "Sherlock Holmes: The Awakened"
+  ],
+  "titlefa": [
+    "شرلوک هولمز: بیداری"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2010-06-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 32,
+      "files": [
+        "Sherlock Holmes - The Awakened.pdf",
+        "Sherlock Holmes The Awakened Manual.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "manual"
+      ]
+    },
+    {
+      "username": "mmmp_m_f",
+      "contribute": [
+        "manual"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=78"
+    }
+  ]
+}

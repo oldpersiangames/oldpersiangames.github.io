@@ -1,0 +1,60 @@
+{
+  "title": [
+    "SpongeBob and the Clash of Triton"
+  ],
+  "titlefa": [
+    "باب اسفنجی"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2014-05-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

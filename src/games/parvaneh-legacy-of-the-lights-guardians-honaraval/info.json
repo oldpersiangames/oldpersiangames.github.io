@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Parvaneh: Legacy of the Light's Guardians"
+  ],
+  "titlefa": [
+    "پروانه: میراث نگهبانان نور"
+  ],
+  "producer": [
+    "beardedbird"
+  ],
+  "publisher": [
+    "honaraval"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2014-09-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Rasoulrsl",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

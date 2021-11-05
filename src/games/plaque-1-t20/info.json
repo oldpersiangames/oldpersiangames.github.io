@@ -1,0 +1,151 @@
+{
+  "title": [
+    "Plaque 1"
+  ],
+  "titlefa": [
+    "پلاک ۱"
+  ],
+  "producer": [
+    "studentbasij"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [
+    70000
+  ],
+  "release_date": [
+    {
+      "date": "2012-07-23",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "ایمیج از دیسک خش‌دار تهیه شده. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [
+        "Devil Den"
+      ],
+      "titlefa": [
+        "لانه شیطان"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Devil Den 2"
+      ],
+      "titlefa": [
+        "لانه شیطان ۲"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Sky Defenders"
+      ],
+      "titlefa": [
+        "مدافعان آسمان"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Karbala Defenders"
+      ],
+      "titlefa": [
+        "مدافعان کربلا"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Freedom Convoy"
+      ],
+      "titlefa": [
+        "کاروان آزادی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Angry Nations"
+      ],
+      "titlefa": [
+        "ملت های خشمگین"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "The Military Operation of Bayt Al-Muqaddas: To Release Khorramshahr"
+      ],
+      "titlefa": [
+        "عملیات بیت المقدس: آزادی خرمشهر"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Call of Gaza"
+      ],
+      "titlefa": [
+        "ندای غزه"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

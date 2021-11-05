@@ -1,0 +1,55 @@
+{
+  "title": [
+    "Incident In Tehran: Nuclear Energy Scientists Assassination"
+  ],
+  "titlefa": [
+    "حادثه در تهران: ترور دانشمندان انرژی هسته ای"
+  ],
+  "producer": [
+    "ourmazd"
+  ],
+  "publisher": [
+    "ourmazd"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

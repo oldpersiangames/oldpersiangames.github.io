@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Alone in the Dark: The New Nightmare"
+  ],
+  "titlefa": [
+    "تنها در تاریکی"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2007-06-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [
+    "ایمیجی که از این بازی داریم، دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mohammadn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "saeed",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

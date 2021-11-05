@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Grand Theft Auto: Vice City",
+    "GTA: Vice City"
+  ],
+  "titlefa": [
+    "مسابقه در شهر"
+  ],
+  "producer": [
+    "yadafarin"
+  ],
+  "publisher": [
+    "yadafarin"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-08-26",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های دیسک را بصورت غیر ایمیج موجود داریم. ایمیج دیسک را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

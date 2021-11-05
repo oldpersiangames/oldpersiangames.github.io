@@ -1,0 +1,247 @@
+---
+permalink: /scripts.js
+eleventyExcludeFromCollections: true
+---
+{% set js %}
+$(document).ready(function() {
+{% include "functions.js" %}
+const companies = {{ companies | jsonStringify | safe }}
+function companiesRender(data, type, row, meta, separator = "،<br>") {
+    if(type == "sort") {
+        return companies[data[0]].order;
+    } else {
+        return companiesNames(data, separator);
+    }
+}
+function genGameURL(identify) {
+    return '/games/'+identify+"/"
+}
+titleRender = {
+                    "display": ".0",
+                    "_": function(data, type, row, meta) { // I'm doing it to make collection game titles and other titles searchable
+                        result = data
+                        row[9].forEach(function(value) {
+                            result = result.concat(value[meta.col===2 ? "title" : "titlefa"])
+                        })
+                        return result
+                    }
+                }
+
+    var table = $('#games').DataTable({
+        "ajax": {
+            "url": "games.json",
+            "dataSrc": ""
+        },
+        //"deferRender": true,
+        /*drawCallback: function () {
+          $( 'a.paginate_button', this.api().table().container() ).attr('href', '#!');
+        },*/
+        "columns": [{
+                className: 'control',
+                orderable: false,
+                searchable: false,
+                data: null
+            },
+            {
+                "data": 0,
+                "orderable": false,
+                "render": {
+                    "filter": function(data, type, row, meta) {
+                      result = [];
+                      row[9].forEach(function(value) {
+                          if(value["iranian"]){result.push("iranian")}
+                          if(value["dubbed"]){result.push("dubbed")}
+                          })
+                      return result
+                    },
+                    "display": function(data, type, row, meta) {
+                        if(!row[11]) { // Is it best way to storing this data?
+                            row[11] = genGameArrayTitle(row); // Page Title
+                        }
+
+                        var result = "";
+                        if(!data.length) {data=["nocover.svg", 200,200]}
+                        result = `<div class="game-maininfo"><a href="${genGameURL(row[10])}"><img src="/photos/${data[0]}" title="${row[11]}" alt="${row[11]}" width="${data[1]}" loading="lazy" decoding="async"></a>`;
+                        if(data[3]) {
+                            result += `<div class="rebuilt-text">این تصویر بازسازی شده است.</div>`;
+                        }
+                        result += `${genGameArrayFeatures(row)}</div>`;
+                        return result;
+                    }
+                }
+            },
+            {
+                "className": "ltr",
+                "data": 1,
+                "render": titleRender
+            },
+            {
+                "data": 2,
+                "render": titleRender
+            },
+            {
+                "data": 3,
+                "type": "num",
+                "render": companiesRender
+            },
+            {
+                "data": 4,
+                "type": "num",
+                "render": companiesRender
+            },
+            {
+                "data": "5",
+                "type":"date",
+                "render": function(data, type, row, meta) {
+                    if(type === "sort") { if(row[7]) { return "3000-01-01"; } return data[0]; }
+                    if(!data.length) { return ""; }
+                    let result = "";
+                    data.forEach(function(date, idx, array) {
+                        result += new Date(date).toLocaleDateString('fa-IR', { year: 'numeric', month: 'long', day: 'numeric' });
+                        if (idx !== array.length -1) {
+                            result += "<br>";
+                        }
+                    })
+                    return result;
+                }
+            },
+            {
+                "data": 6,
+                "render": {
+                    "display": function(data, type, row, meta) {
+                        if(!data.length) { return ""; }
+                        var result = "";
+                        data.forEach(function(defect) {
+                            result += `<li>${changeLastSentence(defect)}</li>`;
+                        });
+                        return `<ul class="nospace defects">${result}</ul>`;
+                    }
+                }
+            },
+            {
+                "data": null,
+                "orderable": false,
+                //"searchable": false,
+                "className": "center",
+                "render": {
+                    "filter": function(data, type, row, meta) {
+                        return row[10] // Just to make games like "IGI" and "FEAR" searchable, also codename of companies.
+                    },
+                    "display": function(data, type, row, meta) {
+                        return `<a href="${genGameURL(row[10])}" title="${row[11]}" class="download"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-download"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg></a>`;
+                    }
+                }
+            }
+        ],
+        "createdRow": function(row, data, dataIndex) {
+            if(data[7]) {$(row).addClass('lost'); return}
+            if(data[6].length) {$(row).addClass('has-defects')}
+        },
+        "responsive": {
+            details: {
+                type: 'column',
+                renderer: function(api, rowIdx, columns) {
+                    var theRowData = api.row(rowIdx).data();
+
+                    var data = $.map(columns, function(col, i) {
+                        if(col.columnIndex === 1) {
+                                return '<tr data-dt-row="' + col.rowIndex + '" data-dt-column="' + col.columnIndex + '">' +
+                                `<td colspan="2">${col.data}</td>`
+                                '</tr>';
+                        }
+                        if(col.columnIndex === 7) {
+                            if(theRowData[7]) {
+                                return '<tr data-dt-row="' + col.rowIndex + '" data-dt-column="' + col.columnIndex + '">' +
+                                `<td colspan="2" class="lost-text">${changeLastSentence("در حال حاضر هیچ نسخه‌ای از این انتشار موجود نداریم! این عنوان در معرض فراموشی همیشگی است. آن را دارید؟")}</td>`
+                                '</tr>';
+                            }
+                        }
+
+                        if(!col.data) { return ""; }
+                        if(col.columnIndex === 8) {
+                            return '<tr data-dt-row="' + col.rowIndex + '" data-dt-column="' + col.columnIndex + '">' +
+                            `<td colspan="2" style="font-weight:bold"><a href="${genGameURL(theRowData[10])}" title="${theRowData[11]}" class="download"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-download"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> توضیحات بیشتر + دانلود</a></td>`
+                            '</tr>';
+                        }
+                        return (col.hidden || col.columnIndex === 5) ?
+                            '<tr data-dt-row="' + col.rowIndex + '" data-dt-column="' + col.columnIndex + '">' +
+                            '<td>' + col.title + '</td> ' +
+                            '<td>' + (col.columnIndex === 4 || col.columnIndex === 5 ? companiesRender(api.cell( rowIdx, col.columnIndex ).data(), "display", null, null, "، ") : col.data) + '</td>' +
+                            '</tr>' :
+                            '';
+                    }).join('');
+                    return data ?
+                        $('<table/>').append(data) :
+                        false;
+                }
+
+            }
+        },
+        columnDefs: [{
+            "defaultContent": "",
+            "targets": "_all"
+        }],
+        order: [
+            [5, 'asc'],
+            [6, 'asc'],
+            [2, 'asc']
+        ],
+        "lengthMenu": [50, 200, 500, 1000],
+        "pageLength": 50,
+        "lengthChange": true,
+        "language": {
+            "url": "Persian.json"
+        }
+    });
+
+    table.on( 'responsive-display', function ( e, datatable, row, showHide, update ) {
+        if(showHide) {
+            if(row.data()[7]) {row.child().addClass("lost");return;}
+            if(row.data()[6].length) {row.child().addClass("has-defects")}
+        }
+    } );
+
+    {# $('#btn-show-all-children').on('click', function() {
+        table.rows(':not(.parent)').nodes().to$().find('td:first-child').trigger('click');
+    });
+
+    $('#btn-hide-all-children').on('click', function() {
+        table.rows('.parent').nodes().to$().find('td:first-child').trigger('click');
+    }); #}
+
+function resbuttons() {
+  $('#show-all').html("نمایش همه");
+  $('#show-iranian').html("نمایش بازی‌های ایرانی");
+  $('#show-dubbed').html("نمایش بازی‌های دوبله");
+}
+
+    $('#show-all').on('click', function() {
+        resbuttons();
+        $(this).html("نمایش همه ✓");
+        table
+          .columns( 1 )
+          .search( "" )
+          .draw();
+    });
+
+    $('#show-iranian').on('click', function() {
+        resbuttons();
+        $(this).html("نمایش بازی‌های ایرانی ✓");
+        table
+          .columns( 1 )
+          .search( "iranian" )
+          .draw();
+
+    });
+
+    $('#show-dubbed').on('click', function() {
+        resbuttons();
+        $(this).html("نمایش بازی‌های دوبله ✓");
+        table
+          .columns( 1 )
+          .search( "dubbed" )
+          .draw();
+    });
+
+});
+{% endset %}{% include "datatables.min.js" %}{{ js | jsmin | safe }}

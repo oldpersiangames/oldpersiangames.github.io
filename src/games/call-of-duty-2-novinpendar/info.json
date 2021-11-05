@@ -1,0 +1,69 @@
+{
+  "title": [
+    "Call of Duty 2"
+  ],
+  "titlefa": [
+    "ندای وظیفه ۲"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-07-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    5
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070212083054/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000041"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": [
+    "Angry Birds Collection"
+  ],
+  "titlefa": [
+    "مجموعه پرندگان خشمگین"
+  ],
+  "producer": [
+    "vnv"
+  ],
+  "publisher": [
+    "vnv"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2010-02-04",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [
+        "Angry Birds"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Seasons"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فصل‌ها"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Rio"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: ریو"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Space"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فضا"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Star Wars"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: جنگ ستارگان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

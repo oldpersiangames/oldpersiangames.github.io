@@ -1,0 +1,152 @@
+{
+  "title": [
+    "Airborne Troops + 7 Games"
+  ],
+  "titlefa": [
+    "گروهان هوابرد + ۷ بازی جذاب"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "ebay"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-08-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Airborne Troops: Countdown to D-Day"
+      ],
+      "titlefa": [
+        "گروهان هوابرد"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Red Shark"
+      ],
+      "titlefa": [
+        "کوسه قرمز"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "3D Coyote Helicopter Hunter"
+      ],
+      "titlefa": [
+        "کایوت شکارچی هلی‌کوپتر"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Air Command 3.0"
+      ],
+      "titlefa": [
+        "فرماندهی نیروی هوایی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "F-16 Arggressor"
+      ],
+      "titlefa": [
+        "اف-۱۶ مهاجم"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "F/A-18E Super Hornet"
+      ],
+      "titlefa": [
+        "هورنت فوق‌العاده"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "F-22 Raptor"
+      ],
+      "titlefa": [
+        "اف-۲۲ شکارچی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "MiG-29 Fulcrum"
+      ],
+      "titlefa": [
+        "میگ-۲۹ هوانورد"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

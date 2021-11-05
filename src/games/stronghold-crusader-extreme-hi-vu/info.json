@@ -1,0 +1,73 @@
+{
+  "title": [
+    "Stronghold: Crusader Extreme"
+  ],
+  "titlefa": [
+    "جنگ‌های صلیبی ۴"
+  ],
+  "producer": [
+    "hi-vu"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2010-07-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Stronghold: Crusader"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stronghold: Crusader Extreme"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی بی‌نهایت"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

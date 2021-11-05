@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Onimusha 3: Demon Siege"
+  ],
+  "titlefa": [
+    "جنگجویان افسانه ای ۳"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2008-08-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

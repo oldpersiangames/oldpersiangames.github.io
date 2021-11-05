@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Call of Juarez: Gunslinger"
+  ],
+  "titlefa": [
+    "ندای خوارز: هفت‌تیرکش"
+  ],
+  "producer": [
+    "glory"
+  ],
+  "publisher": [
+    "srayaneh"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک بازی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

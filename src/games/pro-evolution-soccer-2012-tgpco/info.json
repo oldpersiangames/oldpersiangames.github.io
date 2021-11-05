@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2012",
+    "PES 2012"
+  ],
+  "titlefa": [
+    "پی ای اس ۲۰۱۲ با گزارش متفاوت از مزدک میرزایی"
+  ],
+  "producer": [
+    "tgpco"
+  ],
+  "publisher": [
+    "tgpco"
+  ],
+  "price": [
+    60000
+  ],
+  "release_date": [
+    {
+      "date": "2012-02-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

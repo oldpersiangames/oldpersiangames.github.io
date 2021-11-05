@@ -1,0 +1,77 @@
+{
+  "title": [
+    "Arash The Slingshoter"
+  ],
+  "titlefa": [
+    "آرش کماندار"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2012-07-21",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": [
+        "Arash Kamandar Guide.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

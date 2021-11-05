@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Soldier of Fortune II: Double Helix"
+  ],
+  "titlefa": [
+    "سرباز سرنوشت ۲"
+  ],
+  "producer": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "publisher": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2002-08-25",
+      "ref": "بر اساس حدس."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

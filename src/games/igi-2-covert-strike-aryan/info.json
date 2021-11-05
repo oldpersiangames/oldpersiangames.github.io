@@ -1,0 +1,68 @@
+{
+  "title": [
+    "I.G.I.-2: Covert Strike",
+    "Project I.G.I. 2"
+  ],
+  "titlefa": [
+    "حمله به مخفیگاه"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "aryan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2003-04-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "ایمیجی که از این بازی موجود داریم، دستکاری شده و فایل آتوران حذف شده. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

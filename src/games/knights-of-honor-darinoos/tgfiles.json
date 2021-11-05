@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "KOH_CD1.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDJhhD0BJn80Upk623hcJyn9SCuBZaAACrwcAAoKuuVPRpqi1oVdzESAE",
+    "file_unique_id": "AgADrwcAAoKuuVM",
+    "file_size": 523229184
+  },
+  {
+    "file_name": "KOH_CD2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDJlhD0BK3RkD1rlTaQQTLGqoEAyGIQACWAoAAsr-KFBh-bqUxpu57CAE",
+    "file_unique_id": "AgADWAoAAsr-KFA",
+    "file_size": 549691392
+  },
+  {
+    "file_name": "KOH_Serial.txt",
+    "mime_type": "text/plain",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBc5glO1JAUFY3Jd7lWjCwLZ6QF1_HgACpAgAAnM44FBvs15wY2mS1R8E",
+    "file_unique_id": "AgADpAgAAnM44FA",
+    "file_size": 12
+  }
+]

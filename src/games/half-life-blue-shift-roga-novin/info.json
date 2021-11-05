@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Half-Life: Blue Shift"
+  ],
+  "titlefa": [
+    "نیمه جان: پلیس شیفت"
+  ],
+  "producer": [
+    "roga",
+    "novin"
+  ],
+  "publisher": [
+    "roga",
+    "novin"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2002-10-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "ایمیج این بازی از دیسک خش‌دار تهیه شده (البته قابل نصب و اجرا هست). دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

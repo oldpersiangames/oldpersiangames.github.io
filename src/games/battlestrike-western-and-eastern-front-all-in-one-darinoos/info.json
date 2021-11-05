@@ -1,0 +1,89 @@
+{
+  "title": [
+    "Battlestrike: Western and Eastern Front: All in One"
+  ],
+  "titlefa": [
+    "خط مقدم: جبهه های شرق و غرب"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-01-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Battlestrike: Shadow of Stalingrad"
+      ],
+      "titlefa": [
+        "خط مقدم: جبهه های شرق و غرب"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "The Royal Marines Commando"
+      ],
+      "titlefa": [
+        "کماندوهای گارد سلطنتی"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": [
+        "Battlestrike_Western_and_Eastern_Front_All_in_One_Manual_Darinoos.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&path=62&product_id=116"
+    }
+  ]
+}

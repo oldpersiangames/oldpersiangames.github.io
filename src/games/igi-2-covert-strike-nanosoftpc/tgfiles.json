@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "IGI 2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACD3BhJhIi80AFL-NqscHVWX-85EV4QgACjAoAAsC0MFHX5mUFv6VVnCAE",
+    "file_unique_id": "AgADjAoAAsC0MFE",
+    "file_size": 650385408
+  },
+  {
+    "file_name": "IGI-CD 1.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACD25hJhIdd2Ce6rcEoyVOfru8Q40tRwACTwsAAlk_8FMcWFE_ZghbRiAE",
+    "file_unique_id": "AgADTwsAAlk_8FM",
+    "file_size": 713259008
+  },
+  {
+    "file_name": "Disk 2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACD29hJhIfyDiZbbKIJElqmN8b77A3rwACUAsAAlk_8FPQgmX1VHMw3CAE",
+    "file_unique_id": "AgADUAsAAlk_8FM",
+    "file_size": 378615808
+  }
+]

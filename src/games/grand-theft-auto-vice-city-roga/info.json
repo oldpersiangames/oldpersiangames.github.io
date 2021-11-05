@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Grand Theft Auto: Vice City",
+    "GTA: Vice City"
+  ],
+  "titlefa": [
+    "اتومبیل دزدی بزرگ: شهر گناه"
+  ],
+  "producer": [
+    "roga"
+  ],
+  "publisher": [
+    "roga"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2003-02-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "ایمیج دیسک موجود نیست. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

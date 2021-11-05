@@ -1,0 +1,91 @@
+{
+  "title": [
+    "Grand Ages: Rome + The Reign of Augustus"
+  ],
+  "titlefa": [
+    "شکوه امپراطوری روم: دوران آگوستوس"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2010-12-13",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Grand Ages: Rome"
+      ],
+      "titlefa": [
+        "شکوه امپراطوری روم"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Grand Ages: Rome - The Reign of Augustus"
+      ],
+      "titlefa": [
+        "شکوه امپراطوری روم: دوران آگوستوس"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 33,
+      "files": [
+        "Grand Ages Rome Reign Of Augustus Manual.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&path=60&product_id=60"
+    }
+  ]
+}

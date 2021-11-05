@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Pro Evolution Soccer 3",
+    "PES 3"
+  ],
+  "titlefa": [
+    "مسابقات حرفه ای فوتبال ۳ {با گزارش فارسی جواد خیابانی}"
+  ],
+  "producer": [
+    "parsgame"
+  ],
+  "publisher": [
+    "parsgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-07-11",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "pouryajfr",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

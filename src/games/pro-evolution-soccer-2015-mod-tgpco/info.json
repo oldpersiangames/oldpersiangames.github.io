@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2015 [Mod]",
+    "PES 2015 [Mod]"
+  ],
+  "titlefa": [
+    "لیگ برتر ایران ۹۴-۹۳ نیم فصل دوم"
+  ],
+  "producer": [
+    "tgpco"
+  ],
+  "publisher": [
+    "tgpco"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2015-01-01",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Pro Evolution Soccer 2015",
+        "PES 2015"
+      ],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Matin82_graphic",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Return to Castle Wolfenstein"
+  ],
+  "titlefa": [
+    "بازگشت به قلعه ولفنشتاین"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "magmasoft"
+  ],
+  "price": [
+    10000
+  ],
+  "release_date": [
+    {
+      "date": "2006-12-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "IMG_20210310_145358.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAII-GC__xwsCB7b3hDSfRr3QLfxdh5IAAJiCAACV9lIUrNfZoTnc8zGUJaOLF0AAwEAB20AAyeFAAIfBA",
+      "file_unique_id": "AQADUJaOLF0AAyeFAAI",
+      "file_size": 16677,
+      "width": 240,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACCPhgv_8cLAge294Q0n0a90C38XYeSAACYggAAlfZSFKzX2aE53PMxh8E",
+    "file_unique_id": "AgADYggAAlfZSFI",
+    "file_size": 2861808
+  },
+  {
+    "file_name": "Neighbours From.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACCPlgv_8cL_0U4J4qUzqL67_boftXYQACpwkAAjnQSFIuaO2CmRviQR8E",
+    "file_unique_id": "AgADpwkAAjnQSFI",
+    "file_size": 489101312
+  }
+]

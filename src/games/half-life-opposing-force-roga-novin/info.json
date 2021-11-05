@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Half-Life: Opposing Force"
+  ],
+  "titlefa": [
+    "نیمه جان: نیروهای مخالف"
+  ],
+  "producer": [
+    "roga",
+    "novin"
+  ],
+  "publisher": [
+    "roga",
+    "novin"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2003-02-14",
+      "ref": ""
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "pejman",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

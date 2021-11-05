@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2019 [Mod]",
+    "PES 2019 [Mod]"
+  ],
+  "titlefa": [
+    "لیگ برتر ۹۸-۹۷ با گزارش عادل فردوسی پور"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    155000
+  ],
+  "release_date": [
+    {
+      "date": "2019-02-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Pro Evolution Soccer 2019",
+        "PES 2019"
+      ],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "tinyboy13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

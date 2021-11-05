@@ -1,0 +1,70 @@
+{
+  "title": [
+    "The Sims 2 + University"
+  ],
+  "titlefa": [
+    "زندگی مجازی ۲ + دانشگاه مجازی"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    6
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "The Sims 2"
+      ],
+      "titlefa": [
+        "زندگی مجازی ۲"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "The Sims 2: University"
+      ],
+      "titlefa": [
+        "دانشگاه مجازی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

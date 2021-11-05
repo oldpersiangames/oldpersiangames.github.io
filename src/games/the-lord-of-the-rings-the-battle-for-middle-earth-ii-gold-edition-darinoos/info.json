@@ -1,0 +1,83 @@
+{
+  "title": [
+    "The Lord of the Rings: The Battle for Middle-earth II [Gold Edition]"
+  ],
+  "titlefa": [
+    "ارباب حلقه ها: نبرد میدل ارث [نسخه طلایی]"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    65000
+  ],
+  "release_date": [
+    {
+      "date": "2012-10-20",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "The Lord of the Rings: The Battle for Middle-earth II"
+      ],
+      "titlefa": [
+        "ارباب حلقه ها: نبرد میدل ارث"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king"
+      ],
+      "titlefa": [
+        "ارباب حلقه ها: نبرد میدل ارث: ظهور ویچ کینگ"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mohamadrajaei",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

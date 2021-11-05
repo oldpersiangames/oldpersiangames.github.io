@@ -1,0 +1,72 @@
+{
+  "title": [
+    "Made Man"
+  ],
+  "titlefa": [
+    "سرگذشت یک قاتل"
+  ],
+  "producer": [
+    "pardisgame"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [
+    25000
+  ],
+  "release_date": [
+    {
+      "date": "2007-11-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "نسخه‌ی PS2 این اثر را نداریم. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows",
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Vendorsilver",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

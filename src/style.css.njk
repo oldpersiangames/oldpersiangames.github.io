@@ -1,0 +1,558 @@
+---
+permalink: style.css
+eleventyExcludeFromCollections: true
+---
+{% set css %}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Regular.eot');
+    src: url('fonts/Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Regular.woff2') format('woff2'),
+         url('fonts/Vazir-Regular.woff') format('woff'),
+         url('fonts/Vazir-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Bold.eot');
+    src: url('fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Bold.woff2') format('woff2'),
+         url('fonts/Vazir-Bold.woff') format('woff'),
+         url('fonts/Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Black.eot');
+    src: url('fonts/Vazir-Black.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Black.woff2') format('woff2'),
+         url('fonts/Vazir-Black.woff') format('woff'),
+         url('fonts/Vazir-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Medium.eot');
+    src: url('fonts/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Medium.woff2') format('woff2'),
+         url('fonts/Vazir-Medium.woff') format('woff'),
+         url('fonts/Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Light.eot');
+    src: url('fonts/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Light.woff2') format('woff2'),
+         url('fonts/Vazir-Light.woff') format('woff'),
+         url('fonts/Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/Vazir-Thin.eot');
+    src: url('fonts/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Vazir-Thin.woff2') format('woff2'),
+         url('fonts/Vazir-Thin.woff') format('woff'),
+         url('fonts/Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+html {
+  text-size-adjust: none;
+}
+body {
+  font-family: 'Vazir', sans-serif;
+  color: #2d2b31;
+  line-height: 1.5;
+  margin:0
+}
+
+.ltr { direction:ltr;text-align:left }
+
+nav {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.website-header>nav>a:link,
+.website-header>nav>a:visited {
+  color: DarkGoldenRod;
+}
+
+.website-header>nav>a:hover {
+  color: DarkKhaki;
+}
+
+footer a:link,
+footer a:visited {
+  color: red;
+}
+
+footer a:hover {
+  color: hotpink;
+}
+
+
+
+
+
+a:link, a:visited {
+color: #0645ad;
+text-decoration:none;
+}
+a:hover {
+color:#008CBA;
+text-decoration: underline;
+}
+a:active {
+  color: blue;
+}
+
+figure {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure figcaption {
+  font-weight: bold;
+}
+
+.website-header {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  /* look at: https://stackoverflow.com/questions/20689575/css-margin-top-of-h1-affects-parents-margin */
+  padding: 0;
+  margin:0;
+  padding: 1px;
+}
+
+footer {
+  background-color: #1a222c;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+footer p {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.2em;
+}
+h3 {
+  font-size: 1em;
+}
+.website-header div {
+  font-size: 1.5em;
+  margin-top: 0.67em;
+  font-weight: bold;
+  text-align: center;
+}
+.website-header div a {
+  background-color: #f44336;
+  width: 100%;
+  padding: 14px 10px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.website-header div a:link,
+.website-header div a:visited {
+  
+  
+  
+  color: white;
+  
+}
+
+section, article {
+  display: flow-root;
+  padding: 1px 0;
+  text-align: justify;
+  background: #f5f4f0;
+}
+
+.inner {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 1000px;
+}
+
+header h1 {
+  text-align: center;
+}
+
+.invite {
+  padding: 0.5em 0.5em;;
+  text-align:justify;text-align-last:center;
+  font-weight: bold;
+  margin: 0;
+}
+.admin span[dir="ltr"], .invite span[dir="ltr"], footer span[dir="ltr"] {
+  /*font-family: serif;*/
+}
+.green {
+  background: green;
+  color: #fff;
+}
+.green a:link,
+.green a:hover,
+.green a:visited,
+.green a:active {
+  color: springgreen;
+}
+
+.admin {
+  text-align:justify;text-align-last:center;
+  font-size:0.8em;
+  padding: 0.2em 0.5em;
+  background: wheat;
+  margin: 0;
+}
+
+.admin a:link,
+.admin a:hover,
+.admin a:visited,
+.admin a:active {
+  color: sienna;
+  font-weight:bold;
+}
+
+ul.list-of-games-guide {
+  padding: 0;
+  margin: 0;
+  border: 1px solid #000;
+  clear: both;
+}
+
+ul.list-of-games-guide li {
+  padding: 5px;
+}
+
+ul.list-of-games-guide li:nth-child(3) {
+  background: pink;
+}
+
+ul.list-of-games-guide li:nth-child(2) {
+  background: wheat;
+}
+
+#games td.child {
+  background: white;
+}
+
+#games .child table {
+  width: 100%;
+}
+
+#games .child table td:nth-child(1):not([colspan]) {
+  font-weight:bold;width:auto;white-space:nowrap;
+}
+#games .child table td:nth-child(2) {
+  width: 100%;
+}
+
+#games .lost>td {
+  background: pink;
+}
+#games .has-defects>td {
+  background: wheat;
+}
+#games .has-defects>td, #games .lost>td {
+  border-color: gray;
+}
+
+#games .lost.child td {
+  background: mistyrose;
+}
+#games .has-defects.child td {
+  background: cornsilk;
+}
+#games .child.has-defects table td {
+  border-color: lightgray;
+}
+#games .child.lost table td {
+  border-color: darkgray;
+}
+
+#games .child table {
+  font-size:90%;
+  border-collapse: collapse;
+}
+
+#games td img {max-width:100%}
+.game-maininfo {
+text-align:center;font-weight:bold;
+position:relative
+}
+.game-infobox .game-maininfo {
+  font-size: 110%;
+}
+#games .child .game-maininfo {
+  display: inline-block;
+}
+.title {
+  text-align:center
+}
+.game-infobox {
+  float:left;width:20em;
+  margin-right:8px;
+  font-size:90%;
+}
+.game-infobox td {
+  padding: 5px 0;
+}
+
+.game-files-list-parent {
+  overflow: hidden;
+}
+
+.game-files-list {
+  width: 100%;
+  font-size:90%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.game-files-list td, .game-files-list th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.game-files-list tr:nth-child(even){background-color: #f2f2f2;}
+
+.game-files-list tr:hover {background-color: #ddd;}
+
+.game-files-list th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.game-files-list tr td:first-child { /* For long filenames */
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+
+.covers {
+  text-align: center;
+  overflow: hidden;
+}
+.covers img {
+  /*width: 165px;*/
+}
+
+.join-channel {
+	margin-top:0.3em;margin-bottom:0.3em;background:white;border:1px solid #000;font-weight:bold;color:black;display:flow-root;
+}
+.join-channel img {
+	width:200px;height:200px;float:right
+}
+.join-channel .description {
+	overflow:hidden;padding:0.4em;
+}
+.join-channel .join {
+	text-align: left;
+}
+
+@media (max-width: 480px) {
+.game-infobox {
+  margin: 0;
+  width: 100%;
+  float: none;
+}
+#games .child .game-maininfo {
+  display: block;
+}
+.game-files-list {
+  margin-top: 10px;
+}
+.join-channel img {
+	width:75%;height:auto;float:none;display:block;margin:0 auto;
+}
+.join-channel .description {
+	overflow:visible
+}
+.join-channel .join {
+	text-align: center;
+}
+}
+
+
+ul {
+  list-style:none;list-style-position:inside;padding-right:1em;
+}
+ul li::before {
+  content: "\00BB";
+  padding-left: 5px;
+  color: red;
+  font-weight: bold;
+}
+.little-list-wrapper {
+  margin-top: 0.5em;
+  text-align: initial;
+  font-size: 83%;
+}
+.game-infobox .little-list-wrapper {
+  font-size: 75%;
+}
+.little-list-wrapper ul {
+  padding-right: 5px;margin:0;
+  font-weight: normal;
+}
+.little-list-wrapper ul[dir="ltr"] {
+  padding: 0 0 0 5px;
+}
+.little-list-wrapper ul li {
+  padding:0;margin:0;
+}
+.little-list-wrapper ul li::before {
+  content: '• ';
+  padding:0;
+  margin:0;
+  color: inherit;
+  font-weight: normal;
+}
+ol {
+  list-style-type: persian;
+  list-style-position:inside;
+  padding-right:1em;
+}
+
+.nospace {margin:0;padding:0}
+ul.other-releases, ul.external-links, ol.references {
+  font-size: 90%;
+  margin: 0.5em 0;
+}
+h2 {
+  
+}
+h2:before, h3:before {
+  content: "❯ ";
+  color: slategray;
+}
+.download svg {
+  display: inline-block;
+  vertical-align: text-top;
+  width: 1.5em;
+}
+.download:hover {
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+.lost-text {
+  background:brown !important;color:white;font-weight:bold;
+  text-align:justify;
+}
+.lost-text a {
+  color: yellow;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  right: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: left;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}
+
+.modal-header h2::before {
+  content: "";
+  padding: 0;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}
+
+ul.defects a {
+  font-weight: bold;
+}
+
+.covers a {
+  position:relative;display:inline-block;margin:0 2px;
+}
+.rebuilt-text {
+  direction:rtl;position:absolute;top:0;left:0;right:0;width:100%;font-size:80%;margin: 0 auto;background-color:rgba(0,0,0,0.6);color:white;font-weight:bold;font-style:italic
+}
+.game-maininfo .rebuilt-text {
+  width: 200px;
+  font-size: 90%;
+}
+
+{% endset %}{{ css | cssmin | safe }}

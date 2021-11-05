@@ -1,0 +1,89 @@
+{
+  "title": [
+    "Destruction Operations + Safare Janjali"
+  ],
+  "titlefa": [
+    "عملیات انهدام و سفر جنجالی"
+  ],
+  "producer": [
+    "benisi"
+  ],
+  "publisher": [
+    "benisi"
+  ],
+  "price": [
+    135000
+  ],
+  "release_date": [
+    {
+      "date": "2017-06-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Destruction Operation 2: Battle of Khorramshahr"
+      ],
+      "titlefa": [
+        "عملیات انهدام ۲: نبرد خرمشهر"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Destruction Operations"
+      ],
+      "titlefa": [
+        "عملیات انهدام ۱: نبرد فاو"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": [
+        "Safare Janjali"
+      ],
+      "titlefa": [
+        "سفر جنجالی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Matin82_graphic",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

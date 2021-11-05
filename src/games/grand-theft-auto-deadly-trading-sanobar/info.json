@@ -1,0 +1,68 @@
+{
+  "title": [
+    "Grand Theft Auto: Deadly Trading",
+    "GTA: Deadly Trading"
+  ],
+  "titlefa": [
+    "تجارت مرگ"
+  ],
+  "producer": [
+    "sanobar",
+    "roga"
+  ],
+  "publisher": [
+    "sanobar"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2003-06-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "فایل دیسک دوم خراب است. دیسک دوم را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [
+        "Grand Theft Auto: Vice City"
+      ],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Game of Death: Bloody Infidelity"
+  ],
+  "titlefa": [
+    "مرگ: کفر خونین"
+  ],
+  "producer": [
+    "rsk"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [
+    85000
+  ],
+  "release_date": [
+    {
+      "date": "2014-07-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "amirhossein_aloneboy",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

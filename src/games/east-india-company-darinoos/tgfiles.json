@@ -1,0 +1,107 @@
+[
+  {
+    "file_name": "East India Company.bmp",
+    "mime_type": "image/x-ms-bmp",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCu9g_rWctrEGbnG29ICXrTPaQmuKogACxgcAAgGg0VOrSrrWbf_EZiAE",
+    "file_unique_id": "AgADxgcAAgGg0VM",
+    "file_size": 750056
+  },
+  {
+    "file_name": "East India Company Front Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK8GD-tZ6gSP93d2x3QwKP1GcAAaMMSgACwAcAAgGg0VOs2W5myiBgOAEAB20AAyAE",
+      "file_unique_id": "AQADwAcAAgGg0VNy",
+      "file_size": 29775,
+      "width": 228,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvBg_rWeoEj_d3dsd0MCj9RnAAGjDEoAAsAHAAIBoNFTrNluZsogYDggBA",
+    "file_unique_id": "AgADwAcAAgGg0VM",
+    "file_size": 6157954
+  },
+  {
+    "file_name": "East India Company Back Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK8WD-taBnlkJZlKOr0G-C8p_v64hMAALBBwACAaDRU_9LtIDv1csZAQAHbQADIAQ",
+      "file_unique_id": "AQADwQcAAgGg0VNy",
+      "file_size": 27646,
+      "width": 226,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvFg_rWgZ5ZCWZSjq9BvgvKf7-uITAACwQcAAgGg0VP_S7SA79XLGSAE",
+    "file_unique_id": "AgADwQcAAgGg0VM",
+    "file_size": 4285713
+  },
+  {
+    "file_name": "East India Company Manual.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK8mD-taPGPg1NMs9bfZnIL0OugDWSAALEBwACAaDRUx54PbMMKX_BAQAHbQADIAQ",
+      "file_unique_id": "AQADxAcAAgGg0VNy",
+      "file_size": 16298,
+      "width": 221,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvJg_rWjxj4NTTLPW32ZyC9DroA1kgACxAcAAgGg0VMeeD2zDCl_wSAE",
+    "file_unique_id": "AgADxAcAAgGg0VM",
+    "file_size": 315204
+  },
+  {
+    "file_name": "East India Company VIP Card Front.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK82D-taY69b37ETxI2zC_lifAvNjmAALCBwACAaDRU-F4RVF_HwJJAQAHbQADIAQ",
+      "file_unique_id": "AQADwgcAAgGg0VNy",
+      "file_size": 23063,
+      "width": 320,
+      "height": 241
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvNg_rWmOvW9-xE8SNswv5YnwLzY5gACwgcAAgGg0VPheEVRfx8CSSAE",
+    "file_unique_id": "AgADwgcAAgGg0VM",
+    "file_size": 488885
+  },
+  {
+    "file_name": "East India Company VIP Card Back.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK9GD-talg_QE0MDeXa194cmVh8LpPAALDBwACAaDRUw_NmegJNMVMAQAHbQADIAQ",
+      "file_unique_id": "AQADwwcAAgGg0VNy",
+      "file_size": 21479,
+      "width": 320,
+      "height": 240
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvRg_rWpYP0BNDA3l2tfeHJlYfC6TwACwwcAAgGg0VMPzZnoCTTFTCAE",
+    "file_unique_id": "AgADwwcAAgGg0VM",
+    "file_size": 569815
+  },
+  {
+    "file_name": "East India Company Disc Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAIK9WD-tazingHOzHRggIIGULYMiqIQAALFBwACAaDRU93pFGQl_fpXAQAHbQADIAQ",
+      "file_unique_id": "AQADxQcAAgGg0VNy",
+      "file_size": 24786,
+      "width": 299,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvVg_rWs4p4Bzsx0YICCBlC2DIqiEAACxQcAAgGg0VPd6RRkJf36VyAE",
+    "file_unique_id": "AgADxQcAAgGg0VM",
+    "file_size": 2544240
+  },
+  {
+    "file_name": "EIC Darinoos.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCvZg_rWurgy7Vv4mzxkfmcU_skQR_AACIwsAArYIUVO4461rBRA0JCAE",
+    "file_unique_id": "AgADIwsAArYIUVM",
+    "file_size": 1485864960
+  },
+  {
+    "file_name": "East India Company Manual.pdf",
+    "mime_type": "application/pdf",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCu5g_rWZoZAXE8FnXi6_aiR1IpbB2AACvgkAAgGgyVOxEbjA1PgdSCAE",
+    "file_unique_id": "AgADvgkAAgGgyVM",
+    "file_size": 18902706
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Codename: Nina - Global Terrorism Strike Force",
+    "Nina: Agent Chronicles"
+  ],
+  "titlefa": [
+    "اسم رمز: نینا"
+  ],
+  "producer": [
+    "vistarayane"
+  ],
+  "publisher": [
+    "vistarayane"
+  ],
+  "price": [
+    22000
+  ],
+  "release_date": [
+    {
+      "date": "2003-12-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

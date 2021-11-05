@@ -1,0 +1,64 @@
+{
+  "title": [
+    "Call of Duty"
+  ],
+  "titlefa": [
+    "ندای وظیفه ۱"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2007-06-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "کپی دیسک دوم موجود نیست. دیسک را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

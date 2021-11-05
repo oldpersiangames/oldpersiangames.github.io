@@ -1,0 +1,77 @@
+{
+  "title": [
+    "Orient: A Hero's Heritage",
+    "Age of Pahlevans"
+  ],
+  "titlefa": [
+    "عصر پهلوانان"
+  ],
+  "producer": [
+    "rasgames"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2009-03-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20180901123930/http://rasgames.ir/aop/"
+    },
+    {
+      "title": "مشخصات در ویکی‌پدیا",
+      "url": "https://en.wikipedia.org/wiki/Orient:_A_Hero%27s_Heritage"
+    }
+  ]
+}

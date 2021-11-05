@@ -1,0 +1,75 @@
+{
+  "title": [
+    "Commandos: Behind Enemy Lines + Commandos: Beyond the Call of Duty"
+  ],
+  "titlefa": [
+    "کماندوها: پشت خطوط دشمن + کماندوها: فراتر از ندای وظیفه"
+  ],
+  "producer": [
+    "venus"
+  ],
+  "publisher": [
+    "venus"
+  ],
+  "price": [
+    0
+  ],
+  "release_date": [
+    {
+      "date": "2013-04-25",
+      "ref": "بر اساس تاریخ محتوای فایل فشرده."
+    }
+  ],
+  "released_on": [
+    "web"
+  ],
+  "no_of_discs": [
+    0
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Commandos: Behind Enemy Lines"
+      ],
+      "titlefa": [
+        "کماندوها: پشت خطوط دشمن"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Commandos: Beyond the Call of Duty"
+      ],
+      "titlefa": [
+        "کماندوها: فراتر از ندای وظیفه"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "دانلود از سایت ناشر",
+      "url": "http://venus-soft.ir/post/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%DA%A9-%DA%A9%D9%85%D8%A7%D9%86%D8%AF%D9%88-1-Commandos-%D8%AF%D9%88%D8%A8%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C"
+    }
+  ]
+}

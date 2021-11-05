@@ -1,0 +1,59 @@
+{
+  "title": [
+    "Capsule Men"
+  ],
+  "titlefa": [
+    "مردان کپسولی"
+  ],
+  "producer": [
+    "pasargadgames"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-01-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

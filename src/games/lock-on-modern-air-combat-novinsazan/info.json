@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Lock On: Modern Air Combat"
+  ],
+  "titlefa": [
+    "جنگجویان هوایی"
+  ],
+  "producer": [
+    "roga"
+  ],
+  "publisher": [
+    "novinsazan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-05-26",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

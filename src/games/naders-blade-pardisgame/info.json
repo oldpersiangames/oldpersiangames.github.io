@@ -1,0 +1,82 @@
+{
+  "title": [
+    "Nader's Blade"
+  ],
+  "titlefa": [
+    "شمشیر نادر"
+  ],
+  "producer": [
+    "pouyaarts"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2007-07-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "indisc",
+      "no_of_pages": 0,
+      "files": []
+    },
+    {
+      "release_type": "inweb",
+      "no_of_pages": 0,
+      "files": [
+        "qop3_walkthrough.zip"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "manual",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "وبسایت رسمی",
+      "url": "http://www.questofpersia.com/"
+    },
+    {
+      "title": "کتابچه‌ی راهنمای فارسی",
+      "url": "http://www.questofpersia.com/fa/qop3_walkthrough.html"
+    }
+  ]
+}

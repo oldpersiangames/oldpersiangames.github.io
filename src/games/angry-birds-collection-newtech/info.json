@@ -1,0 +1,120 @@
+{
+  "title": [
+    "Angry Birds Collection"
+  ],
+  "titlefa": [
+    "مجموعه پرندگان خشمگین"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2013-04-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Angry Birds"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Seasons"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فصل‌ها"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Rio"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: ریو"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Space"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فضا"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Star Wars"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: جنگ ستارگان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mr_Mohammad2002",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Bardiamohamadi",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

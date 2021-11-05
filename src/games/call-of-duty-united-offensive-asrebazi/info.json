@@ -1,0 +1,80 @@
+{
+  "title": [
+    "Call of Duty: United Offensive"
+  ],
+  "titlefa": [
+    "ندای وظیفه: نبرد متفقین"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2013-06-26",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Call of Duty"
+      ],
+      "titlefa": [
+        "ندای وظیفه"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Call of Duty: United Offensive"
+      ],
+      "titlefa": [
+        "ندای وظیفه: نبرد متفقین"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

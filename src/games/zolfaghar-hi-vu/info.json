@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Zolfaghar"
+  ],
+  "titlefa": [
+    "ذوالفقار"
+  ],
+  "producer": [
+    "safirnourbesharat",
+    "epidemic",
+    "amytisgames"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2014-05-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

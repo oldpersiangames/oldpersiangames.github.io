@@ -1,0 +1,74 @@
+{
+  "title": [
+    "F.E.A.R. First Encounter Assault Recon"
+  ],
+  "titlefa": [
+    "وحشت"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2006-03-04",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    5
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 34,
+      "files": [
+        "F.E.A.R. Persian Walkthrough Guide - Scanned (NP).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "game",
+        "manual",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "http://web.archive.org/web/20070206082000/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000045"
+    }
+  ]
+}

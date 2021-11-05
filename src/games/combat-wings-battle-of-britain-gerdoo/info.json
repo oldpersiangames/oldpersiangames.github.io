@@ -1,0 +1,68 @@
+{
+  "title": [
+    "Combat Wings: Battle of Britain"
+  ],
+  "titlefa": [
+    "بال های جنگی: نبرد بریتانیا"
+  ],
+  "producer": [
+    "gerdoo"
+  ],
+  "publisher": [
+    "gerdoo"
+  ],
+  "price": [
+    100000
+  ],
+  "release_date": [
+    {
+      "date": "2017-06-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های دیسک را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "aydinfm",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

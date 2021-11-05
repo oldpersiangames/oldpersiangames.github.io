@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Dungeon Siege"
+  ],
+  "titlefa": [
+    "نفرین شدگان"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    32000
+  ],
+  "release_date": [
+    {
+      "date": "2003-05-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "indisc",
+      "no_of_pages": 283,
+      "files": [
+        "Dungeon Siege Help (Farsi).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070207083635/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000016"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709075158/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=20&Def=5&CurrPN=5"
+    }
+  ]
+}

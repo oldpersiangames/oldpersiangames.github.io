@@ -1,0 +1,16 @@
+[
+  {
+    "file_name": "Disk1.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBNlgiTJmo4iLXFuWpFcMn8WseDo8QQACvQcAAnICYVOeFzgQMGCEFh8E",
+    "file_unique_id": "AgADvQcAAnICYVM",
+    "file_size": 686170112
+  },
+  {
+    "file_name": "Disk2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBNpgiTJmmAE8DQQdC5djdPAiOvGFEQACzgcAAnICYVPnCJae_jecZx8E",
+    "file_unique_id": "AgADzgcAAnICYVM",
+    "file_size": 350402560
+  }
+]

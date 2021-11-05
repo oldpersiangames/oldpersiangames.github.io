@@ -1,0 +1,90 @@
+{
+  "title": [
+    "Children's Game Collection"
+  ],
+  "titlefa": [
+    "مجموعه بازیهای کودکانه"
+  ],
+  "producer": [
+    "unknown",
+    "darinoos"
+  ],
+  "publisher": [
+    "magmasoft"
+  ],
+  "price": [
+    20000
+  ],
+  "release_date": [
+    {
+      "date": "2006-09-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Stuart Little 2"
+      ],
+      "titlefa": [
+        "استوارت کوچولو ۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "TinTin: Destination Adventure"
+      ],
+      "titlefa": [
+        "تن تن"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Finding Nemo"
+      ],
+      "titlefa": [
+        "نمو"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

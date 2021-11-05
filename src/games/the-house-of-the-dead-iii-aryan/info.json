@@ -1,0 +1,61 @@
+{
+  "title": [
+    "The House of the Dead III"
+  ],
+  "titlefa": [
+    "خانه مرگ ۳"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "aryan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2005-06-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های کپی شده‌ی دیسک را موجود داریم. ایمیج دیسک را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

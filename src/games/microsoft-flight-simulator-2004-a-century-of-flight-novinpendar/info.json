@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Microsoft Flight Simulator 2004: A Century of Flight"
+  ],
+  "titlefa": [
+    "شبیه‌ساز پرواز"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-04-22",
+      "ref": "تاریخ تقریبی (بر اساس حدس)."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "http://web.archive.org/web/20070205025318/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000025"
+    }
+  ]
+}

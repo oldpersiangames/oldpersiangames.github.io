@@ -1,0 +1,58 @@
+{
+  "title": [
+    "Max Payne 2: The Fall of Max Payne"
+  ],
+  "titlefa": [
+    "مکس پین ۲: سقوط مکس پین"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2004-03-20",
+      "ref": "بر اساس حدس و گمان."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "توضیحات ناشر درباره‌ی عدم عرضه‌ی این محصول",
+      "url": "http://forum.npshop.net/showthread.php?t=409"
+    }
+  ]
+}

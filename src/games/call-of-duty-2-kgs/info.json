@@ -1,0 +1,59 @@
+{
+  "title": [
+    "Call of Duty 2"
+  ],
+  "titlefa": [
+    "ندای وظیفه ۲"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "kgs"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-11-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. ایمیج دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

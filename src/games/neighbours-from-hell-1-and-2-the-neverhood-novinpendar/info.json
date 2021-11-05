@@ -1,0 +1,97 @@
+{
+  "title": [
+    "Neighbours from Hell 1 & 2 + The Neverhood"
+  ],
+  "titlefa": [
+    "همسایه جهنمی ۱ و ۲ + نورهود"
+  ],
+  "producer": [
+    "speed"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2005-01-31",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "ایمیج دیسک دوم این مجموعه که شامل بازی The Neverhood است را نداریم. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [
+        "Neighbours from Hell"
+      ],
+      "titlefa": [
+        "همسایه جهنمی ۱"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Neighbours from Hell 2: On Vacation"
+      ],
+      "titlefa": [
+        "همسایه جهنمی ۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "The Neverhood"
+      ],
+      "titlefa": [
+        "نورهود"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Behdadgames",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

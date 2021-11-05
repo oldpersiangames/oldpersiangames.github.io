@@ -1,0 +1,65 @@
+{
+  "title": [
+    "I.G.I.-2: Covert Strike",
+    "Project I.G.I. 2"
+  ],
+  "titlefa": [
+    "حمله به مخفیگاه"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "nanosoftpc"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-04-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    },
+    {
+      "date": "2007-02-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ANio1",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

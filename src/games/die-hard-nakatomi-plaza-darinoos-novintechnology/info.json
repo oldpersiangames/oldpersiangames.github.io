@@ -1,0 +1,88 @@
+{
+  "title": [
+    "Die Hard: Nakatomi Plaza"
+  ],
+  "titlefa": [
+    "جان سخت: مجتمع ناکاتومی"
+  ],
+  "producer": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "publisher": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2000-09-05",
+      "ref": "بر اساس حدس."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 8,
+      "files": [
+        "20210509_033149.jpg",
+        "20210509_033229.jpg",
+        "20210509_033305.jpg",
+        "20210509_033437.jpg",
+        "20210509_033512.jpg",
+        "20210509_033546.jpg",
+        "20210509_033621.jpg",
+        "20210509_033653.jpg"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

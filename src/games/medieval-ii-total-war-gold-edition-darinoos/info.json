@@ -1,0 +1,83 @@
+{
+  "title": [
+    "Medieval II: Total War - Gold Edition"
+  ],
+  "titlefa": [
+    "جنگ های قرون وسطی (امپراطوری ها)"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    65000
+  ],
+  "release_date": [
+    {
+      "date": "2009-06-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Medieval II: Total War"
+      ],
+      "titlefa": [
+        "جنگ های قرون وسطی"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Medieval II: Total War - Kingdoms"
+      ],
+      "titlefa": [
+        "جنگ های قرون وسطی (امپراطوری ها)"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&product_id=152"
+    }
+  ]
+}

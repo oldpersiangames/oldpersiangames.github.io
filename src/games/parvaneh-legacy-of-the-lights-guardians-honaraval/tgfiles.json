@@ -1,0 +1,79 @@
+[
+  {
+    "file_name": "Parvaneh Front Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAINMWEV6WLWVJ7tYZGOMtdViIGS0LLXAAICDQACnKX4UxouxsHTRJ6WAQAHbQADIAQ",
+      "file_unique_id": "AQADAg0AApyl-FNy",
+      "file_size": 21672,
+      "width": 237,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTFhFeli1lSe7WGRjjLXVYiBktCy1wACAg0AApyl-FMaLsbB00SeliAE",
+    "file_unique_id": "AgADAg0AApyl-FM",
+    "file_size": 2321229
+  },
+  {
+    "file_name": "Parvaneh Back Cover.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAINMmEV6WTf6tQEoRS_-Sk8s_SukaG2AAIGCgACXY8IUKHs-Wzc68fpAQAHbQADIAQ",
+      "file_unique_id": "AQADBgoAAl2PCFBy",
+      "file_size": 24088,
+      "width": 236,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTJhFelk3-rUBKEUv_kpPLP0rpGhtgACBgoAAl2PCFCh7Pls3OvH6SAE",
+    "file_unique_id": "AgADBgoAAl2PCFA",
+    "file_size": 5305748
+  },
+  {
+    "file_name": "Parvaneh Disc Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAINM2EV6WUpVyYmFEP2YFG6Mmdl7UIfAAIEDQACnKX4U96WkdiCFHIZAQAHbQADIAQ",
+      "file_unique_id": "AQADBA0AApyl-FNy",
+      "file_size": 20771,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTNhFellKVcmJhRD9mBRujJnZe1CHwACBA0AApyl-FPelpHYghRyGSAE",
+    "file_unique_id": "AgADBA0AApyl-FM",
+    "file_size": 2690289
+  },
+  {
+    "file_name": "Parvaneh Disc And Cover.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQRLZnn-AAINNGEV6Wpog-d4lFkPz0j2mtLrl5VnAAIDDQACnKX4U6OEjC_dyD5LAQAHbQADIAQ",
+      "file_unique_id": "AQADAw0AApyl-FNy",
+      "file_size": 21050,
+      "width": 235,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTRhFelqaIPneJRZD89I9prS65eVZwACAw0AApyl-FOjhIwv3cg-SyAE",
+    "file_unique_id": "AgADAw0AApyl-FM",
+    "file_size": 3279580
+  },
+  {
+    "file_name": "Parvaneh.part1.rar",
+    "mime_type": "application/rar",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTVhFelrnWOzYMkznCpRIvgLID3haQACxwsAAiquSFA3_u3aTT_O5SAE",
+    "file_unique_id": "AgADxwsAAiquSFA",
+    "file_size": 1073741824
+  },
+  {
+    "file_name": "Parvaneh.part2.rar",
+    "mime_type": "application/rar",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTZhFelwwbjVH19d9BScNfACrySHpQACyQsAAiquSFB4BSP1NN39qSAE",
+    "file_unique_id": "AgADyQsAAiquSFA",
+    "file_size": 1073741824
+  },
+  {
+    "file_name": "Parvaneh.part3.rar",
+    "mime_type": "application/rar",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDTdhFelxBEFPl_ULCyf0lTZ_w3ctHAAC1wsAAiquSFDO0DZC9wUzEiAE",
+    "file_unique_id": "AgAD1wsAAiquSFA",
+    "file_size": 654796880
+  }
+]

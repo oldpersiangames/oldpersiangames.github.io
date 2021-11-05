@@ -1,0 +1,72 @@
+{
+  "title": [
+    "We Need a Hero"
+  ],
+  "titlefa": [
+    "قهرمان ما"
+  ],
+  "producer": [
+    "anugamestudio"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [
+    80000
+  ],
+  "release_date": [
+    {
+      "date": "2014-05-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "ایمیج موجود دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 12,
+      "files": [
+        "Ghahrrmane Ma.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "ArnikMoarefy",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

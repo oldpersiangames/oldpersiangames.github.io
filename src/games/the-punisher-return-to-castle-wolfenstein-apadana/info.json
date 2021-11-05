@@ -1,0 +1,75 @@
+{
+  "title": [
+    "The Punisher + Return to Castle Wolfenstein"
+  ],
+  "titlefa": [
+    "مجازاتگر + بازگشت به قلعه ولفن اشتاین"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "apadana"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2007-07-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "The Punisher"
+      ],
+      "titlefa": [
+        "مجازاتگر"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Return to Castle Wolfenstein"
+      ],
+      "titlefa": [
+        "بازگشت به قلعه ولفن اشتاین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sunsetman2012",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

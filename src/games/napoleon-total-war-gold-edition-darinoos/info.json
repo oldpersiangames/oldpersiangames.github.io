@@ -1,0 +1,88 @@
+{
+  "title": [
+    "Napoleon: Total War - Gold Edition"
+  ],
+  "titlefa": [
+    "جنگ های ناپلئون - نسخه طلایی"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    145000
+  ],
+  "release_date": [
+    {
+      "date": "2013-06-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Napoleon: Total War"
+      ],
+      "titlefa": [
+        "جنگ های ناپلئون"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Napoleon: Total War - The Peninsular Campaign"
+      ],
+      "titlefa": [
+        "جنگ های ناپلئون - شبه جزیره"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&path=60&product_id=139"
+    }
+  ]
+}

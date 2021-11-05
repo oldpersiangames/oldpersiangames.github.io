@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Grand Theft Auto: IV (Tehran 2 Mod)",
+    "GTA: Tehran 2"
+  ],
+  "titlefa": [
+    "جی تی ای تهران ۲"
+  ],
+  "producer": [
+    "bazirayaneh"
+  ],
+  "publisher": [
+    "bazirayaneh"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2015-06-07",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

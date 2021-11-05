@@ -1,0 +1,171 @@
+---
+layout: base
+has_modal: true
+tags:
+  - games
+pagination:
+    data: games
+    size: 1
+    alias: game
+    addAllPagesToCollections: true
+permalink: "games/{{ game.id }}/"
+---
+    <article id="{{ game.id }}">
+    	<div class="inner">
+      	<header><h1 class="title">{{ game | genGameObjectTitle}}</h1></header>
+<table class="game-infobox">
+    <tbody>
+        <tr>
+          <th colspan="2">
+            <div class="game-maininfo"><!-- in mozilla documents they said `position: relative` effect on table elements is undefined. So, I used this div. look at https://developer.mozilla.org/en-US/docs/Web/CSS/position -->
+              {% if game.photos | length %}<a href="/photos/{{ game.id }}-{{ game.photos[0].path.split("-")[0] }}.{{ game.photos[0].path.split(".").pop() }}" target="_blank">{% image game.id, "./src/games/"+game.id+"/photos/" + game.photos[0].path, game | genGameObjectTitle(true), 200, false %}</a>
+                {% if game.photos[0].rebuilt %}<div class="rebuilt-text">این تصویر بازسازی شده است.</div>{% endif %}
+              {% else %}<img src="/photos/nocover.svg" width="200" height="200" title="{{ game | genGameObjectTitle(true) }}" alt="{{ game | genGameObjectTitle(true) }}" loading="lazy" decoding="async">{% endif %}<br>{{ game.titlefa[0] }}<br>
+              <span dir="ltr" title="English-language title" lang="en">{{ game.title[0] }}</span>
+              {{ game | genGameObjectFeatures | safe }}
+            </div>
+          </th>
+        </tr>
+        <tr>
+            <th scope="row">تولیدکننده</th>
+            <td>{%- for producer in game.producer -%}{{ companies[producer].titlefa }}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}</td>
+        </tr>
+        <tr>
+            <th scope="row">ناشر</th>
+            <td>{%- for publisher in game.publisher -%}{{ companies[publisher].titlefa }}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}</td>
+        </tr>
+        {% if game.release_date | length %}
+        <tr>
+            <th scope="row">تاریخ(های) انتشار</th>
+            <td>{%- for release_date in game.release_date -%}{{ release_date.date | toPersianDate }}{% if release_date.ref %}{% ref "",release_date.ref %}{% endref %}{% endif %}
+              {{ '' if loop.last else "<br>" | safe }}{%- endfor -%}</td>
+        </tr>
+        {% endif %}
+        {% if game.released_on | length %}
+        <tr>
+            <th scope="row">منتشر شده روی</th>
+            <td>{%- for released_on in game.released_on -%}{% if released_on == "web" %}وب{% endif %}{% if released_on == "CD" %}{{ game.no_of_discs[loop.index-1] | toPersianDigits }} سی دی{% endif %}{% if released_on == "DVD" %}{{ game.no_of_discs[loop.index-1] | toPersianDigits }} دی وی دی{% endif %}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}</td>
+        </tr>
+        {% endif %}
+        {% if game.price | length %}
+        <tr>
+            <th scope="row">قیمت در هنگام عرضه</th>
+            <td>{%- for price in game.price -%}{{ price | toPersianDigits }} ﷼{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}</td>
+        </tr>
+        {% endif %}
+        {% if game.manuals %}
+        <tr>
+            <th scope="row">کتابچه راهنما</th>
+            <td>
+            {%- for manual in game.manuals -%}{% if manual.release_type == "inweb" %}عرضه در وبسایت{% endif %}{% if manual.release_type == "indisc" %}گنجانده شده در دیسک{% endif %}{% if manual.release_type == "printed" %}عرضه بصورت چاپی{% endif %}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}
+            </td>
+        </tr>
+        {% endif %}
+        {% if game.platform.length %}
+        <tr>
+            <th scope="row">سکو(ها)</th>
+            <td>
+            {%- for platform in game.platform -%}{% if platform == "Android" %}اندروید{% endif %}{% if platform == "Windows" %}ویندوز{% endif %}{% if platform == "PS2" %}پلی‌استیشن ۲{% endif %}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}
+            </td>
+        </tr>
+        {% endif %}
+        <tr>
+          <td colspan="2" style="text-align:center"><span style="font-size:90%"><a {% contribute_link %}>[تکمیل مشخصات]</a></span></td>
+        </tr>
+    </tbody>
+</table>
+<div class="game-files-list-parent">
+        <table class="game-files-list" style="width:100%">
+          <thead>
+{% if game.selling %}
+            <tr>
+            <th style="background:tomato;color:black" colspan="3">این اثر در حال عرضه و فروش توسط ناشر/تولیدکننده است و امکان دانلود از این پایگاه وجود ندارد. برای تهیه‌ی این اثر، آن را از مراجع رسمی خریداری کنید.</th>
+            </tr>
+{% elif game.ia_id %}
+            <tr>
+            <th style="background:slateblue;color:white" colspan="3">امکان دانلود رایگان و بدون شرط این بازی فراهم شده است. با کلیک بر روی «دانلود»، با لینک مستقیم از سرورهای Internet Archive دانلود کنید.</th>
+            </tr>
+{% elif (game.files | length) or (game.tgfiles | length) %}
+            <tr>
+            <th style="background:slateblue;color:white" colspan="3">امکان دانلود رایگان و بدون شرط این بازی از طریق تلگرام فراهم شده است. برای دانلود این بازی، وارد کانال تلگرامی <a href="https://t.me/OldPersianGames" style="color:yellow">@OldPersianGames</a> شوید و نام این بازی را جستجو کنید. در آینده، لینک دانلود مستقیم به این صفحه افزوده خواهد شد.</th>
+            </tr>
+{% endif %}
+            <tr>
+              <th>نام فایل</th>
+              <th>حجم</th>
+              <th>دانلود</th>
+            </tr>
+          </thead>
+          <tbody  dir="ltr">
+{% genFileRows game %}
+          </tbody>
+          <tfoot>
+          {% if game.defects | length %}
+            <tr style="background:pink;text-align:justify">
+              <td colspan="3">
+              	<p style="font-weight:bold;margin:0">موجودی ما از این بازی نواقصی دارد، برای تکمیل و رفع نواقص مشارکت کنید:</p>
+                <ul class="nospace defects">
+              	{%- for defect in game.defects -%}
+                <li>{{ defect | changeLastSentence | safe }}</li>
+                {%- endfor -%}
+                </ul>
+              </td>
+            </tr>
+          {% endif %}
+          </tfoot>
+        </table>
+      </div>
+        <h2>تصاویر کاور <span style="font-size:70%"><a {% contribute_link %}>[افزودن]</a></span></h2>
+
+        <div class="covers" dir="ltr">
+        	{%- for cover in game.photos -%}
+        	<a href="/photos/{{ game.id }}-{{ cover.path.split("-")[0] }}.{{ cover.path.split(".").pop() }}" target="_blank">{% image game.id, "./src/games/"+game.id+"/photos/" + cover.path, cover.title %}{% if cover.rebuilt %}<div class="rebuilt-text">این تصویر بازسازی شده است.</div>{% endif %} </a>
+        	{%- endfor -%}
+        </div>
+        {% otherreleases game, collections.games %}
+{#
+        {% set a = false %}
+          {%- for ogame in collections.games -%}
+          {% if ogame.data.game != game %}
+            {% if ogame.data.game | hasCommonTitles(game) %}
+{% if a == false %}
+        <h2>انتشارهای دیگر این بازی</h2>
+        <ul class="other-releases">
+        {% set a = true %}
+{% endif %}
+              <li><a href="{{ ogame.url | safe }}">{{ ogame.data.game | genGameObjectTitle }}</a></li>
+            {% endif %}
+          {% endif %}
+          {%- endfor -%}
+{% if a == true %}
+        </ul>
+{% endif %}
+#}
+        {% if game.links | length %}
+        <h2>پیوند به بیرون</h2>
+        <ul class="external-links">
+          {%- for link in game.links -%}<li><a href="{{ link.url | safe }}" target="_blank">{{ link.title }}</a></li>{%- endfor -%}
+        </ul>
+        {% endif %}
+        {% set references = '' | references(page) %}
+{% set count = references | length %}
+
+{% if count > 0 %}
+<h2>منابع</h2>
+<ol class="references">
+  {% for reference in references %}
+  <li id="cite_note-{{ reference.id }}"><span class="mw-cite-backlink"><a href="#cite_ref-{{ reference.id }}">^</a></span> <span class="reference-text">{{ reference.description }}</span></li>
+    {% endfor %}
+  </ol>
+{% endif %}
+{% include "bulletin1.html" %}
+    </div>
+    </article>
+    {% if game.contributors | length %}
+    <section style="text-align:center" class="green">
+      <p style="margin:5px">
+        <b>مشارکت‌کنندگان در آرشیو این بازی:</b><br>
+        {%- for contributor in game.contributors -%}<span dir="ltr"><a href="/contributors/#{{ contributor.username }}">@{{ contributor.username }}</a></span> ({%- for contribute in contributor.contribute -%}{{ contribute | contribute_type }}{{ '' if loop.last else "، " }}{%- endfor -%}){{ '' if loop.last else "<br>" | safe }}{%- endfor -%}
+      </p>
+    </section>
+    {% endif %}

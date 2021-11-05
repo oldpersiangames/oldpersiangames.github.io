@@ -1,0 +1,64 @@
+{
+  "title": [
+    "Return to Castle Wolfenstein + Mod 3"
+  ],
+  "titlefa": [
+    "بازگشت به قلعه ولفنشتاین ۳"
+  ],
+  "producer": [
+    "sanobar"
+  ],
+  "publisher": [
+    "sanobar"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2005-09-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Return to Castle Wolfenstein"
+      ],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

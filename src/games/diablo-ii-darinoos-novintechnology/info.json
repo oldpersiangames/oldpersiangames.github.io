@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Diablo II"
+  ],
+  "titlefa": [
+    "دیابلو ۲: خدای وحشت"
+  ],
+  "producer": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "publisher": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2001-01-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "RezaEskandari91",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

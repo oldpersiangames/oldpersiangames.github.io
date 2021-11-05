@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Call of Duty: Ghosts"
+  ],
+  "titlefa": [
+    "ندای وظیفه: جوخه اشباح"
+  ],
+  "producer": [
+    "modern"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2014-12-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

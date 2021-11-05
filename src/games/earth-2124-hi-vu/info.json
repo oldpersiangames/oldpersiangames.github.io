@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Earth 2124"
+  ],
+  "titlefa": [
+    "زمین ۲۱۲۴"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2013-02-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

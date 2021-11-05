@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Onimusha 3: Demon Siege"
+  ],
+  "titlefa": [
+    "جنگجویان افسانه ای"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "ebay"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-08-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ANio1",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

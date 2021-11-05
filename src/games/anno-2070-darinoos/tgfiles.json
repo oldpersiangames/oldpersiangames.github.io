@@ -1,0 +1,29 @@
+[
+  {
+    "file_name": "ANNO2070DS.iso.001",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACCKpgvSqvBDErVicSqgRcUhSLFz9NSgACQhAAAj3iKUheRLhczYYeBB8E",
+    "file_unique_id": "AgADQhAAAj3iKUg",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "ANNO2070DS.iso.002",
+    "mime_type": "application/zip",
+    "file_id": "BQACAgQAAx0CS2Z5_gACCKtgvSqv7aI1KJHpX-e9g7UrIah1WQACVgkAAizIKFAmNMILaXkgVB8E",
+    "file_unique_id": "AgADVgkAAizIKFA",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "ANNO2070DS.iso.003",
+    "file_id": "BQACAgQAAx0CS2Z5_gACCKxgvSqvzOW-h8bhJPgTwyT4tZ8_sQACwRwAAtvZKFCY-A2E7t3PZx8E",
+    "file_unique_id": "AgADwRwAAtvZKFA",
+    "file_size": 509513728
+  },
+  {
+    "file_name": "serial.txt",
+    "mime_type": "text/plain",
+    "file_id": "BQACAgIAAx0CS2Z5_gACCK1gvSqveVL0xxabQ4XwW6z2mX48VQACKhAAAj3iKUhhVvcbxDD2jh8E",
+    "file_unique_id": "AgADKhAAAj3iKUg",
+    "file_size": 12
+  }
+]

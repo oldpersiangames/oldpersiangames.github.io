@@ -1,0 +1,37 @@
+[
+  {
+    "file_name": "Keepsake CD1.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACB0tgsN5HkTvNme8X-UuTB2OTGF9t-AACrwgAAgQFsFG7okm75-BYlR8E",
+    "file_unique_id": "AgADrwgAAgQFsFE",
+    "file_size": 689102848
+  },
+  {
+    "file_name": "Keepsake CD2.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACB0xgsN5HjRYqUF8UiH9DVQ-UllR0CQACsAgAAgQFsFFAteTyDS_-ex8E",
+    "file_unique_id": "AgADsAgAAgQFsFE",
+    "file_size": 694657024
+  },
+  {
+    "file_name": "Keepsake.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDhBhHyGUrUay194QiXODGyw07SEDKQAClQsAAn3jeFDzlH-hkXbt7iAE",
+    "file_unique_id": "AgADlQsAAn3jeFA",
+    "file_size": 1383399424
+  },
+  {
+    "file_name": "Keepsake Serial.txt",
+    "mime_type": "text/plain",
+    "file_id": "BQACAgQAAx0CS2Z5_gACB01gsN5HwzWbuTdlXlTIVJCDcrg0vgACVQoAArvCsFGRv1Z8w8f81R8E",
+    "file_unique_id": "AgADVQoAArvCsFE",
+    "file_size": 12
+  },
+  {
+    "file_name": "Keepsake.zip",
+    "mime_type": "multipart/x-zip",
+    "file_id": "BQACAgQAAx0CS2Z5_gACB_Jgtllyn2HRaSWuWvABo-PoEL2KLAACwgsAAu6U2FIw4icOHlBQRR8E",
+    "file_unique_id": "AgADwgsAAu6U2FI",
+    "file_size": 35776028
+  }
+]

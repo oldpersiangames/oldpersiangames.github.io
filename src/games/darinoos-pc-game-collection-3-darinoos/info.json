@@ -1,0 +1,102 @@
+{
+  "title": [
+    "Darinoos PC Game Collection 3"
+  ],
+  "titlefa": [
+    "مجموعه بازیهای فارسی دارینوس ۳"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    22000
+  ],
+  "release_date": [
+    {
+      "date": "2008-07-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Mafia"
+      ],
+      "titlefa": [
+        "مافیا"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Mob Enforcer"
+      ],
+      "titlefa": [
+        "دسته اوباش ال کاپون"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Shade: Wrath of Angels"
+      ],
+      "titlefa": [
+        "اشباح: خشم فرشتگان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید بازی «مافیا» از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=121"
+    },
+    {
+      "title": "خرید بازی دسته «اوباش ال کاپون» از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=126"
+    },
+    {
+      "title": "خرید بازی «اشباح: خشم فرشتگان» از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=116"
+    }
+  ]
+}

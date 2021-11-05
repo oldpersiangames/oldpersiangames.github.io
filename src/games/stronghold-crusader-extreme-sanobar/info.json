@@ -1,0 +1,80 @@
+{
+  "title": [
+    "Stronghold: Crusader Extreme"
+  ],
+  "titlefa": [
+    "قلعه ۴ - نسخه طلایی"
+  ],
+  "producer": [
+    "sanobar"
+  ],
+  "publisher": [
+    "sanobar"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2008-09-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت غیر ایمیج موجود داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [
+        "Stronghold: Crusader"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stronghold: Crusader Extreme"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی بی‌نهایت"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mohammadn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

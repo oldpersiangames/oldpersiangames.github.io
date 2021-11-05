@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Fighting in Aden Gulf"
+  ],
+  "titlefa": [
+    "مبارزه در خلیج عدن"
+  ],
+  "producer": [
+    "iranianarmy",
+    "amytisgames"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2012-05-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "bahrampur",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,68 @@
+{
+  "title": [
+    "Mir-Mahna"
+  ],
+  "titlefa": [
+    "میرمهنا",
+    "میر مهنا"
+  ],
+  "producer": [
+    "ESPRIS"
+  ],
+  "publisher": [
+    "ESPRIS"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-06-19",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "ایمیجی که از این بازی داریم دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

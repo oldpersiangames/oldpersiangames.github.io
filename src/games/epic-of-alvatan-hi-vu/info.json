@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Epic of Alvatan"
+  ],
+  "titlefa": [
+    "نبردهای ماندگار ۳: حماسه آلواتان"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [
+    {
+      "date": "2012-08-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

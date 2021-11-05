@@ -1,0 +1,76 @@
+{
+  "title": [
+    "Grand Theft Auto: San Andreas",
+    "GTA: San Andreas"
+  ],
+  "titlefa": [
+    "سرقت بزرگ اتومبیل: سن اندریاس"
+  ],
+  "producer": [
+    "cyber"
+  ],
+  "publisher": [
+    "cyber"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-11-09",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD",
+    "CD",
+    "DVD"
+  ],
+  "no_of_discs": [
+    5,
+    6,
+    1
+  ],
+  "defects": [
+    "ایمیج دیسک اول را نداریم. دیسک اول را دارید؟",
+    "دیسک‌های نسخه‌ی ۶ دیسکه و نسخه‌ی DVD این بازی را نداریم. آن‌ها را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 33,
+      "files": [
+        "Gta SanAndreas Manual (Cyber).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

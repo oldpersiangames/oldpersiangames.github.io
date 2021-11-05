@@ -1,0 +1,99 @@
+{
+  "ia_id": "Half-Life-2-Persian-Dubbed-NovinPendar",
+  "title": [
+    "Half-Life 2"
+  ],
+  "titlefa": [
+    "نیمه جان ۲"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2005-11-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 32,
+      "files": [
+        "Half-Life 2 Persian Manual - Scanned Pictures.zip",
+        "Half-Life 2 Persian Manual - Scanned.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "GladiatorII",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "Behdadgames",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "http://web.archive.org/web/20070208134808/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000024"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709074914/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=0&Def=5&CurrPN=1"
+    }
+  ]
+}

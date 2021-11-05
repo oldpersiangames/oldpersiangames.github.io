@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+    <article id="{{ title | slug }}">
+    <div class="inner">
+      <header><h1 id="content" class="title">{{ title }}</h1></header>
+        {{ content | safe }}
+    {% include "bulletin1.html" %}
+    </div>
+    </article>

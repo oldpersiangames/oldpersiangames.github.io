@@ -1,0 +1,58 @@
+{
+  "title": [
+    "Prince of Persia: The Sands of Time"
+  ],
+  "titlefa": [
+    "شاهزاده ایرانی: شن های زمان"
+  ],
+  "producer": [
+    "parsgame"
+  ],
+  "publisher": [
+    "parsgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-03-14",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

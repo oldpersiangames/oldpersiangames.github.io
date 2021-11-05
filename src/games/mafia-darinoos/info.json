@@ -1,0 +1,79 @@
+{
+  "title": [
+    "Mafia"
+  ],
+  "titlefa": [
+    "مافیا"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    45000
+  ],
+  "release_date": [
+    {
+      "date": "2002-12-20",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 9,
+      "files": [
+        "Mafia Manual Darinoos.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "pejman",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://darinoos.net/dpc/index.php?route=product/product&path=62&product_id=121"
+    }
+  ]
+}

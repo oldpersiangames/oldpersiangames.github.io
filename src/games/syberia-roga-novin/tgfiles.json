@@ -1,0 +1,72 @@
+[
+  {
+    "file_name": "Syberia Front Cover Novin.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAIEBWCEYMrpUzF64Gb6bymr-9ZWWCw4AAIoCgACOwv4UwbiiGkkWWGQd5S-Ll0AAwEAB20AAy1_AAIfBA",
+      "file_unique_id": "AQADd5S-Ll0AAy1_AAI",
+      "file_size": 28854,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACBAVghGDK6VMxeuBm-m8pq_vWVlgsOAACKAoAAjsL-FMG4ohpJFlhkB8E",
+    "file_unique_id": "AgADKAoAAjsL-FM",
+    "file_size": 2679609
+  },
+  {
+    "file_name": "Syberia Back Cover Novin.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAIEBmCEYMp2jgR02GTUg3R7twLG0a0uAAIqCgACOwv4U3KXzhbj_DIOnvh8Ll0AAwEAB20AAzYAAx8E",
+      "file_unique_id": "AQADnvh8Ll0AAzYAAw",
+      "file_size": 32846,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACBAZghGDKdo4EdNhk1IN0e7cCxtGtLgACKgoAAjsL-FNyl84W4_wyDh8E",
+    "file_unique_id": "AgADKgoAAjsL-FM",
+    "file_size": 3031854
+  },
+  {
+    "file_name": "Syberia Disk 1 Cover Novin.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAIEB2CEYMprEipi9tOH5g6oo-fPdkX4AAIrCgACOwv4U9jj899UGiuZrgABui5dAAMBAAdtAAPzcQACHwQ",
+      "file_unique_id": "AQADrgABui5dAAPzcQAC",
+      "file_size": 21658,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACBAdghGDKaxIqYvbTh-YOqKPnz3ZF-AACKwoAAjsL-FPY4_PfVBormR8E",
+    "file_unique_id": "AgADKwoAAjsL-FM",
+    "file_size": 1586598
+  },
+  {
+    "file_name": "Syberia Disk 2 Cover Novin.jpg",
+    "mime_type": "image/jpeg",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAIECGCEYMr6iUKjdjzh5Nwjy8mQFFX0AAIsCgACOwv4U0q1941M-bw4B1lYLl0AAwEAB20AA0ZhAAIfBA",
+      "file_unique_id": "AQADB1lYLl0AA0ZhAAI",
+      "file_size": 21571,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACBAhghGDK-olCo3Y84eTcI8vJkBRV9AACLAoAAjsL-FNKtfeNTPm8OB8E",
+    "file_unique_id": "AgADLAoAAjsL-FM",
+    "file_size": 1557943
+  },
+  {
+    "file_name": "SyberiaFarsi CD1.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDilhHyp2LBwoGniCBKQ5rZDnEYCvkgAC1AkAAqJPkFCpo84y2ZX_-SAE",
+    "file_unique_id": "AgAD1AkAAqJPkFA",
+    "file_size": 678326272
+  },
+  {
+    "file_name": "SyberiaFarsi CD2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACDiphHyp4Qv5D3BTfm7AuP7T1z2t21QACYwkAAmGBiVB6o0YRAAHw1GIgBA",
+    "file_unique_id": "AgADYwkAAmGBiVA",
+    "file_size": 529461248
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Tangled: The Video Game"
+  ],
+  "titlefa": [
+    "گیسو کمند"
+  ],
+  "producer": [
+    "modern"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-08-23",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "از دیسک خش‌دار ایمیج تهیه شده (بازی قابل نصب و اجراست). دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

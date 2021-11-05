@@ -1,0 +1,54 @@
+{
+  "title": [
+    "Mortal Kombat: Deception"
+  ],
+  "titlefa": [
+    "نبرد مرگبار"
+  ],
+  "producer": [
+    "t20"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [
+    20000
+  ],
+  "release_date": [
+    {
+      "date": "2004-10-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

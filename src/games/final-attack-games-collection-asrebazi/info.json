@@ -1,0 +1,89 @@
+{
+  "title": [
+    "Final Attack Games Collection"
+  ],
+  "titlefa": [
+    "آخرین حمله ۱"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2011-06-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Rogue Trooper"
+      ],
+      "titlefa": [
+        "نظامی سرکش"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Alliance: Future Combat"
+      ],
+      "titlefa": [
+        "نبرد متحدین آینده"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Terrorist Takedown: War in Colombia"
+      ],
+      "titlefa": [
+        "سقوط تروریست: جنگ در کلمبیا"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

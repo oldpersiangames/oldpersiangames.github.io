@@ -1,0 +1,61 @@
+{
+  "title": [
+    "The Nissan Wonderful"
+  ],
+  "titlefa": [
+    "نیسان شگفت انگیز"
+  ],
+  "producer": [
+    "andishemabna"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2014-03-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "دیسک دوم شامل چند بازی خارجی است. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

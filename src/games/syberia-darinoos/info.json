@@ -1,0 +1,101 @@
+{
+  "title": [
+    "Syberia"
+  ],
+  "titlefa": [
+    "سایبریا: مرگ خانم آنا وارلبرگ"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2003-01-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 8,
+      "files": [
+        "Syberia Help Darinoos (Pack 1).pdf"
+      ]
+    },
+    {
+      "release_type": "printed",
+      "no_of_pages": 9,
+      "files": [
+        "Syberia Help Darinoos (Pack 2).pdf"
+      ]
+    },
+    {
+      "release_type": "inweb",
+      "no_of_pages": 8,
+      "files": [
+        "Syberia 1.pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "docfarzad",
+      "contribute": [
+        "manual"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=89"
+    }
+  ]
+}

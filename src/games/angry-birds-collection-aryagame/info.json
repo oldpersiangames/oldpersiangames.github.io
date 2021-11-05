@@ -1,0 +1,121 @@
+{
+  "title": [
+    "Angry Birds Collection"
+  ],
+  "titlefa": [
+    "مجموعه بازی انگری برد با دوبله فارسی و ترکی + صدای بهنوش بختیاری",
+    "مجموعه بازی پرندگان خشمگین"
+  ],
+  "producer": [
+    "aryagame"
+  ],
+  "publisher": [
+    "aryagame"
+  ],
+  "price": [
+    55000
+  ],
+  "release_date": [
+    {
+      "date": "2013-06-09",
+      "ref": "بر اساس تاریخ صدور مجوز."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Angry Birds"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Seasons"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فصل‌ها"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Rio"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: ریو"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Space"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: فضا"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Angry Birds: Star Wars"
+      ],
+      "titlefa": [
+        "پرندگان خشمگین: جنگ ستارگان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

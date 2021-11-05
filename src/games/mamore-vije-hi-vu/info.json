@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Mamore Vije"
+  ],
+  "titlefa": [
+    "مامور ویژه"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    15000
+  ],
+  "release_date": [
+    {
+      "date": "2008-05-20",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

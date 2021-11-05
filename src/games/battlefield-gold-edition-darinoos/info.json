@@ -1,0 +1,82 @@
+{
+  "title": [
+    "Battlefield [Gold Edition]"
+  ],
+  "titlefa": [
+    "میدان نبرد [نسخه طلایی]"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    28000
+  ],
+  "release_date": [
+    {
+      "date": "2009-10-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Battlefield 1942"
+      ],
+      "titlefa": [
+        "میدان نبرد ۱۹۴۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Battlefield 2"
+      ],
+      "titlefa": [
+        "میدان نبرد ۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید «میدان نبرد ۱۹۴۲» از سایت ناشر",
+      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=127"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": [
+    "Return to Castle Wolfenstein"
+  ],
+  "titlefa": [
+    "بازگشت به قلعه ولفنشتاین"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    22000
+  ],
+  "release_date": [
+    {
+      "date": "2002-08-26",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "indisc",
+      "no_of_pages": 136,
+      "files": [
+        "Wolfenstein Help (Farsi).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    },
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "cover"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "http://web.archive.org/web/20070205155338/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000005"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709075007/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=5&Def=5&CurrPN=2"
+    }
+  ]
+}

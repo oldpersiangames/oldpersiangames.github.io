@@ -1,0 +1,67 @@
+{
+  "title": [
+    "The Silent Mystery"
+  ],
+  "titlefa": [
+    "راز خاموش"
+  ],
+  "producer": [
+    "norgraphic"
+  ],
+  "publisher": [
+    "norgraphic"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "web"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل وصله‌ی انگلیسی‌ساز بازی موجود نیست. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

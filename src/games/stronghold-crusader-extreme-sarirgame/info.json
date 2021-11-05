@@ -1,0 +1,81 @@
+{
+  "title": [
+    "Stronghold: Crusader Extreme"
+  ],
+  "titlefa": [
+    "جنگ های صلیبی ۴"
+  ],
+  "producer": [
+    "sarirgame"
+  ],
+  "publisher": [
+    "sarirgame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2009-10-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Stronghold: Crusader"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stronghold: Crusader Extreme"
+      ],
+      "titlefa": [
+        "قلعه: جنگ‌های صلیبی بی‌نهایت"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

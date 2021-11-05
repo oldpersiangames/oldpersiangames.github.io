@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2018 [Mod]",
+    "PES 2018 [Mod]"
+  ],
+  "titlefa": [
+    "لیگ برتر ۹۷-۹۶ با گزارش عادل فردوسی پور"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    95000
+  ],
+  "release_date": [
+    {
+      "date": "2018-03-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Pro Evolution Soccer 2018",
+        "PES 2018"
+      ],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Rasoulrsl",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

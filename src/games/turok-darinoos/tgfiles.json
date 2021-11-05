@@ -1,0 +1,79 @@
+[
+  {
+    "file_name": "Turok DVD1.iso.001",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdRglQH2NEJUMp-nasfCgf5YIs7NYAACfgoAAqJIWUopbpsXA_o7-R8E",
+    "file_unique_id": "AgADfgoAAqJIWUo",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "Turok DVD1.iso.002",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdVglQH2XrmXahFf1VxmzM6yncsYEwACiQoAAqJIWUpXAAE6Cj4x52kfBA",
+    "file_unique_id": "AgADiQoAAqJIWUo",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "Turok DVD1.iso.003",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdZglQH28gABj6KaLSe8o9wJa-Frz0QAAoEKAAKiSFlKUaPkSBsvf6QfBA",
+    "file_unique_id": "AgADgQoAAqJIWUo",
+    "file_size": 146079744
+  },
+  {
+    "file_name": "Turok DVD1.iso.crc",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBddglQH2PFmZn4kKZo8OtZa8AAHi554AAngKAAKiSFlK8Ma-Pg_PIvQfBA",
+    "file_unique_id": "AgADeAoAAqJIWUo",
+    "file_size": 58
+  },
+  {
+    "file_name": "Turok DVD2.iso.001",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdhglQH2pScemyTNSzZBgTclQ2Q5pgAClgoAAqJIWUpg5EzLfVn-2B8E",
+    "file_unique_id": "AgADlgoAAqJIWUo",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "Turok DVD2.iso.002",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdlglQH2BQKkG66-M8JG5C7rrBlpQAACmwoAAqJIWUphZuu4z-jrVh8E",
+    "file_unique_id": "AgADmwoAAqJIWUo",
+    "file_size": 1999241216
+  },
+  {
+    "file_name": "Turok DVD2.iso.crc",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdpglQH28wX1QdG8n6ldFjqPjrMtZAACkgoAAqJIWUrp1fNWkZYunx8E",
+    "file_unique_id": "AgADkgoAAqJIWUo",
+    "file_size": 58
+  },
+  {
+    "file_name": "Turok DVD3.iso.001",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdtglQH2NjrrRGQIpkAgF9kTHvXn9wACoAoAAqJIWUpOcbdYZhl4Vh8E",
+    "file_unique_id": "AgADoAoAAqJIWUo",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "Turok DVD3.iso.002",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBdxglQH2LQwQhRjM1gQo2M70YjSQuwACpQoAAqJIWUpP22EjPKVtyB8E",
+    "file_unique_id": "AgADpQoAAqJIWUo",
+    "file_size": 1389953024
+  },
+  {
+    "file_name": "Turok DVD3.iso.crc",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgIAAx0CS2Z5_gACBd1glQH2XzuKroBAs-F1OiXHdmQAAboAAp4KAAKiSFlKbXMiovyi9FMfBA",
+    "file_unique_id": "AgADngoAAqJIWUo",
+    "file_size": 58
+  },
+  {
+    "file_name": "Turok_Serial.txt",
+    "mime_type": "text/plain",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBd5glQH6T_zOP5PG0jPClm6OD7w3pwACSAcAAnsWkVISJT-xLgPppR8E",
+    "file_unique_id": "AgADSAcAAnsWkVI",
+    "file_size": 12
+  }
+]

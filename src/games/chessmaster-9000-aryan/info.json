@@ -1,0 +1,59 @@
+{
+  "title": [
+    "Chessmaster 9000"
+  ],
+  "titlefa": [
+    "شطرنج ۹۰۰۰"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "aryan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2003-08-31",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details",
+        "cover"
+      ]
+    }
+  ],
+  "links": []
+}

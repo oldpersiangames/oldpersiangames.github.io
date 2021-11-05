@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Mithra Planet: Episode One"
+  ],
+  "titlefa": [
+    "سیاره میترا: قسمت اول"
+  ],
+  "producer": [
+    "rasgames"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2010-03-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alikarimi0870",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "AraBoyTm",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "engineering",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "https://hayoola.com/game/2010#!/"
+    }
+  ]
+}

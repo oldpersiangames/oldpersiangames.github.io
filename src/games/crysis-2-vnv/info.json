@@ -1,0 +1,72 @@
+{
+  "title": [
+    "Crysis 2"
+  ],
+  "titlefa": [
+    "کرایسیس ۲",
+    "بحران ۲"
+  ],
+  "producer": [
+    "vnv"
+  ],
+  "publisher": [
+    "vnv"
+  ],
+  "price": [
+    45000
+  ],
+  "release_date": [
+    {
+      "date": "2012-08-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "mohammadn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

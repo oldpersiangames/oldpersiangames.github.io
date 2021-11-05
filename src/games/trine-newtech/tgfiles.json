@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "Trine.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAIFHGCLgpfEYqM-W2WM12WQ9JULtiCtAAK1DAACgD1gUDKBVMnQNRuwR-E8Ll0AAwEAB20AA0ZFAAIfBA",
+      "file_unique_id": "AQADR-E8Ll0AA0ZFAAI",
+      "file_size": 28437,
+      "width": 254,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACBRxgi4KXxGKjPltljNdlkPSVC7YgrQACtQwAAoA9YFAygVTJ0DUbsB8E",
+    "file_unique_id": "AgADtQwAAoA9YFA",
+    "file_size": 973119
+  },
+  {
+    "file_name": "DISK1.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBR1gi4K30r16JD0aJMapHrdMpwJ-swAC8AYAAu8qsFEN3lZRlAq_Px8E",
+    "file_unique_id": "AgAD8AYAAu8qsFE",
+    "file_size": 658802844
+  },
+  {
+    "file_name": "DISK2.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACBR5gi4K31mmBjHKJA3xaa6KTysdRGgAC8QYAAu8qsFGnQOcgdIi-Rh8E",
+    "file_unique_id": "AgAD8QYAAu8qsFE",
+    "file_size": 587915420
+  }
+]

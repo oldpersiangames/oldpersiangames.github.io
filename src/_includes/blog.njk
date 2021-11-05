@@ -1,0 +1,10 @@
+---
+layout: base
+---
+    <article id="{{ title | slug }}">
+      <div class="inner" style="padding-left:2em;padding-right:2em">
+        <header><h1 class="title" style="margin-bottom:0">{{ title }}</h1><div style="text-align:center;color:#888;margin:0;padding:0">نویسنده: <span dir="ltr"><a href="/contributors/#{{ author }}">@{{ author }}</a></span> | تاریخ انتشار: {{ page.date | toPersianDate }}</div></header>
+        {{ content | safe }}
+        {% include "bulletin1.html" %}
+      </div>
+    </article>

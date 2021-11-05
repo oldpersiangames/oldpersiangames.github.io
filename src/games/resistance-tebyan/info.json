@@ -1,0 +1,59 @@
+{
+  "title": [
+    "Resistance"
+  ],
+  "titlefa": [
+    "مقاومت"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "tebyan"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-09-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

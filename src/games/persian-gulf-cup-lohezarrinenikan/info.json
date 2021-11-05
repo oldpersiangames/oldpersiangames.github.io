@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Persian Gulf Cup"
+  ],
+  "titlefa": [
+    "فوتبال جام خلیج فارس: پرسپولیس ۹۱-۹۰"
+  ],
+  "producer": [
+    "lohezarrinenikan"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [
+    20000
+  ],
+  "release_date": [
+    {
+      "date": "2011-09-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Matin82_graphic",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

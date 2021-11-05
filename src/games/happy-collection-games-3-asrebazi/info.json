@@ -1,0 +1,89 @@
+{
+  "title": [
+    "Happy Collection Games 3"
+  ],
+  "titlefa": [
+    "ایستگاه شادی ۳"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2011-06-25",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Meet The Robinsons"
+      ],
+      "titlefa": [
+        "ملاقات با خانواده رابینسون"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Shrek the Third"
+      ],
+      "titlefa": [
+        "شرک ۳"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "CID the Dummy"
+      ],
+      "titlefa": [
+        "آدمک تست تصادف"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mr_Mohammad2002",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

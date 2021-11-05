@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2017 [Mod]",
+    "PES 2017 [Mod]"
+  ],
+  "titlefa": [
+    "لیگ برتر ۹۶-۹۵ با گزارش مزدک میرزایی"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [
+    70000
+  ],
+  "release_date": [
+    {
+      "date": "2016-08-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Pro Evolution Soccer 2017",
+        "PES 2017"
+      ],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "tinyboy13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

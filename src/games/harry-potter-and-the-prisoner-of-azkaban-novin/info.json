@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Harry Potter and the Prisoner of Azkaban"
+  ],
+  "titlefa": [
+    "هری پاتر و زندانی آزکابان"
+  ],
+  "producer": [
+    "novin"
+  ],
+  "publisher": [
+    "novin"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2004-12-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های این بازی را بصورت نصب شده داریم. ایمیج بازی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

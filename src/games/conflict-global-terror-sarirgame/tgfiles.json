@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "CONFLICTGLOBAL CD 1.mdf",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgQAAx0CS2Z5_gACA6Vge2YdP9klPnxsa0rZVXvLelLiFAAC0QgAAgGKEFLR74F4zModIB8E",
+    "file_unique_id": "AgAD0QgAAgGKEFI",
+    "file_size": 815095008
+  },
+  {
+    "file_name": "CONFLICTGLOBAL CD 1.mds",
+    "mime_type": "application/octet-stream",
+    "file_id": "BQACAgQAAx0CS2Z5_gACA6Zge2Yd4_GxXXMo_s22kMh1jX20dAAC0ggAAgGKEFJjoQpnnZ6IBB8E",
+    "file_unique_id": "AgAD0ggAAgGKEFI",
+    "file_size": 532
+  },
+  {
+    "file_name": "CONFLICTGLOBAL CD 2.iso",
+    "mime_type": "application/x-cd-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACA6dge2YdUHJ09zoWe1lwdY0X6oqf6gAC0AgAAgGKEFLSfdWrLpn1-R8E",
+    "file_unique_id": "AgAD0AgAAgGKEFI",
+    "file_size": 641495040
+  }
+]

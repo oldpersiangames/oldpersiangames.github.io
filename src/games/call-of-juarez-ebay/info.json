@@ -1,0 +1,56 @@
+{
+  "title": [
+    "Call of Juarez"
+  ],
+  "titlefa": [
+    "ندای خوارز"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "ebay"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [
+    "ایمجی که از این بازی موجود داریم، دستکاری شده است. دیسک بازی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

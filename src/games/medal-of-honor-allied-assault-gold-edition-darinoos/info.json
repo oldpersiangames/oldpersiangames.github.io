@@ -1,0 +1,100 @@
+{
+  "title": [
+    "Medal of Honor: Allied Assault [Gold Edition]"
+  ],
+  "titlefa": [
+    "مدال افتخار: نیروهای متفقین [نسخه طلایی]"
+  ],
+  "producer": [
+    "darinoos"
+  ],
+  "publisher": [
+    "darinoos"
+  ],
+  "price": [
+    28000
+  ],
+  "release_date": [
+    {
+      "date": "2009-10-04",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Medal of Honor: Allied Assault"
+      ],
+      "titlefa": [
+        "مدال افتخار: نیروهای متفقین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Medal of Honor: Allied Assault - Spearhead"
+      ],
+      "titlefa": [
+        "مدال افتخار متفقین: فتح برلین"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Medal of Honor: Allied Assault - Breakthrough"
+      ],
+      "titlefa": [
+        "مدال افتخار متفقین: خط شکنان"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "pouryajfr",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://shop.darinoos.net/index.php?route=product/product&product_id=105"
+    }
+  ]
+}

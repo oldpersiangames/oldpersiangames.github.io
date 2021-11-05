@@ -1,0 +1,113 @@
+{
+  "title": [
+    "PC Game Collection 1"
+  ],
+  "titlefa": [
+    "مجموعه بازیهای کودکانه"
+  ],
+  "producer": [
+    "novin"
+  ],
+  "publisher": [
+    "parsehgame"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2011-03-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Shrek 2"
+      ],
+      "titlefa": [
+        "شرک ۲"
+      ],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Crash Bash"
+      ],
+      "titlefa": [
+        "کراش: دستپاچه"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Crash Tag Team Racing"
+      ],
+      "titlefa": [
+        "کراش: مسابقه تیمی نوبتی"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Sonic Heroes"
+      ],
+      "titlefa": [
+        "قهرمانان سونیک"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Crazy Frog"
+      ],
+      "titlefa": [
+        "قورباغه دیوانه"
+      ],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mr_Mohammad2002",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

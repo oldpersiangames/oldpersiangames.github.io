@@ -1,0 +1,65 @@
+{
+  "title": [
+    "Return to Castle Wolfenstein"
+  ],
+  "titlefa": [
+    "بازگشت به قلعه ولفنشتاین"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2009-12-09",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "https://www.npshop.net/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%DA%A9%D8%AA%DB%8C%D8%A8%D9%87-%DA%A9%D9%88%D8%B1%D9%88%D8%B4"
+    }
+  ]
+}

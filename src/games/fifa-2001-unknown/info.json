@@ -1,0 +1,58 @@
+{
+  "title": [
+    "FIFA 2001",
+    "FIFA 2001: Major League Soccer",
+    "FIFA 2001: World Championship"
+  ],
+  "titlefa": [
+    "فیفا ۲۰۰۱ {با گزارشگری جواد خیابانی}"
+  ],
+  "producer": [
+    "unknown"
+  ],
+  "publisher": [
+    "unknown"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

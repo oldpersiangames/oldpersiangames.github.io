@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "DISK1.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCnhg_Ycf83n_ky0-rs65lREvUm7MpwACtAcAAoKuwVPtKlB1Ng6tTCAE",
+    "file_unique_id": "AgADtAcAAoKuwVM",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "DISK1.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCnlg_YcgwuOxtMqlP42M64t-abMyCgACtQcAAoKuwVOy_v3DxQ5XxCAE",
+    "file_unique_id": "AgADtQcAAoKuwVM",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "DISK1.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCnpg_YciRfOMI32qLMnRjZcf_hGkiQACtgcAAoKuwVPYfUBYqN5zRSAE",
+    "file_unique_id": "AgADtgcAAoKuwVM",
+    "file_size": 480346654
+  },
+  {
+    "file_name": "DISK2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0ES2Z5_gACCntg_YcnCAFO4H4Jf7iZCVsSmvyzYgACswcAAoKuwVNtmVFRds0enCAE",
+    "file_unique_id": "AgADswcAAoKuwVM",
+    "file_size": 667627520
+  }
+]

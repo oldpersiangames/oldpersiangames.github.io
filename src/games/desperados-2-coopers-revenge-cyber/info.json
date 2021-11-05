@@ -1,0 +1,59 @@
+{
+  "title": [
+    "Desperados 2: Cooper's Revenge"
+  ],
+  "titlefa": [
+    "دسپرادوس ۲: انتقام کوپر"
+  ],
+  "producer": [
+    "cyber"
+  ],
+  "publisher": [
+    "cyber"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2006-09-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    4
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

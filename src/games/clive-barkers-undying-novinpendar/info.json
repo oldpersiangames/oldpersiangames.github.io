@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Clive Barker's Undying"
+  ],
+  "titlefa": [
+    "روئین تن"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    25000
+  ],
+  "release_date": [
+    {
+      "date": "2004-01-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 72,
+      "files": [
+        "Clive Barker's Undying Help (Farsi).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "manual",
+        "cover"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070205154607/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000018"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709074914/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=0&Def=5&CurrPN=1"
+    }
+  ]
+}

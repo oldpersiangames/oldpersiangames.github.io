@@ -1,0 +1,69 @@
+{
+  "title": [
+    "Kabus 22"
+  ],
+  "titlefa": [
+    "کابوس ۲۲"
+  ],
+  "producer": [
+    "pardisgame"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [
+    25000
+  ],
+  "release_date": [
+    {
+      "date": "2008-06-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Vendorsilver",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

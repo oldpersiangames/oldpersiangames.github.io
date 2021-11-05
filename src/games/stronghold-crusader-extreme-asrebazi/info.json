@@ -1,0 +1,78 @@
+{
+  "title": [
+    "Stronghold: Crusader Extreme"
+  ],
+  "titlefa": [
+    "قلعه: جنگهای صلیبی"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-05-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Stronghold: Crusader"
+      ],
+      "titlefa": [
+        "قلعه: جنگ های صلیبی"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": [
+        "Stronghold: Crusader Extreme"
+      ],
+      "titlefa": [
+        "قلعه: جنگ های صلیبی بی‌نهایت"
+      ],
+      "dubbed": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mostafare4",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

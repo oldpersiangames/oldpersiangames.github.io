@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Pro Evolution Soccer 2014 + 2014 FIFA World Cup",
+    "PES 2014"
+  ],
+  "titlefa": [
+    "فوتبال تکاملی حرفه ای ۲۰۱۴ + جام جهانی ۲۰۱۴ برزیل + گزارشگری عادل فردوسی پور"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    100000
+  ],
+  "release_date": [
+    {
+      "date": "2014-06-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mrwinner78",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

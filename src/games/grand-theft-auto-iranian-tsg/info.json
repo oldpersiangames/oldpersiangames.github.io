@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Grand Theft Auto: Iranian"
+  ],
+  "titlefa": [
+    "سرقت بزرگ اتومبیل: ایرانی"
+  ],
+  "producer": [
+    "roga",
+    "tsg"
+  ],
+  "publisher": [
+    "tsg"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2020-07-06",
+      "ref": "بر اساس تاریخ فایل‌های آرشیو."
+    }
+  ],
+  "released_on": [
+    "web"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [
+        "Grand Theft Auto III"
+      ],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "sslazio99",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

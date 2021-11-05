@@ -1,0 +1,20 @@
+---
+permalink: /games.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for game in collections.games -%}{% set game = game.data.game %}
+	[
+	  	{% gamesJSONphoto game %},
+		{{ game.title | jsonStringify | safe }},
+		{{ game.titlefa | jsonStringify | safe }},
+		{{ game.producer | jsonStringify | safe }},
+		{{ game.publisher | jsonStringify | safe }},
+		[{% if game.release_date | length %}{%- for release_date in game.release_date -%}"{{ release_date.date }}"{{ '' if loop.last else "," }}{%- endfor -%}{% endif %}],
+		{{ game.defects | jsonStringify | safe }},
+		{%if not (game.files | length) and not (game.tgfiles | length) %}true{% else %}false{% endif %},
+		{% if game.manuals %}true{% else %}false{% endif %},
+		{{ game.games | jsonStringify | safe }},
+		{{ game.id | jsonStringify | safe }}
+	]{{ '' if loop.last else ',' }}{%- endfor -%}
+]

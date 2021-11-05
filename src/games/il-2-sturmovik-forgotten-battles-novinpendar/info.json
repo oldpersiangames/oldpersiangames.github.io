@@ -1,0 +1,78 @@
+{
+  "title": [
+    "IL-2 Sturmovik: Forgotten Battles"
+  ],
+  "titlefa": [
+    "نبرد هوایی ۲: نبردهای فراموش شده"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2004-02-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 112,
+      "files": [
+        "IL-2 Sturmovik Forgotten Battles Manual (NP).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "manual",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070205030540/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000021"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709075007/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=5&Def=5&CurrPN=2"
+    }
+  ]
+}

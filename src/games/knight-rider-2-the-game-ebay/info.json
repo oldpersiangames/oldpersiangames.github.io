@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Knight Rider 2: The Game"
+  ],
+  "titlefa": [
+    "راننده حرفه ای ۲"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "ebay"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2005-09-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [
+    "دیسک دوم این عنوان گمشده است. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "mrwinner78",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

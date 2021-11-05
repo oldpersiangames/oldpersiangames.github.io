@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Speed in City"
+  ],
+  "titlefa": [
+    "شتاب در شهر"
+  ],
+  "producer": [
+    "srayaneh"
+  ],
+  "publisher": [
+    "srayaneh"
+  ],
+  "price": [
+    48000
+  ],
+  "release_date": [
+    {
+      "date": "2012-06-20",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌ها را بصورت غیر ایمیج داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "https://hayoola.com/game/30#!/"
+    }
+  ]
+}

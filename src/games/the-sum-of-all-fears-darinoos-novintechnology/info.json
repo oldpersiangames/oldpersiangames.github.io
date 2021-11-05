@@ -1,0 +1,71 @@
+{
+  "title": [
+    "The Sum of All Fears"
+  ],
+  "titlefa": [
+    "نیروهای جهنمی"
+  ],
+  "producer": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "publisher": [
+    "darinoos",
+    "novintechnology"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2002-05-06",
+      "ref": "بر اساس حدس."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0,
+      "files": []
+    }
+  ],
+  "contributors": [
+    {
+      "username": "saeed",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,62 @@
+{
+  "ia_id": "dark-zone-rayanparse",
+  "title": [
+    "Dark Zone"
+  ],
+  "titlefa": [
+    "منطقه تاریک"
+  ],
+  "producer": [
+    "rayanparse"
+  ],
+  "publisher": [
+    "rayanparse"
+  ],
+  "price": [
+    25000
+  ],
+  "release_date": [
+    {
+      "date": "2009-08-22",
+      "ref": "بر اساس تاریخ صدور مجوز."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

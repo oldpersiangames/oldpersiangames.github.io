@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "*"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "*",
+    "clean-css": "*",
+    "html-minifier": "*",
+    "terser": "*"
+  },
+  "scripts": {
+    "build": "eleventy"
+  }
+}

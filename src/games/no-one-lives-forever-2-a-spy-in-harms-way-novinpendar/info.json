@@ -1,0 +1,84 @@
+{
+  "title": [
+    "No One Lives Forever 2: A Spy in H.A.R.M.'s Way"
+  ],
+  "titlefa": [
+    "مأمور مخفی ۲: کیت آرچر"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "novinpendar"
+  ],
+  "price": [
+    32000
+  ],
+  "release_date": [
+    {
+      "date": "2003-03-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "subtitle": false,
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": [
+    {
+      "release_type": "indisc",
+      "no_of_pages": 179,
+      "files": [
+        "Cate Archer 2 Help (Farsi).pdf"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "game",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover",
+        "manual"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20070212083103/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000012"
+    },
+    {
+      "title": "مشخصات در سایت ناشر",
+      "url": "https://web.archive.org/web/20060709074821/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=10&Def=5&CurrPN=3"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": [
+    "Breaking of Siege"
+  ],
+  "titlefa": [
+    "شکست حصر"
+  ],
+  "producer": [
+    "tebyan"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [
+    {
+      "date": "2011-12-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل‌های بازی را بصورت نصب‌شده داریم. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
