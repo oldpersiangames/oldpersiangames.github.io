@@ -236,6 +236,7 @@ eleventyConfig.addFilter(
   eleventyConfig.addPassthroughCopy("src/DataTables-1.10.22");
   eleventyConfig.addPassthroughCopy("src/datatables.min.css");
   eleventyConfig.addPassthroughCopy("src/CNAME");
+  eleventyConfig.addPassthroughCopy("src/.nojekyll");
   eleventyConfig.addPassthroughCopy("src/blog-pictures/");
   eleventyConfig.addFilter("hasCommonTitles", hasCommonTitles);
   eleventyConfig.addFilter("jsonStringify", function(value) { return JSON.stringify(value); });
