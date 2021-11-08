@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: true
         <url>
             <loc>{{ site.url }}{{ page.url | url }}</loc>{% if not page.data.game %}<lastmod>{{ page.date.toISOString() }}</lastmod>{% endif %}
             {% if page.data.game %}<image:image>
-              <image:loc>{{ site.url }}/photos/{{ page.data.game.photos[0].path }}</image:loc>
+              <image:loc>{{ site.url }}/photos/{{ game.id }}-{{ game.photos[0].path.split("-")[0] }}.{{ game.photos[0].path.split(".").pop() }}</image:loc>
             </image:image>{% endif %}
             <changefreq>{{ page.data.changeFreq if page.data.changeFreq else "monthly" }}</changefreq>
             {% if 1 == 2 %}
