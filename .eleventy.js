@@ -238,6 +238,9 @@ eleventyConfig.addFilter(
   eleventyConfig.addPassthroughCopy("src/CNAME");
   eleventyConfig.addPassthroughCopy("src/.nojekyll");
   eleventyConfig.addPassthroughCopy("src/blog-pictures/");
+  eleventyConfig.addFilter("getFirstPhotoPath", function(game) {
+    return `/photos/${game.id}-${game.photos[0].path.split("-")[0]}.${game.photos[0].path.split(".").pop()}`
+  });
   eleventyConfig.addFilter("hasCommonTitles", hasCommonTitles);
   eleventyConfig.addFilter("jsonStringify", function(value) { return JSON.stringify(value); });
   eleventyConfig.addFilter("toPersianDate", function(value) { return new Date(value).toLocaleDateString('fa-IR', { year: 'numeric', month: 'long', day: 'numeric' }); });

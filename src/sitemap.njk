@@ -10,9 +10,9 @@ eleventyExcludeFromCollections: true
        {% if not page.data.draft %}
         <url>
             <loc>{{ site.url }}{{ page.url | url }}</loc>{% if not page.data.game %}<lastmod>{{ page.date.toISOString() }}</lastmod>{% endif %}
-            {% if page.data.game %}<image:image>
-              <image:loc>{{ site.url }}/photos/{{ game.id }}-{{ game.photos[0].path.split("-")[0] }}.{{ game.photos[0].path.split(".").pop() }}</image:loc>
-            </image:image>{% endif %}
+            {% if page.data.game %}{% set game = page.data.game %}{% if game.photos | length %}<image:image>
+              <image:loc>{{ site.url }}{{ game | getFirstPhotoPath }}</image:loc>
+            </image:image>{% endif %}{% endif %}
             <changefreq>{{ page.data.changeFreq if page.data.changeFreq else "monthly" }}</changefreq>
             {% if 1 == 2 %}
             <priority>{{ item.data.priority }}</priority>

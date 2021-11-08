@@ -15,7 +15,7 @@
 <link rel="canonical" href="{{ site.url }}{{ page.url | url }}">
 {% if game %}
 {% if game.photos | length %}
-{% set pageImage = site.url + "/photos/" + game.id + "-" + game.photos[0].path.split("-")[0] + "." + game.photos[0].path.split(".").pop() %}
+{% set pageImage = site.url + (game | getFirstPhotoPath) %}
 {% endif %}
 {% else %}
 {% set pageImage = site.url + "/OPG.jpg" %}

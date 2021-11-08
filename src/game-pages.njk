@@ -18,7 +18,7 @@ permalink: "games/{{ game.id }}/"
         <tr>
           <th colspan="2">
             <div class="game-maininfo"><!-- in mozilla documents they said `position: relative` effect on table elements is undefined. So, I used this div. look at https://developer.mozilla.org/en-US/docs/Web/CSS/position -->
-              {% if game.photos | length %}<a href="/photos/{{ game.id }}-{{ game.photos[0].path.split("-")[0] }}.{{ game.photos[0].path.split(".").pop() }}" target="_blank">{% image game.id, "./src/games/"+game.id+"/photos/" + game.photos[0].path, game | genGameObjectTitle(true), 200, false %}</a>
+              {% if game.photos | length %}<a href="{{ game | getFirstPhotoPath }}" target="_blank">{% image game.id, "./src/games/"+game.id+"/photos/" + game.photos[0].path, game | genGameObjectTitle(true), 200, false %}</a>
                 {% if game.photos[0].rebuilt %}<div class="rebuilt-text">این تصویر بازسازی شده است.</div>{% endif %}
               {% else %}<img src="/photos/nocover.svg" width="200" height="200" title="{{ game | genGameObjectTitle(true) }}" alt="{{ game | genGameObjectTitle(true) }}" loading="lazy" decoding="async">{% endif %}<br>{{ game.titlefa[0] }}<br>
               <span dir="ltr" title="English-language title" lang="en">{{ game.title[0] }}</span>
