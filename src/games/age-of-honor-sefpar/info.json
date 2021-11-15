@@ -67,7 +67,9 @@
     }
   ],
   "links": [
-    "title": "خرید از سایت ناشر",
-    "url": "http://fa.doraneeftekhar.ir/main"
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "http://fa.doraneeftekhar.ir/main"
+    }
   ]
 }
