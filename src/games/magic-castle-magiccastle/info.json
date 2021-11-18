@@ -1,0 +1,52 @@
+{
+  "title": [
+    "Magic Castle"
+  ],
+  "titlefa": [
+    "قلعه سحرآمیز"
+  ],
+  "producer": [
+    "magiccastle"
+  ],
+  "publisher": [
+    "magiccastle"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2011-12-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
