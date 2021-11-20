@@ -199,6 +199,10 @@
             {"title": "Magic Castle", "titlefa": "قلعه سحرآمیز", "order": 99},
         "mosleh313":
             {"title": "Mosleh 313", "titlefa": "بنیاد فرهنگی حضرت مهدی موعود", "order": 99},
+        "sourehnama":
+            {"title": "Soureh Nama", "titlefa": "سوره نما", "order": 99},
+        "raspina":
+            {"title": "Raspina", "titlefa": "راسپینا", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
