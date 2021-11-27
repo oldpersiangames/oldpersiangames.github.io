@@ -1,0 +1,69 @@
+{
+  "title": [
+    "Highway Police"
+  ],
+  "titlefa": [
+    "پلیس بزرگراه"
+  ],
+  "producer": [
+    "pasargadgames"
+  ],
+  "publisher": [
+    "gerdoo"
+  ],
+  "price": [
+    85000
+  ],
+  "release_date": [
+    {
+      "date": "2016-07-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "مشخصات دیسک دستکاری شده است. دیسک اصلی را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Arash_a70",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Aras_Max",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

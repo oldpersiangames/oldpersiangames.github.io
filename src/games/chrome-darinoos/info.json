@@ -42,7 +42,7 @@
     {
       "release_type": "printed",
       "no_of_pages": 0,
-      "files": []
+      "files": ["Chrome Manual-Darinoos.pdf"]
     }
   ],
   "contributors": [
@@ -50,6 +50,12 @@
       "username": "amirclup",
       "contribute": [
         "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "manual", "details"
       ]
     },
     {

@@ -14,8 +14,8 @@
   "price": [],
   "release_date": [
     {
-      "date": "2006-04-22",
-      "ref": "تاریخ تقریبی (بر اساس حدس)."
+      "date": "2006-05-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
   "released_on": [
@@ -46,6 +46,12 @@
     }
   ],
   "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game", "cover", "details"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [
