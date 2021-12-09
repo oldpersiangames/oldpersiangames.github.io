@@ -138,7 +138,10 @@ async function imageShortcode(gameid, src, alt, width = 165, notag = false) {
 
 const REFRENCE_MAP = []
 
+const faviconPlugin = require("eleventy-favicon");
+
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(faviconPlugin, {destination: "./dist"});
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if( outputPath.endsWith(".html") ) {

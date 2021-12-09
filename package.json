@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "*",
+    "eleventy-favicon": "*",
     "clean-css": "*",
     "html-minifier": "*",
     "terser": "*"
