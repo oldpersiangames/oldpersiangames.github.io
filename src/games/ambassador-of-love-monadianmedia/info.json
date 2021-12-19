@@ -1,0 +1,70 @@
+{
+  "title": [
+    "Ambassador of Love"
+  ],
+  "titlefa": [
+    "سفیر عشق"
+  ],
+  "producer": [
+    "matna"
+  ],
+  "publisher": [
+    "monadianmedia"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2020-12-15",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": true,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Ali_Parsakhoo",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت ناشر",
+      "url": "https://hayoola.com/game/2007"
+    }
+  ]
+}

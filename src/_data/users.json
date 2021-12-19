@@ -26,7 +26,8 @@
 		"telegram": "AG_e_e_kA",
 		"email": "alirezash796@gmail.com",
 		"contributes": [
-			"رابط ارتباطی پایگاه"
+			"رابط ارتباطی پایگاه",
+			"سازماندهی فایل‌های آرشیو در فضاهای ابری"
 		]
 	},
 	"docfarzad": {
@@ -40,6 +41,12 @@
 	},
 	"pejman": {
 		"telegram": "none"
+	},
+	"irmkh13": {
+		"telegram": "irmkh13",
+		"contributes": [
+			"ناظم گروه گفتگو"
+		]
 	},
 	"mohammadn": {
 		"telegram": "none"
