@@ -26,7 +26,6 @@
     2
   ],
   "defects": [
-    "از دیسک خش‌دار ایمیج گرفته شده. دیسک اصلی را دارید؟"
   ],
   "games": [
     {
@@ -45,9 +44,15 @@
   "manuals": false,
   "contributors": [
     {
-      "username": "mohammadn",
+      "username": "ruinerart",
       "contribute": [
-        "game"
+        "game", "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover", "details"
       ]
     },
     {
