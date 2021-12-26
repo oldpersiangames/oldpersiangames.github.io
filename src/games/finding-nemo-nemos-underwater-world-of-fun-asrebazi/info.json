@@ -1,0 +1,66 @@
+{
+  "title": [
+    "Finding Nemo: Nemo's Underwater World of Fun"
+  ],
+  "titlefa": [
+    "در جستجوی نمو: دنیای سرگرمی های زیر آب"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2013-08-20",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
