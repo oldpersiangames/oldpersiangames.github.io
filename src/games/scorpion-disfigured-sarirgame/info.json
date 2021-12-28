@@ -1,0 +1,68 @@
+{
+  "title": [
+    "Scorpion: Disfigured"
+  ],
+  "titlefa": [
+    "عقرب"
+  ],
+  "producer": [
+    "sarirgame"
+  ],
+  "publisher": [
+    "sarirgame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [
+    {
+      "date": "2010-02-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Arash_a70",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

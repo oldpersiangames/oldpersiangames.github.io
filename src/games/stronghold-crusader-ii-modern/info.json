@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Stronghold Crusader II"
+  ],
+  "titlefa": [
+    "جنگ های صلیبی ۲"
+  ],
+  "producer": [
+    "modern"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [
+    120000
+  ],
+  "release_date": [
+    {
+      "date": "2018-08-21",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

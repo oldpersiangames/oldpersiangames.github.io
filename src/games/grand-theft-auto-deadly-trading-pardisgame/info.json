@@ -1,0 +1,67 @@
+{
+  "title": [
+    "Grand Theft Auto: Deadly Trading",
+    "GTA: Deadly Trading"
+  ],
+  "titlefa": [
+    "تجارت مرگ"
+  ],
+  "producer": [
+    "sanobar"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2007-05-23",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": true,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
