@@ -211,6 +211,8 @@
             {"title": "Sourena Game Studio", "titlefa": "استودیو سورنا", "order": 99},
         "kpf":
             {"title": "Center for the Intellectual Development of Child and Adolescent", "titlefa": "کانون پرورش فکری کودکان و نوجوانان", "order": 99},
+        "arvinstudio":
+            {"title": "Arvin Studio", "titlefa": "استودیو آروین", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
