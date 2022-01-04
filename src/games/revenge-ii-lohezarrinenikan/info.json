@@ -1,27 +1,25 @@
 {
   "title": [
-    "Alefbaye Taty"
+    "Revenge II"
   ],
   "titlefa": [
-    "بازی و الفبا تاتی"
+    "انتقام ۲"
   ],
   "producer": [
-    "tatyworld"
+    "studiopadideh"
   ],
   "publisher": [
-    "tatyworld"
+    "lohezarrinenikan"
   ],
-  "price": [
-    35000
-  ],
+  "price": [],
   "release_date": [
     {
-      "date": "2012-01-06",
+      "date": "2012-05-12",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
   "released_on": [
-    "CD"
+    "DVD"
   ],
   "no_of_discs": [
     1
@@ -37,23 +35,16 @@
       "iranian": true
     }
   ],
-  "selling": true,
+  "selling": false,
   "platform": [
     "Windows"
   ],
   "manuals": false,
   "contributors": [
     {
-      "username": "Bardiamohamaditehrani",
+      "username": "FrozenCat",
       "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover"
+        "game"
       ]
     },
     {
@@ -63,10 +54,5 @@
       ]
     }
   ],
-  "links": [
-    {
-      "title": "خرید از سایت ناشر",
-      "url": "http://tatyshop.ir/index.php?route=product/product&path=62&product_id=107"
-    }
-  ]
+  "links": []
 }

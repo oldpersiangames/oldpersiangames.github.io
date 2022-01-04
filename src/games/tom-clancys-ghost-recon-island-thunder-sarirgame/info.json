@@ -42,6 +42,12 @@
   "manuals": false,
   "contributors": [
     {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game", "cover"
+      ]
+    },
+    {
       "username": "ruinerart",
       "contribute": [
         "game"
