@@ -81,10 +81,6 @@ permalink: "games/{{ game.id }}/"
             <tr>
             <th style="background:tomato;color:black" colspan="3">این اثر در حال عرضه و فروش توسط ناشر/تولیدکننده است و امکان دانلود از این پایگاه وجود ندارد. برای تهیه‌ی این اثر، آن را از مراجع رسمی خریداری کنید.</th>
             </tr>
-{% elif game.ia_id %}
-            <tr>
-            <th style="background:slateblue;color:white" colspan="3">با لینک‌های دانلود مشکلی دارید؟ می‌توانید از کانال تلگرامی <a href="https://t.me/OldPersianGames" style="color:yellow">@OldPersianGames</a> دانلود کنید.</th>
-            </tr>
 {% elif (game.files | length) or (game.tgfiles | length) %}
             <tr>
             <th style="background:slateblue;color:white" colspan="3">امکان دانلود این بازی فقط از طریق کانال تلگرامی فراهم شده است. وارد کانال تلگرامی <a href="https://t.me/OldPersianGames" style="color:yellow">@OldPersianGames</a> شوید و نام این بازی را جستجو کنید. در آینده، لینک دانلود مستقیم به این صفحه افزوده خواهد شد.</th>
