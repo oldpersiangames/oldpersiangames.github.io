@@ -1,73 +1,12 @@
 [
   {
-    "file_name": "Civilization IV  Front Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGpWCs1nWpJfu-ENAoBYHrw9kEK3ImAAIhDQACDQFhUbFoUp3P4JrGtcj6MF0AAwEAB20AAySHAAIfBA",
-      "file_unique_id": "AQADtcj6MF0AAySHAAI",
-      "file_size": 23307,
-      "width": 236,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBqVgrNZ1qSX7vhDQKAWB68PZBCtyJgACIQ0AAg0BYVGxaFKdz-Caxh8E",
-    "file_unique_id": "AgADIQ0AAg0BYVE",
-    "file_size": 212053
-  },
-  {
-    "file_name": "Civilization IV Back Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGpmCs1nXAsPcKU34eko99hVM6MhgWAAIiDQACDQFhUXiaA7S2r7IpAiy5MF0AAwEAB20AAx9dAAIfBA",
-      "file_unique_id": "AQADAiy5MF0AAx9dAAI",
-      "file_size": 28672,
-      "width": 235,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBqZgrNZ1wLD3ClN-HpKPfYVTOjIYFgACIg0AAg0BYVF4mgO0tq-yKR8E",
-    "file_unique_id": "AgADIg0AAg0BYVE",
-    "file_size": 451512
-  },
-  {
-    "file_name": "Civilization IV Disk 1 Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGp2Cs1nV4YQ3mlrU-iPMqXW7XrQpGAAIjDQACDQFhUUkYMKJrcbUICWDiMF0AAwEAB20AA-4SAAIfBA",
-      "file_unique_id": "AQADCWDiMF0AA-4SAAI",
-      "file_size": 29911,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBqdgrNZ1eGEN5pa1PojzKl1u160KRgACIw0AAg0BYVFJGDCia3G1CB8E",
-    "file_unique_id": "AgADIw0AAg0BYVE",
-    "file_size": 470099
-  },
-  {
-    "file_name": "Civilization IV Disk 2 Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGqGCs1nX5eqPb9RwRvreorWMtCR1vAAIkDQACDQFhUZxwqBFW6nuvt83AMF0AAwEAB20AAy4MAAIfBA",
-      "file_unique_id": "AQADt83AMF0AAy4MAAI",
-      "file_size": 33197,
-      "width": 319,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBqhgrNZ1-Xqj2_UcEb63qK1jLQkdbwACJA0AAg0BYVGccKgRVup7rx8E",
-    "file_unique_id": "AgADJA0AAg0BYVE",
-    "file_size": 274312
-  },
-  {
-    "file_name": "Civilization IV Disk 3 Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGqWCs1nVw8d4-kmbkw4ygmcgOkEyYAAIlDQACDQFhUfge3gk5RRpBT2luMF0AAwEAB20AA05ZAAIfBA",
-      "file_unique_id": "AQADT2luMF0AA05ZAAI",
-      "file_size": 30011,
-      "width": 320,
-      "height": 319
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBqlgrNZ1cPHePpJm5MOMoJnIDpBMmAACJQ0AAg0BYVH4Ht4JOUUaQR8E",
-    "file_unique_id": "AgADJQ0AAg0BYVE",
-    "file_size": 379644
+    "file_id": "BQACAgQAAx0ES2Z5_gACEQlh8psTSilh2McTZPyQEx_MJSBG6gACbBAAAjCMmVMgU_cGRnpK-R4E",
+    "file_unique_id": "AgADbBAAAjCMmVM",
+    "file_name": "civilization-iv-novinpendar-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 1788338,
+    "date": 1643289363,
+    "thumbs": null
   },
   {
     "file_name": "CIVIL4_CD1.zip",
