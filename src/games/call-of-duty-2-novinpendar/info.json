@@ -41,8 +41,8 @@
   "manuals": [
     {
       "release_type": "printed",
-      "no_of_pages": 0,
-      "files": []
+      "no_of_pages": 35,
+      "files": ["Call of Duty 2 Manual (NP).pdf"]
     }
   ],
   "contributors": [
@@ -57,6 +57,12 @@
       "username": "mostafare4",
       "contribute": [
         "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_KA",
+      "contribute": [
+        "manual", "cover", "details"
       ]
     }
   ],
