@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Flanker 2.5 Front Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHB2CwL_-px5PXt-B4IsrqOP6bWshPAAKjCgACFBaAUYQryzY17VfNWgLqMF0AAwEAB20AA-R_AAIfBA",
-      "file_unique_id": "AQADWgLqMF0AA-R_AAI",
-      "file_size": 26425,
-      "width": 236,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBwdgsC__qceT17fgeCLK6jj-m1rITwACowoAAhQWgFGEK8s2Ne1XzR8E",
-    "file_unique_id": "AgADowoAAhQWgFE",
-    "file_size": 3194676
-  },
-  {
-    "file_name": "Flanker 2.5 Back Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHCGCwL_9Qwk4EbtCGOPjAbJdTEfjbAAKkCgACFBaAUV9as4vI-TaxqwztMF0AAwEAB20AA8yFAAIfBA",
-      "file_unique_id": "AQADqwztMF0AA8yFAAI",
-      "file_size": 27052,
-      "width": 233,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBwhgsC__UMJOBG7Qhjj4wGyXUxH42wACpAoAAhQWgFFfWrOLyPk2sR8E",
-    "file_unique_id": "AgADpAoAAhQWgFE",
-    "file_size": 3757165
-  },
-  {
-    "file_name": "Flanker 2.5 Disk Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHCWCwL_-deO1LsvAi7qEkbStWvEqPAAKlCgACFBaAUcx9yHzG5DvJXHnoMF0AAwEAB20AA2R0AAIfBA",
-      "file_unique_id": "AQADXHnoMF0AA2R0AAI",
-      "file_size": 24031,
-      "width": 320,
-      "height": 313
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBwlgsC__nXjtS7LwIu6hJG0rVrxKjwACpQoAAhQWgFHMfch8xuQ7yR8E",
-    "file_unique_id": "AgADpQoAAhQWgFE",
-    "file_size": 180076
+    "file_id": "BQACAgQAAx0ES2Z5_gACERFh8wm4n0eoNCXj9CksthNHjqdY7AACiQsAAjCMoVPTwBd_HUFNOB4E",
+    "file_unique_id": "AgADiQsAAjCMoVM",
+    "file_name": "flanker-25-novinpendar-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 7132325,
+    "date": 1643317688,
+    "thumbs": null
   },
   {
     "file_name": "CD [Flanker].rar",
