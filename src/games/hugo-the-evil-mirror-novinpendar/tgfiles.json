@@ -1,73 +1,12 @@
 [
   {
-    "file_name": "Hugo The Evil Mirror Front.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINnGEZJnNVht1fRO4SWeAnVzdix69rAAK0CgACd4RAUBGh7qU-7Y_NAQAHbQADIAQ",
-      "file_unique_id": "AQADtAoAAneEQFBy",
-      "file_size": 22370,
-      "width": 232,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDZxhGSZzVYbdX0TuElngJ1c3YsevawACtAoAAneEQFARoe6lPu2PzSAE",
-    "file_unique_id": "AgADtAoAAneEQFA",
-    "file_size": 41087886
-  },
-  {
-    "file_name": "Hugo The Evil Mirror Back.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINnWEZJnRVNiPCB0GOUK7GX3MGWgpLAAK3CgACd4RAUCfEGqoNFg-PAQAHbQADIAQ",
-      "file_unique_id": "AQADtwoAAneEQFBy",
-      "file_size": 26468,
-      "width": 228,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDZ1hGSZ0VTYjwgdBjlCuxl9zBloKSwACtwoAAneEQFAnxBqqDRYPjyAE",
-    "file_unique_id": "AgADtwoAAneEQFA",
-    "file_size": 46347120
-  },
-  {
-    "file_name": "Hugo The Evil Mirror Manual.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINnmEZJnb9ZQVQ50wslbB5jjtyzMNkAAK8CgACd4RAUBdA4V-Pa8GtAQAHbQADIAQ",
-      "file_unique_id": "AQADvAoAAneEQFBy",
-      "file_size": 15762,
-      "width": 217,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDZ5hGSZ2_WUFUOdMLJWweY47cszDZAACvAoAAneEQFAXQOFfj2vBrSAE",
-    "file_unique_id": "AgADvAoAAneEQFA",
-    "file_size": 48257868
-  },
-  {
-    "file_name": "Hugo The Evil Mirror Stickers.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINn2EZJnpIV5sTqWtp8gsAAVazrU-FCQACvwoAAneEQFABKrUyAgKx1QEAB20AAyAE",
-      "file_unique_id": "AQADvwoAAneEQFBy",
-      "file_size": 25478,
-      "width": 320,
-      "height": 243
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDZ9hGSZ6SFebE6lrafILAAFWs61PhQkAAr8KAAJ3hEBQASq1MgICsdUgBA",
-    "file_unique_id": "AgADvwoAAneEQFA",
-    "file_size": 29575592
-  },
-  {
-    "file_name": "Hugo The Evil Mirror Disc Cover.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINoGEZJnx4BB37DWcqA8G8BJcUUGBtAALACgACd4RAUCTzpj_R-KMNAQAHbQADIAQ",
-      "file_unique_id": "AQADwAoAAneEQFBy",
-      "file_size": 22870,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDaBhGSZ8eAQd-w1nKgPBvASXFFBgbQACwAoAAneEQFAk86Y_0fijDSAE",
-    "file_unique_id": "AgADwAoAAneEQFA",
-    "file_size": 22492084
+    "file_id": "BQACAgQAAx0ES2Z5_gACEQph8puPqg7CjHqxPFx-QjVW1NY14wACbRAAAjCMmVO4ykiB3lfVxh4E",
+    "file_unique_id": "AgADbRAAAjCMmVM",
+    "file_name": "hugo-the-evil-mirror-novinpendar-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 187761268,
+    "date": 1643289487,
+    "thumbs": null
   },
   {
     "file_name": "Evil_Mirror.iso",
