@@ -42,7 +42,9 @@
     {
       "release_type": "printed",
       "no_of_pages": 35,
-      "files": ["Call of Duty 2 Manual (NP).pdf"]
+      "files": [
+        "Call of Duty 2 Manual (NP).pdf"
+      ]
     }
   ],
   "contributors": [
@@ -62,7 +64,9 @@
     {
       "username": "AG_e_e_KA",
       "contribute": [
-        "manual", "cover", "details"
+        "manual",
+        "cover",
+        "details"
       ]
     }
   ],
@@ -71,9 +75,10 @@
       "title": "مشخصات در سایت ناشر",
       "url": "https://web.archive.org/web/20070212083054/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000041"
     },
-     {
+    {
       "title": "نمونه گیم پلی و راهنمای کامل بازی",
       "url": "https://www.youtube.com/playlist?list=PLg75mpBOAJV9fQMQm2YQ6iwA9TuzTIQHE"
-     }
-  ]
+    }
+  ],
+  "ia_id": "call-of-duty-2-novinpendar"
 }
