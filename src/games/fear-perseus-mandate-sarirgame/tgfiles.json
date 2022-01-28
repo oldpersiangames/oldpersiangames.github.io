@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "IMG_20210526_150004.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIG82CuPvfvPOZQ5NgsdLxoz-RHrUJJAAJACwACnUBwUYDxBTceByMEbkUrMF0AAwEAB20AA8NZAAIfBA",
-      "file_unique_id": "AQADbkUrMF0AA8NZAAI",
-      "file_size": 21793,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvNgrj737zzmUOTYLHS8aM_kR61CSQACQAsAAp1AcFGA8QU3HgcjBB8E",
-    "file_unique_id": "AgADQAsAAp1AcFE",
-    "file_size": 3709691
-  },
-  {
-    "file_name": "IMG_20210526_145923.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIG9GCuPvfwWT6hSA_ZV0-dAu1sE6PnAAJECwACnUBwUT_2mmCO2vX57C9_MF0AAwEAB20AA7IJAAIfBA",
-      "file_unique_id": "AQAD7C9_MF0AA7IJAAI",
-      "file_size": 23533,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvRgrj738Fk-oUgP2VdPnQLtbBOj5wACRAsAAp1AcFE_9ppgjtr1-R8E",
-    "file_unique_id": "AgADRAsAAp1AcFE",
-    "file_size": 3619583
-  },
-  {
-    "file_name": "IMG_20210526_150044.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIG9WCuPveCXkVqxYzlD5R4GrWqq7_5AAJFCwACnUBwUfEzto4OUx8DXoCRMF0AAwEAB20AA3VfAAIfBA",
-      "file_unique_id": "AQADXoCRMF0AA3VfAAI",
-      "file_size": 15972,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvVgrj73gl5FasWM5Q-UeBq1qqu_-QACRQsAAp1AcFHxM7aODlMfAx8E",
-    "file_unique_id": "AgADRQsAAp1AcFE",
-    "file_size": 2615594
+    "file_id": "BQACAgQAAx0ES2Z5_gACERhh9E5tlin6uyHGAAEDGV_5FdPlTygAAp4KAAIbO6FT56Sm3bZ-DAweBA",
+    "file_unique_id": "AgADngoAAhs7oVM",
+    "file_name": "fear-perseus-mandate-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 9945256,
+    "date": 1643400813,
+    "thumbs": null
   },
   {
     "file_name": "FEAR_Perseus_Man.part1.rar",
