@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "The Sum of All Fears - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEamCFjELyOPqPFiaadEQZQgLAbYSrAAJuCgACDyvwU_bRuxbE4gZpK-5cLl0AAwEAB20AA8ljAAIfBA",
-      "file_unique_id": "AQADK-5cLl0AA8ljAAI",
-      "file_size": 18806,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBGpghYxC8jj6jxYmmnREGUICwG2EqwACbgoAAg8r8FP20bsWxOIGaR8E",
-    "file_unique_id": "AgADbgoAAg8r8FM",
-    "file_size": 4441949
-  },
-  {
-    "file_name": "The Sum of All Fears - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEa2CFjEItlcrsehIuyQH6wsLHqZPyAAJzCgACDyvwUyJVOlHd5MQurUxVLl0AAwEAB20AA5FgAAIfBA",
-      "file_unique_id": "AQADrUxVLl0AA5FgAAI",
-      "file_size": 14985,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBGtghYxCLZXK7HoSLskB-sLCx6mT8gACcwoAAg8r8FMiVTpR3eTELh8E",
-    "file_unique_id": "AgADcwoAAg8r8FM",
-    "file_size": 3824003
-  },
-  {
-    "file_name": "The Sum of All Fears - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEbGCFjELrahT5Qaqkq5pGtbwEnHUtAAJ0CgACDyvwU3a5IwAB1x29xGBaWC5dAAMBAAdtAAN-XQACHwQ",
-      "file_unique_id": "AQADYFpYLl0AA35dAAI",
-      "file_size": 11819,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBGxghYxC62oU-UGqpKuaRrW8BJx1LQACdAoAAg8r8FN2uSMAAdcdvcQfBA",
-    "file_unique_id": "AgADdAoAAg8r8FM",
-    "file_size": 4420207
-  },
-  {
-    "file_name": "The Sum of All Fears - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEbWCFjELXhQFtIIAxcYp8N2U49owsAAJ2CgACDyvwU5f6XwQYOcNBehKgLl0AAwEAB20AAzRJAAIfBA",
-      "file_unique_id": "AQADehKgLl0AAzRJAAI",
-      "file_size": 14715,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBG1ghYxC14UBbSCAMXGKfDdlOPaMLAACdgoAAg8r8FOX-l8EGDnDQR8E",
-    "file_unique_id": "AgADdgoAAg8r8FM",
-    "file_size": 3945481
-  },
-  {
-    "file_name": "The Sum of All Fears - Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEbmCFjEK_fIU8c35zh7WDpyIvjP-8AAJ3CgACDyvwU4hkiQVRGkVdBQSdLl0AAwEAB20AA4hnAAIfBA",
-      "file_unique_id": "AQADBQSdLl0AA4hnAAI",
-      "file_size": 16565,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBG5ghYxCv3yFPHN-c4e1g6ciL4z_vAACdwoAAg8r8FOIZIkFURpFXR8E",
-    "file_unique_id": "AgADdwoAAg8r8FM",
-    "file_size": 4001695
-  },
-  {
-    "file_name": "The Sum of All Fears - Cover 6.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEb2CFjEKRPxSxmg97AjXbOnEQ4R0GAAJ4CgACDyvwU2JEQMEg6qDjT76qLl0AAwEAB20AA8NjAAIfBA",
-      "file_unique_id": "AQADT76qLl0AA8NjAAI",
-      "file_size": 11405,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBG9ghYxCkT8UsZoPewI12zpxEOEdBgACeAoAAg8r8FNiREDBIOqg4x8E",
-    "file_unique_id": "AgADeAoAAg8r8FM",
-    "file_size": 5441147
+    "file_id": "BQACAgQAAx0ES2Z5_gACERdh9EtEu-r_OQiEsv3c0src8PEwgwACmwoAAhs7oVO8yZlHQ1_Y-x4E",
+    "file_unique_id": "AgADmwoAAhs7oVM",
+    "file_name": "the-sum-of-all-fears-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 26075368,
+    "date": 1643400004,
+    "thumbs": null
   },
   {
     "file_name": "The Sum of All F.iso",
