@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "Airborne Troops Countdown to D-Day - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJFWDIwnx1RdeDccybl121bRO6DT3SAAJKCwAD1xFSBgmXwvtDyQh-04YwXQADAQAHbQAD-F8AAh8E",
-      "file_unique_id": "AQADftOGMF0AA_hfAAI",
-      "file_size": 15785,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCRVgyMJ8dUXXg3HMm5ddtW0Tug090gACSgsAA9cRUgYJl8L7Q8kIHwQ",
-    "file_unique_id": "AgADSgsAA9cRUg",
-    "file_size": 6398029
-  },
-  {
-    "file_name": "Airborne Troops Countdown to D-Day - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJFmDIwnyLVchV7S6bPVUTI88ZrqkIAAJLCwAD1xFSjjHmgbjlcErtnMkvXQADAQAHbQAD3gwAAh8E",
-      "file_unique_id": "AQAD7ZzJL10AA94MAAI",
-      "file_size": 16987,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCRZgyMJ8i1XIVe0umz1VEyPPGa6pCAACSwsAA9cRUo4x5oG45XBKHwQ",
-    "file_unique_id": "AgADSwsAA9cRUg",
-    "file_size": 4222236
-  },
-  {
-    "file_name": "Airborne Troops Countdown to D-Day - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJF2DIwnxGOvP4jIyQaNuXlblerS2hAAJMCwAD1xFSHEx4CNN-Er4VaVEwXQADAQAHbQADxWkAAh8E",
-      "file_unique_id": "AQADFWlRMF0AA8VpAAI",
-      "file_size": 17221,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCRdgyMJ8Rjrz-IyMkGjbl5W5Xq0toQACTAsAA9cRUhxMeAjTfhK-HwQ",
-    "file_unique_id": "AgADTAsAA9cRUg",
-    "file_size": 4187207
-  },
-  {
-    "file_name": "Airborne Troops Countdown to D-Day - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJGGDIwnyomNKAM_sprY-8XCtcr9a5AAJNCwAD1xFSNuVID8gN9gooqrktXQADAQAHbQADwRQAAh8E",
-      "file_unique_id": "AQADKKq5LV0AA8EUAAI",
-      "file_size": 13322,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCRhgyMJ8qJjSgDP7Ka2PvFwrXK_WuQACTQsAA9cRUjblSA_IDfYKHwQ",
-    "file_unique_id": "AgADTQsAA9cRUg",
-    "file_size": 4087811
+    "file_id": "BQACAgQAAx0ES2Z5_gACESBh9UQni1wuQqJjlH7iNy7vHCuXDwACvQkAAlFcsFOHt3UTLr3pMB4E",
+    "file_unique_id": "AgADvQkAAlFcsFM",
+    "file_name": "airborne-troops-countdown-to-d-day-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 18895993,
+    "date": 1643463719,
+    "thumbs": null
   },
   {
     "file_name": "AirborneTroops.iso",
