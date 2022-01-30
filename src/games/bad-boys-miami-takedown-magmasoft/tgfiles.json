@@ -1,115 +1,12 @@
 [
   {
-    "file_name": "Bad Boys 2 - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHvmC1C0ZOhkxCLDJQ2k-Idsbd_yeYAAJ3CgACiVsRUmjNc9rxweZbx_pMLF0AAwEAB20AAzI2AAIfBA",
-      "file_unique_id": "AQADx_pMLF0AAzI2AAI",
-      "file_size": 13816,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB75gtQtGToZMQiwyUNpPiHbG3f8nmAACdwoAAolbEVJozXPa8cHmWx8E",
-    "file_unique_id": "AgADdwoAAolbEVI",
-    "file_size": 4170897
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHv2C1C0ZBkDbq7Hbggo_iz-ny89DcAAJpCgACiVsRUquLX1M5aauSW4R2LV0AAwEAB20AA65EAAIfBA",
-      "file_unique_id": "AQADW4R2LV0AA65EAAI",
-      "file_size": 15207,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB79gtQtGQZA26ux24IKP4s_p8vPQ3AACaQoAAolbEVKri19TOWmrkh8E",
-    "file_unique_id": "AgADaQoAAolbEVI",
-    "file_size": 4141148
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHwGC1C0bQv18KOTlCAAFp4r26tbGoKwACagoAAolbEVJzKAEtTQzGWLZaKCxdAAMBAAdtAAN0YgACHwQ",
-      "file_unique_id": "AQADtlooLF0AA3RiAAI",
-      "file_size": 11619,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8BgtQtG0L9fCjk5QgABaeK9urWxqCsAAmoKAAKJWxFScygBLU0MxlgfBA",
-    "file_unique_id": "AgADagoAAolbEVI",
-    "file_size": 4101137
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHwWC1C0a6TNFv7O2PknvENOhJLxBzAAJrCgACiVsRUl1SRTdOLsy960wILF0AAwEAB20AA85xAAIfBA",
-      "file_unique_id": "AQAD60wILF0AA85xAAI",
-      "file_size": 16069,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8FgtQtGukzRb-ztj5J7xDToSS8QcwACawoAAolbEVJdUkU3Ti7MvR8E",
-    "file_unique_id": "AgADawoAAolbEVI",
-    "file_size": 4487385
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHwmC1C0Y6kO5EEY0t7BQi4IDE5kzaAAJsCgACiVsRUghCXdSt4L68Cmh6K10AAwEAB20AAxQ3AAIfBA",
-      "file_unique_id": "AQADCmh6K10AAxQ3AAI",
-      "file_size": 22871,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8JgtQtGOpDuRBGNLewUIuCAxOZM2gACbAoAAolbEVIIQl3UreC-vB8E",
-    "file_unique_id": "AgADbAoAAolbEVI",
-    "file_size": 5248069
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 6.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHw2C1C0ZmAczwIl9stVbzm4BbXatMAAJtCgACiVsRUrr7VzkyN8VidSd-LV0AAwEAB20AA5JHAAIfBA",
-      "file_unique_id": "AQADdSd-LV0AA5JHAAI",
-      "file_size": 13835,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8NgtQtGZgHM8CJfbLVW85uAW12rTAACbQoAAolbEVK6-1c5MjfFYh8E",
-    "file_unique_id": "AgADbQoAAolbEVI",
-    "file_size": 4852786
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 7.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHxGC1C0bovjy_cX5nXI0m39hBL9ssAAJuCgACiVsRUjX1h8bhrvwn9whlK10AAwEAB20AAwpIAAIfBA",
-      "file_unique_id": "AQAD9whlK10AAwpIAAI",
-      "file_size": 15017,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8RgtQtG6L48v3F-Z1yNJt_YQS_bLAACbgoAAolbEVI19YfG4a78Jx8E",
-    "file_unique_id": "AgADbgoAAolbEVI",
-    "file_size": 4747550
-  },
-  {
-    "file_name": "Bad Boys 2 - Cover 8.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHxWC1C0bw-q5cYijf0FG3b1TiQksfAAJvCgACiVsRUqjSVZszPkwVj-mYK10AAwEAB20AA8VaAAIfBA",
-      "file_unique_id": "AQADj-mYK10AA8VaAAI",
-      "file_size": 17820,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB8VgtQtG8PquXGIo39BRt29U4kJLHwACbwoAAolbEVKo0lWbMz5MFR8E",
-    "file_unique_id": "AgADbwoAAolbEVI",
-    "file_size": 4925298
+    "file_id": "BQACAgQAAx0ES2Z5_gACESRh9jrOyabNmD3mSmJwWzx5bSS_ogACkwoAAlFcsFPg3Y5Zm9H91R4E",
+    "file_unique_id": "AgADkwoAAlFcsFM",
+    "file_name": "bad-boys-miami-takedown-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 36675284,
+    "date": 1643526862,
+    "thumbs": null
   },
   {
     "file_name": "Bad boy [1].iso",
