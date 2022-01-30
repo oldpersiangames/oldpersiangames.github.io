@@ -1,16 +1,6 @@
 [
-  {
-    "file_name": "Shekast-e-Hasr.part1.rar",
-    "mime_type": "application/rar",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDqJhJBtlo2_2gyiCUz6yWOtsWzmhwAACSwwAAruBUVAkDDu_vXUkYiAE",
-    "file_unique_id": "AgADSwwAAruBUVA",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "Shekast-e-Hasr.part2.rar",
-    "mime_type": "application/rar",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDqNhJBtrUWm2ETb3LY3sy9zFBQO0RgACTAwAAruBUVDKBR2gamiTwCAE",
-    "file_unique_id": "AgADTAwAAruBUVA",
-    "file_size": 1221578699
-  }
+  {"file_name": "Shekast-e-Hasr.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACES1h9w06G9aAgCoOQ2v8ziH1eDhK0AAC4w8AAqMLoVH8bAZF6mbIRyME", "file_unique_id": "AgAD4w8AAqMLoVE", "file_size": 2097152000},
+  {"file_name": "Shekast-e-Hasr.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACES5h9w067GGDxoPU67oqjAt5Ufy_2gAC5A8AAqMLoVE92_ueZtkIRSME", "file_unique_id": "AgAD5A8AAqMLoVE", "file_size": 2097152000},
+  {"file_name": "Shekast-e-Hasr.part3.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACES9h9w06kaLe-p1ZJ0QTlu20Af7iewAC5Q8AAqMLoVGsNiK-SezqqSME", "file_unique_id": "AgAD5Q8AAqMLoVE", "file_size": 294650452},
+  {"file_name": "ShekastHasr_Serial.txt", "mime_type": "text/plain", "file_id": "BQACAgQAAx0CS2Z5_gACETBh9w2Apvo4L66eEc5s0uvWfgnKRAACmgkAAlFcuFOBLajI0u32vCME", "file_unique_id": "AgADmgkAAlFcuFM", "file_size": 21}
 ]
