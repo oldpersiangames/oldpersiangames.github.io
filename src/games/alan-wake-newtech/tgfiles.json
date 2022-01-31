@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "IMG_20210207_145551.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHY2CySixZoXfA-4FxMWrqQeqKrXjtAAJ7CgACrF_4UJ3QD-VrksN5wpOrLF0AAwEAB20AAzwyAAIfBA",
-      "file_unique_id": "AQADwpOrLF0AAzwyAAI",
-      "file_size": 11754,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2NgskosWaF3wPuBcTFq6kHqiq147QACewoAAqxf-FCd0A_la5LDeR8E",
-    "file_unique_id": "AgADewoAAqxf-FA",
-    "file_size": 2235624
-  },
-  {
-    "file_name": "IMG_20210207_145947.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHZGCySixvwlGwAqVXoDOb0k98dU5OAAJ8CgACrF_4ULotubT3TKGFi3vXK10AAwEAB20AAyF5AAIfBA",
-      "file_unique_id": "AQADi3vXK10AAyF5AAI",
-      "file_size": 18168,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2Rgskosb8JRsAKlV6Azm9JPfHVOTgACfAoAAqxf-FC6Lbm090yhhR8E",
-    "file_unique_id": "AgADfAoAAqxf-FA",
-    "file_size": 2873942
-  },
-  {
-    "file_name": "IMG_20210207_145534.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHZWCySixsQXmhv2pRN-4gGxGkxt9YAAJ-CgACrF_4UD21F5Mw7S25QrN3LF0AAwEAB20AA2g-AAIfBA",
-      "file_unique_id": "AQADQrN3LF0AA2g-AAI",
-      "file_size": 11857,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2VgskosbEF5ob9qUTfuIBsRpMbfWAACfgoAAqxf-FA9tReTMO0tuR8E",
-    "file_unique_id": "AgADfgoAAqxf-FA",
-    "file_size": 2201118
-  },
-  {
-    "file_name": "IMG_20210207_145917.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHZmCySixQiGSeBLPZK4nFRcikn2Z6AAJ_CgACrF_4UEIFGMfVGiDPC3ilLF0AAwEAB20AAywoAAIfBA",
-      "file_unique_id": "AQADC3ilLF0AAywoAAI",
-      "file_size": 17872,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2ZgskosUIhkngSz2SuJxUXIpJ9megACfwoAAqxf-FBCBRjH1Rogzx8E",
-    "file_unique_id": "AgADfwoAAqxf-FA",
-    "file_size": 2496962
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUFh96TTOBlRS0at6HgEnDogGntLeAACvgwAAlc4wFMR6ItHtLnulB4E",
+    "file_unique_id": "AgADvgwAAlc4wFM",
+    "file_name": "alan-wake-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 9808156,
+    "date": 1643619539,
+    "thumbs": null
   },
   {
     "file_id": "BQACAgQAAx0ES2Z5_gACEUBh96S-Jn9Ugnhuk62hHe4LTwOAmQACvQwAAlc4wFPnOWhc5RNtvR4E",
