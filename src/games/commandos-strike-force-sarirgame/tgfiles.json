@@ -1,14 +1,20 @@
 [
   {
-    "file_name": "Commandos.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvFgrj0amPUwAfg2DwVsJdgzJwrX3gACnwwAArwteVEknFBBFTIefh8E",
-    "file_unique_id": "AgADnwwAArwteVE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUZh99p29kIKSHgIdIe0as94FvShTwAC8QwAAlc4wFNUPA249WhKhB4E",
+    "file_unique_id": "AgAD8QwAAlc4wFM",
+    "file_name": "commandos-strike-force-sarirgame-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643633270,
+    "thumbs": null
   },
   {
-    "file_name": "Commandos.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvJgrj0aDR28n6l9ZnN48h6h8-GKDgACogwAArwteVHIdvGdYrtioB8E",
-    "file_unique_id": "AgADogwAArwteVE",
-    "file_size": 2040496128
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUVh99oo3odVEGCLSerR3G-GqvBAeQAC8AwAAlc4wFN_78uhO7GCGB4E",
+    "file_unique_id": "AgAD8AwAAlc4wFM",
+    "file_name": "commandos-strike-force-sarirgame-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2040496635,
+    "date": 1643633192,
+    "thumbs": null
   }
 ]
