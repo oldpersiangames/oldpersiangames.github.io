@@ -14,7 +14,12 @@
   "price": [
     29000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-09-01",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
