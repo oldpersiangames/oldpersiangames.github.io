@@ -56,39 +56,48 @@
     "file_size": 2496962
   },
   {
-    "file_name": "AW-DISK1.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2dgsk6B4Yc1NSmnnubUcBlceXqtwwACTgwAAt3KkFG1qAiuJgwTKh8E",
-    "file_unique_id": "AgADTgwAAt3KkFE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUBh96S-Jn9Ugnhuk62hHe4LTwOAmQACvQwAAlc4wFPnOWhc5RNtvR4E",
+    "file_unique_id": "AgADvQwAAlc4wFM",
+    "file_name": "alan-wake-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643619518,
+    "thumbs": null
   },
   {
-    "file_name": "AW-DISK1.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2hgsk6Bzxdzn8xN8hshHXmZf5YD1gACUAwAAt3KkFHsCTVF45DO0B8E",
-    "file_unique_id": "AgADUAwAAt3KkFE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACET9h96RvxlsV4pZNi3erS377azRSWwACvAwAAlc4wFMtXVgTBMCSEx4E",
+    "file_unique_id": "AgADvAwAAlc4wFM",
+    "file_name": "alan-wake-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643619439,
+    "thumbs": null
   },
   {
-    "file_name": "AW-DISK1.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2lgsk6Bclmb-pVYLp3VExijXbSDrwACUQwAAt3KkFHliCMAAQXgQ6ofBA",
-    "file_unique_id": "AgADUQwAAt3KkFE",
-    "file_size": 25788416
+    "file_id": "BQACAgQAAx0ES2Z5_gACET5h96QSzbF4SIS2PIE-KpfPBqdgNgACuwwAAlc4wFPUWQ-e9mqLwB4E",
+    "file_unique_id": "AgADuwwAAlc4wFM",
+    "file_name": "alan-wake-newtech-discs.part4.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643619346,
+    "thumbs": null
   },
   {
-    "file_name": "AW-DISK2.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2pgsk6BlL_08xAV0msulqEFQVTPawACUgwAAt3KkFHm_2plLHHovx8E",
-    "file_unique_id": "AgADUgwAAt3KkFE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACET1h96PAf9WfU7BEw5T_MUONzWoMAQACugwAAlc4wFNn6xZEEsw2AAEeBA",
+    "file_unique_id": "AgADugwAAlc4wFM",
+    "file_name": "alan-wake-newtech-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643619264,
+    "thumbs": null
   },
   {
-    "file_name": "AW-DISK2.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2tgsk6BXLWbGbL4ozip2fQSmhMtyAACUwwAAt3KkFHSP3O9XIpf4R8E",
-    "file_unique_id": "AgADUwwAAt3KkFE",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "AW-DISK2.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB2xgsk6BrmNUn4wubHicqB-sVK17LgACVAwAAt3KkFEXZ0m_kNlzXx8E",
-    "file_unique_id": "AgADVAwAAt3KkFE",
-    "file_size": 391413760
+    "file_id": "BQACAgQAAx0ES2Z5_gACETxh96NrNCUOecMs1ssu1SGMjzJpRwACuQwAAlc4wFMdvgAB8f6c_tkeBA",
+    "file_unique_id": "AgADuQwAAlc4wFM",
+    "file_name": "alan-wake-newtech-discs.part5.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 417203460,
+    "date": 1643619179,
+    "thumbs": null
   }
 ]
