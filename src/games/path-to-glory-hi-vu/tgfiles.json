@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "Path to Glory  Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRT2H4TVBY1X26th1NahonqYuc1uMzAALcCwACS9kgU2MH6OH7eGO3AQAHbQADIwQ",
-      "file_unique_id": "AQAD3AsAAkvZIFNy",
-      "file_size": 25589,
-      "width": 253,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEU9h-E1QWNV9urYdTWoaJ6mLnNbjMwAC3AsAAkvZIFNjB-jh-3hjtyME",
-    "file_unique_id": "AgAD3AsAAkvZIFM",
-    "file_size": 12851551
-  },
-  {
-    "file_name": "Path to Glory  Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRUGH4TVDC0cc5njppXnUS31gS2KXUAALdCwACS9kgU60oLtp-lycwAQAHbQADIwQ",
-      "file_unique_id": "AQAD3QsAAkvZIFNy",
-      "file_size": 23703,
-      "width": 254,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEVBh-E1QwtHHOZ46aV51Et9YEtil1AAC3QsAAkvZIFOtKC7afpcnMCME",
-    "file_unique_id": "AgAD3QsAAkvZIFM",
-    "file_size": 12680419
-  },
-  {
-    "file_name": "Path to Glory  Manul Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRUWH4TVBXaoazJtUjwiF2j_MhrEBPAALeCwACS9kgU7UBUMJfk1oaAQAHbQADIwQ",
-      "file_unique_id": "AQAD3gsAAkvZIFNy",
-      "file_size": 16081,
-      "width": 241,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEVFh-E1QV2qGsybVI8Ihdo_zIaxATwAC3gsAAkvZIFO1AVDCX5NaGiME",
-    "file_unique_id": "AgAD3gsAAkvZIFM",
-    "file_size": 14848238
-  },
-  {
-    "file_name": "Path to Glory  Serial Card Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRUmH4TVCRzDVzIwza4m6MPBRhgzbgAALfCwACS9kgU1RWzYovOJ7dAQAHbQADIwQ",
-      "file_unique_id": "AQAD3wsAAkvZIFNy",
-      "file_size": 17889,
-      "width": 320,
-      "height": 205
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEVJh-E1Qkcw1cyMM2uJujDwUYYM24AAC3wsAAkvZIFNUVs2KLzie3SME",
-    "file_unique_id": "AgAD3wsAAkvZIFM",
-    "file_size": 13392552
-  },
-  {
-    "file_name": "Path to Glory  Serial Card Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRU2H4TVARVk8moJPUjfzFqbN7in3zAALhCwACS9kgU6DKNnIlHzjEAQAHbQADIwQ",
-      "file_unique_id": "AQAD4QsAAkvZIFNy",
-      "file_size": 17604,
-      "width": 320,
-      "height": 201
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEVNh-E1QEVZPJqCT1I38xamze4p98wAC4QsAAkvZIFOgyjZyJR84xCME",
-    "file_unique_id": "AgAD4QsAAkvZIFM",
-    "file_size": 11242251
-  },
-  {
-    "file_name": "Path to Glory  Disc Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRVGH4TVBLB_wFyYQ0hy_WPAvG4tYhAALiCwACS9kgUyV8iCgfYQsaAQAHbQADIwQ",
-      "file_unique_id": "AQAD4gsAAkvZIFNy",
-      "file_size": 21579,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEVRh-E1QSwf8BcmENIcv1jwLxuLWIQAC4gsAAkvZIFMlfIgoH2ELGiME",
-    "file_unique_id": "AgAD4gsAAkvZIFM",
-    "file_size": 14258878
+    "file_id": "BQACAgQAAx0ES2Z5_gACEVhh-FK_tbw-3AXdnirlV0LfgieXhQACPA0AAlc4wFOqHU_nKLiyFR4E",
+    "file_unique_id": "AgADPA0AAlc4wFM",
+    "file_name": "path-to-glory-hi-vu-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 79274721,
+    "date": 1643664063,
+    "thumbs": null
   },
   {
     "file_name": "Rahe eftekhar.iso",
