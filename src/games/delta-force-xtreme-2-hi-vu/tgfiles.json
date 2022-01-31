@@ -1,17 +1,21 @@
 [
   {
-    "file_name": "Delta Force X2.iso.001",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACBVlgkV0tVrhaPHzoVztcC_tVLinIBAAChQ8AAuGpIUsGc665--4fyB8E",
-    "file_unique_id": "AgADhQ8AAuGpIUs",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACETRh9ywdMBUrQINdMtKGjLdgNHrFiQAC4wwAAlc4uFOSWdaAVcn83x4E",
+    "file_unique_id": "AgAD4wwAAlc4uFM",
+    "file_name": "delta-force-xtreme-2-hi-vu-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643588637,
+    "thumbs": null
   },
   {
-    "file_name": "Delta Force X2.iso.002",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACBVpgkV0ttcD52FpNCCyooaKeputjJQACiA8AAuGpIUtThaw01TAh8B8E",
-    "file_unique_id": "AgADiA8AAuGpIUs",
-    "file_size": 590381056
+    "file_id": "BQACAgQAAx0ES2Z5_gACETNh9yvPREiDAkiLLL4yJ1OMoiBlAQAC4gwAAlc4uFNhMzIfpHVJYh4E",
+    "file_unique_id": "AgAD4gwAAlc4uFM",
+    "file_name": "delta-force-xtreme-2-hi-vu-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 590381559,
+    "date": 1643588559,
+    "thumbs": null
   },
   {
     "file_name": "Delta Force X2.iso.crc",
