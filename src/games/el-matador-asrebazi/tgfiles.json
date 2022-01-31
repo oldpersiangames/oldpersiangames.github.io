@@ -1,23 +1,20 @@
 [
   {
-    "file_name": "El Matador Farsi.iso.001",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACA2Rgej9Q9rRbmXSGvLB9-vNF9FdITgACFAsAAh4lyEsKwjgduBIWcx8E",
-    "file_unique_id": "AgADFAsAAh4lyEs",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUxh9-8-oWsRfhMJEBvdoJCdJTADPQACCQ0AAlc4wFO4Tv5nR9Unhx4E",
+    "file_unique_id": "AgADCQ0AAlc4wFM",
+    "file_name": "el-matador-asrebazi-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 896426467,
+    "date": 1643638590,
+    "thumbs": null
   },
   {
-    "file_name": "El Matador Farsi.iso.002",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACA2Vgej9QzVYJg7YMsvvst_TRmkVOfgACEAsAAh4lyEtjXGCCjCG9SR8E",
-    "file_unique_id": "AgADEAsAAh4lyEs",
-    "file_size": 896425984
-  },
-  {
-    "file_name": "El Matador Farsi.iso.crc",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACA2Zgej9QZ8uYLxHelyHx5UFJHNZeOQACEwsAAh4lyEv6oZIIqyzglB8E",
-    "file_unique_id": "AgADEwsAAh4lyEs",
-    "file_size": 64
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUth9-8RXOYAATQtKwABgWPgT6NEdmxfAAIIDQACVzjAU5jMxHWRjUfmHgQ",
+    "file_unique_id": "AgADCA0AAlc4wFM",
+    "file_name": "el-matador-asrebazi-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643638545,
+    "thumbs": null
   }
 ]
