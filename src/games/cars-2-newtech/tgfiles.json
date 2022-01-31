@@ -28,15 +28,21 @@
     "file_size": 442791
   },
   {
-    "file_name": "Cars 2.iso.001",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDA5hBS2LwQ-6LcwnZujdFmZiVvDToAACFQkAAh8eYVOqcljtslfXkyAE",
-    "file_unique_id": "AgADFQkAAh8eYVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUNh988N7QbgbGiKeqo_um1NEPymbAAC5QwAAlc4wFPMqd0yCcF4mR4E",
+    "file_unique_id": "AgAD5QwAAlc4wFM",
+    "file_name": "cars-2-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643630349,
+    "thumbs": null
   },
   {
-    "file_name": "Cars 2.iso.002",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDA9hBS2MdOV1Hy2ZtXpfQF5b7MdwXQACFwkAAh8eYVPKsxTodA56DyAE",
-    "file_unique_id": "AgADFwkAAh8eYVM",
-    "file_size": 471269376
+    "file_id": "BQACAgQAAx0ES2Z5_gACEUJh9866yKD-wHudm5q4dxIVOWxKCAAC5AwAAlc4wFOPLJUwBQmwTx4E",
+    "file_unique_id": "AgAD5AwAAlc4wFM",
+    "file_name": "cars-2-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 471269799,
+    "date": 1643630266,
+    "thumbs": null
   }
 ]
