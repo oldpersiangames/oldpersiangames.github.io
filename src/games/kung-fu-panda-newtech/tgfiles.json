@@ -28,21 +28,30 @@
     "file_size": 518970
   },
   {
-    "file_name": "Panda-NewTech.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCCdguM3gzrKsmcmUjDi_ztItXL-KlwACTAoAAmnoiVGTi_7pOCEmiR8E",
-    "file_unique_id": "AgADTAoAAmnoiVE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXRh-cOYLh9xdWHXLMLwVW6VPTWJ4gACbAwAAt10yFNvRkz2h1sZVx4E",
+    "file_unique_id": "AgADbAwAAt10yFM",
+    "file_name": "kung-fu-panda-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643758488,
+    "thumbs": null
   },
   {
-    "file_name": "Panda-NewTech.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCChguM3gQZhZuhgpX4n3bwUTW4dDDgACTQoAAmnoiVH9q9p9ERkVCh8E",
-    "file_unique_id": "AgADTQoAAmnoiVE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXVh-cQTZWM1loirizAb0ebqW0G36wACbQwAAt10yFOX6Adwdr5ayh4E",
+    "file_unique_id": "AgADbQwAAt10yFM",
+    "file_name": "kung-fu-panda-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643758611,
+    "thumbs": null
   },
   {
-    "file_name": "Panda-NewTech.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCClguM3g1-j4KNfoqhV9XeDLa1sXAgACTgoAAmnoiVH6ZO7excmLcx8E",
-    "file_unique_id": "AgADTgoAAmnoiVE",
-    "file_size": 460914688
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXZh-cQvB5vjwjwFtLncGNgl5G5chgACbgwAAt10yFMhKPYYNLV78h4E",
+    "file_unique_id": "AgADbgwAAt10yFM",
+    "file_name": "kung-fu-panda-newtech-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 460915410,
+    "date": 1643758639,
+    "thumbs": null
   }
 ]
