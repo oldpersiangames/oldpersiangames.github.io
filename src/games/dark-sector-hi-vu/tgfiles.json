@@ -1,51 +1,38 @@
 [
   {
-    "file_name": "Dark Sector 1.iso.001",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBaxglB7SGbJUl74g3iOdGeVtVophKwACPgEAAhxPoUQE-v0LYbKtnB8E",
-    "file_unique_id": "AgADPgEAAhxPoUQ",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEVxh-OF8pbp_b-pxx-CL77EvqI0CWgACoAsAAlc4yFMgxI8JBXx-dR4E",
+    "file_unique_id": "AgADoAsAAlc4yFM",
+    "file_name": "dark-sector-hi-vu-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643700604,
+    "thumbs": null
   },
   {
-    "file_name": "Dark Sector 1.iso.002",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBa1glB7SQimLM7C-x2S8EnWLJ-ZogQACPwEAAhxPoUR3m6hAmKBW1R8E",
-    "file_unique_id": "AgADPwEAAhxPoUQ",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEVth-OEuOdhBTKaUhI9oOPPmIkAb5QACnwsAAlc4yFM161CMXnD3lh4E",
+    "file_unique_id": "AgADnwsAAlc4yFM",
+    "file_name": "dark-sector-hi-vu-discs.part4.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 1196393557,
+    "date": 1643700526,
+    "thumbs": null
   },
   {
-    "file_name": "Dark Sector 1.iso.003",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBa5glB7S4S2CPkJLMgR3NE3KSS4HowACPAEAAhxPoUQ-mojnZj7U1h8E",
-    "file_unique_id": "AgADPAEAAhxPoUQ",
-    "file_size": 75497472
+    "file_id": "BQACAgQAAx0ES2Z5_gACEVph-OEAAb45xL02b9MHfo0BOMX-NS4AAp4LAAJXOMhTdOP08vrU7uUeBA",
+    "file_unique_id": "AgADngsAAlc4yFM",
+    "file_name": "dark-sector-hi-vu-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643700480,
+    "thumbs": null
   },
   {
-    "file_name": "Dark Sector 1.iso.crc",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBa9glB7SvTAR4Yyx1Se-pRtPh09INwACPQEAAhxPoUSAnA8hp8j6gB8E",
-    "file_unique_id": "AgADPQEAAhxPoUQ",
-    "file_size": 61
-  },
-  {
-    "file_name": "Dark Sector 2.iso.001",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBbBglB7S3hQG5fVW7t_i_l0kzsfHdwACxQADbQ-hRGIyuItK38MgHwQ",
-    "file_unique_id": "AgADxQADbQ-hRA",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "Dark Sector 2.iso.002",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBbFglB7SsV_zt7646nEkj33CbEtnFwACxgADbQ-hRJ1bmoYMAtlxHwQ",
-    "file_unique_id": "AgADxgADbQ-hRA",
-    "file_size": 1120894976
-  },
-  {
-    "file_name": "Dark Sector 2.iso.crc",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgEAAx0CS2Z5_gACBbJglB7Ssm3RocUAARTDnmXSdHmXNMwAAsQAA20PoUSrq6OsBSUINh8E",
-    "file_unique_id": "AgADxAADbQ-hRA",
-    "file_size": 61
+    "file_id": "BQACAgQAAx0ES2Z5_gACEVlh-OCtwb6vRjvG2aICg3u0c5M82gACnQsAAlc4yFPPSyY8JS1f_h4E",
+    "file_unique_id": "AgADnQsAAlc4yFM",
+    "file_name": "dark-sector-hi-vu-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643700397,
+    "thumbs": null
   }
 ]
