@@ -213,6 +213,8 @@
             {"title": "Center for the Intellectual Development of Child and Adolescent", "titlefa": "کانون پرورش فکری کودکان و نوجوانان", "order": 99},
         "arvinstudio":
             {"title": "Arvin Studio", "titlefa": "استودیو آروین", "order": 99},
+        "indiegamemakers":
+            {"title": "Indie Game Makers", "titlefa": "بازیسازان مستقل", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
