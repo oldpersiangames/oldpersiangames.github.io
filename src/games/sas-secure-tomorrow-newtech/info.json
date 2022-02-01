@@ -14,7 +14,12 @@
   "price": [
     40000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-06-28",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -58,5 +63,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "sas-secure-tomorrow-newtech"
 }
