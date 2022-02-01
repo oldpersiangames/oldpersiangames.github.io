@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "kung-fu-panda.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCAgADHQJLZnn-AAIIKmC40MgfFGRkPwrknyACTOf628fFAAKwDQACK3GRSfh8fuqtcB4RvEbcmy4AAwEAB20AA0ddAAIfBA",
-      "file_unique_id": "AQADvEbcmy4AA0ddAAI",
-      "file_size": 20147,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgIAAx0CS2Z5_gACCCpguNDIHxRkZD8K5J8gAkzn-tvHxQACsA0AAitxkUn4fH7qrXAeER8E",
-    "file_unique_id": "AgADsA0AAitxkUk",
-    "file_size": 535836
-  },
-  {
-    "file_name": "kung-fu-panda-02.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCAgADHQJLZnn-AAIIK2C40MiPrrtxDl3qOndpVncIEl6NAAKxDQACK3GRSbEudHecHKuyxfieoy4AAwEAB20AAxEsAAIfBA",
-      "file_unique_id": "AQADxfieoy4AAxEsAAI",
-      "file_size": 17325,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgIAAx0CS2Z5_gACCCtguNDIj667cQ5d6jp3aVZ3CBJejQACsQ0AAitxkUmxLnR3nByrsh8E",
-    "file_unique_id": "AgADsQ0AAitxkUk",
-    "file_size": 518970
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXdh-cRFf7wMcZaAqQf7DXUE7NETaQACbwwAAt10yFN69Prb-ZFphB4E",
+    "file_unique_id": "AgADbwwAAt10yFM",
+    "file_name": "kung-fu-panda-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 1055054,
+    "date": 1643758661,
+    "thumbs": null
   },
   {
     "file_id": "BQACAgQAAx0ES2Z5_gACEXRh-cOYLh9xdWHXLMLwVW6VPTWJ4gACbAwAAt10yFNvRkz2h1sZVx4E",
