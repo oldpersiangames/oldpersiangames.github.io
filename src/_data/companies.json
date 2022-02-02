@@ -215,6 +215,8 @@
             {"title": "Arvin Studio", "titlefa": "استودیو آروین", "order": 99},
         "indiegamemakers":
             {"title": "Indie Game Makers", "titlefa": "بازیسازان مستقل", "order": 99},
+        "vijehpardazpars":
+            {"title": "Vijeh Pardaz Pars", "titlefa": "ویژه پرداز پارس", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
