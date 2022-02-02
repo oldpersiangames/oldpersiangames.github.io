@@ -1,14 +1,20 @@
 [
   {
-    "file_name": "TRMC_FA.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBjlgnF8cHHKWbXT8pq868gxxTDlTiQACuwgAAnpT4VC0s5oxfWFw_h8E",
-    "file_unique_id": "AgADuwgAAnpT4VA",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEaNh-oXNDODAmmw2HKYmnpdj1TUeWgAC1QsAAt100FNw57HyE2dIXR4E",
+    "file_unique_id": "AgAD1QsAAt100FM",
+    "file_name": "the-royal-marines-commando-asrebazi-modern-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643808205,
+    "thumbs": null
   },
   {
-    "file_name": "TRMC_FA.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBjpgnF8cITO5KMwQ2LyvuJXzh7mMXwACvQgAAnpT4VCWpm-lIZh4Sx8E",
-    "file_unique_id": "AgADvQgAAnpT4VA",
-    "file_size": 1189806080
+    "file_id": "BQACAgQAAx0ES2Z5_gACEaRh-oZIGSqMNYbrClxDNJb3xC1EFQAC2QsAAt100FOhyZplm06fGx4E",
+    "file_unique_id": "AgAD2QsAAt100FM",
+    "file_name": "the-royal-marines-commando-asrebazi-modern-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 1189806619,
+    "date": 1643808328,
+    "thumbs": null
   }
 ]
