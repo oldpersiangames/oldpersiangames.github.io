@@ -1,14 +1,20 @@
 [
   {
-    "file_name": "Surfs Up.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBsRgrSuAznuWFYfK23F2EbsRJB11VQACvgoAAnUMaFG5Gxvm5TCtKh8E",
-    "file_unique_id": "AgADvgoAAnUMaFE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZ9h-ny0gCpFIQABaUicoEnK9bUkW8MAArULAALddNBTYbJX4yeH1yAeBA",
+    "file_unique_id": "AgADtQsAAt100FM",
+    "file_name": "surfs-up-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643805876,
+    "thumbs": null
   },
   {
-    "file_name": "Surfs Up.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBsVgrSuAja9rUjweYp92z2Shs5StnQACvwoAAnUMaFFvhP9Fg-QfqR8E",
-    "file_unique_id": "AgADvwoAAnUMaFE",
-    "file_size": 1777401856
+    "file_id": "BQACAgQAAx0ES2Z5_gACEaBh-n0EytSrXOrNJgtTmgm3mVaPWwACtwsAAt100FOf5QjsUBgKiR4E",
+    "file_unique_id": "AgADtwsAAt100FM",
+    "file_name": "surfs-up-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 1777402295,
+    "date": 1643805956,
+    "thumbs": null
   }
 ]
