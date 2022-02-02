@@ -12,7 +12,12 @@
     "modern"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2011-04-14",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -61,5 +66,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "second-iranian-indie-games-collection-modern"
 }
