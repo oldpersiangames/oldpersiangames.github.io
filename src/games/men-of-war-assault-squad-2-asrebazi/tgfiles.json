@@ -1,21 +1,30 @@
 [
   {
-    "file_name": "MoW-AS2 [Farsi] DISK1.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCoZg_ak2oxLbM7XxrKoXxed8kWY_lgACnAkAArYISVNszwnDPWsl9SAE",
-    "file_unique_id": "AgADnAkAArYISVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXhh-dJNScXByWbP5hyolUWpVcDUkAACcQwAAt10yFOJ4jUzEFisRx4E",
+    "file_unique_id": "AgADcQwAAt10yFM",
+    "file_name": "men-of-war-assault-squad-2-asrebazi-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643762253,
+    "thumbs": null
   },
   {
-    "file_name": "MoW-AS2 [Farsi] DISK1.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCodg_ak2o71cU49fy8qTwIYdt8K65AACoAkAArYISVNl1uopu5pkJiAE",
-    "file_unique_id": "AgADoAkAArYISVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXlh-dKXgnMF2JZ5LQhY13zPSCAgWQACcgwAAt10yFMWy8OAVxDe-x4E",
+    "file_unique_id": "AgADcgwAAt10yFM",
+    "file_name": "men-of-war-assault-squad-2-asrebazi-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643762327,
+    "thumbs": null
   },
   {
-    "file_name": "MoW-AS2 [Farsi] DISK1.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCohg_ak2SLpo3A8C_8XyRrYzCw1jSwACogkAArYISVNGkguJ9Sr4fiAE",
-    "file_unique_id": "AgADogkAArYISVM",
-    "file_size": 502708224
+    "file_id": "BQACAgQAAx0ES2Z5_gACEXph-dKqgpGQc0Lnz7ANzTk0i9tK2QACcwwAAt10yFN-mfbpyfeqvh4E",
+    "file_unique_id": "AgADcwwAAt10yFM",
+    "file_name": "men-of-war-assault-squad-2-asrebazi-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 502709078,
+    "date": 1643762346,
+    "thumbs": null
   },
   {
     "file_name": "MoW-AS2 [Farsi] DISK2.iso",
