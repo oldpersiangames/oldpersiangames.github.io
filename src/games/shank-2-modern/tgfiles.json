@@ -1,14 +1,20 @@
 [
   {
-    "file_name": "shank 2 farsi.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBn5gq9Hc9N-RdPArYQ-1j7xKvEZS0AAC1QkAAtYc8FCWKS_LOFZy3h8E",
-    "file_unique_id": "AgAD1QkAAtYc8FA",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZFh-mAtERedmaLs939MSRzojavtmAACoAsAAt100FNtOVaQNAJ2WB4E",
+    "file_unique_id": "AgADoAsAAt100FM",
+    "file_name": "shank-2-modern-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643798573,
+    "thumbs": null
   },
   {
-    "file_name": "shank 2 farsi.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBn9gq9Hcb8YmjYQ_sb5SaUp0nuuAgQAC1gkAAtYc8FAyEObLA56E_h8E",
-    "file_unique_id": "AgAD1gkAAtYc8FA",
-    "file_size": 661782528
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZJh-mBIOxZF8WL_KiuYlDI1-laHBgACoQsAAt100FOooBQBQw9xOB4E",
+    "file_unique_id": "AgADoQsAAt100FM",
+    "file_name": "shank-2-modern-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 661782979,
+    "date": 1643798600,
+    "thumbs": null
   }
 ]
