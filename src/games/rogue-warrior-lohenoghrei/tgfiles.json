@@ -28,21 +28,30 @@
     "file_size": 142624
   },
   {
-    "file_name": "Rogue Warrior Fa.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCWBg5IY6Tn1oPWd3y2ZWvKh9oy2tGwACwQoAAtxdIVPYC5kYXrnpByAE",
-    "file_unique_id": "AgADwQoAAtxdIVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEYph-fH14BZV31NySfwuAkzZgqZcsAACXgsAAt100FM3-i3HPg6Geh4E",
+    "file_unique_id": "AgADXgsAAt100FM",
+    "file_name": "rogue-warrior-lohenoghrei-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643770357,
+    "thumbs": null
   },
   {
-    "file_name": "Rogue Warrior Fa.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCWFg5IY6kXCONFB52AsfgKGXlL7DLgACwgoAAtxdIVO1_hwqam72-CAE",
-    "file_unique_id": "AgADwgoAAtxdIVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEYth-fJQvbkys6pUSykN9JkKDKcZ-wACXwsAAt100FP33yaMP1DlbB4E",
+    "file_unique_id": "AgADXwsAAt100FM",
+    "file_name": "rogue-warrior-lohenoghrei-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643770448,
+    "thumbs": null
   },
   {
-    "file_name": "Rogue Warrior Fa.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCWJg5IY6tE6eM0HhjjMzcjOzh9UC9AACwwoAAtxdIVO7-k9ujX5BcCAE",
-    "file_unique_id": "AgADwwoAAtxdIVM",
-    "file_size": 108920832
+    "file_id": "BQACAgQAAx0ES2Z5_gACEYxh-fJXHJLwljilYW1aU-sSUF_DbQACYAsAAt100FMt3BKBeU0EBR4E",
+    "file_unique_id": "AgADYAsAAt100FM",
+    "file_name": "rogue-warrior-lohenoghrei-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 108921595,
+    "date": 1643770455,
+    "thumbs": null
   }
 ]
