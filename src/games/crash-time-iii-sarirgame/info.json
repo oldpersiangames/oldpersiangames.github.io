@@ -15,7 +15,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2010-06-02",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -54,5 +59,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "crash-time-iii-sarirgame"
 }
