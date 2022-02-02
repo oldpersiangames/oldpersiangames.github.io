@@ -1,14 +1,20 @@
 [
   {
-    "file_name": "PanzerCorps-Sarir.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBvxgrqco3I5mSpD7xUKIHP1xMBnD3gACJQ0AArwteVEo-vFEEqxR1R8E",
-    "file_unique_id": "AgADJQ0AArwteVE",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEX1h-dqxEYSB4239q9yCadmfB-sivgACdgwAAt10yFMF2BfhvHOa9x4E",
+    "file_unique_id": "AgADdgwAAt10yFM",
+    "file_name": "panzer-corps-sarirgame-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643764401,
+    "thumbs": null
   },
   {
-    "file_name": "PanzerCorps-Sarir.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBv1grqcoW93jHY4Fib25R0J67uPGXgACJg0AArwteVEldG_DbU2BHR8E",
-    "file_unique_id": "AgADJg0AArwteVE",
-    "file_size": 374181888
+    "file_id": "BQACAgQAAx0ES2Z5_gACEX5h-drBNdqbRqABlNxnl9Sm0oVl1wACdwwAAt10yFMNNPwvfXn80B4E",
+    "file_unique_id": "AgADdwwAAt10yFM",
+    "file_name": "panzer-corps-sarirgame-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 374182387,
+    "date": 1643764417,
+    "thumbs": null
   }
 ]
