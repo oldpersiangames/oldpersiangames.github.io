@@ -1,23 +1,29 @@
 [
   {
-    "file_name": "Stalker-NewTech.iso.001",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACBr1grRPPDQng_RXaTTS1dj8miaA2RwACpAsAAoZ1QEsDQhp4NA2IFR8E",
-    "file_unique_id": "AgADpAsAAoZ1QEs",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZxh-neaKNYwJ30ywhGxs03JAeJxNAACsQsAAt100FOb1xYhHVKfTx4E",
+    "file_unique_id": "AgADsQsAAt100FM",
+    "file_name": "stalker-call-of-pripyat-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643804570,
+    "thumbs": null
   },
   {
-    "file_name": "Stalker-NewTech.iso.002",
-    "mime_type": "application/zip",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBr5grRPPk8nexzVhzkHtwlpoKuddkgACqwgAAv2nQVPPUAq157aEqx8E",
-    "file_unique_id": "AgADqwgAAv2nQVM",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZ1h-ngKlEgfWHn9xE5SifVd8nnEsAACsgsAAt100FNsV52g-aOGWR4E",
+    "file_unique_id": "AgADsgsAAt100FM",
+    "file_name": "stalker-call-of-pripyat-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643804682,
+    "thumbs": null
   },
   {
-    "file_name": "Stalker-NewTech.iso.003",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACBr9grRPP1dfh9iTNSIdZdHn5QKLJaAACogsAAoZ1QEt9mwauN31p9h8E",
-    "file_unique_id": "AgADogsAAoZ1QEs",
-    "file_size": 76314624
+    "file_id": "BQACAgQAAx0ES2Z5_gACEZ5h-ngQGLPkbKq2DrQcH8IvqslWxAACswsAAt100FM0Ab8DFWiZBR4E",
+    "file_unique_id": "AgADswsAAt100FM",
+    "file_name": "stalker-call-of-pripyat-newtech-discs.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 76315417,
+    "date": 1643804688,
+    "thumbs": null
   }
 ]
