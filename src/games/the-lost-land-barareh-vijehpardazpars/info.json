@@ -12,7 +12,12 @@
     "vijehpardazpars"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2008-07-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -51,5 +56,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "the-lost-land-barareh-vijehpardazpars"
 }
