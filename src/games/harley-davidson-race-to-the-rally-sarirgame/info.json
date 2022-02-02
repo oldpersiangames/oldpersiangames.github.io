@@ -14,7 +14,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2008-04-04",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -53,5 +58,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "harley-davidson-race-to-the-rally-sarirgame"
 }
