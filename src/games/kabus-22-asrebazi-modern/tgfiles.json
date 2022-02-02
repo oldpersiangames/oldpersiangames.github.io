@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Kabus 22 (1).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRqGH6rWlir7CBAAHyYQ-hIAZxj4HiYwACXQoAAkoHYFNp1Myw8eTsEwEAB20AAyME",
-      "file_unique_id": "AQADXQoAAkoHYFNy",
-      "file_size": 32452,
-      "width": 252,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEahh-q1pYq-wgQAB8mEPoSAGcY-B4mMAAl0KAAJKB2BTadTMsPHk7BMjBA",
-    "file_unique_id": "AgADXQoAAkoHYFM",
-    "file_size": 6171614
-  },
-  {
-    "file_name": "Kabus 22 (2).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRqWH6rWmtLiGF5IvY7TO4JBxbsXVWAAJeCgACSgdgU3NfEC29KJhnAQAHbQADIwQ",
-      "file_unique_id": "AQADXgoAAkoHYFNy",
-      "file_size": 33978,
-      "width": 247,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEalh-q1prS4hheSL2O0zuCQcW7F1VgACXgoAAkoHYFNzXxAtvSiYZyME",
-    "file_unique_id": "AgADXgoAAkoHYFM",
-    "file_size": 3516121
-  },
-  {
-    "file_name": "Kabus 22 (3).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIRqmH6rWk_jOv48lfiSuRtSWMF8tOuAAJfCgACSgdgU4YofcXtLKpUAQAHbQADIwQ",
-      "file_unique_id": "AQADXwoAAkoHYFNy",
-      "file_size": 35972,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEaph-q1pP4zr-PJX4krkbUljBfLTrgACXwoAAkoHYFOGKH3F7SyqVCME",
-    "file_unique_id": "AgADXwoAAkoHYFM",
-    "file_size": 2127086
+    "file_id": "BQACAgQAAx0ES2Z5_gACEbNh-rBlrQolzcDBhJZVwL9g5dGZQwACQwwAAt100FNPUGElEfvYjR4E",
+    "file_unique_id": "AgADQwwAAt100FM",
+    "file_name": "kabus-22-asrebazi-modern-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 11815167,
+    "date": 1643819088,
+    "thumbs": null
   },
   {
     "file_name": "Kabus 22.part1.rar",
