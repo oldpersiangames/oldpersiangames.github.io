@@ -14,15 +14,21 @@
     "file_size": 1386433
   },
   {
-    "file_name": "The Royal Marines Commando-NewTech.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBjdgnEi-HvFzXDtp2xxtY1TzdWWM5AACwQgAAnpT4VDbrGN640eIch8E",
-    "file_unique_id": "AgADwQgAAnpT4VA",
-    "file_size": 2097152000
+    "file_id": "BQACAgQAAx0ES2Z5_gACEaVh-orOqo6a3L03eNqWdfLQg6ix_gAC3gsAAt100FNbHUSjZuFcMx4E",
+    "file_unique_id": "AgAD3gsAAt100FM",
+    "file_name": "the-royal-marines-commando-newtech-discs.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 2097152000,
+    "date": 1643809486,
+    "thumbs": null
   },
   {
-    "file_name": "The Royal Marines Commando-NewTech.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBjhgnEi-3Q4SJUj8Xdpg2cnLTfRNmgACwggAAnpT4VDtswtOb5Y9BB8E",
-    "file_unique_id": "AgADwggAAnpT4VA",
-    "file_size": 1859016704
+    "file_id": "BQACAgQAAx0ES2Z5_gACEaZh-osXbfXxDu09h9Pe31-kvWXOdwAC3wsAAt100FN5rA8kOVaZvR4E",
+    "file_unique_id": "AgAD3wsAAt100FM",
+    "file_name": "the-royal-marines-commando-newtech-discs.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_size": 1859017319,
+    "date": 1643809559,
+    "thumbs": null
   }
 ]
