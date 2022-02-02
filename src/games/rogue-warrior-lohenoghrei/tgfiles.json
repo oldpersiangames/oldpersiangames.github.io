@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJXmDkhjr_jmhJmWeeyz0jrlsg7A-cAAKfCAAC2NSgUrKuUE2l-VlGAQAHbQADIAQ",
-      "file_unique_id": "AQADnwgAAtjUoFJy",
-      "file_size": 30105,
-      "width": 256,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCV5g5IY6_45oSZlnnss9I65bIOwPnAACnwgAAtjUoFKyrlBNpflZRiAE",
-    "file_unique_id": "AgADnwgAAtjUoFI",
-    "file_size": 162749
-  },
-  {
-    "file_name": "2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJX2DkhjrmP88edXVYQEKYqLJS1024AAKeCAAC2NSgUkPx-EBY6mB8AQAHbQADIAQ",
-      "file_unique_id": "AQADnggAAtjUoFJy",
-      "file_size": 29781,
-      "width": 256,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCV9g5IY65j_PHnV1WEBCmKiyUtdNuAACnggAAtjUoFJD8fhAWOpgfCAE",
-    "file_unique_id": "AgADnggAAtjUoFI",
-    "file_size": 142624
+    "file_id": "BQACAgQAAx0ES2Z5_gACEY1h-fJmI6Aphx0FcOUAAVm_Ms-iekAAAmELAALddNBTGYy3jMoqhtIeBA",
+    "file_unique_id": "AgADYQsAAt100FM",
+    "file_name": "rogue-warrior-lohenoghrei-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 305567,
+    "date": 1643770470,
+    "thumbs": null
   },
   {
     "file_id": "BQACAgQAAx0ES2Z5_gACEYph-fH14BZV31NySfwuAkzZgqZcsAACXgsAAt100FM3-i3HPg6Geh4E",
