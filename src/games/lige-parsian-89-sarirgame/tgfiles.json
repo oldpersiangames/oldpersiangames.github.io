@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "Lige Parsian 88-89 Front.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIPCmElQvDoIt0lnXaQonYmlGgvT5fSAAL5CgACKoLwUKM1QcV-kljqAQAHbQADIAQ",
-      "file_unique_id": "AQAD-QoAAiqC8FBy",
-      "file_size": 40538,
-      "width": 286,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDwphJULw6CLdJZ12kKJ2JpRoL0-X0gAC-QoAAiqC8FCjNUHFfpJY6iAE",
-    "file_unique_id": "AgAD-QoAAiqC8FA",
-    "file_size": 1011460
-  },
-  {
-    "file_name": "Lige Parsian 88-89 Back.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIPC2ElQvX3Fkxq8Sb4nc50VUNHo9vVAAL6CgACKoLwUMlP9boKAk9BAQAHbQADIAQ",
-      "file_unique_id": "AQAD-goAAiqC8FBy",
-      "file_size": 37956,
-      "width": 292,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDwthJUL19xZMavEm-J3OdFVDR6Pb1QAC-goAAiqC8FDJT_W6CgJPQSAE",
-    "file_unique_id": "AgAD-goAAiqC8FA",
-    "file_size": 963412
-  },
-  {
-    "file_name": "Lige Parsian 88-89 Disk 1.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIPDGElQvtyA8Vfaga0yptkfrayEb1gAAL7CgACKoLwUMJEC0PjdHe2AQAHbQADIAQ",
-      "file_unique_id": "AQAD-woAAiqC8FBy",
-      "file_size": 30102,
-      "width": 320,
-      "height": 316
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDwxhJUL7cgPFX2oGtMqbZH62shG9YAAC-woAAiqC8FDCRAtD43R3tiAE",
-    "file_unique_id": "AgAD-woAAiqC8FA",
-    "file_size": 969385
-  },
-  {
-    "file_name": "Lige Parsian 88-89 Disk 2.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIPDWElQv8mLjPBmM9vT9Zbe9vHRHMIAAL8CgACKoLwUMIhiDSYASSnAQAHbQADIAQ",
-      "file_unique_id": "AQAD_AoAAiqC8FBy",
-      "file_size": 29056,
-      "width": 287,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDw1hJUL_Ji4zwZjPb0_WW3vbx0RzCAAC_AoAAiqC8FDCIYg0mAEkpyAE",
-    "file_unique_id": "AgAD_AoAAiqC8FA",
-    "file_size": 956285
+    "file_id": "BQACAgQAAx0ES2Z5_gACEchh-9ZkqzmHM5ckMD3ZHmSYMRrf0wACUgsAAlnY4VP_XFDgzibfZh4E",
+    "file_unique_id": "AgADUgsAAlnY4VM",
+    "file_name": "lige-parsian-89-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 3901094,
+    "date": 1643894372,
+    "thumbs": null
   },
   {
     "file_name": "Lige 88-89 CD1.iso",
