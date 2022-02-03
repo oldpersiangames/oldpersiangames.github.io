@@ -14,7 +14,12 @@
   "price": [
     120000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2012-07-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -53,5 +58,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "total-war-shogun-2-newtech"
 }
