@@ -44,7 +44,8 @@
   "manuals": [
     {
       "release_type": "printed",
-      "no_of_pages": 0
+      "no_of_pages": 14,
+      "files": ["Devil Den Manual.pdf"]
     }
   ],
   "contributors": [
