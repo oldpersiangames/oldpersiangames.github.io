@@ -12,7 +12,12 @@
     "studentbasij"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2010-09-16",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -56,5 +61,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "devil-den-2-studentbasij"
 }
