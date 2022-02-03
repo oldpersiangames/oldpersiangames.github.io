@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "20210604_002442.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIdGC7Ywghd3GJH-KT7I_enN4_G40WAALZCAACft_IUXzo5laXjoFFVFPCMF0AAwEAB20AAyVPAAIfBA",
-      "file_unique_id": "AQADVFPCMF0AAyVPAAI",
-      "file_size": 25022,
-      "width": 234,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCHRgu2MIIXdxiR_ik-yP3pzePxuNFgAC2QgAAn7fyFF86OZWl46BRR8E",
-    "file_unique_id": "AgAD2QgAAn7fyFE",
-    "file_size": 5115444
-  },
-  {
-    "file_name": "20210604_002502.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIdWC7YwjFO4lQEKTL4SKT5Ge-KljIAALbCAACft_IUWeYJwzCi_7m4DRFMF0AAwEAB20AA-sFAAIfBA",
-      "file_unique_id": "AQAD4DRFMF0AA-sFAAI",
-      "file_size": 24955,
-      "width": 236,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCHVgu2MIxTuJUBCky-Eik-RnvipYyAAC2wgAAn7fyFFnmCcMwov-5h8E",
-    "file_unique_id": "AgAD2wgAAn7fyFE",
-    "file_size": 5466669
-  },
-  {
-    "file_name": "20210604_002341.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIdmC7YwjlbQOU8RcWoQeZIlB6pXRKAALcCAACft_IUWdJE5VGdWcQIDZFMF0AAwEAB20AA_wDAAIfBA",
-      "file_unique_id": "AQADIDZFMF0AA_wDAAI",
-      "file_size": 20015,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCHZgu2MI5W0DlPEXFqEHmSJQeqV0SgAC3AgAAn7fyFFnSROVRnVnEB8E",
-    "file_unique_id": "AgAD3AgAAn7fyFE",
-    "file_size": 3938816
+    "file_id": "BQACAgQAAx0ES2Z5_gACEcZh-0dn_OcRmErDLMmnOEttBiXBqQAC9AoAAlnY2VOyrwP_OGxeNx4E",
+    "file_unique_id": "AgAD9AoAAlnY2VM",
+    "file_name": "black-mirror-iii-final-fear-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 14521293,
+    "date": 1643857767,
+    "thumbs": null
   },
   {
     "file_name": "Black-Mirror-3-Final-Fear-NewTech.part1.rar",
