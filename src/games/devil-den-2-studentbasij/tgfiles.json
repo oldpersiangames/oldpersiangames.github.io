@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "20211127_182201.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIR32H8QA75JYgdgxizqnZMvDDb6OxdAAKKCgACl9oQUTTlSSizMeR8AQAHbQADIwQ",
-      "file_unique_id": "AQADigoAApfaEFFy",
-      "file_size": 10022,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEd9h_EAO-SWIHYMYs6p2TLww2-jsXQACigoAApfaEFE05UkoszHkfCME",
-    "file_unique_id": "AgADigoAApfaEFE",
-    "file_size": 3893991
-  },
-  {
-    "file_name": "Devil Den 2 Disc Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIR4GH8QA4mUqGQovTdi32SRsz2tv0IAAKjCwACw7QZUWV7xaGdhFoHAQAHbQADIwQ",
-      "file_unique_id": "AQADowsAAsO0GVFy",
-      "file_size": 17885,
-      "width": 316,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEeBh_EAOJlKhkKL03Yt9kkbM9rb9CAACowsAAsO0GVFle8WhnYRaByME",
-    "file_unique_id": "AgADowsAAsO0GVE",
-    "file_size": 4656176
+    "file_id": "BQACAgQAAx0ES2Z5_gACEfFh_EpYy9M24XyVTLdpDVMvi6sgmQACqwsAAlnY4VNCWR34PvhBgx4E",
+    "file_unique_id": "AgADqwsAAlnY4VM",
+    "file_name": "devil-den-2-studentbasij-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 8550431,
+    "date": 1643924056,
+    "thumbs": null
   },
   {
     "file_name": "DevilDen2.iso",
