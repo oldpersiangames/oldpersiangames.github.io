@@ -1,0 +1,57 @@
+{
+  "title": [
+    "Total War: Shogun 2"
+  ],
+  "titlefa": [
+    "شوگان ۲"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [
+    120000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
