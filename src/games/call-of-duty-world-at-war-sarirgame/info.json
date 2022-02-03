@@ -14,7 +14,12 @@
   "price": [
     60000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-02-14",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -52,5 +57,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "call-of-duty-world-at-war-sarirgame"
 }
