@@ -14,7 +14,12 @@
   "price": [
     25000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2012-02-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -52,5 +57,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "ms-gold-newtech"
 }
