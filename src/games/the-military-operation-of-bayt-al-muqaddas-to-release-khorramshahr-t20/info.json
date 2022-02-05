@@ -12,7 +12,12 @@
     "t20"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-01-13",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -49,5 +54,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "the-military-operation-of-bayt-al-muqaddas-to-release-khorramshahr-t20"
 }
