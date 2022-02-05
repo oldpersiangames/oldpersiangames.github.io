@@ -16,7 +16,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2010-05-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -61,5 +66,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "spore-asrebazi-modern"
 }
