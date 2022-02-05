@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Pure Farsi (1).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISAmH-xvbX-Z5byslyYS1sKdmdX_r5AAKfHAAC37XwUnhXZ6AqqYQ3AQAHbQADIwQ",
-      "file_unique_id": "AQADnxwAAt-18FJy",
-      "file_size": 34209,
-      "width": 235,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEgJh_sb21_meW8rJcmEtbCnZnV_6-QACnxwAAt-18FJ4V2egKqmENyME",
-    "file_unique_id": "AgADnxwAAt-18FI",
-    "file_size": 5301687
-  },
-  {
-    "file_name": "Pure Farsi (2).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISA2H-xvay8MgjhePEphpybPS8mXcZAAKgHAAC37XwUhDbNfVP05CxAQAHbQADIwQ",
-      "file_unique_id": "AQADoBwAAt-18FJy",
-      "file_size": 33214,
-      "width": 237,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEgNh_sb2svDII4XjxKYacmz0vJl3GQACoBwAAt-18FIQ2zX1T9OQsSME",
-    "file_unique_id": "AgADoBwAAt-18FI",
-    "file_size": 4475669
-  },
-  {
-    "file_name": "Pure Farsi (3).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISBGH-xvaKxhKg0qgK-HA05b_X63AOAAKhHAAC37XwUn8XUg-k6dHzAQAHbQADIwQ",
-      "file_unique_id": "AQADoRwAAt-18FJy",
-      "file_size": 37872,
-      "width": 319,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEgRh_sb2isYSoNKoCvhwNOW_1-twDgACoRwAAt-18FJ_F1IPpOnR8yME",
-    "file_unique_id": "AgADoRwAAt-18FI",
-    "file_size": 2125996
+    "file_id": "BQACAgQAAx0ES2Z5_gACEhph_tICsb5sTk7uyOUAAcZPD2EmECIAAr8MAALlzflToBDLZWDUjyQeBA",
+    "file_unique_id": "AgADvwwAAuXN-VM",
+    "file_name": "pure-asrebazi-modern-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 11903710,
+    "date": 1644089858,
+    "thumbs": null
   },
   {
     "file_name": "Pure Farsi.part1.rar",
