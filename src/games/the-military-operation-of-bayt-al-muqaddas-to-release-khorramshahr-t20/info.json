@@ -1,0 +1,53 @@
+{
+  "title": [
+    "The Military Operation of Bayt Al-Muqaddas: To Release Khorramshahr"
+  ],
+  "titlefa": [
+    "عملیات بیت المقدس: آزادی خرمشهر"
+  ],
+  "producer": [
+    "studentbasij"
+  ],
+  "publisher": [
+    "t20"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "FrozenCat",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
