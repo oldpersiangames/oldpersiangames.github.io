@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "20210413_234117.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEIWCEjrB1gxPHjsOnEFSxLYdmkWA-AAJSCwACCt2wU3A3-JOuOE6YtRGgLl0AAwEAB20AA-ozAAIfBA",
-      "file_unique_id": "AQADtRGgLl0AA-ozAAI",
-      "file_size": 21139,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCFghI6wdYMTx47DpxBUsS2HZpFgPgACUgsAAgrdsFNwN_iTrjhOmB8E",
-    "file_unique_id": "AgADUgsAAgrdsFM",
-    "file_size": 5786261
-  },
-  {
-    "file_name": "20210413_234130.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEImCEjrAZgTAnmku1NTBI1XjYvv2iAAJTCwACCt2wUyxCzhducl5PY8jKLl0AAwEAB20AA1xWAAIfBA",
-      "file_unique_id": "AQADY8jKLl0AA1xWAAI",
-      "file_size": 22258,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCJghI6wGYEwJ5pLtTUwSNV42L79ogACUwsAAgrdsFMsQs4XbnJeTx8E",
-    "file_unique_id": "AgADUwsAAgrdsFM",
-    "file_size": 6426437
-  },
-  {
-    "file_name": "20210413_234141.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEI2CEjrDNmtvy_PWguu-L4feovvkCAAJVCwACCt2wUzCUlEXgoyEgyiBpLl0AAwEAB20AA88pAAIfBA",
-      "file_unique_id": "AQADyiBpLl0AA88pAAI",
-      "file_size": 26644,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCNghI6wzZrb8vz1oLrvi-H3qL75AgACVQsAAgrdsFMwlJRF4KMhIB8E",
-    "file_unique_id": "AgADVQsAAgrdsFM",
-    "file_size": 4768514
-  },
-  {
-    "file_name": "20210413_234155.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEJGCEjrArsYxXtDObxmjkXmIn-ZjuAAJWCwACCt2wU2NzcI_AIwStitNWLl0AAwEAB20AAxErAAIfBA",
-      "file_unique_id": "AQADitNWLl0AAxErAAI",
-      "file_size": 27582,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCRghI6wK7GMV7Qzm8Zo5F5iJ_mY7gACVgsAAgrdsFNjc3CPwCMErR8E",
-    "file_unique_id": "AgADVgsAAgrdsFM",
-    "file_size": 4965092
-  },
-  {
-    "file_name": "20210413_234204.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEJWCEjrD__jFD1ZhB-RAzn8GyLhRKAAJYCwACCt2wU0ae_CT7RL2jQBZmLl0AAwEAB20AA6UgAAIfBA",
-      "file_unique_id": "AQADQBZmLl0AA6UgAAI",
-      "file_size": 15925,
-      "width": 320,
-      "height": 180
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCVghI6w__4xQ9WYQfkQM5_Bsi4USgACWAsAAgrdsFNGnvwk-0S9ox8E",
-    "file_unique_id": "AgADWAsAAgrdsFM",
-    "file_size": 4768124
-  },
-  {
-    "file_name": "20210413_234219.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEJmCEjrA3S3dDvtwhd3gs08YC6u1SAAJZCwACCt2wU4SFVdKBUCTn_SL9Ll0AAwEAB20AAzkqAAIfBA",
-      "file_unique_id": "AQAD_SL9Ll0AAzkqAAI",
-      "file_size": 20358,
-      "width": 180,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBCZghI6wN0t3Q77cIXd4LNPGAurtUgACWQsAAgrdsFOEhVXSgVAk5x8E",
-    "file_unique_id": "AgADWQsAAgrdsFM",
-    "file_size": 5435293
+    "file_id": "BQACAgQAAx0ES2Z5_gACEkdiAAFbKl_7eeC-wUAxRObJUffAYu0AAkcQAAKkcghQAuhfKVgmkcYeBA",
+    "file_unique_id": "AgADRxAAAqRyCFA",
+    "file_name": "dino-crisis-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 32150427,
+    "date": 1644190506,
+    "thumbs": null
   },
   {
     "file_name": "DC.NT.DISK1.iso",
