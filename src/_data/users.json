@@ -48,7 +48,13 @@
 	"irmkh13": {
 		"telegram": "irmkh13",
 		"contributes": [
-			"ناظم گروه گفتگو"
+			"ناظم گروه گفتگو (۱۹ آبان ۱۴۰۰ الی ۳۰ آذر ۱۴۰۰)"
+		]
+	},
+	"ruinerart": {
+		"telegram": "ruinerart",
+		"contributes": [
+			"ناظم گروه گفتگو (از ۲۱ دی ۱۴۰۰)"
 		]
 	},
 	"mohammadn": {
