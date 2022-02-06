@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHVWCw-aMucarKhpZUi4WoqcVtg-N5AAJcCgACDyvwUzuMvwIFRyXeOYJhLl0AAwEAB20AAxFaAAIfBA",
-      "file_unique_id": "AQADOYJhLl0AAxFaAAI",
-      "file_size": 16481,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1VgsPmjLnGqyoaWVIuFqKnFbYPjeQACXAoAAg8r8FM7jL8CBUcl3h8E",
-    "file_unique_id": "AgADXAoAAg8r8FM",
-    "file_size": 4168326
-  },
-  {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHVmCw-aOIswhr_Vh-30Q_3XM7Nnl-AAJdCgACDyvwUwkjThDGLBMydEtVLl0AAwEAB20AAyVYAAIfBA",
-      "file_unique_id": "AQADdEtVLl0AAyVYAAI",
-      "file_size": 14202,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1ZgsPmjiLMIa_1Yft9EP91zOzZ5fgACXQoAAg8r8FMJI04QxiwTMh8E",
-    "file_unique_id": "AgADXQoAAg8r8FM",
-    "file_size": 4005997
-  },
-  {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHV2Cw-aNsf26bTDvjQCIWdC9MEz5bAAJeCgACDyvwU3uqLKD6BwOHGrdQLl0AAwEAB20AA79oAAIfBA",
-      "file_unique_id": "AQADGrdQLl0AA79oAAI",
-      "file_size": 12119,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1dgsPmjbH9um0w740AiFnQvTBM-WwACXgoAAg8r8FN7qiyg-gcDhx8E",
-    "file_unique_id": "AgADXgoAAg8r8FM",
-    "file_size": 5000732
-  },
-  {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHWGCw-aM-MLd-mjlg8mJpB0JGv9ZXAAJfCgACDyvwUw8ZLaciRQlDijmpLl0AAwEAB20AA_dhAAIfBA",
-      "file_unique_id": "AQADijmpLl0AA_dhAAI",
-      "file_size": 15315,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1hgsPmjPjC3fpo5YPJiaQdCRr_WVwACXwoAAg8r8FMPGS2nIkUJQx8E",
-    "file_unique_id": "AgADXwoAAg8r8FM",
-    "file_size": 5338597
-  },
-  {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHWWCw-aN7tTT75UyL-mYu013tMEtFAAJgCgACDyvwU-k7-pv89ySYb2R4Ll0AAwEAB20AA3x2AAIfBA",
-      "file_unique_id": "AQADb2R4Ll0AA3x2AAI",
-      "file_size": 15909,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1lgsPmje7U0--VMi_pmLtNd7TBLRQACYAoAAg8r8FPpO_qb_PckmB8E",
-    "file_unique_id": "AgADYAoAAg8r8FM",
-    "file_size": 5108978
-  },
-  {
-    "file_name": "Die Hard Nakatomi Plaza - Cover 6.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIHWmCw-aMAAZQ8ClxZ_9MOGubrbGnQMwACYQoAAg8r8FO_5Xhj2cLpNMZieC5dAAMBAAdtAAPbeQACHwQ",
-      "file_unique_id": "AQADxmJ4Ll0AA9t5AAI",
-      "file_size": 12638,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACB1pgsPmjAAGUPApcWf_TDhrm62xp0DMAAmEKAAIPK_BTv-V4Y9nC6TQfBA",
-    "file_unique_id": "AgADYQoAAg8r8FM",
-    "file_size": 5355339
+    "file_id": "BQACAgQAAx0ES2Z5_gACEkZiAAFWNTtRi5vLpAGny_QzdH2NWvYAAkUQAAKkcghQoMF0jihHViceBA",
+    "file_unique_id": "AgADRRAAAqRyCFA",
+    "file_name": "die-hard-nakatomi-plaza-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 28978891,
+    "date": 1644189237,
+    "thumbs": null
   },
   {
     "file_name": "DIE Hard.iso",
