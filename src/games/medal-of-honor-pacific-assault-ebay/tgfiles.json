@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "MOHPA Front-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISMWIAARass_U8WzwGhWKGgCUmHEFFJAAC_QkAApFK0FObIJyqYaRZvgEAB20AAyME",
-      "file_unique_id": "AQAD_QkAApFK0FNy",
-      "file_size": 25862,
-      "width": 270,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjFiAAEWrLP1PFs8BoVihoAlJhxBRSQAAv0JAAKRStBTmyCcqmGkWb4jBA",
-    "file_unique_id": "AgAD_QkAApFK0FM",
-    "file_size": 10635030
-  },
-  {
-    "file_name": "MOHPA Back-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISMmIAARas8Dulnz_eeHa4H_D0qW01YwAC_gkAApFK0FOpoo9jEoUVTAEAB20AAyME",
-      "file_unique_id": "AQAD_gkAApFK0FNy",
-      "file_size": 28036,
-      "width": 272,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjJiAAEWrPA7pZ8_3nh2uB_w9KltNWMAAv4JAAKRStBTqaKPYxKFFUwjBA",
-    "file_unique_id": "AgAD_gkAApFK0FM",
-    "file_size": 12721284
-  },
-  {
-    "file_name": "MOHPA Disc 1 Cover-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISM2IAARasmXKrz5ABk0pY4m9Ir4FKSwAC_wkAApFK0FNTlFtW9QqDegEAB20AAyME",
-      "file_unique_id": "AQAD_wkAApFK0FNy",
-      "file_size": 21497,
-      "width": 320,
-      "height": 317
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjNiAAEWrJlyq8-QAZNKWOJvSK-BSksAAv8JAAKRStBTU5RbVvUKg3ojBA",
-    "file_unique_id": "AgAD_wkAApFK0FM",
-    "file_size": 11657747
-  },
-  {
-    "file_name": "MOHPA Disc 2 Cover-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISNGIAARaslQ5Xcz3WBAvfwhd1oSLXuAAC3wkAAlBZ4VNMlk5wHcJoqgEAB20AAyME",
-      "file_unique_id": "AQAD3wkAAlBZ4VNy",
-      "file_size": 21590,
-      "width": 320,
-      "height": 317
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjRiAAEWrJUOV3M91gQL38IXdaEi17gAAt8JAAJQWeFTTJZOcB3CaKojBA",
-    "file_unique_id": "AgAD3wkAAlBZ4VM",
-    "file_size": 10971027
-  },
-  {
-    "file_name": "MOHPA Disc 3 Cover-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISNWIAARaspagqbRafb6ff1ofafS4OfQACAQoAApFK0FNhvtstwzA4sgEAB20AAyME",
-      "file_unique_id": "AQADAQoAApFK0FNy",
-      "file_size": 21516,
-      "width": 320,
-      "height": 317
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjViAAEWrKWoKm0Wn2-n39aH2n0uDn0AAgEKAAKRStBTYb7bLcMwOLIjBA",
-    "file_unique_id": "AgADAQoAApFK0FM",
-    "file_size": 11665797
-  },
-  {
-    "file_name": "MOHPA Disc 4 Cover-Ebay.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAISNmIAARasS3lp7ONt2q22XqB0QmgQiwACAwoAApFK0FOjM_zQ2HxscQEAB20AAyME",
-      "file_unique_id": "AQADAwoAApFK0FNy",
-      "file_size": 21516,
-      "width": 320,
-      "height": 317
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEjZiAAEWrEt5aezjbdqttl6gdEJoEIsAAgMKAAKRStBTozP80Nh8bHEjBA",
-    "file_unique_id": "AgADAwoAApFK0FM",
-    "file_size": 11655732
+    "file_id": "BQACAgQAAx0ES2Z5_gACEjtiAAEZXiC5S9arZvkPptSXc6St3L8AAgcQAAKkcghQdbgh1IuydQ8eBA",
+    "file_unique_id": "AgADBxAAAqRyCFA",
+    "file_name": "medal-of-honor-pacific-assault-ebay-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 69307389,
+    "date": 1644173662,
+    "thumbs": null
   },
   {
     "file_name": "MOH_Ebay_Cd1.iso",
