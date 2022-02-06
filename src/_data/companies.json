@@ -217,6 +217,8 @@
             {"title": "Indie Game Makers", "titlefa": "بازیسازان مستقل", "order": 99},
         "vijehpardazpars":
             {"title": "Vijeh Pardaz Pars", "titlefa": "ویژه پرداز پارس", "order": 99},
+        "sinadata":
+            {"title": "Sina Data", "titlefa": "سینا دیتا", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
