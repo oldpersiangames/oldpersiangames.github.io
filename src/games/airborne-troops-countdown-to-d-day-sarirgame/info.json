@@ -14,7 +14,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2011-01-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -53,5 +58,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "airborne-troops-countdown-to-d-day-sarirgame"
 }
