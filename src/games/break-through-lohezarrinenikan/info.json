@@ -12,7 +12,12 @@
     "lohezarrinenikan"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-11-29",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -49,5 +54,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "break-through-lohezarrinenikan"
 }
