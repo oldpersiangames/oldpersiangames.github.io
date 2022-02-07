@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "DMZ Front.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQimHIya7G_igYb9VNElwYpcIYy1oZAALJCgACp-rxUY0FYTrpfPL8AQAHbQADIwQ",
-      "file_unique_id": "AQADyQoAAqfq8VFy",
-      "file_size": 33398,
-      "width": 254,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEIphyMmuxv4oGG_VTRJcGKXCGMtaGQACyQoAAqfq8VGNBWE66Xzy_CME",
-    "file_unique_id": "AgADyQoAAqfq8VE",
-    "file_size": 1629688
-  },
-  {
-    "file_name": "DMZ Back.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQi2HIya6Cgn6Z5qBvpX5BUU-yDbZeAALKCgACp-rxUbklrMVJnBqjAQAHbQADIwQ",
-      "file_unique_id": "AQADygoAAqfq8VFy",
-      "file_size": 29548,
-      "width": 258,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEIthyMmugoJ-meagb6V-QVFPsg22XgACygoAAqfq8VG5JazFSZwaoyME",
-    "file_unique_id": "AgADygoAAqfq8VE",
-    "file_size": 1526852
-  },
-  {
-    "file_name": "DMZ Disc 2 Cover.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQjGHIya40xU-23sFzRRCBdncNgWfiAALLCgACp-rxUU8AAfRB-CyaeQEAB20AAyME",
-      "file_unique_id": "AQADywoAAqfq8VFy",
-      "file_size": 24665,
-      "width": 319,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEIxhyMmuNMVPtt7Bc0UQgXZ3DYFn4gACywoAAqfq8VFPAAH0QfgsmnkjBA",
-    "file_unique_id": "AgADywoAAqfq8VE",
-    "file_size": 1137357
+    "file_id": "BQACAgQAAx0ES2Z5_gACEkhiAAHKSEVc5KlwA-SAcHDHLCqa8xYAAmAQAAKkcghQAtpABDZ2FT4eBA",
+    "file_unique_id": "AgADYBAAAqRyCFA",
+    "file_name": "dmz-north-korea-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 4294237,
+    "date": 1644218952,
+    "thumbs": null
   },
   {
     "file_name": "DMZ CD1.iso",
