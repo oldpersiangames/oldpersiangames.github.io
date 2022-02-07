@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "DuckTales Farsi - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIENWCEsCwgCOS_aVljj5-Xgk_N94wWAAJQCQACA3QBUGFfcnpko1FokJkFLV0AAwEAB20AA_EKAAIfBA",
-      "file_unique_id": "AQADkJkFLV0AA_EKAAI",
-      "file_size": 28722,
-      "width": 222,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBDVghLAsIAjkv2lZY4-fl4JPzfeMFgACUAkAAgN0AVBhX3J6ZKNRaB8E",
-    "file_unique_id": "AgADUAkAAgN0AVA",
-    "file_size": 2964715
-  },
-  {
-    "file_name": "DuckTales Farsi - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIENmCEsCwHDKkuzbGstnHnCOPVIaN7AAJRCQACA3QBUIXE7wX8eCfpMxAhLV0AAwEAB20AA21vAAIfBA",
-      "file_unique_id": "AQADMxAhLV0AA21vAAI",
-      "file_size": 30699,
-      "width": 227,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBDZghLAsBwypLs2xrLZx5wjj1SGjewACUQkAAgN0AVCFxO8F_Hgn6R8E",
-    "file_unique_id": "AgADUQkAAgN0AVA",
-    "file_size": 3293136
-  },
-  {
-    "file_name": "DuckTales Farsi - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEN2CEsCwStBLcYw6HgF9mDF7ijaphAAJSCQACA3QBUNVq7SsY96x0_MRTLl0AAwEAB20AA9F9AAIfBA",
-      "file_unique_id": "AQAD_MRTLl0AA9F9AAI",
-      "file_size": 30091,
-      "width": 226,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBDdghLAsErQS3GMOh4BfZgxe4o2qYQACUgkAAgN0AVDVau0rGPesdB8E",
-    "file_unique_id": "AgADUgkAAgN0AVA",
-    "file_size": 3895980
-  },
-  {
-    "file_name": "DuckTales Farsi - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEOGCEsCzr1UxD6vSKgSgXGSlW5VNJAAJTCQACA3QBUFRm9MWSxwhEXrujJ10AAwEAB20AAzJUBgABHwQ",
-      "file_unique_id": "AQADXrujJ10AAzJUBgAB",
-      "file_size": 31636,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBDhghLAs69VMQ-r0ioEoFxkpVuVTSQACUwkAAgN0AVBUZvTFkscIRB8E",
-    "file_unique_id": "AgADUwkAAgN0AVA",
-    "file_size": 2438506
+    "file_id": "BQACAgQAAx0ES2Z5_gACEk5iAAH-XtSe8AwzbFSjdRJHdVFoRJwAAoQQAAKkcghQJJ3fQipf9P8eBA",
+    "file_unique_id": "AgADhBAAAqRyCFA",
+    "file_name": "ducktales-remastered-asrebazi-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 12592895,
+    "date": 1644232286,
+    "thumbs": null
   },
   {
     "file_name": "DuckTales Farsi.iso",
