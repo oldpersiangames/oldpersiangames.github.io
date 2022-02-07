@@ -1,73 +1,12 @@
 [
   {
-    "file_name": "Doom 3 Front Cover Aryan (Ebay).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIRGC5ZCk2H8vUrRrms2kfp4Km1XghAAJ-CgACTzyRURu56-ZzD8pI09ngMF0AAwEAB20AA4ksAAIfBA",
-      "file_unique_id": "AQAD09ngMF0AA4ksAAI",
-      "file_size": 18704,
-      "width": 219,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCERguWQpNh_L1K0a5rNpH6eCptV4IQACfgoAAk88kVEbuevmcw_KSB8E",
-    "file_unique_id": "AgADfgoAAk88kVE",
-    "file_size": 1176538
-  },
-  {
-    "file_name": "Doom 3 Back Cover Aryan (Ebay).png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIRWC5ZClWVxFdIszmN7xSuabl5UoPAAKACgACTzyRUY-5Vrhi8bGQhjJiMF0AAwEAB20AA00XAAIfBA",
-      "file_unique_id": "AQADhjJiMF0AA00XAAI",
-      "file_size": 21385,
-      "width": 225,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCEVguWQpVlcRXSLM5je8Urmm5eVKDwACgAoAAk88kVGPuVa4YvGxkB8E",
-    "file_unique_id": "AgADgAoAAk88kVE",
-    "file_size": 3145204
-  },
-  {
-    "file_name": "Doom 3 Disk 1 Cover Aryan (Ebay).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIRmC5ZClTqdVauSjGVL64Z3FUEa_aAAKBCgACTzyRUXYXEDFy7-FgPBhcMF0AAwEAB20AAzIYAAIfBA",
-      "file_unique_id": "AQADPBhcMF0AAzIYAAI",
-      "file_size": 19516,
-      "width": 313,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCEZguWQpU6nVWrkoxlS-uGdxVBGv2gACgQoAAk88kVF2FxAxcu_hYB8E",
-    "file_unique_id": "AgADgQoAAk88kVE",
-    "file_size": 1610064
-  },
-  {
-    "file_name": "Doom 3 Disk 2 Cover Aryan (Ebay).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIR2C5ZCk6RZ4C1sJAZYvAXAUVIwX6AAKCCgACTzyRURTnr1i9G4Qg0wh2MF0AAwEAB20AA54QAAIfBA",
-      "file_unique_id": "AQAD0wh2MF0AA54QAAI",
-      "file_size": 19163,
-      "width": 316,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCEdguWQpOkWeAtbCQGWLwFwFFSMF-gACggoAAk88kVEU569YvRuEIB8E",
-    "file_unique_id": "AgADggoAAk88kVE",
-    "file_size": 1611149
-  },
-  {
-    "file_name": "Doom 3 Disk 3 Cover Aryan (Ebay).jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIISGC5ZClgeU4nZqV5b_AIV0o1vQHVAAKDCgACTzyRUaznDY6toYgXbszAMF0AAwEAB20AA-kmAAIfBA",
-      "file_unique_id": "AQADbszAMF0AA-kmAAI",
-      "file_size": 20069,
-      "width": 320,
-      "height": 319
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCEhguWQpYHlOJ2aleW_wCFdKNb0B1QACgwoAAk88kVGs5w2OraGIFx8E",
-    "file_unique_id": "AgADgwoAAk88kVE",
-    "file_size": 1642442
+    "file_id": "BQACAgQAAx0ES2Z5_gACEktiAAHfAmxsPINk-xlp2cOxULqrt0wAAm4QAAKkcghQuv3zU55BJQ4eBA",
+    "file_unique_id": "AgADbhAAAqRyCFA",
+    "file_name": "doom-3-ebay-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 9186153,
+    "date": 1644224258,
+    "thumbs": null
   },
   {
     "file_name": "DOOM3_1.iso",
