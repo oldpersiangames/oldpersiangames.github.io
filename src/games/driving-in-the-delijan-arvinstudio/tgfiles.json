@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "2021-10-20-0002.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQ7mHQoBml1S4a4IbGsi7i0-dC149QAAKyCgACJJOJU4ZfMwnZIkhpAQAHbQADIwQ",
-      "file_unique_id": "AQADsgoAAiSTiVNy",
-      "file_size": 25285,
-      "width": 320,
-      "height": 215
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEO5h0KAZpdUuGuCGxrIu4tPnQtePUAACsgoAAiSTiVOGXzMJ2SJIaSME",
-    "file_unique_id": "AgADsgoAAiSTiVM",
-    "file_size": 1652165
-  },
-  {
-    "file_name": "2021-10-20-0003.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQ72HQoBluNgS8N30_NOqEdcJf07eyAAKzCgACJJOJUwG8S1v26BkCAQAHbQADIwQ",
-      "file_unique_id": "AQADswoAAiSTiVNy",
-      "file_size": 25192,
-      "width": 320,
-      "height": 311
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEO9h0KAZbjYEvDd9PzTqhHXCX9O3sgACswoAAiSTiVMBvEtb9ugZAiME",
-    "file_unique_id": "AgADswoAAiSTiVM",
-    "file_size": 434387
+    "file_id": "BQACAgQAAx0ES2Z5_gACEk1iAAH77xhU6OFuyCc0qgP9411LiRQAAoIQAAKkcghQdmuL2x_n4uUeBA",
+    "file_unique_id": "AgADghAAAqRyCFA",
+    "file_name": "driving-in-the-delijan-arvinstudio-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 2086802,
+    "date": 1644231663,
+    "thumbs": null
   },
   {
     "file_name": "driveindelijan.rar",
