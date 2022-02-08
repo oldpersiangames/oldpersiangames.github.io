@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "20210413_165239.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDGmB2TE4UHPzPnz_JAuR6wlOYO4M1AALRCgACCt2wU2QWHQh26cAEanu4Ll0AAwEAB20AA0VhAAIfBA",
-      "file_unique_id": "AQADanu4Ll0AA0VhAAI",
-      "file_size": 25892,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAxpgdkxOFBz8z58_yQLkesJTmDuDNQAC0QoAAgrdsFNkFh0IdunABB8E",
-    "file_unique_id": "AgAD0QoAAgrdsFM",
-    "file_size": 6455130
-  },
-  {
-    "file_name": "20210413_165300.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDG2B2TE6CrAaDt9r5tEsh9_ZCe59hAALTCgACCt2wU5b7KOOsWyQEPn5-Ll0AAwEAB20AA9NgAAIfBA",
-      "file_unique_id": "AQADPn5-Ll0AA9NgAAI",
-      "file_size": 30276,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAxtgdkxOgqwGg7fa-bRLIff2QnufYQAC0woAAgrdsFOW-yjjrFskBB8E",
-    "file_unique_id": "AgAD0woAAgrdsFM",
-    "file_size": 6963241
-  },
-  {
-    "file_name": "20210413_165621.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDHGB2TE5XFTqO7LcxeZVjUMXxT0C6AALVCgACCt2wU84AAXFyIiAF-R67xy5dAAMBAAdtAAN-VQACHwQ",
-      "file_unique_id": "AQADHrvHLl0AA35VAAI",
-      "file_size": 24946,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAxxgdkxOVxU6juy3MXmVY1DF8U9AugAC1QoAAgrdsFPOAAFxciIgBfkfBA",
-    "file_unique_id": "AgAD1QoAAgrdsFM",
-    "file_size": 4580894
-  },
-  {
-    "file_name": "20210413_165414.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDHWB2TE4cTOcJV9zkzwlkcN5jb1IFAALXCgACCt2wU9vK1PgJ4DcyHVpYLl0AAwEAB20AA60zAAIfBA",
-      "file_unique_id": "AQADHVpYLl0AA60zAAI",
-      "file_size": 27755,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAx1gdkxOHEznCVfc5M8JZHDeY29SBQAC1woAAgrdsFPbytT4CeA3Mh8E",
-    "file_unique_id": "AgAD1woAAgrdsFM",
-    "file_size": 6749130
+    "file_id": "BQACAgQAAx0ES2Z5_gACEldiAlCeXlmTIekMz7j8u9uxbN8KhAACYQwAAq2DEVDI2G6MIQEhRx4E",
+    "file_unique_id": "AgADYQwAAq2DEVA",
+    "file_name": "finding-nemo-nemos-underwater-world-of-fun-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 24748873,
+    "date": 1644318878,
+    "thumbs": null
   },
   {
     "file_name": "Nemo.UWF.iso",
