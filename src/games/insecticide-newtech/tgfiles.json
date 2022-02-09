@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "20210602_154337.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIE2C4tcMm4mXyEmfhb5GTWzk-BCxQAAIjCgACAvu4UchNzvpZiQaakfasMF0AAwEAB20AAxYsAAIfBA",
-      "file_unique_id": "AQADkfasMF0AAxYsAAI",
-      "file_size": 30260,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCBNguLXDJuJl8hJn4W-Rk1s5PgQsUAACIwoAAgL7uFHITc76WYkGmh8E",
-    "file_unique_id": "AgADIwoAAgL7uFE",
-    "file_size": 6281647
-  },
-  {
-    "file_name": "20210602_154351.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIFGC4tcOUrb5AAjGUwAtG1seTAAFjWgACJAoAAgL7uFGYg1C0gs8ElTFVwjBdAAMBAAdtAANtSwACHwQ",
-      "file_unique_id": "AQADMVXCMF0AA21LAAI",
-      "file_size": 25105,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCBRguLXDlK2-QAIxlMALRtbHkwABY1oAAiQKAAIC-7hRmINQtILPBJUfBA",
-    "file_unique_id": "AgADJAoAAgL7uFE",
-    "file_size": 6544699
-  },
-  {
-    "file_name": "20210602_154429.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIIFWC4tcNLx-09m0o7rdmbhWb5a1mtAAIlCgACAvu4UbF9NWGT67UdreupMF0AAwEAB20AA9Q8AAIfBA",
-      "file_unique_id": "AQADreupMF0AA9Q8AAI",
-      "file_size": 34689,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCBVguLXDS8ftPZtKO63Zm4Vm-WtZrQACJQoAAgL7uFGxfTVhk-u1HR8E",
-    "file_unique_id": "AgADJQoAAgL7uFE",
-    "file_size": 4419304
+    "file_id": "BQACAgQAAx0ES2Z5_gACEmRiA7NoJM3w4xXO6tGWkp5wSvDGhQACXA4AAi6cGVAcnMAUZGxEnR4E",
+    "file_unique_id": "AgADXA4AAi6cGVA",
+    "file_name": "insecticide-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 17246014,
+    "date": 1644409704,
+    "thumbs": null
   },
   {
     "file_name": "Insecticide-NewTech.part1.rar",
