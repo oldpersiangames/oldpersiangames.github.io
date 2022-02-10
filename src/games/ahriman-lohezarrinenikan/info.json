@@ -14,7 +14,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-12-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -60,5 +65,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "ahriman-lohezarrinenikan"
 }
