@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "NecroVisioN Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICRWBl6-xA5Ur3X7g_FbGKCpioAVCsAAIcDAAC8bhAUQN1epiFpUBBm3y6K10AAwEAB20AA_6DAAIeBA",
-      "file_unique_id": "AQADm3y6K10AA_6DAAI",
-      "file_size": 35484,
-      "width": 266,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAkVgZevsQOVK91-4PxWxigqYqAFQrAACHAwAAvG4QFEDdXqYhaVAQR4E",
-    "file_unique_id": "AgADHAwAAvG4QFE",
-    "file_size": 53743
-  },
-  {
-    "file_name": "NecroVisioN Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICRmBl6-wOQLTq97jlV3qmcOCJT6ZeAAIdDAAC8bhAUXDdKhET_8eW2PngLF0AAwEAB20AAwuFAAIeBA",
-      "file_unique_id": "AQAD2PngLF0AAwuFAAI",
-      "file_size": 29641,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAkZgZevsDkC06ve45Vd6pnDgiU-mXgACHQwAAvG4QFFw3SoRE__Hlh4E",
-    "file_unique_id": "AgADHQwAAvG4QFE",
-    "file_size": 47649
-  },
-  {
-    "file_name": "NecroVisioN Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICR2Bl6-zsK446nIcPkVp8Nn1cGYQRAAIeDAAC8bhAUciTj7Urw_oGTnTfLF0AAwEAB20AA9ZrAAIeBA",
-      "file_unique_id": "AQADTnTfLF0AA9ZrAAI",
-      "file_size": 9639,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAkdgZevs7CuOOpyHD5FafDZ9XBmEEQACHgwAAvG4QFHIk4-1K8P6Bh4E",
-    "file_unique_id": "AgADHgwAAvG4QFE",
-    "file_size": 4528362
-  },
-  {
-    "file_name": "NecroVisioN Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICSGBl6-zJjCNX_vORxtMVVKpEAvctAAIgDAAC8bhAUfijmaUX3DYbpjl5LF0AAwEAB20AA7R8AAIeBA",
-      "file_unique_id": "AQADpjl5LF0AA7R8AAI",
-      "file_size": 9593,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAkhgZevsyYwjV_7zkcbTFVSqRAL3LQACIAwAAvG4QFH4o5mlF9w2Gx4E",
-    "file_unique_id": "AgADIAwAAvG4QFE",
-    "file_size": 3723306
+    "file_id": "BQACAgQAAx0ES2Z5_gACEphiBZQn_nSqngSN1UP0sIykz1aUtAACmw4AAsCRMVBF5P0bXwgAATUeBA",
+    "file_unique_id": "AgADmw4AAsCRMVA",
+    "file_name": "necrovision-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 8353570,
+    "date": 1644532775,
+    "thumbs": null
   },
   {
     "file_name": "NECROVISION.part1.rar",
