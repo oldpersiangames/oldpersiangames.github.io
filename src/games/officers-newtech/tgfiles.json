@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "20210403_164638.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDBGBxDBoqppc2l-uvqXrCAkexsfsRAAL2BgACXlJAU23PZZcU0Ujk6X0cLV0AAwEAB20AAxppAAIeBA",
-      "file_unique_id": "AQAD6X0cLV0AAxppAAI",
-      "file_size": 20301,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAwRgcQwaKqaXNpfrr6l6wgJHsbH7EQAC9gYAAl5SQFNtz2WXFNFI5B4E",
-    "file_unique_id": "AgAD9gYAAl5SQFM",
-    "file_size": 2848706
-  },
-  {
-    "file_name": "20210403_165417.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDBWBxDBot3ji8XjRgpEut64mksbPRAAL4BgACXlJAU0eNJPQ2HkSNDaLeLl0AAwEAB20AA9hSAAIeBA",
-      "file_unique_id": "AQADDaLeLl0AA9hSAAI",
-      "file_size": 20433,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAwVgcQwaLd44vF40YKRLreuJpLGz0QAC-AYAAl5SQFNHjST0Nh5EjR4E",
-    "file_unique_id": "AgAD-AYAAl5SQFM",
-    "file_size": 2946026
-  },
-  {
-    "file_name": "20210403_165856.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIDBmBxDBpaID4ORO81kiQDqS-CHH7dAAKqDQACuClwUweS20QE0s58lq3hLl0AAwEAB20AA7h7AAIeBA",
-      "file_unique_id": "AQADlq3hLl0AA7h7AAI",
-      "file_size": 27538,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAwZgcQwaWiA-DkTvNZIkA6kvghx-3QACqg0AArgpcFMHkttEBNLOfB4E",
-    "file_unique_id": "AgADqg0AArgpcFM",
-    "file_size": 1666876
+    "file_id": "BQACAgQAAx0ES2Z5_gACEqpiBj5QEiqQeGf6lD3zU-0kf2RtmwACvQ4AAsCRMVBgXEvfgkIuox4E",
+    "file_unique_id": "AgADvQ4AAsCRMVA",
+    "file_name": "officers-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 7461972,
+    "date": 1644576336,
+    "thumbs": null
   },
   {
     "file_name": "OFFICERS.NewTech.part1.rar",
