@@ -1,13 +1,12 @@
 var fs = require('fs');
 const path = require("path");
+const globby = require("globby");
 
 const baseDir = path.join(__dirname, "..", "games");
 const gamesPath = path.join(baseDir, "*" + path.sep);
 
 module.exports = async () => {
-  const { globby } = await import('globby')
-
-  const games = globby.sync([gamesPath]);
+  const games = await globby([gamesPath]);
   const res = [];
   for (const game of games) {
     files = null; tgfiles = null;
