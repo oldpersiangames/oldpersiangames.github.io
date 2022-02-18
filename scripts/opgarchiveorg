@@ -1,0 +1,149 @@
+#!/usr/bin/env python
+
+# TODO: 
+
+import sys
+from pyrogram import Client, filters
+import requests
+from zipfile import ZipFile
+import os, glob
+import pathlib
+
+# https://stackoverflow.com/questions/8151300/ignore-case-in-glob-on-linux
+def insensitive_glob(pattern):
+    def either(c):
+        return '[%s%s]' % (c.lower(), c.upper()) if c.isalpha() else c
+    return glob.glob(''.join(map(either, pattern)))
+
+def progress(current, total, *args):
+    print("Downloading " + dict(args)["file_name"] + ". " + str(current/1024/1024))
+    #total_file_size = dict(args)["file_size"]
+    #print(f"{current * 100 / total_file_size:.1f}%")
+
+app = Client(
+    ":memory:",
+    bot_token=os.environ["BOT_TOKEN"],
+    api_id=os.environ["API_ID"],
+    api_hash=os.environ["API_HASH"]
+)
+app.start()
+
+import json
+infofile = open("src/games/" + sys.argv[1] + "/info.json")
+info = json.load(infofile)
+infofile.close()
+
+#if "ia_id" in info and info["ia_id"]:
+#    print("IA Already exists")
+#    quit()
+
+tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json")
+tgfiles = json.load(tgfilesfile)
+tgfilesfile.close()
+
+
+from internetarchive import get_files
+iafiles = get_files(sys.argv[1])
+iafnames = [f.name for f in iafiles]
+rar_to_extract = []
+
+for index, file in enumerate(tgfiles):
+    if file["file_name"] in iafnames:
+        answer = input(file["file_name"] + " Already in IA. Re-Upload it? y/n")
+        if answer.lower() != "y":
+            continue
+    print("Downloading " + file["file_name"])
+    if file["file_name"].lower().endswith(('part1.rar', "part01.rar")):
+        # Rar archive detected!
+        rar_to_extract.append(file["file_name"])
+    if os.path.isfile(sys.argv[1] + "/" + file["file_name"]): # Skip downloading if file exists
+        continue
+    if app.download_media(file["file_id"], str(pathlib.Path().resolve()) + "/" + sys.argv[1] + "/" + file["file_name"], True, progress, ([(k, v) for k, v in file.items()])) == None:
+        print("Error on downloading.")
+        quit()
+
+tgfiles[:] = [x for x in tgfiles if not x["file_name"].lower().endswith(('.jpg', ".png", ".bmp"))] # Remove photos from tgfiles json
+
+
+photosFiles = insensitive_glob(sys.argv[1] + "/" + "*.jpg") + insensitive_glob(sys.argv[1] + "/" + "*.png") + insensitive_glob(sys.argv[1] + "/" + "*.bmp")
+if photosFiles:
+    zipObj = ZipFile(sys.argv[1] + "/" + sys.argv[1] + '-photos.zip', 'w')
+    for file in photosFiles:
+        zipObj.write(file, os.path.basename(file))
+        os.remove(file)
+    zipObj.close()
+    result = app.send_document(-1001265007102, sys.argv[1] + "/" + sys.argv[1] + '-photos.zip')
+    documentDict = result.document.__dict__
+    documentDict.pop("_client")
+    result.edit_caption(json.dumps(documentDict, ensure_ascii=False))
+    tgfiles.insert(0, documentDict)
+    tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json", "w")
+    tgfilesfile.write(json.dumps(tgfiles, ensure_ascii=False, indent=2))
+    tgfilesfile.close()
+
+app.stop() # Close Telegram Client. We have nothing to do with it anymore.
+
+if rar_to_extract:
+    import patoolib
+    for rar in rar_to_extract:
+        if not patoolib.extract_archive(sys.argv[1] + "/" + rar, outdir=sys.argv[1] + "/"):
+            print("Error on extraction")
+            quit()
+
+    # Move extracted files in sub-folders into root folder:
+    import shutil
+    allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
+    allfiles = [f for f in allfiles if os.path.isfile(f)]
+    for f in allfiles:
+        if not os.path.isfile(sys.argv[1] + "/" + os.path.basename(f)): # If not exists samename file in that place
+            shutil.move(f, sys.argv[1] + "/")
+
+    files = tgfiles.copy()
+    rar_parts = insensitive_glob(sys.argv[1] + "/" + "*part*.rar")
+    # Insert extracted files into files json
+    # Get index
+    for index, file in enumerate(files):
+        if file["file_name"].lower().endswith(('part1.rar', "part01.rar")):
+            rar_to_extract_index = index
+            break
+    for file in sorted(glob.glob(sys.argv[1] + "/" + "*")):
+        if os.path.isfile(file) and not [item for item in files if item["file_name"]==os.path.basename(file)]: # It's file (not folder), and it's new file. add it.
+            files.insert(rar_to_extract_index, {"file_name": os.path.basename(file), "file_size": os.path.getsize(file)})
+            rar_to_extract_index = rar_to_extract_index + 1
+
+    files[:] = [x for x in files if not sys.argv[1] + "/" + x["file_name"] in rar_parts] # Remove rar parts from ia-files json
+    for filePath in rar_parts:
+        os.remove(filePath)
+
+    for file in glob.glob(sys.argv[1] + "/" + "*"):
+        if os.path.basename(file) in iafnames:
+            answer = input(os.path.basename(file) + " Already in IA. Re-Upload it? y/n")
+            if answer.lower() != "y":
+                os.remove(file)
+
+
+from internetarchive import upload
+md = dict(collection='open_source_software', title=sys.argv[1], description=info["title"][0] + " (Persian Video Game)\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/games/"+sys.argv[1]+"/", mediatype='software')
+if upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
+    info["ia_id"] = sys.argv[1]
+    if rar_to_extract:
+        f = open("src/games/" + sys.argv[1] + "/files.json", "w")
+        f.write(json.dumps(files, ensure_ascii=False, indent=2))
+        f.close()
+    if not info["release_date"]:
+        from iso9660 import Iso9660
+        isos = insensitive_glob(sys.argv[1] + "/*.iso")
+        if isos:
+            data = Iso9660.from_file(isos[0])
+            try:
+                primary_vol_desc_date = data.primary_vol_desc.vol_desc_primary.vol_mod_datetime
+                date = primary_vol_desc_date.year + "-" + primary_vol_desc_date.month + "-" + primary_vol_desc_date.day
+            except:
+                print("Can't get date")
+            else:
+                print("I got date " + date)
+                info["release_date"].append({"date": date, "ref": "بر اساس تاریخ فایل‌های دیسک."})
+    
+    infofile = open("src/games/" + sys.argv[1] + "/info.json", "w")
+    infofile.write(json.dumps(info, ensure_ascii=False, indent=2))
+    infofile.close()

@@ -1,0 +1,36 @@
+name: opgarchiveorg
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: 'game'
+        required: true
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+      - name: Doing the job
+        env:
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        run: |
+          cp ${{ github.workspace }}/scripts/opgarchiveorg ./
+          ./opgarchiveorg "${{ github.event.inputs.game }}"
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ${{ github.workspace }}/src/games/
+          git commit -m "opgarchiveorg changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
