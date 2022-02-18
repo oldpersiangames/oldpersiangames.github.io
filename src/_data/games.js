@@ -7,7 +7,7 @@ const gamesPath = path.join(baseDir, "*" + path.sep);
 module.exports = async () => {
   const { globby } = await import('globby')
 
-  const games = await globby([gamesPath]);
+  const games = globby([gamesPath]);
   const res = [];
   for (const game of games) {
     files = null; tgfiles = null;
