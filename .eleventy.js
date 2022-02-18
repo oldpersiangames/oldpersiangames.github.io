@@ -271,14 +271,6 @@ eleventyConfig.addFilter(
   eleventyConfig.addFilter("consolelog", function(value) { console.log("startttttttttttttttt"); console.log(value); console.log("tamammmmmmmmmmmmmmmmm"); return ""; exit(); });
   eleventyConfig.addShortcode("today_date", function() { return new Date().toLocaleDateString('fa-IR', { year: 'numeric', month: 'long', day: 'numeric' }); } );
   eleventyConfig.addShortcode("contribute_link", function() { return contribute_link; } );
-  /*eleventyConfig.addFilter("slug", (input) => {
-  	const options = {
-  		replacement: "-",
-  		remove: /[&,+()$~%.'":*?<>{}]/g,
-  		lower: true
-  	};
-  	return slugify(input, options);
-  });*/
 
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
