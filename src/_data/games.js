@@ -1,12 +1,12 @@
 var fs = require('fs');
 const path = require("path");
-const globby = require("globby");
+const glob = require("glob");
 
 const baseDir = path.join(__dirname, "..", "games");
 const gamesPath = path.join(baseDir, "*" + path.sep);
 
 module.exports = async () => {
-  const games = await globby([gamesPath]);
+  const games = await glob(gamesPath);
   const res = [];
   for (const game of games) {
     files = null; tgfiles = null;
@@ -30,7 +30,7 @@ module.exports = async () => {
       })
     }
 
-    const photos = await globby([game+"photos/*.jpg"]);
+    const photos = await glob(game+"photos/*.jpg");
     photos.sort(function(a, b) {
       return parseInt(path.basename(a).split("-")[0])-parseInt(path.basename(b).split("-")[0])
     })
