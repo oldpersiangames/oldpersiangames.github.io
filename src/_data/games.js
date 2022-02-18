@@ -1,6 +1,6 @@
 var fs = require('fs');
 const path = require("path");
-import globby from 'globby';
+const globby = require("globby");
 
 const baseDir = path.join(__dirname, "..", "games");
 const gamesPath = path.join(baseDir, "*" + path.sep);
