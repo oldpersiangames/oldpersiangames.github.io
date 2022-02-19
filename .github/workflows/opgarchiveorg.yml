@@ -35,7 +35,7 @@ jobs:
           ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
         run: |
           cp ${{ github.workspace }}/scripts/opgarchiveorg ./
-          ./opgarchiveorg "${{ github.event.inputs.game }}"
+          for word in $(echo ${{ github.event.inputs.game }}); do ./opgarchiveorg $word; done
       - name: Commit files
         run: |
           git config --local user.email "alihardanc@gmail.com"
