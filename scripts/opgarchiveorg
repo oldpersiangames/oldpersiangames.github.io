@@ -33,9 +33,9 @@ infofile = open("src/games/" + sys.argv[1] + "/info.json")
 info = json.load(infofile)
 infofile.close()
 
-#if "ia_id" in info and info["ia_id"]:
-#    print("IA Already exists")
-#    quit()
+if "ia_id" in info and info["ia_id"]:
+    print("IA Already exists")
+    quit()
 
 tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json")
 tgfiles = json.load(tgfilesfile)
