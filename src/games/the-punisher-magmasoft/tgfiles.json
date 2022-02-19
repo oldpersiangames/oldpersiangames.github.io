@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "The Punisher - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBQ2BZ5vxE3XVw9_p5vfv0Js9mpakmAAKdCAACWApZUuE6CP3EfrKcxrFFLV0AAwEAB20AA6sIAAIeBA",
-      "file_unique_id": "AQADxrFFLV0AA6sIAAI",
-      "file_size": 15261,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAUNgWeb8RN11cPf6eb379CbPZqWpJgACnQgAAlgKWVLhOgj9xH6ynB4E",
-    "file_unique_id": "AgADnQgAAlgKWVI",
-    "file_size": 4175638
-  },
-  {
-    "file_name": "The Punisher - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBRGBZ5vx3S2kd-QdXO9nbOUqwto2vAAKeCAACWApZUsmcx7vV38VRiKsdLF0AAwEAB20AA8FiAAIeBA",
-      "file_unique_id": "AQADiKsdLF0AA8FiAAI",
-      "file_size": 12941,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAURgWeb8d0tpHfkHVzvZ2zlKsLaNrwACnggAAlgKWVLJnMe71d_FUR4E",
-    "file_unique_id": "AgADnggAAlgKWVI",
-    "file_size": 3841740
-  },
-  {
-    "file_name": "The Punisher - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBRWBZ5vzjDEqIasQAAUZ_9wb-RUtqtAACnwgAAlgKWVKfpdPoKSKRnGeReS1dAAMBAAdtAAPSdAACHgQ",
-      "file_unique_id": "AQADZ5F5LV0AA9J0AAI",
-      "file_size": 19247,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAUVgWeb84wxKiGrEAAFGf_cG_kVLarQAAp8IAAJYCllSn6XT6CkikZweBA",
-    "file_unique_id": "AgADnwgAAlgKWVI",
-    "file_size": 4596290
-  },
-  {
-    "file_name": "The Punisher - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBRmBZ5vzbnNHBGi6n6dUoNYKVsHfRAAKgCAACWApZUnyjN-wOlwjOL5NcLV0AAwEAB20AAwwCAAIeBA",
-      "file_unique_id": "AQADL5NcLV0AAwwCAAI",
-      "file_size": 16062,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAUZgWeb825zRwRoup-nVKDWClbB30QACoAgAAlgKWVJ8ozfsDpcIzh4E",
-    "file_unique_id": "AgADoAgAAlgKWVI",
-    "file_size": 4645490
-  },
-  {
-    "file_name": "The Punisher - Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBR2BZ5vzaP2iKBxDvBVxyVb3Jz0GfAAKhCAACWApZUtI3s1LdgFAJzqNCLV0AAwEAB20AA6sCAAIeBA",
-      "file_unique_id": "AQADzqNCLV0AA6sCAAI",
-      "file_size": 11917,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAUdgWeb82j9oigcQ7wVcclW9yc9BnwACoQgAAlgKWVLSN7NS3YBQCR4E",
-    "file_unique_id": "AgADoQgAAlgKWVI",
-    "file_size": 3984146
-  },
-  {
-    "file_name": "The Punisher - Cover 6.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIBSGBZ5vz8_9TXdBdxoTRpXbJ6s5jGAAKiCAACWApZUs38esETrdKyBiWbLV0AAwEAB20AAz8NAAIeBA",
-      "file_unique_id": "AQADBiWbLV0AAz8NAAI",
-      "file_size": 14766,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAUhgWeb8_P_U13QXcaE0aV2yerOYxgACoggAAlgKWVLN_HrBE63Ssh4E",
-    "file_unique_id": "AgADoggAAlgKWVI",
-    "file_size": 4107429
+    "file_id": "BQACAgQAAx0ES2Z5_gACEvFiEVc9zh0vWHjC0LjnXrHqWn6unwACDgwAAg25iFDSgfr8CFJOCx4E",
+    "file_unique_id": "AgADDgwAAg25iFA",
+    "file_name": "the-punisher-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 25351523,
+    "date": 1645303613,
+    "thumbs": null
   },
   {
     "file_name": "The Punisher 1.iso",
