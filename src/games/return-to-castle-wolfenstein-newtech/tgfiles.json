@@ -1,101 +1,12 @@
 [
   {
-    "file_name": "RTCW Newteach.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQD2FGwooXmZ0QNNzz-xEdraCw1HWCAAKsCwACjZxxUfPaNgxH2EJoAQAHbQADIAQ",
-      "file_unique_id": "AQADrAsAAo2ccVFy",
-      "file_size": 29786,
-      "width": 250,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEA9hRsKKF5mdEDTc8_sRHa2gsNR1ggACrAsAAo2ccVHz2jYMR9hCaCAE",
-    "file_unique_id": "AgADrAsAAo2ccVE",
-    "file_size": 4732446
-  },
-  {
-    "file_name": "RTCW Front-Newtech.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQEGFGwooaQkZFd66JGp9FBgxDrCIMAAKxCwACjZxxUbEeSMVyxZ6GAQAHbQADIAQ",
-      "file_unique_id": "AQADsQsAAo2ccVFy",
-      "file_size": 26133,
-      "width": 253,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBBhRsKKGkJGRXeuiRqfRQYMQ6wiDAACsQsAAo2ccVGxHkjFcsWehiAE",
-    "file_unique_id": "AgADsQsAAo2ccVE",
-    "file_size": 44621559
-  },
-  {
-    "file_name": "RTCW Back-Newtech.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQEWFGwors6hytlcnIfGGcixvR24kdAAKyCwACjZxxUWDRLYo0kKTiAQAHbQADIAQ",
-      "file_unique_id": "AQADsgsAAo2ccVFy",
-      "file_size": 31369,
-      "width": 258,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBFhRsKK7OocrZXJyHxhnIsb0duJHQACsgsAAo2ccVFg0S2KNJCk4iAE",
-    "file_unique_id": "AgADsgsAAo2ccVE",
-    "file_size": 45420153
-  },
-  {
-    "file_name": "RTCW Disc 1 Cover-Newtech.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQEmFGwopRCLJHgTJ0CyA4WpkfSLxZAAKzCwACjZxxUZEUuq2DxIwQAQAHbQADIAQ",
-      "file_unique_id": "AQADswsAAo2ccVFy",
-      "file_size": 23961,
-      "width": 320,
-      "height": 318
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBJhRsKKUQiyR4EydAsgOFqZH0i8WQACswsAAo2ccVGRFLqtg8SMECAE",
-    "file_unique_id": "AgADswsAAo2ccVE",
-    "file_size": 33107543
-  },
-  {
-    "file_name": "RTCW Disc 2 Cover-Newtech.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQE2FGworJb2zhVqk4p_bUIgY1-d03AAK1CwACjZxxURQls3UtGEM8AQAHbQADIAQ",
-      "file_unique_id": "AQADtQsAAo2ccVFy",
-      "file_size": 23822,
-      "width": 320,
-      "height": 314
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBNhRsKKyW9s4VapOKf21CIGNfndNwACtQsAAo2ccVEUJbN1LRhDPCAE",
-    "file_unique_id": "AgADtQsAAo2ccVE",
-    "file_size": 44955400
-  },
-  {
-    "file_name": "RTCW Setup.PNG",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQFGFGwopd10Y0TdGwvH0lTS2idTPcAAK2CwACjZxxUQFvf-kiEeqaAQAHbQADIAQ",
-      "file_unique_id": "AQADtgsAAo2ccVFy",
-      "file_size": 16350,
-      "width": 320,
-      "height": 244
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBRhRsKKXddGNE3RsLx9JU0tonUz3AACtgsAAo2ccVEBb3_pIhHqmiAE",
-    "file_unique_id": "AgADtgsAAo2ccVE",
-    "file_size": 53204
-  },
-  {
-    "file_name": "RTCW Autorun.PNG",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQFWFGwopKgLFlaFHBtGMjv2tUEcvlAAK3CwACjZxxUQaj2nZX3NI5AQAHbQADIAQ",
-      "file_unique_id": "AQADtwsAAo2ccVFy",
-      "file_size": 26449,
-      "width": 320,
-      "height": 232
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEBVhRsKKSoCxZWhRwbRjI79rVBHL5QACtwsAAo2ccVEGo9p2V9zSOSAE",
-    "file_unique_id": "AgADtwsAAo2ccVE",
-    "file_size": 205253
+    "file_id": "BQACAgQAAx0ES2Z5_gACEs1iEQABYtBF2xwhUs8oRyAw0NGwnZ8AAlQVAAL3wYhQc0IMzrM9iCkeBA",
+    "file_unique_id": "AgADVBUAAvfBiFA",
+    "file_name": "return-to-castle-wolfenstein-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 173096408,
+    "date": 1645281378,
+    "thumbs": null
   },
   {
     "file_name": "DISK1.iso",
