@@ -50,9 +50,7 @@ rar_to_extract = []
 
 for index, file in enumerate(tgfiles):
     if file["file_name"] in iafnames:
-        answer = input(file["file_name"] + " Already in IA. Re-Upload it? y/n")
-        if answer.lower() != "y":
-            continue
+        continue
     print("Downloading " + file["file_name"])
     if file["file_name"].lower().endswith(('part1.rar', "part01.rar")):
         # Rar archive detected!
@@ -118,9 +116,7 @@ if rar_to_extract:
 
     for file in glob.glob(sys.argv[1] + "/" + "*"):
         if os.path.basename(file) in iafnames:
-            answer = input(os.path.basename(file) + " Already in IA. Re-Upload it? y/n")
-            if answer.lower() != "y":
-                os.remove(file)
+            os.remove(file)
 
 
 from internetarchive import upload
