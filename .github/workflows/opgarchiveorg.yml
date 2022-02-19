@@ -1,4 +1,4 @@
-name: opgarchiveorg
+name: opgarchiveorg ${{ github.event.inputs.game }}
 on:
   workflow_dispatch:
     inputs:
