@@ -1,87 +1,12 @@
 [
   {
-    "file_name": "True Crime Streets of LA - Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQBGFGv96WQufGiHzGbTY_eHLnJ2HRAAL8CQAC76GBU7Bh6xZvxhlUAQAHbQADIAQ",
-      "file_unique_id": "AQAD_AkAAu-hgVNy",
-      "file_size": 16856,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEARhRr_elkLnxoh8xm02P3hy5ydh0QAC_AkAAu-hgVOwYesWb8YZVCAE",
-    "file_unique_id": "AgAD_AkAAu-hgVM",
-    "file_size": 4269897
-  },
-  {
-    "file_name": "True Crime Streets of LA - Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQBWFGv96ojA6qHBHd3O0F5u5QwdMeAAL-CQAC76GBUwKklabfIt8mAQAHbQADIAQ",
-      "file_unique_id": "AQAD_gkAAu-hgVNy",
-      "file_size": 16994,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEAVhRr_eqIwOqhwR3dztBebuUMHTHgAC_gkAAu-hgVMCpJWm3yLfJiAE",
-    "file_unique_id": "AgAD_gkAAu-hgVM",
-    "file_size": 4367494
-  },
-  {
-    "file_name": "True Crime Streets of LA - Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQBmFGv940EooSx4xaMtqRRxXHrKUIAAMKAALvoYFTKmz_irb6Oc0BAAdtAAMgBA",
-      "file_unique_id": "AQAECgAC76GBU3I",
-      "file_size": 18990,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEAZhRr_eNBKKEseMWjLakUcVx6ylCAADCgAC76GBUyps_4q2-jnNIAQ",
-    "file_unique_id": "AgAECgAC76GBUw",
-    "file_size": 5318437
-  },
-  {
-    "file_name": "True Crime Streets of LA - Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQB2FGv97UE3ZJdlQjfPaKqtbB9JUWAAIBCgAC76GBUzhEGnAom3aBAQAHbQADIAQ",
-      "file_unique_id": "AQADAQoAAu-hgVNy",
-      "file_size": 16502,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEAdhRr_e1BN2SXZUI3z2iqrWwfSVFgACAQoAAu-hgVM4RBpwKJt2gSAE",
-    "file_unique_id": "AgADAQoAAu-hgVM",
-    "file_size": 4095591
-  },
-  {
-    "file_name": "True Crime Streets of LA - Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQCGFGv97IN9VzOkd47b5u56yYAplHAAICCgAC76GBU0BvFmst5IzJAQAHbQADIAQ",
-      "file_unique_id": "AQADAgoAAu-hgVNy",
-      "file_size": 10680,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEAhhRr_eyDfVczpHeO2-buesmAKZRwACAgoAAu-hgVNAbxZrLeSMySAE",
-    "file_unique_id": "AgADAgoAAu-hgVM",
-    "file_size": 3835925
-  },
-  {
-    "file_name": "True Crime Streets of LA - Cover 6.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQCWFGv95f0XmTCFuroq_IOmjjZSgPAAIDCgAC76GBU1tZOdlr6UTxAQAHbQADIAQ",
-      "file_unique_id": "AQADAwoAAu-hgVNy",
-      "file_size": 16072,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEAlhRr_eX9F5kwhbq6KvyDpo42UoDwACAwoAAu-hgVNbWTnZa-lE8SAE",
-    "file_unique_id": "AgADAwoAAu-hgVM",
-    "file_size": 4086131
+    "file_id": "BQACAgQAAx0ES2Z5_gACEvliEWSOlG6A6uCVlqi7QZRRwM0pWgACHQwAAg25iFCXkwSOKedFCB4E",
+    "file_unique_id": "AgADHQwAAg25iFA",
+    "file_name": "true-crime-streets-of-la-magmasoft-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 25974409,
+    "date": 1645307022,
+    "thumbs": null
   },
   {
     "file_name": "True Crime [1].iso",
