@@ -12,7 +12,12 @@
     "blueray"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "0000-00-00",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -57,5 +62,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "silent-hill-4-the-room-blueray"
 }
