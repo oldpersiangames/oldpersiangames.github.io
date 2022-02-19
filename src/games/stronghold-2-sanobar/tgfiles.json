@@ -1,66 +1,19 @@
 [
   {
+    "file_id": "BQACAgQAAx0ES2Z5_gACEtxiES9LcmsgXe2FfqlmAAG0WNlsX-8AAqILAAINuYhQ6cnpzKetgAceBA",
+    "file_unique_id": "AgADogsAAg25iFA",
+    "file_name": "stronghold-2-sanobar-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 35003695,
+    "date": 1645293387,
+    "thumbs": null
+  },
+  {
     "file_name": "STRONGHOLD 2 (SENOBAR) COVERS.rar",
     "mime_type": "application/vnd.rar",
     "file_id": "BQACAgQAAx0CS2Z5_gACEDxhmVYMBreM-w3uUGaOVc2bNihgyQACQAsAArd6oVBif12XM7LtSyIE",
     "file_unique_id": "AgADQAsAArd6oVA",
     "file_size": 5769024
-  },
-  {
-    "file_name": "Stronghold 2 Front-Emperor.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQPWGZVhYv9YIWiqBIbslCdx0Zm1XQAAJTCwACz_6AUTIohwyjHvUHAQAHbQADIgQ",
-      "file_unique_id": "AQADUwsAAs_-gFFy",
-      "file_size": 33062,
-      "width": 270,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACED1hmVYWL_WCFoqgSG7JQncdGZtV0AACUwsAAs_-gFEyKIcMox71ByIE",
-    "file_unique_id": "AgADUwsAAs_-gFE",
-    "file_size": 9131651
-  },
-  {
-    "file_name": "Stronghold 2 Back-Emperor.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQPmGZVhYfmaAmo2CvOmkNjZvLok8sAAJUCwACz_6AUWztB0rE8BB4AQAHbQADIgQ",
-      "file_unique_id": "AQADVAsAAs_-gFFy",
-      "file_size": 27412,
-      "width": 320,
-      "height": 271
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACED5hmVYWH5mgJqNgrzppDY2by6JPLAACVAsAAs_-gFFs7QdKxPAQeCIE",
-    "file_unique_id": "AgADVAsAAs_-gFE",
-    "file_size": 9199041
-  },
-  {
-    "file_name": "Stronghold 2 Disc 1 Cover-Emperor.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQP2GZVhani0t-EihYu0SxZ3IT407TAAJVCwACz_6AUX9JV1d_hKVaAQAHbQADIgQ",
-      "file_unique_id": "AQADVQsAAs_-gFFy",
-      "file_size": 24045,
-      "width": 311,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACED9hmVYWp4tLfhIoWLtEsWdyE-NO0wACVQsAAs_-gFF_SVdXf4SlWiIE",
-    "file_unique_id": "AgADVQsAAs_-gFE",
-    "file_size": 8876558
-  },
-  {
-    "file_name": "Stronghold 2 Disc 2 Cover-Emperor.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQQGGZVhY_XQLjKXaKOeiIDkO3EbqDAAJWCwACz_6AUX7bZmCXUz8-AQAHbQADIgQ",
-      "file_unique_id": "AQADVgsAAs_-gFFy",
-      "file_size": 24038,
-      "width": 311,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEEBhmVYWP10C4yl2ijnoiA5DtxG6gwACVgsAAs_-gFF-22Zgl1M_PiIE",
-    "file_unique_id": "AgADVgsAAs_-gFE",
-    "file_size": 7795853
   },
   {
     "file_name": "Stronghold2CD1.iso",
