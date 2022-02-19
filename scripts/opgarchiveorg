@@ -47,7 +47,7 @@ from internetarchive import get_files
 iafiles = get_files(sys.argv[1])
 iafnames = [f.name for f in iafiles]
 rar_to_extract = []
-
+os.mkdir(sys.argv[1] + "/")
 for index, file in enumerate(tgfiles):
     if file["file_name"] in iafnames:
         continue
