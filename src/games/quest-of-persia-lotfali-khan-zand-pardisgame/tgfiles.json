@@ -1,52 +1,19 @@
 [
   {
+    "file_id": "BQACAgQAAx0ES2Z5_gACEsNiEMcXGxWBDV4Gtsi7x8kygLLa4gACFRUAAvfBiFB4v_SASTa_MB4E",
+    "file_unique_id": "AgADFRUAAvfBiFA",
+    "file_name": "quest-of-persia-lotfali-khan-zand-pardisgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 588896,
+    "date": 1645266711,
+    "thumbs": null
+  },
+  {
     "file_name": "QoP_Lotfali.rar",
     "mime_type": "application/x-rar-compressed",
     "file_id": "BQACAgQAAx0CS2Z5_gACA1Ngd9vpX-IOSCeqnzMaWBmTY9sFbQACkggAAhNlaVPrF_2cJ-7Qkh8E",
     "file_unique_id": "AgADkggAAhNlaVM",
     "file_size": 1867113635
-  },
-  {
-    "file_name": "poster_lotfali.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCAgADHQJLZnn-AAIDUGB323GfCuKKbAH_tHrYi4PbhR0BAAKBCQACnRzBS1_CYvNfJuXdxlOCpC4AAwEAB20AA9s6AAIfBA",
-      "file_unique_id": "AQADxlOCpC4AA9s6AAI",
-      "file_size": 21272,
-      "width": 226,
-      "height": 320
-    },
-    "file_id": "BQACAgIAAx0CS2Z5_gACA1Bgd9txnwriimwB_7R62IuD24UdAQACgQkAAp0cwUtfwmLzXybl3R8E",
-    "file_unique_id": "AgADgQkAAp0cwUs",
-    "file_size": 63806
-  },
-  {
-    "file_name": "QoP_Lotfali_wallpaper.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCAgADHQJLZnn-AAIDUWB323EfTOuRknp58G6KjCcU27PAAAKCCQACnRzBS8rFTb43wHBaEtJjpC4AAwEAB20AA1UJAAIfBA",
-      "file_unique_id": "AQADEtJjpC4AA1UJAAI",
-      "file_size": 26369,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgIAAx0CS2Z5_gACA1Fgd9txH0zrkZJ6efBuiownFNuzwAACggkAAp0cwUvKxU2-N8BwWh8E",
-    "file_unique_id": "AgADggkAAp0cwUs",
-    "file_size": 284946
-  },
-  {
-    "file_name": "QoP_Lotfali_wallpaper2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCAgADHQJLZnn-AAIDUmB323EKIAXfeOL22I0KFGHmN57EAAKDCQACnRzBS-5sIL5Q9FqnchqwpC4AAwEAB20AAw4YAAIfBA",
-      "file_unique_id": "AQADchqwpC4AAw4YAAI",
-      "file_size": 21595,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgIAAx0CS2Z5_gACA1Jgd9txCiAF33ji9tiNChRh5jeexAACgwkAAp0cwUvubCC-UPRapx8E",
-    "file_unique_id": "AgADgwkAAp0cwUs",
-    "file_size": 239756
   },
   {
     "file_name": "walkthrough.zip",
