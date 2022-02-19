@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Spore 1 NewTech 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIK12D-rB244zhuYwMXY5L-zfCIpvXuAAIwCQACzfZpU9LBDla8vhzJAQAHbQADIAQ",
-      "file_unique_id": "AQADMAkAAs32aVNy",
-      "file_size": 36852,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCtdg_qwduOM4bmMDF2OS_s3wiKb17gACMAkAAs32aVPSwQ5WvL4cySAE",
-    "file_unique_id": "AgADMAkAAs32aVM",
-    "file_size": 3120731
-  },
-  {
-    "file_name": "Spore 1 NewTech 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIK2GD-rB1s_y7ap88QQijDGx6GhgxIAAIxCQACzfZpUxM5vSvq5vHYAQAHbQADIAQ",
-      "file_unique_id": "AQADMQkAAs32aVNy",
-      "file_size": 35778,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCthg_qwdbP8u2qfPEEIowxsehoYMSAACMQkAAs32aVMTOb0r6ubx2CAE",
-    "file_unique_id": "AgADMQkAAs32aVM",
-    "file_size": 3348808
-  },
-  {
-    "file_name": "Spore 1 NewTech 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIK2WD-rB1_qdHPuJDyd2R3USQV9zb_AAIyCQACzfZpU4cjZYDGkxyDAQAHbQADIAQ",
-      "file_unique_id": "AQADMgkAAs32aVNy",
-      "file_size": 35281,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCtlg_qwdf6nRz7iQ8ndkd1EkFfc2_wACMgkAAs32aVOHI2WAxpMcgyAE",
-    "file_unique_id": "AgADMgkAAs32aVM",
-    "file_size": 1728895
+    "file_id": "BQACAgQAAx0ES2Z5_gACEuJiETTUr5Z_6Q7n-irY1HBy_XrK6gACqwsAAg25iFCw07JJRY73MB4E",
+    "file_unique_id": "AgADqwsAAg25iFA",
+    "file_name": "spore-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 8198810,
+    "date": 1645294804,
+    "thumbs": null
   },
   {
     "file_name": "Spore_NewTech.part1.rar",
