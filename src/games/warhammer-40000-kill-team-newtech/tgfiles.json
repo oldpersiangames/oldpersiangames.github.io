@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Warhammer 40000 Kill Team NewTech 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINC2EVzuFcrcjODAcyaqkkxHMq9WO3AAIODQACGV75U-f9uA5WNM8mAQAHbQADIAQ",
-      "file_unique_id": "AQADDg0AAhle-VNy",
-      "file_size": 36801,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDQthFc7hXK3IzgwHMmqpJMRzKvVjtwACDg0AAhle-VPn_bgOVjTPJiAE",
-    "file_unique_id": "AgADDg0AAhle-VM",
-    "file_size": 2749419
-  },
-  {
-    "file_name": "Warhammer 40000 Kill Team NewTech 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINDGEVzuPLjsP2g8XwOensoAinYzTtAAIPDQACGV75Uz_GhtkBtnWeAQAHbQADIAQ",
-      "file_unique_id": "AQADDw0AAhle-VNy",
-      "file_size": 33711,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDQxhFc7jy47D9oPF8Dnp7KAIp2M07QACDw0AAhle-VM_xobZAbZ1niAE",
-    "file_unique_id": "AgADDw0AAhle-VM",
-    "file_size": 2791002
-  },
-  {
-    "file_name": "Warhammer 40000 Kill Team NewTech 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAINDWEVzuQyxyYo_ExNgAiYUjALQazcAAIQDQACGV75UzVg1YA86QLmAQAHbQADIAQ",
-      "file_unique_id": "AQADEA0AAhle-VNy",
-      "file_size": 31411,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACDQ1hFc7kMscmKPxMTYAImFIwC0Gs3AACEA0AAhle-VM1YNWAPOkC5iAE",
-    "file_unique_id": "AgADEA0AAhle-VM",
-    "file_size": 1414060
+    "file_id": "BQACAgQAAx0ES2Z5_gACEvtiEWbVNhNDaPN5d7Sk6XfH7f4w7wACIAwAAg25iFB3zg4DPEkHTh4E",
+    "file_unique_id": "AgADIAwAAg25iFA",
+    "file_name": "warhammer-40000-kill-team-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 6954965,
+    "date": 1645307605,
+    "thumbs": null
   },
   {
     "file_name": "Warhammer-40000-Kill-Team.part1.rar",
