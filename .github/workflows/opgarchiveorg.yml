@@ -40,6 +40,7 @@ jobs:
         run: |
           git config --local user.email "alihardanc@gmail.com"
           git config --local user.name "alihardan"
+          git pull --rebase
           git add ${{ github.workspace }}/src/games/
           git commit -m "opgarchive ${{ github.event.inputs.game }}"
       - name: Push changes
