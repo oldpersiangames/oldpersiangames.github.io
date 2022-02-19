@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "Sniper Art of Victory Front.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQnGHIz5H5mgqmk6iQE7qIF9wZ7WexAALTCAACyXWoUdxdwsIsUkkgAQAHbQADIwQ",
-      "file_unique_id": "AQAD0wgAAsl1qFFy",
-      "file_size": 30932,
-      "width": 254,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEJxhyM-R-ZoKppOokBO6iBfcGe1nsQAC0wgAAsl1qFHcXcLCLFJJICME",
-    "file_unique_id": "AgAD0wgAAsl1qFE",
-    "file_size": 1609422
-  },
-  {
-    "file_name": "Sniper Art of Victory Back.png.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQnWHIz5FTjjj18sPY8ukBudPRx2GcAALUCAACyXWoUViRSqWrYAzXAQAHbQADIwQ",
-      "file_unique_id": "AQAD1AgAAsl1qFFy",
-      "file_size": 35266,
-      "width": 256,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEJ1hyM-RU4449fLD2PLpAbnT0cdhnAAC1AgAAsl1qFFYkUqlq2AM1yME",
-    "file_unique_id": "AgAD1AgAAsl1qFE",
-    "file_size": 921926
-  },
-  {
-    "file_name": "Sniper Art of Victory Disc Cover.png.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIQnmHIz5GfI7sEl9QrpnIW_mwGh8prAALVCAACyXWoUcIXfVCmWzxMAQAHbQADIwQ",
-      "file_unique_id": "AQAD1QgAAsl1qFFy",
-      "file_size": 29493,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACEJ5hyM-RnyO7BJfUK6ZyFv5sBofKawAC1QgAAsl1qFHCF31Qpls8TCME",
-    "file_unique_id": "AgAD1QgAAsl1qFE",
-    "file_size": 529101
+    "file_id": "BQACAgQAAx0ES2Z5_gACEtliESlzJEFA748O8LZQCL4obo-2QgACjAsAAg25iFBA6VY_wzupjB4E",
+    "file_unique_id": "AgADjAsAAg25iFA",
+    "file_name": "sniper-art-of-victory-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 3060909,
+    "date": 1645291891,
+    "thumbs": null
   },
   {
     "file_name": "SNIPER3.d1.iso",
