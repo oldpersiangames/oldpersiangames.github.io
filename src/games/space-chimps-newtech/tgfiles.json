@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "20210417_172039.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEjWCF4KvV6g72Vm4O8pzxlVbq5FsAAz0JAALSVthT6W9pZxF_II41X88uXQADAQAHbQAD6WIAAh8E",
-      "file_unique_id": "AQADNV_PLl0AA-liAAI",
-      "file_size": 28188,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBI1gheCr1eoO9lZuDvKc8ZVW6uRbAAM9CQAC0lbYU-lvaWcRfyCOHwQ",
-    "file_unique_id": "AgADPQkAAtJW2FM",
-    "file_size": 7010322
-  },
-  {
-    "file_name": "20210417_172049.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEjmCF4KsFtTHlds2toVmA38m9aJDXAAI_CQAC0lbYU6eAyOFogg6WyllYLl0AAwEAB20AA-FPAAIfBA",
-      "file_unique_id": "AQADyllYLl0AA-FPAAI",
-      "file_size": 27592,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBI5gheCrBbUx5XbNraFZgN_JvWiQ1wACPwkAAtJW2FOngMjhaIIOlh8E",
-    "file_unique_id": "AgADPwkAAtJW2FM",
-    "file_size": 7125921
-  },
-  {
-    "file_name": "20210417_172059.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEj2CF4KtDluEVE-oIGNn4Jea7z9gIAAJACQAC0lbYU0SgZYD5elcZiS2JLl0AAwEAB20AA85lAAIfBA",
-      "file_unique_id": "AQADiS2JLl0AA85lAAI",
-      "file_size": 27139,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBI9gheCrQ5bhFRPqCBjZ-CXmu8_YCAACQAkAAtJW2FNEoGWA-XpXGR8E",
-    "file_unique_id": "AgADQAkAAtJW2FM",
-    "file_size": 4991998
-  },
-  {
-    "file_name": "20210417_172109.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIEkGCF4KvV2GdbGWEM_GUf5Vy0z0FeAAJBCQAC0lbYU5ty_u3YaF1tcyuJLl0AAwEAB20AA4msAAIfBA",
-      "file_unique_id": "AQADcyuJLl0AA4msAAI",
-      "file_size": 29339,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBJBgheCr1dhnWxlhDPxlH-VctM9BXgACQQkAAtJW2FObcv7t2GhdbR8E",
-    "file_unique_id": "AgADQQkAAtJW2FM",
-    "file_size": 6486574
+    "file_id": "BQACAgQAAx0ES2Z5_gACEt1iES-bAkPenRawd8_ibWQZnHyaYQACowsAAg25iFCYznHy0FdAXx4E",
+    "file_unique_id": "AgADowsAAg25iFA",
+    "file_name": "space-chimps-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 25615293,
+    "date": 1645293467,
+    "thumbs": null
   },
   {
     "file_name": "Space.Chimps.NewTech.part1.rar",
