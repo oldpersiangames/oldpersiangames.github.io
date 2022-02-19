@@ -121,7 +121,11 @@ if rar_to_extract:
 
 from internetarchive import upload
 md = dict(collection='open_source_software', title=sys.argv[1], description=info["title"][0] + " (Persian Video Game)\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/games/"+sys.argv[1]+"/", mediatype='software')
-if upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
+
+allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
+allfiles = [f for f in allfiles if os.path.isfile(f)]
+
+if upload(sys.argv[1], sys.argv[1] + "/", metadata=md) or (not allfiles): # If uploaded or if there's nothing to upload
     info["ia_id"] = sys.argv[1]
     if rar_to_extract:
         f = open("src/games/" + sys.argv[1] + "/files.json", "w")
