@@ -29,16 +29,24 @@
   "defects": [],
   "games": [
     {
-      "title": ["Sniper: Path of Vengeance"],
-      "titlefa": ["تک تیرانداز: مسیر انتقام"],
+      "title": [
+        "Sniper: Path of Vengeance"
+      ],
+      "titlefa": [
+        "تک تیرانداز: مسیر انتقام"
+      ],
       "dubbed": true,
       "modified": false,
       "subtitle": false,
       "iranian": false
     },
     {
-      "title": ["World War II: Sniper - Call to Victory"],
-      "titlefa": ["تک تیرانداز: ندای پیروزی"],
+      "title": [
+        "World War II: Sniper - Call to Victory"
+      ],
+      "titlefa": [
+        "تک تیرانداز: ندای پیروزی"
+      ],
       "dubbed": true,
       "modified": false,
       "subtitle": false,
@@ -72,5 +80,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "sniper-1-and-2-sarirgame"
 }
