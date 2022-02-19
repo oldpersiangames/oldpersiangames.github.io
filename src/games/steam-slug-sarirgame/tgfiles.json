@@ -1,73 +1,12 @@
 [
   {
-    "file_name": "Steam Slug Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICTGBl795XqGDeQ3jHe9JvtmNS52efAAJuCAAC8bhQUR25wDKPJ98n2BnKLF0AAwEAB20AA2cdAAIeBA",
-      "file_unique_id": "AQAD2BnKLF0AA2cdAAI",
-      "file_size": 21210,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAkxgZe_eV6hg3kN4x3vSb7ZjUudnnwACbggAAvG4UFEducAyjyffJx4E",
-    "file_unique_id": "AgADbggAAvG4UFE",
-    "file_size": 4664481
-  },
-  {
-    "file_name": "Steam Slug Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICTWBl7976yrvRmNF_HGZRHYi_-YTJAAJvCAAC8bhQUX3XWJVvrCJEpu8sLF0AAwEAB20AA6FqAAIeBA",
-      "file_unique_id": "AQADpu8sLF0AA6FqAAI",
-      "file_size": 19262,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAk1gZe_e-sq70ZjRfxxmUR2Iv_mEyQACbwgAAvG4UFF911iVb6wiRB4E",
-    "file_unique_id": "AgADbwgAAvG4UFE",
-    "file_size": 4374818
-  },
-  {
-    "file_name": "Steam Slug Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICTmBl797iFzJPqVEWLXrRV743jZONAAJwCAAC8bhQUcBqJYvWi1vxgbN3LF0AAwEAB20AAylyAAIeBA",
-      "file_unique_id": "AQADgbN3LF0AAylyAAI",
-      "file_size": 23039,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAk5gZe_e4hcyT6lRFi160Ve-N42TjQACcAgAAvG4UFHAaiWL1otb8R4E",
-    "file_unique_id": "AgADcAgAAvG4UFE",
-    "file_size": 4564377
-  },
-  {
-    "file_name": "Steam Slug Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICT2Bl794QqQhckIUzMwpWoldacB7iAAJxCAAC8bhQUXVLkj1tG2CblKSRLF0AAwEAB20AA40KAAIeBA",
-      "file_unique_id": "AQADlKSRLF0AA40KAAI",
-      "file_size": 11874,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAk9gZe_eEKkIXJCFMzMKVqJXWnAe4gACcQgAAvG4UFF1S5I9bRtgmx4E",
-    "file_unique_id": "AgADcQgAAvG4UFE",
-    "file_size": 4177689
-  },
-  {
-    "file_name": "Steam Slug Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAICUGBl795bxWRxmKSpQ2FM73MabBsiAAJyCAAC8bhQUfEdYSMa5vTCh7yXLF0AAwEAB20AA-YIAAIeBA",
-      "file_unique_id": "AQADh7yXLF0AA-YIAAI",
-      "file_size": 10762,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACAlBgZe_eW8VkcZikqUNhTO9zGmwbIgACcggAAvG4UFHxHWEjGub0wh4E",
-    "file_unique_id": "AgADcggAAvG4UFE",
-    "file_size": 3957343
+    "file_id": "BQACAgQAAx0ES2Z5_gACEttiES4W9yD9SMMMUZbeE_NXTpm--gACoAsAAg25iFATmnsc0ndx9B4E",
+    "file_unique_id": "AgADoAsAAg25iFA",
+    "file_name": "steam-slug-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 21739330,
+    "date": 1645293078,
+    "thumbs": null
   },
   {
     "file_name": "SteamSlug.iso",
