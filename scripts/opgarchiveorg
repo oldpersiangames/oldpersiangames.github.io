@@ -41,7 +41,8 @@ tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json")
 tgfiles = json.load(tgfilesfile)
 tgfilesfile.close()
 
-
+from internetarchive import configure
+configure('oldpersiangames@gmail.com', os.environ["ARCHIVEORG"])
 from internetarchive import get_files
 iafiles = get_files(sys.argv[1])
 iafnames = [f.name for f in iafiles]
