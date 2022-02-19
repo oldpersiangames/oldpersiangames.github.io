@@ -1,59 +1,12 @@
 [
   {
-    "file_name": "Spore 2 NewTech 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIKwGD-mewh57Uvv7zytOP_BvvVS6SQAAI3CQACzfZpU_vKTC-zWhayAQAHbQADIAQ",
-      "file_unique_id": "AQADNwkAAs32aVNy",
-      "file_size": 39147,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCsBg_pnsIee1L7-88rTj_wb71UukkAACNwkAAs32aVP7ykwvs1oWsiAE",
-    "file_unique_id": "AgADNwkAAs32aVM",
-    "file_size": 2877401
-  },
-  {
-    "file_name": "Spore 2 NewTech 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIKwWD-mex-xFnKRyUMM0UW-H5U6xP8AAI4CQACzfZpU4x13oMB1iHoAQAHbQADIAQ",
-      "file_unique_id": "AQADOAkAAs32aVNy",
-      "file_size": 30460,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCsFg_pnsfsRZykclDDNFFvh-VOsT_AACOAkAAs32aVOMdd6DAdYh6CAE",
-    "file_unique_id": "AgADOAkAAs32aVM",
-    "file_size": 2224413
-  },
-  {
-    "file_name": "Spore 2 NewTech 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIKwmD-meyc-s-Kkyb1LBgIZzggYXVkAAI5CQACzfZpUwLh4Fu01O1hAQAHbQADIAQ",
-      "file_unique_id": "AQADOQkAAs32aVNy",
-      "file_size": 31925,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCsJg_pnsnPrPipMm9SwYCGc4IGF1ZAACOQkAAs32aVMC4eBbtNTtYSAE",
-    "file_unique_id": "AgADOQkAAs32aVM",
-    "file_size": 1784999
-  },
-  {
-    "file_name": "Spore 2 NewTech 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIKw2D-mex8Rmn02uTYmb0qXDbED73dAAI6CQACzfZpU8ylmH7wK1spAQAHbQADIAQ",
-      "file_unique_id": "AQADOgkAAs32aVNy",
-      "file_size": 32373,
-      "width": 320,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCsNg_pnsfEZp9Nrk2Jm9Klw2xA-93QACOgkAAs32aVPMpZh-8CtbKSAE",
-    "file_unique_id": "AgADOgkAAs32aVM",
-    "file_size": 1869425
+    "file_id": "BQACAgQAAx0ES2Z5_gACEuliETjp-Zo3F3og9hEQ4vNaOHhj-AACzQsAAg25iFCg0XloMW8ReR4E",
+    "file_unique_id": "AgADzQsAAg25iFA",
+    "file_name": "spore-galactic-adventures-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 8756732,
+    "date": 1645295849,
+    "thumbs": null
   },
   {
     "file_name": "Spore-Galactic-Adventures-NewTech.part1.rar",
