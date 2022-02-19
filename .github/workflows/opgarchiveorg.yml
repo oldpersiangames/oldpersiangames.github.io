@@ -43,6 +43,7 @@ jobs:
         run: |
           git config --local user.email "alihardanc@gmail.com"
           git config --local user.name "alihardan"
+          git pull
           for word in $(echo ${{ github.event.inputs.game }}); do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
           git commit -m "opgarchiveorg ${{ github.event.inputs.game }}"
       - name: Push changes
