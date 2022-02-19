@@ -1,4 +1,4 @@
-name: opgarchiveorg ${{ github.event.inputs.game }}
+name: "opgarchiveorg ${{ github.event.inputs.game }}"
 on:
   workflow_dispatch:
     inputs:
@@ -41,7 +41,7 @@ jobs:
           git config --local user.email "alihardanc@gmail.com"
           git config --local user.name "alihardan"
           git add ${{ github.workspace }}/src/games/
-          git commit -m "opgarchiveorg changes"
+          git commit -m "opgarchive ${{ github.event.inputs.game }}"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
