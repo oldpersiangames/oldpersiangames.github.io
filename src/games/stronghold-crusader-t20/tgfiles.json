@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "IMG_20210617_175752.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJeWDlHnMeRM8hVxY0YH_RVkZQBtsBAAKgCAAC2NSgUudjW7OpF8GwAQAHbQADIAQ",
-      "file_unique_id": "AQADoAgAAtjUoFJy",
-      "file_size": 28368,
-      "width": 248,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCXlg5R5zHkTPIVcWNGB_0VZGUAbbAQACoAgAAtjUoFLnY1uzqRfBsCAE",
-    "file_unique_id": "AgADoAgAAtjUoFI",
-    "file_size": 2043591
-  },
-  {
-    "file_name": "IMG_20210617_175820.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIJemDlHnPQunFZdQ-T74yBynGpuRbnAAKhCAAC2NSgUiUp2jculEXyAQAHbQADIAQ",
-      "file_unique_id": "AQADoQgAAtjUoFJy",
-      "file_size": 22188,
-      "width": 248,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACCXpg5R5z0LpxWXUPk--MgcpxqbkW5wACoQgAAtjUoFIlKdo3LpRF8iAE",
-    "file_unique_id": "AgADoQgAAtjUoFI",
-    "file_size": 2047328
+    "file_id": "BQACAgQAAx0ES2Z5_gACEuViETa_ZPFQ0_WaKD4GWfdZthhg0gACvwsAAg25iFB76O_ML3AWah4E",
+    "file_unique_id": "AgADvwsAAg25iFA",
+    "file_name": "stronghold-crusader-t20-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 4091185,
+    "date": 1645295295,
+    "thumbs": null
   },
   {
     "file_name": "SH Crusader A.iso",
