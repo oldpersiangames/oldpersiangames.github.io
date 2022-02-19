@@ -1,17 +1,12 @@
 [
   {
-    "file_name": "Trine.png",
-    "mime_type": "image/png",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIFHGCLgpfEYqM-W2WM12WQ9JULtiCtAAK1DAACgD1gUDKBVMnQNRuwR-E8Ll0AAwEAB20AA0ZFAAIfBA",
-      "file_unique_id": "AQADR-E8Ll0AA0ZFAAI",
-      "file_size": 28437,
-      "width": 254,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRxgi4KXxGKjPltljNdlkPSVC7YgrQACtQwAAoA9YFAygVTJ0DUbsB8E",
-    "file_unique_id": "AgADtQwAAoA9YFA",
-    "file_size": 973119
+    "file_id": "BQACAgQAAx0ES2Z5_gACEvViEV8zsJeCtCNHVi2D058VmrZRSQACFgwAAg25iFC59MM1je1drh4E",
+    "file_unique_id": "AgADFgwAAg25iFA",
+    "file_name": "trine-newtech-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 973235,
+    "date": 1645305651,
+    "thumbs": null
   },
   {
     "file_name": "DISK1.iso",
