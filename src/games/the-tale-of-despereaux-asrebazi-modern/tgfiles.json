@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "The Tale Of Despereaux Front Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIKY2D8MOyAViIpjox_RS8g1PKm6FmMAAJwCgACj_U5U9ER0X-eyQABJAEAB20AAyAE",
-      "file_unique_id": "AQADcAoAAo_1OVNy",
-      "file_size": 25813,
-      "width": 239,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACCmNg_DDsgFYiKY6Mf0UvINTypuhZjAACcAoAAo_1OVPREdF_nskAASQgBA",
-    "file_unique_id": "AgADcAoAAo_1OVM",
-    "file_size": 3332531
-  },
-  {
-    "file_name": "The Tale Of Despereaux Back Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIKZGD8MO5z7EI-0f1F4AFv9ZHMHobGAAJzCgACj_U5U-UpLmoVagABUwEAB20AAyAE",
-      "file_unique_id": "AQADcwoAAo_1OVNy",
-      "file_size": 30515,
-      "width": 245,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACCmRg_DDuc-xCPtH9ReABb_WRzB6GxgACcwoAAo_1OVPlKS5qFWoAAVMgBA",
-    "file_unique_id": "AgADcwoAAo_1OVM",
-    "file_size": 3617811
-  },
-  {
-    "file_name": "The Tale Of Despereaux Disk Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIKZWD8MO9-9y3dIL_sTw7Th8mEdGKiAAJ1CgACj_U5U6XEWONPf-xgAQAHbQADIAQ",
-      "file_unique_id": "AQADdQoAAo_1OVNy",
-      "file_size": 27322,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACCmVg_DDvfvct3SC_7E8O04fJhHRiogACdQoAAo_1OVOlxFjjT3_sYCAE",
-    "file_unique_id": "AgADdQoAAo_1OVM",
-    "file_size": 2346479
+    "file_id": "BQACAgQAAx0ES2Z5_gACEvRiEV7TJMNTtykf5YlcGiL_FVo1bgACFQwAAg25iFByH1GywNjdFx4E",
+    "file_unique_id": "AgADFQwAAg25iFA",
+    "file_name": "the-tale-of-despereaux-asrebazi-modern-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 9297295,
+    "date": 1645305555,
+    "thumbs": null
   },
   {
     "file_name": "TTOD_FA.part1.rar",
