@@ -27,88 +27,9 @@
     "file_unique_id": "AgADMwsAAo55sVE",
     "file_size": 2752850
   },
-  {
-    "file_name": "call.part01.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB-ZgtlZXK_DTaEn9epF6TkAo6cqvXQACLwsAApTVEEmfb6frTI7vJB8E",
-    "file_unique_id": "AgADLwsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part02.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB-dgtlZXmisCoAf2AfToh8f7B82mawACmgkAAn0AARhRFEU_x2OgwIEfBA",
-    "file_unique_id": "AgADmgkAAn0AARhR",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part03.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB-hgtlZX3eCbL8o8ZGF9sTjhCW3iIgAC5AkAAn0AARhRrkoX4lmNIfwfBA",
-    "file_unique_id": "AgAD5AkAAn0AARhR",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part04.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB-lgtlZXvVHPPKoi80kbMfMjg102qwACVQsAApTVEEn9-FmFUnx03h8E",
-    "file_unique_id": "AgADVQsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part05.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB-pgtlZXOwERbrUxh04auuheQTprxgADCgACfQABGFFglOtHFXZohB8E",
-    "file_unique_id": "AgAECgACfQABGFE",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part06.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB-tgtlZXDB7xYn35thayaKZ6vbv0lwACUwsAApTVEEkS8fGGBjR7JB8E",
-    "file_unique_id": "AgADUwsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part07.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB-xgtlZX3Mud17QNdn6M8bSsP2VtOQACZQsAApTVEEmvzYE9YzV34h8E",
-    "file_unique_id": "AgADZQsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part08.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB-1gtlZXSMmg9Zc8YSei0br7oxlM9AAC1wUAAn0AASBRpigD8IN28dkfBA",
-    "file_unique_id": "AgAD1wUAAn0AASBR",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part09.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB-5gtlZXD2K8oTgQnqSyMgau53se8QACeQsAApTVEEkO2WbCvtoFVh8E",
-    "file_unique_id": "AgADeQsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part10.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB-9gtlZXfIG6s2opX3mW9atco0mePAAC2QUAAn0AASBRz1y9Tm29DFwfBA",
-    "file_unique_id": "AgAD2QUAAn0AASBR",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part11.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB_BgtlZdWsawYNjFEpzWv_9j-QABd8wAAoALAAKU1RBJjiu6-p8hRl8fBA",
-    "file_unique_id": "AgADgAsAApTVEEk",
-    "file_size": 419430400
-  },
-  {
-    "file_name": "call.part12.rar",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgIAAx0CS2Z5_gACB_FgtlZdHIV6cHNI09vXRgujQBjLiAACgwsAApTVEEma_fQJP4T9Oh8E",
-    "file_unique_id": "AgADgwsAApTVEEk",
-    "file_size": 3974702
-  }
+  {"file_name": "CallOfDuty4Farsi.part1.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEv1iEfKSjCDRrKeMzZTjVUnV72PuhgACCgsAAqlfYVET1igKi1iRYSME", "file_unique_id": "AgADCgsAAqlfYVE", "file_size": 1073741824},
+  {"file_name": "CallOfDuty4Farsi.part2.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEv5iEfKSJdaSXB3UIBgxPQ9NdutUiwACEgsAAqlfYVHzFgrk2rdHsiME", "file_unique_id": "AgADEgsAAqlfYVE", "file_size": 1073741824},
+  {"file_name": "CallOfDuty4Farsi.part3.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEv9iEfKSkar77iTg_d7IvVAZonqI9gACFwsAAqlfYVH1XBAkrWJxoCME", "file_unique_id": "AgADFwsAAqlfYVE", "file_size": 1073741824},
+  {"file_name": "CallOfDuty4Farsi.part4.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEwABYhHykqUqc35YubfdOrK7obcLQL4AAgYLAAKpX2FRgzNa9WaHQC0jBA", "file_unique_id": "AgADBgsAAqlfYVE", "file_size": 1073741824},
+  {"file_name": "CallOfDuty4Farsi.part5.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEwFiEfKS9_wMxnIVsZRcAcK-XYUzSQACBwsAAqlfYVGPIhx3z6qfASME", "file_unique_id": "AgADBwsAAqlfYVE", "file_size": 317969511}
 ]
