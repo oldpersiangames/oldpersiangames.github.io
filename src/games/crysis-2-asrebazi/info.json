@@ -1,15 +1,15 @@
 {
   "title": [
-    "Call of Juarez: Gunslinger"
+    "Crysis 2"
   ],
   "titlefa": [
-    "ندای خوارز: هفت‌تیرکش"
+    "کرایسیس ۲"
   ],
   "producer": [
-    "glory"
+    "asrebazi"
   ],
   "publisher": [
-    "srayaneh"
+    "asrebazi"
   ],
   "price": [],
   "release_date": [],
@@ -37,21 +37,17 @@
   "manuals": false,
   "contributors": [
     {
+      "username": "Ab1450",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
       "username": "AG_e_e_kA",
       "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "Mahdi_Jafarzadeh",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "Aras_Max",
-      "contribute": [
-        "cover"
+        "cover",
+        "details"
       ]
     },
     {

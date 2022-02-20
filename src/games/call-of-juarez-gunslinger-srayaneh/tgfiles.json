@@ -1,37 +1,6 @@
 [
-  {
-    "file_name": "Call of Juarez Gunslinger.7z.001",
-    "mime_type": "application/x-7z-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRdgi3IxUfdyEzwmvwhSdg-ioxbI1gAC6AYAAng2sVPfM2Kj1LPWAR8E",
-    "file_unique_id": "AgAD6AYAAng2sVM",
-    "file_size": 1572864000
-  },
-  {
-    "file_name": "Call of Juarez Gunslinger.7z.002",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRhgi3Ix5kGGTAkvTsiOqYad4yJJdAAC6QYAAng2sVMKjCsMiGH-pR8E",
-    "file_unique_id": "AgAD6QYAAng2sVM",
-    "file_size": 1572864000
-  },
-  {
-    "file_name": "Call of Juarez Gunslinger.7z.003",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRlgi3IxrRuorSQmcaVO-sGW3NfBHwAC6gYAAng2sVOLzDW-cY1iax8E",
-    "file_unique_id": "AgAD6gYAAng2sVM",
-    "file_size": 1572864000
-  },
-  {
-    "file_name": "Call of Juarez Gunslinger.7z.004",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRpgi3Ixhw120BnLdwKOJ_9Irnv9hAAC6wYAAng2sVOPj9owijP6Gx8E",
-    "file_unique_id": "AgAD6wYAAng2sVM",
-    "file_size": 1572864000
-  },
-  {
-    "file_name": "Call of Juarez Gunslinger.7z.005",
-    "mime_type": "application/octet-stream",
-    "file_id": "BQACAgQAAx0CS2Z5_gACBRtgi3Ixkp8otseEuNBlWIvB_k2yUwAC7AYAAng2sVPNb1Urg1viKx8E",
-    "file_unique_id": "AgAD7AYAAng2sVM",
-    "file_size": 1478318304
-  }
+  {"file_name": "Call Of Juarez-Gunslinger.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEw1iEqi8s6e9wqiqKDeuAAHJIg4rIAgAAs4NAAKUjJhQ0w2DDna9RfQjBA", "file_unique_id": "AgADzg0AApSMmFA", "file_size": 2097152000},
+  {"file_name": "Call Of Juarez-Gunslinger.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEw5iEqi8FJpsf12Beg9g_G_ldF8TPQACzw0AApSMmFA48vdvu4m-fiME", "file_unique_id": "AgADzw0AApSMmFA", "file_size": 2097152000},
+  {"file_name": "Call Of Juarez-Gunslinger.part3.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEw9iEqi8vX_haAkrG_rmJY1uI94BRQAC0A0AApSMmFD0sSIVmL8TISME", "file_unique_id": "AgAD0A0AApSMmFA", "file_size": 2097152000},
+  {"file_name": "Call Of Juarez-Gunslinger.part4.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACExBiEqi86qORmGLQ8DlN6-RauWDyYwAC0Q0AApSMmFDt0MZbq6YNmyME", "file_unique_id": "AgAD0Q0AApSMmFA", "file_size": 1478362167}
 ]
