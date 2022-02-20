@@ -1,31 +1,12 @@
 [
   {
-    "file_name": "IMG_20210422_221607.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGGGCX8zLyMPvT_TLwp_C-pETHD45zAALyCQACinG5UJQJLeymRxBunyjzMF0AAwEAB20AA5IIAAIfBA",
-      "file_unique_id": "AQADnyjzMF0AA5IIAAI",
-      "file_size": 25219,
-      "width": 293,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBhhgl_My8jD70_0y8KfwvqRExw-OcwAC8gkAAopxuVCUCS3spkcQbh8E",
-    "file_unique_id": "AgAD8gkAAopxuVA",
-    "file_size": 1891594
-  },
-  {
-    "file_name": "IMG_20210422_221559.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIGGWCX8zJnuDkbUv4AAdYbl2yGZUNIqwAC8wkAAopxuVCBWHx3HEmBmvNvyi1dAAMBAAdtAANCIwACHwQ",
-      "file_unique_id": "AQAD82_KLV0AA0IjAAI",
-      "file_size": 28065,
-      "width": 284,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACBhlgl_MyZ7g5G1L-AAHWG5dshmVDSKsAAvMJAAKKcblQgVh8dxxJgZofBA",
-    "file_unique_id": "AgAD8wkAAopxuVA",
-    "file_size": 1902047
+    "file_id": "BQACAgQAAx0ES2Z5_gACEwZiEi3a2_yUww6i8QvwEoX8xfSFzAACRQsAAg25kFAu549qvb9mpR4E",
+    "file_unique_id": "AgADRQsAAg25kFA",
+    "file_name": "spider-man-t20-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 3793907,
+    "date": 1645358554,
+    "thumbs": null
   },
   {
     "file_name": "SPIDER MAN 1.iso",
