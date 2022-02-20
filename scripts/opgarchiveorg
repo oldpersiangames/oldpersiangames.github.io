@@ -52,7 +52,7 @@ for index, file in enumerate(tgfiles):
     if file["file_name"] in iafnames:
         continue
     print("Downloading " + file["file_name"])
-    if file["file_name"].lower().endswith(('part1.rar', "part01.rar")):
+    if file["file_name"].lower().endswith(('part1.rar', "part01.rar", ".7z.001")):
         # Rar archive detected!
         rar_to_extract.append(file["file_name"])
     if os.path.isfile(sys.argv[1] + "/" + file["file_name"]): # Skip downloading if file exists
@@ -98,11 +98,11 @@ if rar_to_extract:
             shutil.move(f, sys.argv[1] + "/")
 
     files = tgfiles.copy()
-    rar_parts = insensitive_glob(sys.argv[1] + "/" + "*part*.rar")
+    rar_parts = insensitive_glob(sys.argv[1] + "/" + "*part*.rar") + insensitive_glob(sys.argv[1] + "/" + "*.7z.*")
     # Insert extracted files into files json
     # Get index
     for index, file in enumerate(files):
-        if file["file_name"].lower().endswith(('part1.rar', "part01.rar")):
+        if file["file_name"].lower().endswith(('part1.rar', "part01.rar", ".7z.001")):
             rar_to_extract_index = index
             break
     for file in sorted(glob.glob(sys.argv[1] + "/" + "*")):
