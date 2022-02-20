@@ -12,7 +12,12 @@
     "srayaneh"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2014-3\u0000-4\u0000",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -61,5 +66,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "call-of-juarez-gunslinger-srayaneh"
 }
