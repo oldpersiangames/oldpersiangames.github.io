@@ -26,9 +26,7 @@
   "no_of_discs": [
     1
   ],
-  "defects": [
-    "ایمیج این بازی دستکاری شده است. دیسک اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -45,6 +43,12 @@
   ],
   "manuals": false,
   "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [

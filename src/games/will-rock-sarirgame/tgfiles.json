@@ -1,16 +1,4 @@
 [
-  {
-    "file_name": "WillRock Fa.part1.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACA7Rge3ku21SM_irsfEBZu80D6qh2xwAC5wgAAhaUyVGnDIz5QYTgWx8E",
-    "file_unique_id": "AgAD5wgAAhaUyVE",
-    "file_size": 1503238553
-  },
-  {
-    "file_name": "WillRock Fa.part2.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACA7Vge3kudyuYgeElYwrXH1g9X_D2nAAC6AgAAhaUyVGWa0Pphmb0Ph8E",
-    "file_unique_id": "AgAD6AgAAhaUyVE",
-    "file_size": 237487516
-  }
+  {"file_name": "WillRock.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEx1iErjf4LomeM7aj3jG8omZB9PVSgAC0w0AApSMmFCR6iT7oSsq0CME", "file_unique_id": "AgAD0w0AApSMmFA", "file_size": 2097152000},
+  {"file_name": "WillRock.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEx5iErjffE3gj8mdMbmOXl-To3ZnXAAC1A0AApSMmFDBE-TeO2l85yME", "file_unique_id": "AgAD1A0AApSMmFA", "file_size": 1375207795}
 ]
