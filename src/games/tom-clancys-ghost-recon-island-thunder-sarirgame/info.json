@@ -44,7 +44,8 @@
     {
       "username": "Mahdi_Jafarzadeh",
       "contribute": [
-        "game", "cover"
+        "game",
+        "cover"
       ]
     },
     {
@@ -67,5 +68,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "tom-clancys-ghost-recon-island-thunder-sarirgame"
 }
