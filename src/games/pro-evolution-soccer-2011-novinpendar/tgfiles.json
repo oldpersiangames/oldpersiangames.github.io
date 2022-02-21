@@ -1,22 +1,7 @@
 [
-  {
-    "file_name": "PES2011_D1.iso.001",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB41gtDZrbrj-BAkaUfu0y9SEs19XrwACZgkAAr4voFGLC7uA11oj7x8E",
-    "file_unique_id": "AgADZgkAAr4voFE",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PES2011_D1.iso.002",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB45gtDZrVlJYRPu5TJ89yMAnKlCELAACaAkAAr4voFE82y0cUU9Rex8E",
-    "file_unique_id": "AgADaAkAAr4voFE",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PES2011_D1.iso.003",
-    "file_id": "BQACAgQAAx0CS2Z5_gACB49gtDZrIWiyx11iUHK743njpc1TFwACaQkAAr4voFHr3S5uybQOzh8E",
-    "file_unique_id": "AgADaQkAAr4voFE",
-    "file_size": 448659456
-  },
+  {"file_name": "PES2011_D1.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEypiE0Z1c-wHiMxr5c1pGCe_wY8gzwACTAkAAs-SoVAeY9ir6jcGuyME", "file_unique_id": "AgADTAkAAs-SoVA", "file_size": 2097152000},
+  {"file_name": "PES2011_D1.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEytiE0Z1FA-TcuPyMcKM8PqN1zA1hQACTQkAAs-SoVAhRUQXr4axaiME", "file_unique_id": "AgADTQkAAs-SoVA", "file_size": 2097152000},
+  {"file_name": "PES2011_D1.part3.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEyxiE0Z1EIGrBMRXZuY9--Q0YkJJiQACTgkAAs-SoVB5T1wWWYyRgiME", "file_unique_id": "AgADTgkAAs-SoVA", "file_size": 448660028},
   {
     "file_name": "PES2011_D2.7z",
     "mime_type": "application/x-7z-compressed",
