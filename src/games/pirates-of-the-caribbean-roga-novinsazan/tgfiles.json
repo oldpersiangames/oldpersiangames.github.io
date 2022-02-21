@@ -1,16 +1,4 @@
 [
-  {
-    "file_name": "PIRATES.iso",
-    "mime_type": "application/x-cd-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACA2dgekDAf3urV5X4WsGAMxY-SkUiLQAC0goAAhY1yVOGGfbpzLeyoB8E",
-    "file_unique_id": "AgAD0goAAhY1yVM",
-    "file_size": 703444992
-  },
-  {
-    "file_name": "PIRATES2.iso",
-    "mime_type": "application/x-cd-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACA2hgekDAm1GwW--7Rvd6IYb47zu0dgAC0woAAhY1yVO9wS98RdhQfh8E",
-    "file_unique_id": "AgAD0woAAhY1yVM",
-    "file_size": 733034496
-  }
+  {"file_name": "PIRATES-CD1.iso", "mime_type": "application/x-iso9660-image", "file_id": "BQACAgQAAx0CS2Z5_gACEyhiE0MXZaiH-QNiqDa37ih6DDU-UgACag0AAsrSmVDPUxPD4hkkSiME", "file_unique_id": "AgADag0AAsrSmVA", "file_size": 703444992},
+  {"file_name": "PIRATES-CD2.iso", "mime_type": "application/x-iso9660-image", "file_id": "BQACAgQAAx0CS2Z5_gACEyliE0MXgnCr5NkS-35uAl19uXTsxwACaw0AAsrSmVAo1GfYZtq5nSME", "file_unique_id": "AgADaw0AAsrSmVA", "file_size": 733034496}
 ]
