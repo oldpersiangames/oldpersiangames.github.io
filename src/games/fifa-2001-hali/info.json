@@ -14,7 +14,12 @@
     "hali"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2014-07-13",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -54,5 +59,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "fifa-2001-hali"
 }
