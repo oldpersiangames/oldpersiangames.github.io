@@ -27,18 +27,7 @@
     "file_unique_id": "AgAD1QoAAp314VM",
     "file_size": 484178
   },
-  {
-    "file_name": "Combat Wings Battle of Britain-Persian.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCnJg_Xsyl0encXOYTS6XQPugZIoDBAACUgsAAlk_8FOlGds-jbqOZiAE",
-    "file_unique_id": "AgADUgsAAlk_8FM",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "Combat Wings Battle of Britain-Persian.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACCnNg_XsyhPXqSldfgCUfHgI641i_1AACUwsAAlk_8FNMT8d_m5cZtSAE",
-    "file_unique_id": "AgADUwsAAlk_8FM",
-    "file_size": 266685684
-  }
+  {"file_name": "combat-wings-battle-of-britain-gerdoo.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzdiFR0-GAPVwjYO5SeXa-BsXu_JbwACQwoAAr6_qVBL3BhcrKo_cCME", "file_unique_id": "AgADQwoAAr6_qVA", "file_size": 2097152000},
+  {"file_name": "combat-wings-battle-of-britain-gerdoo.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzhiFR0-JySXBGQde_8ww8pC4W_shwACRQoAAr6_qVB1XCCJwNn7oCME", "file_unique_id": "AgADRQoAAr6_qVA", "file_size": 2097152000},
+  {"file_name": "combat-wings-battle-of-britain-gerdoo.part3.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzliFR0-Yp25qRoFJUMqEs60AToNrwACRwoAAr6_qVCLaOoykuu2WSME", "file_unique_id": "AgADRwoAAr6_qVA", "file_size": 1751683806}
 ]

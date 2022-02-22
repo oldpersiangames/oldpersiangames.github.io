@@ -26,9 +26,7 @@
   "no_of_discs": [
     1
   ],
-  "defects": [
-    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. ایمیج اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -44,6 +42,18 @@
   ],
   "manuals": false,
   "contributors": [
+    {
+      "username": "TakPar_ArtWorks",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "FrozenCat",
+      "contribute": [
+        "game"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [

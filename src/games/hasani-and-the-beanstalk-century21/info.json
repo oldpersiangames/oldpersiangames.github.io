@@ -19,9 +19,7 @@
   "no_of_discs": [
     1
   ],
-  "defects": [
-    "فایل‌های این بازی را بصورت نصب شده موجود داریم. دیسک اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -38,6 +36,12 @@
   ],
   "manuals": false,
   "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game"
+      ]
+    },
     {
       "username": "MANRN7",
       "contribute": [

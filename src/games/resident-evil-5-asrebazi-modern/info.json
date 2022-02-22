@@ -27,9 +27,7 @@
   "no_of_discs": [
     2
   ],
-  "defects": [
-    "ایمیج دیسک اول (یا شاید دوم) این بازی از دیسک خش‌دار تهیه شده و هنگام نصب مشکلی وجود دارد. دیسک اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -46,6 +44,13 @@
   ],
   "manuals": false,
   "contributors": [
+    {
+      "username": "Arash_a70",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
     {
       "username": "Aras_Max",
       "contribute": [

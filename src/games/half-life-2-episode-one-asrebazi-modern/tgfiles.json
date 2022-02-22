@@ -1,16 +1,5 @@
 [
-  {
-    "file_name": "HL2EO_FA.part1.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACATVgVpYY3p8h29gRtLOcBDu2DlrwWgACIQgAAhaUwVGQPglrDXk2wR4E",
-    "file_unique_id": "AgADIQgAAhaUwVE",
-    "file_size": 1503238553
-  },
-  {
-    "file_name": "HL2EO_FA.part2.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACATZgVpYYs4vjEXJ_gWyitjbGHj-fVwACIggAAhaUwVHmUm9cDRo_Ph4E",
-    "file_unique_id": "AgADIggAAhaUwVE",
-    "file_size": 631485005
-  }
+  {"file_name": "HL2EO_FA.part1.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEztiFTkGhP3s5yH2hOeSYw_ZK2LB8QACRAsAAm9pIVEm5z00xt3xSCME", "file_unique_id": "AgADRAsAAm9pIVE", "file_size": 1073741824},
+  {"file_name": "HL2EO_FA.part2.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEzxiFTkGWWeHwa99Pwepc3sm6TDPBQACSAsAAm9pIVFQlb56XMVd4SME", "file_unique_id": "AgADSAsAAm9pIVE", "file_size": 1073741824},
+  {"file_name": "HL2EO_FA.part3.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACEz1iFTkGvZI4DWvBCiMXWEUyKCEaSwACSQsAAm9pIVHGlfsSjzr5DiME", "file_unique_id": "AgADSQsAAm9pIVE", "file_size": 81147886}
 ]

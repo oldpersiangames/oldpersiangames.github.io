@@ -19,9 +19,7 @@
   "no_of_discs": [
     1
   ],
-  "defects": [
-    "فایل‌های این بازی را بصورت از پیش نصب‌شده موجود داریم. دیسک بازی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -41,7 +39,6 @@
     {
       "username": "Aras_Max",
       "contribute": [
-        "game",
         "cover"
       ]
     },
