@@ -1,33 +1,32 @@
 [
   {
-    "file_name": "020000050461b.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIKcGD9cic38iX-_9ZucpX2cVNOSaRXAALUCgACnfXhUzcVxrAyGhdzAQAHbQADIAQ",
-      "file_unique_id": "AQAD1AoAAp314VNy",
-      "file_size": 25824,
-      "width": 238,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACCnBg_XInN_Il_v_WbnKV9nFTTkmkVwAC1AoAAp314VM3FcawMhoXcyAE",
-    "file_unique_id": "AgAD1AoAAp314VM",
-    "file_size": 519745
+    "file_id": "BQACAgQAAx0ES2Z5_gACE0xiFUJxVKTV6ynSpGe9ZKeAPFPzEAACPQ8AAkScqFAwoix7HToWRh4E",
+    "file_unique_id": "AgADPQ8AAkScqFA",
+    "file_name": "combat-wings-battle-of-britain-gerdoo-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 1004165,
+    "date": 1645560433,
+    "thumbs": null
   },
   {
-    "file_name": "020000050461c.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQRLZnn-AAIKcWD9cigEgF8chhBOMHBRfGRIxgk3AALVCgACnfXhU7od55xQJ2ImAQAHbQADIAQ",
-      "file_unique_id": "AQAD1QoAAp314VNy",
-      "file_size": 26143,
-      "width": 238,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0ES2Z5_gACCnFg_XIoBIBfHIYQTjBwUXxkSMYJNwAC1QoAAp314VO6HeecUCdiJiAE",
-    "file_unique_id": "AgAD1QoAAp314VM",
-    "file_size": 484178
+    "file_name": "combat-wings-battle-of-britain-gerdoo.part1.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0CS2Z5_gACEzdiFR0-GAPVwjYO5SeXa-BsXu_JbwACQwoAAr6_qVBL3BhcrKo_cCME",
+    "file_unique_id": "AgADQwoAAr6_qVA",
+    "file_size": 2097152000
   },
-  {"file_name": "combat-wings-battle-of-britain-gerdoo.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzdiFR0-GAPVwjYO5SeXa-BsXu_JbwACQwoAAr6_qVBL3BhcrKo_cCME", "file_unique_id": "AgADQwoAAr6_qVA", "file_size": 2097152000},
-  {"file_name": "combat-wings-battle-of-britain-gerdoo.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzhiFR0-JySXBGQde_8ww8pC4W_shwACRQoAAr6_qVB1XCCJwNn7oCME", "file_unique_id": "AgADRQoAAr6_qVA", "file_size": 2097152000},
-  {"file_name": "combat-wings-battle-of-britain-gerdoo.part3.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACEzliFR0-Yp25qRoFJUMqEs60AToNrwACRwoAAr6_qVCLaOoykuu2WSME", "file_unique_id": "AgADRwoAAr6_qVA", "file_size": 1751683806}
+  {
+    "file_name": "combat-wings-battle-of-britain-gerdoo.part2.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0CS2Z5_gACEzhiFR0-JySXBGQde_8ww8pC4W_shwACRQoAAr6_qVB1XCCJwNn7oCME",
+    "file_unique_id": "AgADRQoAAr6_qVA",
+    "file_size": 2097152000
+  },
+  {
+    "file_name": "combat-wings-battle-of-britain-gerdoo.part3.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0CS2Z5_gACEzliFR0-Yp25qRoFJUMqEs60AToNrwACRwoAAr6_qVCLaOoykuu2WSME",
+    "file_unique_id": "AgADRwoAAr6_qVA",
+    "file_size": 1751683806
+  }
 ]
