@@ -1,23 +1,4 @@
 [
-  {
-    "file_name": "dark years.part1.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDPlhFIMUUhRYDNbeBXkaNHlt2aFX0QACfgoAAl662VPwa2OJmro1zCAE",
-    "file_unique_id": "AgADfgoAAl662VM",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "dark years.part2.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDPphFIMWevflE7kFbuRdu_kcfNOqZAACtQoAAl662VMRRRDRtbBkAyAE",
-    "file_unique_id": "AgADtQoAAl662VM",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "dark years.part3.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0ES2Z5_gACDPthFIMZfN8mQ8mZwCRsFcfdEDij1AACtgoAAl662VM_0SlJ_EeYvCAE",
-    "file_unique_id": "AgADtgoAAl662VM",
-    "file_size": 26078013
-  }
+  {"file_name": "dark-years-modern.part1.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACE1RiF9o0aYl7B4XKioxjZ3K64ZPk2QACAw0AAlR4wFAZX9mlusJdQCME", "file_unique_id": "AgADAw0AAlR4wFA", "file_size": 2097152000},
+  {"file_name": "dark-years-modern.part2.rar", "mime_type": "application/x-rar-compressed", "file_id": "BQACAgQAAx0CS2Z5_gACE1ViF9o08IM3n7c7q3vsHxPCaWdkIgACBA0AAlR4wFADDJ9i9OcggiME", "file_unique_id": "AgADBA0AAlR4wFA", "file_size": 2031450519}
 ]
