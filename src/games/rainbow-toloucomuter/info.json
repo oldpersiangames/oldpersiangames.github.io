@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Rainbow"
+  ],
+  "titlefa": [
+    "رنگارنگ"
+  ],
+  "producer": [
+    "toloucomuter"
+  ],
+  "publisher": [
+    "toloucomuter"
+  ],
+  "price": [],
+  "release_date": [
+    {
+      "date": "1998-08-06",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [
+    "فایل STORY\\ST_199.WAV (صوت یکی از داستان‌ها) کم است. آن را دارید؟"
+  ],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Reza1147",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

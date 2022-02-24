@@ -219,6 +219,8 @@
             {"title": "Vijeh Pardaz Pars", "titlefa": "ویژه پرداز پارس", "order": 99},
         "sinadata":
             {"title": "Sina Data", "titlefa": "سینا دیتا", "order": 99},
+        "toloucomuter":
+            {"title": "Tolou Comuter", "titlefa": "طلوع کامپیوتر", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
