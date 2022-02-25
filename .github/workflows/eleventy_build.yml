@@ -55,7 +55,7 @@ jobs:
           for word in ${{ steps.gameswoid.outputs.gameswoid }}; do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
           git commit -m "opgarchiveorg ${{ steps.gameswoid.outputs.gameswoid }}"
       - name: Push changes
-        if: steps.gameswoid.outputs.gameswoid == 'hey'
+        if: steps.gameswoid.outputs.gameswoid != ''
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
