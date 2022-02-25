@@ -12,15 +12,6 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     # Map a step output to a job output
-    outputs:
-      output1: ${{ steps.step1.outputs.test }}
-    steps:
-      - uses: actions/checkout@v2
-      - id: step1
-        run: echo "::set-output name=test::$(node scripts/gameswoid.js)"
-  job2:
-    runs-on: ubuntu-latest
-    needs: job1
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
@@ -30,7 +21,7 @@ jobs:
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
-          python-version: 3.10
+          python-version: '3.10'
       - name: Install unrar p7zip
         run: sudo apt-get install -y unrar p7zip
       - name: Install dependencies
@@ -47,15 +38,15 @@ jobs:
         run: |
           cp ${{ github.workspace }}/scripts/opgarchiveorg ./
           cp ${{ github.workspace }}/scripts/iso9660.py ./
-          for word in $(echo ${{needs.job1.outputs.output1}}); do ./opgarchiveorg $word; done
+          for word in $(node scripts/gameswoid.js); do ./opgarchiveorg $word; done
       - name: Commit files
         run: |
           git config --local user.email "alihardanc@gmail.com"
           git config --local user.name "alihardan"
           git fetch
           git merge
-          for word in $(echo ${{needs.job1.outputs.output1}}); do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
-          git commit -m "opgarchiveorg ${{needs.job1.outputs.output1}}"
+          for word in $(node scripts/gameswoid.js); do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
+          git commit -m "opgarchiveorg $(node scripts/gameswoid.js)"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -64,6 +55,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
   deploy:
     runs-on: ubuntu-latest
+    needs: job2
     steps:
         - uses: actions/checkout@v2
 
