@@ -1,4 +1,4 @@
-const gamesr = require('src/_data/games.js');
+const gamesr = require('../src/_data/games.js');
 var games = null;
 gamesr().then(result => {
   games = "";
