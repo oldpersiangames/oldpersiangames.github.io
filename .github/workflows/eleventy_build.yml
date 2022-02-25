@@ -55,7 +55,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
   deploy:
     runs-on: ubuntu-latest
-    needs: job2
+    needs: job1
     steps:
         - uses: actions/checkout@v2
 
