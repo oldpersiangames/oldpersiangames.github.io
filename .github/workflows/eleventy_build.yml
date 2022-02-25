@@ -26,6 +26,7 @@ jobs:
         run: sudo apt-get install -y unrar p7zip
       - name: Install dependencies
         run: |
+          npm install glob
           python -m pip install --upgrade pip setuptools wheel
           python -m pip install pyrogram TgCrypto PyGithub internetarchive patool kaitaistruct
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
