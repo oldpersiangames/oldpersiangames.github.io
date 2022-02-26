@@ -34,7 +34,7 @@ jobs:
         run: |
           WOID="$(node scripts/gameswoid.js)"
           if [ -n "$WOID" ]; then
-            echo '::set-output name=gameswoid::$(node scripts/gameswoid.js)'
+            echo "::set-output name=gameswoid::$WOID"
           fi
         id: gameswoid
       - name: Doing the job
