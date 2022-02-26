@@ -45,7 +45,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
         run: |
-          echo "a${{ steps.gameswoid.outputs.gameswoid }}b"
+          echo "${{ steps.gameswoid.outputs.gameswoid }}"
           cp ${{ github.workspace }}/scripts/opgarchiveorg ./
           cp ${{ github.workspace }}/scripts/iso9660.py ./
           for word in ${{ steps.gameswoid.outputs.gameswoid }}; do ./opgarchiveorg $word; done
@@ -64,27 +64,16 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
-  deploy:
-    runs-on: ubuntu-latest
-    needs: job1
-    steps:
-        - uses: actions/checkout@v2
-
-        - name: Setup Node
-          uses: actions/setup-node@v2
-          with:
-            node-version: '14'
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
 
 
-        - run: npm install
-
-
-        - run: npm run build
-
-
-        - name: Deploy
-          uses: peaceiris/actions-gh-pages@v3
-          with:
-            deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-            publish_dir: ./dist
+      - run: npm install
+      - run: npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./dist
