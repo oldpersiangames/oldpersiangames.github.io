@@ -16,7 +16,12 @@
   "price": [
     40000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2011-02-12",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -66,5 +71,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "age-of-empires-iii-the-asian-dynasties-asrebazi-modern"
 }
