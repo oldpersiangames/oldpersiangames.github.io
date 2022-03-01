@@ -26,9 +26,7 @@
   "no_of_discs": [
     1
   ],
-  "defects": [
-    "فایل‌ها را بصورت غیر ایمیج داریم. دیسک اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -45,6 +43,20 @@
   ],
   "manuals": false,
   "contributors": [
+    {
+      "username": "Arash_a70",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [
