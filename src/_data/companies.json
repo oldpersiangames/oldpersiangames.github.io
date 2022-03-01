@@ -221,6 +221,10 @@
             {"title": "Sina Data", "titlefa": "سینا دیتا", "order": 99},
         "toloucomuter":
             {"title": "Tolou Comuter", "titlefa": "طلوع کامپیوتر", "order": 99},
+        "matnaa":
+            {"title": "Matnaa", "titlefa": "متنا", "order": 99},
+        "kooh-e-yakh-ariana":
+            {"title": "Kooh-e-Yakh Ariana", "titlefa": "کوه یخ آریانا", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
