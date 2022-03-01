@@ -12,7 +12,12 @@
     "matnaa"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2010-03-07",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -50,5 +55,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "little-traveler-matnaa"
 }

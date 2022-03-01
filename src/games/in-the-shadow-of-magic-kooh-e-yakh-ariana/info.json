@@ -12,7 +12,12 @@
     "kooh-e-yakh-ariana"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2008-7\u0000-8\u0000",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -49,5 +54,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "in-the-shadow-of-magic-kooh-e-yakh-ariana"
 }
