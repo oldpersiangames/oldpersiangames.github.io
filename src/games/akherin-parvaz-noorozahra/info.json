@@ -1,6 +1,6 @@
 {
   "title": [
-    "Akherin Parvaz"
+    "The Last Flight"
   ],
   "titlefa": [
     "آخرین پرواز"
@@ -49,12 +49,17 @@
       ]
     },
     {
+      "username": "CyberDemon",
+      "contribute": [
+        "engineering"
+      ]
+    },
+    {
       "username": "alihardan",
       "contribute": [
         "details"
       ]
     }
   ],
-  "links": [],
-  "ia_id": "akherin-parvaz-noorozahra"
+  "links": []
 }
