@@ -14,7 +14,12 @@
   "price": [
     40000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "0000-00-00",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -59,5 +64,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "cars-2-hi-vu"
 }

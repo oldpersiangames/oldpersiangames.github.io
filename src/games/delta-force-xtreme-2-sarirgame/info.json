@@ -12,7 +12,12 @@
     "sarirgame"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-10-17",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -56,5 +61,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "delta-force-xtreme-2-sarirgame"
 }
