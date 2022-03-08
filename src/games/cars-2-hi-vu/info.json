@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Cars 2"
+  ],
+  "titlefa": [
+    "ماشین‌ها ۲"
+  ],
+  "producer": [
+    "hi-vu"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Xbox 360"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Ali_Parsakhoo",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
