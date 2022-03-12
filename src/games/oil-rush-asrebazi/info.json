@@ -14,7 +14,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2012-09-05",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -58,5 +63,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "oil-rush-asrebazi"
 }
