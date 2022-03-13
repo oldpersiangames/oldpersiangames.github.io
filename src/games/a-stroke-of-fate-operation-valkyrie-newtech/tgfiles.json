@@ -1,0 +1,51 @@
+[
+  {
+    "file_name": "A Stroke of Fate Operation Valkyrie Front.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAITtGIt9Rt1ql110fF7YzS5UtnnlHc8AAIXDAACT0OQUSpZremrxDbqAQAHbQADIwQ",
+      "file_unique_id": "AQADFwwAAk9DkFFy",
+      "file_size": 33681,
+      "width": 237,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACE7RiLfUbdapdddHxe2M0uVLZ55R3PAACFwwAAk9DkFEqWa3pq8Q26iME",
+    "file_unique_id": "AgADFwwAAk9DkFE",
+    "file_size": 1606940
+  },
+  {
+    "file_name": "A Stroke of Fate Operation Valkyrie Back.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAITtWIt9RvQ6Vt1w0Pv4DxSQdr3p_3NAAIYDAACT0OQUbO3kGOw9005AQAHbQADIwQ",
+      "file_unique_id": "AQADGAwAAk9DkFFy",
+      "file_size": 27079,
+      "width": 239,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACE7ViLfUb0OlbdcND7-A8UkHa96f9zQACGAwAAk9DkFGzt5BjsPdNOSME",
+    "file_unique_id": "AgADGAwAAk9DkFE",
+    "file_size": 1501568
+  },
+  {
+    "file_name": "A Stroke of Fate Operation Valkyrie Disc Cover.png",
+    "mime_type": "image/png",
+    "thumb": {
+      "file_id": "AAMCBAADHQJLZnn-AAITtmIt9Rvj3ZIMNYm9WkqcrV6WhIPiAAIZDAACT0OQUThderuUBxcFAQAHbQADIwQ",
+      "file_unique_id": "AQADGQwAAk9DkFFy",
+      "file_size": 26832,
+      "width": 315,
+      "height": 320
+    },
+    "file_id": "BQACAgQAAx0CS2Z5_gACE7ZiLfUb492SDDWJvVpKnK1eloSD4gACGQwAAk9DkFE4XXq7lAcXBSME",
+    "file_unique_id": "AgADGQwAAk9DkFE",
+    "file_size": 1955648
+  },
+  {
+    "file_name": "A stroke of fate.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgQAAx0CS2Z5_gACE7diLfUmG5le1h59uvkarPiVu06CMQACwQkAAgq8kFFVBFzTTB6I-SME",
+    "file_unique_id": "AgADwQkAAgq8kFE",
+    "file_size": 2056257536
+  }
+]
