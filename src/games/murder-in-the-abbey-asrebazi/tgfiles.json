@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "MITA Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAITv2IvBARmjd6hGIL12RN8zmrr7iL1AALzDgACjH5AUSo9NjxDEpcjAQAHbQADIwQ",
-      "file_unique_id": "AQAD8w4AAox-QFFy",
-      "file_size": 34943,
-      "width": 248,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE79iLwQEZo3eoRiC9dkTfM5q6-4i9QAC8w4AAox-QFEqPTY8QxKXIyME",
-    "file_unique_id": "AgAD8w4AAox-QFE",
-    "file_size": 3471360
-  },
-  {
-    "file_name": "MITA Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAITwGIvBARdZoSxFMLmIoZL_l0gr3NJAAL0DgACjH5AUa8dX13jn_RNAQAHbQADIwQ",
-      "file_unique_id": "AQAD9A4AAox-QFFy",
-      "file_size": 35929,
-      "width": 260,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE8BiLwQEXWaEsRTC5iKGS_5dIK9zSQAC9A4AAox-QFGvHV9d45_0TSME",
-    "file_unique_id": "AgAD9A4AAox-QFE",
-    "file_size": 3939352
-  },
-  {
-    "file_name": "MITA Disc Cover.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAITwWIvBASjxy_aQlcvN874iUBCKvBPAAL1DgACjH5AUQOHjJaQKi6XAQAHbQADIwQ",
-      "file_unique_id": "AQAD9Q4AAox-QFFy",
-      "file_size": 32177,
-      "width": 318,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE8FiLwQEo8cv2kJXLzfO-IlAQirwTwAC9Q4AAox-QFEDh4yWkCoulyME",
-    "file_unique_id": "AgAD9Q4AAox-QFE",
-    "file_size": 2794239
+    "file_id": "BQACAgQAAx0ES2Z5_gACE8ZiLwsMLKZifgY1R49-bnGt-00_6wACBwoAAm1weFH63MLgA-6kZB4E",
+    "file_unique_id": "AgADBwoAAm1weFE",
+    "file_name": "murder-in-the-abbey-asrebazi-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 10205293,
+    "date": 1647250188,
+    "thumbs": null
   },
   {
     "file_name": "Murder In The Ab.part1.rar",
