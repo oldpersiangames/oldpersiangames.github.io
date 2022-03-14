@@ -44,10 +44,17 @@
     {
       "release_type": "printed",
       "no_of_pages": 0,
-      "files": []
+      "files": ["Counter Strike 1.6 Manual.pdf"]
     }
   ],
   "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "manual",
+        "details"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [
@@ -56,6 +63,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "counter-strike-16-novinpendar"
+  "links": []
 }
