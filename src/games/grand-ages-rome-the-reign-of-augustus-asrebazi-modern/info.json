@@ -16,7 +16,12 @@
   "price": [
     30000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2011-02-13",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -61,5 +66,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "grand-ages-rome-the-reign-of-augustus-asrebazi-modern"
 }
