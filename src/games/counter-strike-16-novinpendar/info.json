@@ -44,7 +44,9 @@
     {
       "release_type": "printed",
       "no_of_pages": 0,
-      "files": ["Counter Strike 1.6 Manual.pdf"]
+      "files": [
+        "Counter Strike 1.6 Manual.pdf"
+      ]
     }
   ],
   "contributors": [
@@ -63,5 +65,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "counter-strike-16-novinpendar"
 }

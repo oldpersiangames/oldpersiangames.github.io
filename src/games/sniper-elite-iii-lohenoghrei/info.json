@@ -12,7 +12,12 @@
     "lohenoghrei"
   ],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2014-09-14",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "DVD"
   ],
@@ -62,5 +67,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "sniper-elite-iii-lohenoghrei"
 }
