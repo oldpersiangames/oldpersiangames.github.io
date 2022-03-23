@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "IMG_20210624_164133.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT1GI6NTxVNn43PULQiWzngIFiQDkoAAJBDAACLlFJUauYE4V67s6YAQAHbQADIwQ",
-      "file_unique_id": "AQADQQwAAi5RSVFy",
-      "file_size": 26113,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9RiOjU8VTZ-Nz1C0Ils54CBYkA5KAACQQwAAi5RSVGrmBOFeu7OmCME",
-    "file_unique_id": "AgADQQwAAi5RSVE",
-    "file_size": 2319872
-  },
-  {
-    "file_name": "IMG_20210624_164141.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT1WI6NTwpBj-jW_WFjkIG62ZtoSK9AAJCDAACLlFJUUOD3WJKLWE4AQAHbQADIwQ",
-      "file_unique_id": "AQADQgwAAi5RSVFy",
-      "file_size": 24770,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9ViOjU8KQY_o1v1hY5CButmbaEivQACQgwAAi5RSVFDg91iSi1hOCME",
-    "file_unique_id": "AgADQgwAAi5RSVE",
-    "file_size": 2318393
-  },
-  {
-    "file_name": "IMG_20210624_164205.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT1mI6NTw2yx_L-9iTOf8Dsmxj8lwWAAJDDAACLlFJUUVMOGgCWdOfAQAHbQADIwQ",
-      "file_unique_id": "AQADQwwAAi5RSVFy",
-      "file_size": 20380,
-      "width": 320,
-      "height": 240
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9ZiOjU8Nssfy_vYkzn_A7JsY_JcFgACQwwAAi5RSVFFTDhoAlnTnyME",
-    "file_unique_id": "AgADQwwAAi5RSVE",
-    "file_size": 2516930
+    "file_id": "BQACAgQAAx0ES2Z5_gACE9hiOmY-O6WT6p0Gw-vwSB5CfhR-qwACxQoAArGH0VGXRBVsiUrw8R4E",
+    "file_unique_id": "AgADxQoAArGH0VE",
+    "file_name": "pocket-fighter-asrebazi-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 7155583,
+    "date": 1647994430,
+    "thumbs": null
   },
   {
     "file_name": "Pocket Fighter.iso",
