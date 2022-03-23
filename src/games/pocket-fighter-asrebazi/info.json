@@ -1,38 +1,35 @@
 {
   "title": [
-    "Sniper Elite III"
+    "Pocket Fighter"
   ],
   "titlefa": [
-    "تک تیرانداز ۳"
+    "پاکت فایتر"
   ],
   "producer": [
-    "lohenoghrei"
+    "asrebazi"
   ],
   "publisher": [
-    "lohenoghrei"
+    "asrebazi"
   ],
-  "price": [],
-  "release_date": [
-    {
-      "date": "2014-09-14",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
+  "price": [
+    40000
   ],
+  "release_date": [],
   "released_on": [
-    "DVD"
+    "CD"
   ],
   "no_of_discs": [
-    2
+    1
   ],
   "defects": [],
   "games": [
     {
       "title": [],
       "titlefa": [],
-      "dubbed": true,
+      "dubbed": false,
       "modified": false,
       "subtitle": false,
-      "iranian": false
+      "iranian": true
     }
   ],
   "selling": false,
@@ -42,16 +39,17 @@
   "manuals": false,
   "contributors": [
     {
-      "username": "Behnam12ajeloo",
+      "username": "ruinerart",
       "contribute": [
-        "game"
+        "game",
+        "cover"
       ]
     },
     {
-      "username": "AG_e_e_kA",
+      "username": "Aammiirr5732",
       "contribute": [
-        "cover",
-        "details"
+        "game",
+        "cover"
       ]
     },
     {
@@ -61,6 +59,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "sniper-elite-iii-lohenoghrei"
+  "links": []
 }
