@@ -225,6 +225,8 @@
             {"title": "Matnaa", "titlefa": "متنا", "order": 99},
         "kooh-e-yakh-ariana":
             {"title": "Kooh-e-Yakh Ariana", "titlefa": "کوه یخ آریانا", "order": 99},
+        "winsar":
+            {"title": "Winsar", "titlefa": "ویرایشگران نسل آریا", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }

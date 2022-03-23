@@ -1,49 +1,40 @@
 {
   "title": [
-    "Pro Evolution Soccer 2015 [Mod]",
-    "PES 2015 [Mod]"
+    "PGC09"
   ],
   "titlefa": [
-    "لیگ برتر ایران ۹۴-۹۳ نیم فصل دوم"
+    "جام خلیج فارس"
   ],
   "producer": [
-    "tgpco"
+    "winsar"
   ],
   "publisher": [
-    "tgpco"
+    "lohezarrinenikan"
   ],
   "price": [
-    50000
+    30000
   ],
-  "release_date": [
-    {
-      "date": "2015-01-01",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
+  "release_date": [],
   "released_on": [
     "DVD"
   ],
   "no_of_discs": [
-    1
+    2
   ],
   "defects": [],
   "games": [
     {
-      "title": [
-        "Pro Evolution Soccer 2015",
-        "PES 2015"
-      ],
+      "title": [],
       "titlefa": [],
       "dubbed": false,
-      "modified": true,
+      "modified": false,
       "subtitle": false,
-      "iranian": false
+      "iranian": true
     }
   ],
   "selling": false,
   "platform": [
-    "PS2"
+    "Windows"
   ],
   "manuals": false,
   "contributors": [
@@ -51,7 +42,8 @@
       "username": "Matart_m",
       "contribute": [
         "game",
-        "cover"
+        "cover",
+        "details"
       ]
     },
     {
@@ -61,6 +53,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "pro-evolution-soccer-2015-mod-tgpco"
+  "links": []
 }
