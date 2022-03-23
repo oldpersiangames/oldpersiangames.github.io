@@ -1,45 +1,12 @@
 [
   {
-    "file_name": "pgc09 back1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT2WI61epN6NR8KYiNQvAdp1sdbsInAAIlCgAC9xeBUSefZawUcgu3AQAHbQADIwQ",
-      "file_unique_id": "AQADJQoAAvcXgVFy",
-      "file_size": 29020,
-      "width": 248,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9liOtXqTejUfCmIjULwHadbHW7CJwACJQoAAvcXgVEnn2WsFHILtyME",
-    "file_unique_id": "AgADJQoAAvcXgVE",
-    "file_size": 5595774
-  },
-  {
-    "file_name": "pgc09 front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT2mI61ep-TlYowCnMmqu7QyX3J4LFAAImCgAC9xeBUSqPhEHne_74AQAHbQADIwQ",
-      "file_unique_id": "AQADJgoAAvcXgVFy",
-      "file_size": 25159,
-      "width": 244,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9piOtXqfk5WKMApzJqru0Ml9yeCxQACJgoAAvcXgVEqj4RB53v--CME",
-    "file_unique_id": "AgADJgoAAvcXgVE",
-    "file_size": 5120173
-  },
-  {
-    "file_name": "pgc09 back2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIT22I61eoPHoF1OuCmvN7R2HgeMIbwAAInCgAC9xeBUUeuNixdk8MyAQAHbQADIwQ",
-      "file_unique_id": "AQADJwoAAvcXgVFy",
-      "file_size": 27859,
-      "width": 246,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACE9tiOtXqDx6BdTrgprze0dh4HjCG8AACJwoAAvcXgVFHrjYsXZPDMiME",
-    "file_unique_id": "AgADJwoAAvcXgVE",
-    "file_size": 4848822
+    "file_id": "BQACAgQAAx0ES2Z5_gACE-JiOuXX95wivaQPrblA7jd4rtK95AACowsAArGH2VGYGKBK6ChpIR4E",
+    "file_unique_id": "AgADowsAArGH2VE",
+    "file_name": "pgc09-lohezarrinenikan-photos.zip",
+    "mime_type": "application/zip",
+    "file_size": 15565109,
+    "date": 1648027095,
+    "thumbs": null
   },
   {
     "file_name": "WINSAR_PGC9_1.part1.rar",
