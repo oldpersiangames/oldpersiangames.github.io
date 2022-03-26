@@ -26,9 +26,7 @@
   "no_of_discs": [
     2
   ],
-  "defects": [
-    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. دیسک اصلی را دارید؟"
-  ],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -45,6 +43,12 @@
   "manuals": false,
   "contributors": [
     {
+      "username": "MJSAYR",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
       "username": "alihardan",
       "contribute": [
         "details",
@@ -52,6 +56,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "cold-fear-asrebazi-modern"
+  "links": []
 }

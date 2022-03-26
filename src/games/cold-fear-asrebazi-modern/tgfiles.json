@@ -1,16 +1,4 @@
 [
-  {
-    "file_name": "1149_CF_DISK1.iso",
-    "mime_type": "application/x-cd-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACAt5ga6VC72nYE8_mo0vmQ2ivYS08BAACsAgAAqnBAAFQv6iwU40ipO8eBA",
-    "file_unique_id": "AgADsAgAAqnBAAFQ",
-    "file_size": 729636864
-  },
-  {
-    "file_name": "1149_CF_DISK2.iso",
-    "mime_type": "application/x-cd-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACAt9ga6VCX71YEBrtaThMVDj8kJkXVAACtggAAqnBAAFQS7sa7ib76X8eBA",
-    "file_unique_id": "AgADtggAAqnBAAFQ",
-    "file_size": 684601344
-  }
+  {"file_name": "CF_DISK1.iso", "mime_type": "application/x-cd-image", "file_id": "BQACAgQAAx0CS2Z5_gACE-NiPrxsoKRisiSPOigdDC62fBR_pQACqw0AAvTBiFGsoKyf5aOYOyME", "file_unique_id": "AgADqw0AAvTBiFE", "file_size": 729948160},
+  {"file_name": "CF_DISK2.iso", "mime_type": "application/x-cd-image", "file_id": "BQACAgQAAx0CS2Z5_gACE-RiPrxsU4Gu8u8pFjthLAOeUDBINwACeQwAAvTBkFHsReNFKAMEhiME", "file_unique_id": "AgADeQwAAvTBkFE", "file_size": 684937216}
 ]
