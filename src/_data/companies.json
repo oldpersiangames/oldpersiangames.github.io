@@ -227,6 +227,10 @@
             {"title": "Kooh-e-Yakh Ariana", "titlefa": "کوه یخ آریانا", "order": 99},
         "winsar":
             {"title": "Winsar", "titlefa": "ویرایشگران نسل آریا", "order": 99},
+        "futurelandstudio":
+            {"title": "The Future Land Studio", "titlefa": "هنرکده پویا نمایی سرزمین آینده", "order": 99},
+        "westgame":
+            {"title": "West Game", "titlefa": "دنیای بازی های غرب", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
