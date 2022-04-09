@@ -14,7 +14,12 @@
   "price": [
     25000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2009-04-07",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -59,5 +64,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "the-silent-ship-westgame"
 }
