@@ -14,7 +14,12 @@
   "price": [
     10000
   ],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2006-08-30",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": [
     "CD"
   ],
@@ -53,5 +58,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "dino-crisis-2-magmasoft"
 }
