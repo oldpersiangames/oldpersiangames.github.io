@@ -56,7 +56,7 @@ for index, file in enumerate(tgfiles):
         rar_to_extract.append(file["file_name"])
     if os.path.isfile(sys.argv[1] + "/" + file["file_name"]): # Skip downloading if file exists
         continue
-    if app.download_media(file["file_id"], str(pathlib.Path().resolve()) + "/" + sys.argv[1] + "/" + file["file_name"], True, progress, ([(k, v) for k, v in file.items()])) == None:
+    if app.download_media(file["file_id"], str(pathlib.Path().resolve()) + "/" + sys.argv[1] + "/" + file["file_name"], False, True, progress, ([(k, v) for k, v in file.items()])) == None:
         print("Error on downloading.")
         quit()
 
