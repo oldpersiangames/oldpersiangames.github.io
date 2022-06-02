@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Code of Honor: The French Foreign Legion"
+  ],
+  "titlefa": [
+    "رمز افتخار: گروه فرانسوی"
+  ],
+  "producer": [
+    "sarirgame"
+  ],
+  "publisher": [
+    "sarirgame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
