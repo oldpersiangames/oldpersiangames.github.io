@@ -37,33 +37,33 @@ jobs:
             echo "::set-output name=gameswoid::$WOID"
           fi
         id: gameswoid
-     - name: Doing the job
-       if: steps.gameswoid.outputs.gameswoid
-       env:
-         API_ID: ${{ secrets.API_ID }}
-         API_HASH: ${{ secrets.API_HASH }}
-         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-         ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
-       run: |
-         echo "${{ steps.gameswoid.outputs.gameswoid }}"
-         cp ${{ github.workspace }}/scripts/opgarchiveorg ./
-         cp ${{ github.workspace }}/scripts/iso9660.py ./
-         for word in ${{ steps.gameswoid.outputs.gameswoid }}; do ./opgarchiveorg $word; done
-     - name: Commit files
-       if: steps.gameswoid.outputs.gameswoid
-       run: |
-         git config --local user.email "alihardanc@gmail.com"
-         git config --local user.name "alihardan"
-         git fetch
-         git merge
-         for word in ${{ steps.gameswoid.outputs.gameswoid }}; do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
-         git commit -m "opgarchiveorg ${{ steps.gameswoid.outputs.gameswoid }}"
-     - name: Push changes
-       if: steps.gameswoid.outputs.gameswoid
-       uses: ad-m/github-push-action@master
-       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         branch: ${{ github.ref }}
+      - name: Doing the job
+        if: steps.gameswoid.outputs.gameswoid
+        env:
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
+        run: |
+          echo "${{ steps.gameswoid.outputs.gameswoid }}"
+          cp ${{ github.workspace }}/scripts/opgarchiveorg ./
+          cp ${{ github.workspace }}/scripts/iso9660.py ./
+          for word in ${{ steps.gameswoid.outputs.gameswoid }}; do ./opgarchiveorg $word; done
+      - name: Commit files
+        if: steps.gameswoid.outputs.gameswoid
+        run: |
+          git config --local user.email "alihardanc@gmail.com"
+          git config --local user.name "alihardan"
+          git fetch
+          git merge
+          for word in ${{ steps.gameswoid.outputs.gameswoid }}; do echo ${{ github.workspace }}/src/games/$word/; git add ${{ github.workspace }}/src/games/$word/; done
+          git commit -m "opgarchiveorg ${{ steps.gameswoid.outputs.gameswoid }}"
+      - name: Push changes
+        if: steps.gameswoid.outputs.gameswoid
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
