@@ -28,8 +28,7 @@
   "no_of_discs": [
     2
   ],
-  "defects": [
-  ],
+  "defects": [],
   "games": [
     {
       "title": [
@@ -63,5 +62,6 @@
       ]
     }
   ],
-  "links": []
+  "links": [],
+  "ia_id": "grand-theft-auto-deadly-trading-sanobar"
 }
