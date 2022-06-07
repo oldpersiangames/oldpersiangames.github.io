@@ -28,7 +28,7 @@ jobs:
         run: |
           npm install glob
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install pyrogram TgCrypto PyGithub internetarchive patool kaitaistruct
+          python -m pip install -I pyrogram TgCrypto PyGithub internetarchive==3.0.0 patool kaitaistruct
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Set games without ia
         run: |
