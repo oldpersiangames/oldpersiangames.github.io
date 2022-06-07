@@ -1,64 +1,70 @@
 {
-  "title": [
-    "Agent Hugo: Lemoon Twist"
-  ],
-  "titlefa": [
-    "مأمور هوگو"
-  ],
-  "producer": [
-    "sarirgame"
-  ],
-  "publisher": [
-    "sarirgame"
-  ],
-  "price": [
-    30000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "agent-hugo-lemoon-twist-sarirgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        30000
+    ],
+    "producer": [
+        "sarirgame"
+    ],
+    "publisher": [
+        "sarirgame"
+    ],
+    "release_date": [
+        {
+            "date": "2012-05-07",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Agent Hugo: Lemoon Twist"
+    ],
+    "titlefa": [
+        "مأمور هوگو"
+    ]
 }
