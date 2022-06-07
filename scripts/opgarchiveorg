@@ -56,7 +56,7 @@ for index, file in enumerate(tgfiles):
         rar_to_extract.append(file["file_name"])
     if os.path.isfile(sys.argv[1] + "/" + file["file_name"]): # Skip downloading if file exists
         continue
-    if app.download_media(file["file_id"], str(pathlib.Path().resolve()) + "/" + sys.argv[1] + "/" + file["file_name"], False, True, null, ([(k, v) for k, v in file.items()])) == None:
+    if app.download_media(file["file_id"], str(pathlib.Path().resolve()) + "/" + sys.argv[1] + "/" + file["file_name"], False, True, None, ([(k, v) for k, v in file.items()])) == None:
         print("Error on downloading.")
         quit()
 
@@ -73,7 +73,7 @@ if photosFiles:
     result = app.send_document(-1001265007102, sys.argv[1] + "/" + sys.argv[1] + '-photos.zip')
     documentDict = result.document.__dict__
     documentDict.pop("_client")
-    result.edit_caption(json.dumps(documentDict, ensure_ascii=False))
+    result.edit_caption(json.dumps(documentDict, ensure_ascii=False, indent=4, sort_keys=True, default=str))
     tgfiles.insert(0, documentDict)
     tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json", "w")
     tgfilesfile.write(json.dumps(tgfiles, ensure_ascii=False, indent=2))
