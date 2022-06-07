@@ -76,7 +76,7 @@ if photosFiles:
     result.edit_caption(json.dumps(documentDict, ensure_ascii=False, indent=4, sort_keys=True, default=str))
     tgfiles.insert(0, documentDict)
     tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json", "w")
-    tgfilesfile.write(json.dumps(tgfiles, ensure_ascii=False, indent=2))
+    tgfilesfile.write(json.dumps(tgfiles, ensure_ascii=False, indent=4, sort_keys=True, default=str))
     tgfilesfile.close()
 
 app.stop() # Close Telegram Client. We have nothing to do with it anymore.
@@ -128,7 +128,7 @@ if upload(sys.argv[1], sys.argv[1] + "/", metadata=md) or (not allfiles): # If u
     info["ia_id"] = sys.argv[1]
     if rar_to_extract:
         f = open("src/games/" + sys.argv[1] + "/files.json", "w")
-        f.write(json.dumps(files, ensure_ascii=False, indent=2))
+        f.write(json.dumps(files, ensure_ascii=False, indent=4, sort_keys=True, default=str))
         f.close()
     if not info["release_date"]:
         from iso9660 import Iso9660
@@ -145,5 +145,5 @@ if upload(sys.argv[1], sys.argv[1] + "/", metadata=md) or (not allfiles): # If u
                 info["release_date"].append({"date": date, "ref": "بر اساس تاریخ فایل‌های دیسک."})
     
     infofile = open("src/games/" + sys.argv[1] + "/info.json", "w")
-    infofile.write(json.dumps(info, ensure_ascii=False, indent=2))
+    infofile.write(json.dumps(info, ensure_ascii=False, indent=4, sort_keys=True, default=str))
     infofile.close()
