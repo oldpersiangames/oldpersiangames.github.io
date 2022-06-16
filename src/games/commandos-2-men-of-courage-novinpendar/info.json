@@ -1,97 +1,98 @@
 {
-  "title": [
-    "Commandos 2: Men of Courage"
-  ],
-  "titlefa": [
-    "کماندوها ۳: دلاوران جنگ"
-  ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    35000
-  ],
-  "release_date": [
-    {
-      "date": "2002-01-22",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    3
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": [
-    {
-      "release_type": "indisc",
-      "no_of_pages": 76,
-      "files": [
-        "Commandos 3 Help (Farsi).pdf"
-      ]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "game",
-        "details"
-      ]
-    },
-    {
-      "username": "MJSAYR",
-      "contribute": [
-        "cover"
-      ]
-    },
-    {
-      "username": "Aras_Max",
-      "contribute": [
-        "cover",
-        "manual"
-      ]
-    },
-    {
-      "username": "saeed",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": [
-    {
-      "title": "مشخصات در سایت ناشر",
-      "url": "https://web.archive.org/web/20070207132656/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000014"
-    },
-    {
-      "title": "مشخصات در سایت ناشر",
-      "url": "https://web.archive.org/web/20060709075209/http://www.npgame.net:80/NPWebSiteFP/FirstPage.aspx?PageStart=15&Def=5&CurrPN=4"
-    }
-  ]
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "game",
+                "details"
+            ],
+            "username": "alihardan"
+        },
+        {
+            "contribute": [
+                "cover"
+            ],
+            "username": "MJSAYR"
+        },
+        {
+            "contribute": [
+                "cover",
+                "manual"
+            ],
+            "username": "Aras_Max"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "saeed"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "commandos-2-men-of-courage-novinpendar",
+    "links": [
+        {
+            "title": "مشخصات در سایت ناشر",
+            "url": "https://web.archive.org/web/20070207132656/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000014"
+        },
+        {
+            "title": "مشخصات در سایت ناشر",
+            "url": "https://web.archive.org/web/20060709075209/http://www.npgame.net:80/NPWebSiteFP/FirstPage.aspx?PageStart=15&Def=5&CurrPN=4"
+        }
+    ],
+    "manuals": [
+        {
+            "files": [
+                "Commandos 3 Help (Farsi).pdf"
+            ],
+            "no_of_pages": 76,
+            "release_type": "indisc"
+        }
+    ],
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        35000
+    ],
+    "producer": [
+        "novinpendar"
+    ],
+    "publisher": [
+        "novinpendar"
+    ],
+    "release_date": [
+        {
+            "date": "2002-01-22",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Commandos 2: Men of Courage"
+    ],
+    "titlefa": [
+        "کماندوها ۳: دلاوران جنگ"
+    ]
 }

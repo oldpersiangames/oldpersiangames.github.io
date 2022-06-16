@@ -1,83 +1,86 @@
 {
-  "title": [
-    "Commandos 3: Destination Berlin"
-  ],
-  "titlefa": [
-    "کماندوها ۴: فتح برلین"
-  ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    45000
-  ],
-  "release_date": [
-    {
-      "date": "2004-01-17",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    3
-  ],
-  "defects": [],
-  "games": [
-    {
-      "subtitle": false,
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": [
-    {
-      "release_type": "printed",
-      "no_of_pages": 31,
-      "files": ["Commandos 3 Destination Berlin Manual.pdf"]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "manual",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "game",
-        "details"
-      ]
-    },
-    {
-      "username": "MJSAYR",
-      "contribute": [
-        "cover"
-      ]
-    }
-  ],
-  "links": [
-    {
-      "title": "مشخصات در سایت ناشر",
-      "url": "https://web.archive.org/web/20070207132656/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000017"
-    },
-    {
-      "title": "مشخصات در سایت ناشر",
-      "url": "https://web.archive.org/web/20060709075007/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=5&Def=5&CurrPN=2"
-    }
-  ]
+    "contributors": [
+        {
+            "contribute": [
+                "manual",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "game",
+                "details"
+            ],
+            "username": "alihardan"
+        },
+        {
+            "contribute": [
+                "cover"
+            ],
+            "username": "MJSAYR"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "commandos-3-destination-berlin-novinpendar",
+    "links": [
+        {
+            "title": "مشخصات در سایت ناشر",
+            "url": "https://web.archive.org/web/20070207132656/http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000017"
+        },
+        {
+            "title": "مشخصات در سایت ناشر",
+            "url": "https://web.archive.org/web/20060709075007/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=5&Def=5&CurrPN=2"
+        }
+    ],
+    "manuals": [
+        {
+            "files": [
+                "Commandos 3 Destination Berlin Manual.pdf"
+            ],
+            "no_of_pages": 31,
+            "release_type": "printed"
+        }
+    ],
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        45000
+    ],
+    "producer": [
+        "novinpendar"
+    ],
+    "publisher": [
+        "novinpendar"
+    ],
+    "release_date": [
+        {
+            "date": "2004-01-17",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Commandos 3: Destination Berlin"
+    ],
+    "titlefa": [
+        "کماندوها ۴: فتح برلین"
+    ]
 }
