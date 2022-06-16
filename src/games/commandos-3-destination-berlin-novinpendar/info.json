@@ -44,15 +44,29 @@
     {
       "release_type": "printed",
       "no_of_pages": 31,
-      "files": []
+      "files": ["Commandos 3 Destination Berlin Manual.pdf"]
     }
   ],
   "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "manual",
+        "cover",
+        "details"
+      ]
+    },
     {
       "username": "alihardan",
       "contribute": [
         "game",
         "details"
+      ]
+    },
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "cover"
       ]
     }
   ],
@@ -65,6 +79,5 @@
       "title": "مشخصات در سایت ناشر",
       "url": "https://web.archive.org/web/20060709075007/http://www.npgame.net/NPWebSiteFP/FirstPage.aspx?PageStart=5&Def=5&CurrPN=2"
     }
-  ],
-  "ia_id": "commandos-3-destination-berlin-novinpendar"
+  ]
 }
