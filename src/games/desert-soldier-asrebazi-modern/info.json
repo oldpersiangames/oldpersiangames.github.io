@@ -1,59 +1,65 @@
 {
-  "title": [
-    "Desert Soldier"
-  ],
-  "titlefa": [
-    "سرباز صحرا"
-  ],
-  "producer": [
-    "asrebazi",
-    "modern"
-  ],
-  "publisher": [
-    "asrebazi",
-    "modern"
-  ],
-  "price": [
-    60000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "desert-soldier-asrebazi-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        60000
+    ],
+    "producer": [
+        "asrebazi",
+        "modern"
+    ],
+    "publisher": [
+        "asrebazi",
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "2011-08-29",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Desert Soldier"
+    ],
+    "titlefa": [
+        "سرباز صحرا"
+    ]
 }
