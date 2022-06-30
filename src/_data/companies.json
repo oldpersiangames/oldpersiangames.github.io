@@ -233,6 +233,8 @@
             {"title": "West Game", "titlefa": "دنیای بازی های غرب", "order": 99},
         "goldensoftware":
             {"title": "Golden Software", "titlefa": "نرم افزارهای طلایی", "order": 99},
+        "hamkelasi":
+            {"title": "Hamkelasi", "titlefa": "همکلاسی", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }
