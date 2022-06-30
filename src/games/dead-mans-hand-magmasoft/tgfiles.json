@@ -1,72 +1,25 @@
 [
-  {
-    "file_name": "Dead Mans Hand Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIULWK99SapadvD-lwjpP1CEuAe_6QhAAKvCwACWOIQU9ZXTDap8fa8AQAHbQADKQQ",
-      "file_unique_id": "AQADrwsAAljiEFNy",
-      "file_size": 38182,
-      "width": 265,
-      "height": 320
+    {
+        "date": "2022-06-30 19:24:13",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFDNivfhdmNOQI1JsGac5eoJp-YfKFAACFQ0AAqeC8FFKiXtsRF7zvx4E",
+        "file_name": "dead-mans-hand-magmasoft-photos.zip",
+        "file_size": 8397646,
+        "file_unique_id": "AgADFQ0AAqeC8FE",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFC1ivfUmqWnbw_pcI6T9QhLgHv-kIQACrwsAAljiEFPWV0w2qfH2vCkE",
-    "file_unique_id": "AgADrwsAAljiEFM",
-    "file_size": 3482242
-  },
-  {
-    "file_name": "Dead Mans Hand Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIULmK99SbH5f1p9Yu1wZHYLS7pWzTiAAKwCwACWOIQU7r4QVNRQr_eAQAHbQADKQQ",
-      "file_unique_id": "AQADsAsAAljiEFNy",
-      "file_size": 43083,
-      "width": 270,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFDFivfY945eEl1yCnOQJyQqnnQjEtQAC3g8AAtTW8FF8u4ezK-3dJykE",
+        "file_name": "Dead Man`s Hand1.iso",
+        "file_size": 724594688,
+        "file_unique_id": "AgAD3g8AAtTW8FE",
+        "mime_type": "application/x-iso9660-image"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFC5ivfUmx-X9afWLtcGR2C0u6Vs04gACsAsAAljiEFO6-EFTUUK_3ikE",
-    "file_unique_id": "AgADsAsAAljiEFM",
-    "file_size": 3115624
-  },
-  {
-    "file_name": "IMG_20220328_0002.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUL2K99SadiZ90SrziZjlJvFb4mGh6AAIjCwAC6124Uqw725Tk-Mt3AQAHbQADKQQ",
-      "file_unique_id": "AQADIwsAAutduFJy",
-      "file_size": 23738,
-      "width": 320,
-      "height": 253
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFC9ivfUmnYmfdEq84mY5SbxW-JhoegACIwsAAutduFKsO9uU5PjLdykE",
-    "file_unique_id": "AgADIwsAAutduFI",
-    "file_size": 1103839
-  },
-  {
-    "file_name": "IMG_20220418_0023.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUMGK99SYWJ9_ad4yaPyG0A2_oZaxlAAJsDAACWnHpUiLMdiPdx4S1AQAHbQADKQQ",
-      "file_unique_id": "AQADbAwAAlpx6VJy",
-      "file_size": 24009,
-      "width": 320,
-      "height": 257
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFDBivfUmFiff2neMmj8htANv6GWsZQACbAwAAlpx6VIizHYj3ceEtSkE",
-    "file_unique_id": "AgADbAwAAlpx6VI",
-    "file_size": 695437
-  },
-  {
-    "file_name": "Dead Man`s Hand1.iso",
-    "mime_type": "application/x-iso9660-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFDFivfY945eEl1yCnOQJyQqnnQjEtQAC3g8AAtTW8FF8u4ezK-3dJykE",
-    "file_unique_id": "AgAD3g8AAtTW8FE",
-    "file_size": 724594688
-  },
-  {
-    "file_name": "Dead Man`s Hand2.iso",
-    "mime_type": "application/x-iso9660-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFDJivfY90EDVoQ3pR84N2CR8zuGPHAAC3w8AAtTW8FERJwABwcuo08UpBA",
-    "file_unique_id": "AgAD3w8AAtTW8FE",
-    "file_size": 428128256
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFDJivfY90EDVoQ3pR84N2CR8zuGPHAAC3w8AAtTW8FERJwABwcuo08UpBA",
+        "file_name": "Dead Man`s Hand2.iso",
+        "file_size": 428128256,
+        "file_unique_id": "AgAD3w8AAtTW8FE",
+        "mime_type": "application/x-iso9660-image"
+    }
 ]
