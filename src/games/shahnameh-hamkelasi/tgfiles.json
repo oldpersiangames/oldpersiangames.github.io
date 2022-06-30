@@ -1,65 +1,18 @@
 [
-  {
-    "file_name": "Shahnameh Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUO2K-BQydYU3sxOxXWqX5L2qQ4CZsAALWCgACdfrxUAfdwfNE_rYgAQAHbQADKQQ",
-      "file_unique_id": "AQAD1goAAnX68VBy",
-      "file_size": 38104,
-      "width": 320,
-      "height": 310
+    {
+        "date": "2022-06-30 20:43:05",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFEBivgrZ9DR4KP0yZrn3lr5iAgAB50cAAhsNAAKngvBRtGV70ygV10EeBA",
+        "file_name": "shahnameh-hamkelasi-photos.zip",
+        "file_size": 8571602,
+        "file_unique_id": "AgADGw0AAqeC8FE",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFDtivgUMnWFN7MTsV1ql-S9qkOAmbAAC1goAAnX68VAH3cHzRP62ICkE",
-    "file_unique_id": "AgAD1goAAnX68VA",
-    "file_size": 2854613
-  },
-  {
-    "file_name": "Shahnameh Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUPGK-BQxJI53fBg_ODH2mBwJEhIMKAALXCgACdfrxUK7DswneTTFfAQAHbQADKQQ",
-      "file_unique_id": "AQAD1woAAnX68VBy",
-      "file_size": 33702,
-      "width": 320,
-      "height": 316
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFDxivgUMSSOd3wYPzgx9pgcCRISDCgAC1woAAnX68VCuw7MJ3k0xXykE",
-    "file_unique_id": "AgAD1woAAnX68VA",
-    "file_size": 2647076
-  },
-  {
-    "file_name": "Shahnameh.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUPWK-BQwBrAaliMm7Qn4AAQ5D2il0PAAC2AoAAnX68VDn50HAgx98FQEAB20AAykE",
-      "file_unique_id": "AQAD2AoAAnX68VBy",
-      "file_size": 12937,
-      "width": 158,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFD1ivgUMAawGpYjJu0J-AAEOQ9opdDwAAtgKAAJ1-vFQ5-dBwIMffBUpBA",
-    "file_unique_id": "AgAD2AoAAnX68VA",
-    "file_size": 1630711
-  },
-  {
-    "file_name": "Shahnameh Disc Cover .jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIUPmK-BQySZOMTd2mY51rBRdpCkVjmAALZCgACdfrxUGd4WWlRn5ujAQAHbQADKQQ",
-      "file_unique_id": "AQAD2QoAAnX68VBy",
-      "file_size": 22112,
-      "width": 317,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFD5ivgUMkmTjE3dpmOdawUXaQpFY5gAC2QoAAnX68VBneFlpUZ-boykE",
-    "file_unique_id": "AgAD2QoAAnX68VA",
-    "file_size": 1438726
-  },
-  {
-    "file_name": "SHAHNAME.ISO",
-    "mime_type": "application/x-iso9660-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFD9ivgYi42stDAfpmcpz1S26qHHDKQACTQsAAq90QFHHx045klre2CkE",
-    "file_unique_id": "AgADTQsAAq90QFE",
-    "file_size": 716171264
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFD9ivgYi42stDAfpmcpz1S26qHHDKQACTQsAAq90QFHHx045klre2CkE",
+        "file_name": "SHAHNAME.ISO",
+        "file_size": 716171264,
+        "file_unique_id": "AgADTQsAAq90QFE",
+        "mime_type": "application/x-iso9660-image"
+    }
 ]
