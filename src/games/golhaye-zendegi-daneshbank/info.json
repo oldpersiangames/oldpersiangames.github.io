@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Golhaye Zendegi"
-  ],
-  "titlefa": [
-    "گل های زندگی"
-  ],
-  "producer": [
-    "daneshbank"
-  ],
-  "publisher": [
-    "daneshbank"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Bardia006plus1",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Bardia006plus1"
+        },
+        {
+            "contribute": [
+                "cover"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "golhaye-zendegi-daneshbank",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "daneshbank"
+    ],
+    "publisher": [
+        "daneshbank"
+    ],
+    "release_date": [
+        {
+            "date": "2008-03-27",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Golhaye Zendegi"
+    ],
+    "titlefa": [
+        "گل های زندگی"
+    ]
 }
