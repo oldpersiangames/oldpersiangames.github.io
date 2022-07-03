@@ -1,63 +1,71 @@
 {
-  "title": [
-    "Counter-Strike"
-  ],
-  "titlefa": [
-    "گروه ضد ترور"
-  ],
-  "producer": [
-    "vnv"
-  ],
-  "publisher": [
-    "vnv"
-  ],
-  "price": [
-    50000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": [
-    {
-      "release_type": "printed",
-      "no_of_pages": 16,
-      "files": ["daftarche cs.zip"]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "FrozenCat",
-      "contribute": [
-        "game",
-        "cover",
-        "manual"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "manual"
+            ],
+            "username": "FrozenCat"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "counter-strike-vnv",
+    "links": [],
+    "manuals": [
+        {
+            "files": [
+                "daftarche cs.zip"
+            ],
+            "no_of_pages": 16,
+            "release_type": "printed"
+        }
+    ],
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        50000
+    ],
+    "producer": [
+        "vnv"
+    ],
+    "publisher": [
+        "vnv"
+    ],
+    "release_date": [
+        {
+            "date": "2008-05-09",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Counter-Strike"
+    ],
+    "titlefa": [
+        "گروه ضد ترور"
+    ]
 }
