@@ -1,61 +1,75 @@
 {
-  "title": [
-    "The Dingo Game + Dangerous Wires"
-  ],
-  "titlefa": [
-    "دینگو + سیم های خطرناک"
-  ],
-  "producer": [
-    "nezaco"
-  ],
-  "publisher": [
-    "nezaco"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "games": [
-    {
-      "title": ["The Dingo Game"],
-      "titlefa": ["دینگو"],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    },
-    {
-      "title": ["Dangerous Wires"],
-      "titlefa": ["سیم های خطرناک"],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Pepe_the_Frog_999",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Pepe_the_Frog_999"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "The Dingo Game"
+            ],
+            "titlefa": [
+                "دینگو"
+            ]
+        },
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Dangerous Wires"
+            ],
+            "titlefa": [
+                "سیم های خطرناک"
+            ]
+        }
+    ],
+    "ia_id": "the-dingo-game-dangerous-wires-nezaco",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "nezaco"
+    ],
+    "publisher": [
+        "nezaco"
+    ],
+    "release_date": [
+        {
+            "date": "2013-8\u0000-4\u0000",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "The Dingo Game + Dangerous Wires"
+    ],
+    "titlefa": [
+        "دینگو + سیم های خطرناک"
+    ]
 }
