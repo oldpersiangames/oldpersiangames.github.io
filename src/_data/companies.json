@@ -235,6 +235,8 @@
             {"title": "Golden Software", "titlefa": "نرم افزارهای طلایی", "order": 99},
         "hamkelasi":
             {"title": "Hamkelasi", "titlefa": "همکلاسی", "order": 99},
+        "nezaco":
+            {"title": "Nedaye Ziba Afarinan Mehr", "titlefa": "ندای زیبا آفرینان مهر", "order": 99},
         "unknown":
             {"title": "Unknown", "titlefa": "نامعلوم", "order": 99}
 }

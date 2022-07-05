@@ -1,0 +1,61 @@
+{
+  "title": [
+    "The Dingo Game + Dangerous Wires"
+  ],
+  "titlefa": [
+    "دینگو + سیم های خطرناک"
+  ],
+  "producer": [
+    "nezaco"
+  ],
+  "publisher": [
+    "nezaco"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": ["The Dingo Game"],
+      "titlefa": ["دینگو"],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    },
+    {
+      "title": ["Dangerous Wires"],
+      "titlefa": ["سیم های خطرناک"],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Pepe_the_Frog_999",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
