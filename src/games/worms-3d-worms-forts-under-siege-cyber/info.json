@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Worms 3D + Worms Forts: Under Siege"
+  ],
+  "titlefa": [
+    "جنگ کرمها + قلعه کرم ها"
+  ],
+  "producer": [
+    "cyber"
+  ],
+  "publisher": [
+    "cyber"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "games": [
+    {
+      "title": ["Worms 3D"],
+      "titlefa": ["جنگ کرمها"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": ["Worms Forts: Under Siege"],
+      "titlefa": ["قلعه کرم ها"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
