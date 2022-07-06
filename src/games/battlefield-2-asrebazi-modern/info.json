@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Battlefield 2"
-  ],
-  "titlefa": [
-    "میدان جنگ ۲"
-  ],
-  "producer": [
-    "asrebazi",
-    "modern"
-  ],
-  "publisher": [
-    "asrebazi",
-    "modern"
-  ],
-  "price": [
-    30000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "شرکت عصر بازی کاور بازی Battlefield: Bad Company 2 را استفاده کرده اما بازی Battlefield 2 را در دیسک گنجانده. عجب!",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "شرکت عصر بازی کاور بازی Battlefield: Bad Company 2 را استفاده کرده اما بازی Battlefield 2 را در دیسک گنجانده. عجب!",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "battlefield-2-asrebazi-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        30000
+    ],
+    "producer": [
+        "asrebazi",
+        "modern"
+    ],
+    "publisher": [
+        "asrebazi",
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "2010-04-27",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Battlefield 2"
+    ],
+    "titlefa": [
+        "میدان جنگ ۲"
+    ]
 }
