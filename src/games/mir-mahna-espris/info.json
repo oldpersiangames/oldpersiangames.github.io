@@ -1,17 +1,8 @@
 {
-  "title": [
-    "Mir-Mahna"
-  ],
-  "titlefa": [
-    "میرمهنا",
-    "میر مهنا"
-  ],
-  "producer": [
-    "ESPRIS"
-  ],
-  "publisher": [
-    "ESPRIS"
-  ],
+  "title": ["Mir-Mahna"],
+  "titlefa": ["میرمهنا", "میر مهنا"],
+  "producer": ["ESPRIS"],
+  "publisher": ["ESPRIS"],
   "price": [],
   "release_date": [
     {
@@ -19,12 +10,8 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
   "defects": [
     "ایمیجی که از این بازی داریم دستکاری شده است. دیسک اصلی را دارید؟"
   ],
@@ -39,26 +26,19 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
       "username": "Mahdi_Jafarzadeh",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "contribute": ["game", "cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
-  "description": "برای پلی کردن این بازی، نسخه‌ی نصب‌شده (که همان فایل Mirmahna-Installed.rar است) را دانلود و استخراج کنید و بازی را اجرا کنید. نیازی به دانلود نسخه‌ی دیسک که قفل‌دار است نمی‌باشد.",
+  "description": "برای پلی کردن این بازی، نسخه‌ی نصب‌شده (که همان فایل Mirmahna-Installed.rar است) را دانلود و استخراج و بازی را اجرا کنید. نیازی به دانلود نسخه‌ی دیسک که قفل‌دار است نمی‌باشد.",
   "links": [],
   "ia_id": "mir-mahna-espris"
 }

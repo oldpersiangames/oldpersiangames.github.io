@@ -96,14 +96,19 @@ permalink: "games/{{ game.id }}/"
 {% genFileRows game %}
           </tbody>
           <tfoot>
-{% if game.description %}
-            <tr>
-            <th style="background:#fff3cd;color:#856404" colspan="3">{{ game.description }}</th>
-            </tr>
-{% endif %}
 {% if game.ia_id %}
             <tr>
             <td style="background:greenyellow;color:#333" colspan="3">با لینک‌های دانلود مشکلی دارید؟ از کانال تلگرامی‌مان هم می‌توانید دانلود کنید: <a href="https://t.me/OldPersianGames" style="color:crimson;font-weight:bold" dir="ltr">@OldPersianGames</a></td>
+            </tr>
+{% endif %}
+{% if game.description %}
+            <tr>
+            <th style="background:#fff3cd;color:#856404;text-align:right" colspan="3">⚠️ {{ game.description }}</th>
+            </tr>
+{% endif %}
+{% if game.publisher[0] == "sarirgame" %}
+            <tr>
+            <th style="background:#fff3cd;color:#856404;text-align:right" colspan="3">⚠️ این بازی توسط شرکت سریرگیم منتشر شده است. اگر در نصب بازی مشکلی داشتید، شاید <a href="/guides/sarirgame-installation/" style="color:Chocolate">راهنمای نصب بازی‌های سریر</a> مشکلتان را برطرف کند.</th>
             </tr>
 {% endif %}
           {% if game.defects | length %}
