@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Battlefield 2"
+  ],
+  "titlefa": [
+    "میدان جنگ ۲"
+  ],
+  "producer": [
+    "asrebazi",
+    "modern"
+  ],
+  "publisher": [
+    "asrebazi",
+    "modern"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "شرکت عصر بازی کاور بازی Battlefield: Bad Company 2 را استفاده کرده اما بازی Battlefield 2 را در دیسک گنجانده. عجب!",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
