@@ -1,27 +1,21 @@
 {
-  "title": [
-    "Worms 3D + Worms Forts: Under Siege"
-  ],
-  "titlefa": [
-    "جنگ کرم‌ها ۱ و ۲"
-  ],
-  "producer": [
-    "sarirgame"
-  ],
-  "publisher": [
-    "sarirgame"
-  ],
-  "price": [
-    30000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
     "games": [
         {
             "dubbed": true,
@@ -48,26 +42,38 @@
             ]
         }
     ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "ia_id": "worms-3d-worms-forts-under-siege-sarirgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        30000
+    ],
+    "producer": [
+        "sarirgame"
+    ],
+    "publisher": [
+        "sarirgame"
+    ],
+    "release_date": [
+        {
+            "date": "2007-11-17",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Worms 3D + Worms Forts: Under Siege"
+    ],
+    "titlefa": [
+        "جنگ کرم‌ها ۱ و ۲"
+    ]
 }
