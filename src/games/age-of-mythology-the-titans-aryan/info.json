@@ -1,72 +1,86 @@
 {
-  "title": [
-    "Age of Mythology: The Titans"
-  ],
-  "titlefa": [
-    "عصر اساطیر ۲: قهرمانان افسانه ای"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "aryan"
-  ],
-  "price": [
-    44000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    3
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": ["Age of Mythology"],
-      "titlefa": ["عصر اساطیر"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    },
-    {
-      "title": ["Age of Mythology: The Titans"],
-      "titlefa": ["عصر اساطیر ۲: قهرمانان افسانه ای"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "MiladGharebaghi",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "MiladGharebaghi"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Age of Mythology"
+            ],
+            "titlefa": [
+                "عصر اساطیر"
+            ]
+        },
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Age of Mythology: The Titans"
+            ],
+            "titlefa": [
+                "عصر اساطیر ۲: قهرمانان افسانه ای"
+            ]
+        }
+    ],
+    "ia_id": "age-of-mythology-the-titans-aryan",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        44000
+    ],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "aryan"
+    ],
+    "release_date": [
+        {
+            "date": "2003-10-14",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Age of Mythology: The Titans"
+    ],
+    "titlefa": [
+        "عصر اساطیر ۲: قهرمانان افسانه ای"
+    ]
 }
