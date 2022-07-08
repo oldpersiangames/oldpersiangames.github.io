@@ -1,34 +1,18 @@
 {
-  "title": [
-    "Igor: The Game"
-  ],
-  "titlefa": [
-    "ایگور"
-  ],
-  "producer": [
-    "sarirgame"
-  ],
-  "publisher": [
-    "sarirgame"
-  ],
-  "price": [
-    30000
-  ],
+  "title": ["Igor: The Game"],
+  "titlefa": ["ایگور"],
+  "producer": ["sarirgame"],
+  "publisher": ["sarirgame"],
+  "price": [30000],
   "release_date": [
     {
       "date": "2011-12-22",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [
-    "ایمیجی که از این بازی موجود داریم، دستکاری شده است. دیسک اصلی را دارید؟"
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -40,17 +24,16 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
+      "username": "AG_e_e_kA",
+      "contribute": ["game", "cover", "details"]
+    },
+    {
       "username": "alihardan",
-      "contribute": [
-        "details",
-        "cover"
-      ]
+      "contribute": ["details", "cover"]
     }
   ],
   "links": [],

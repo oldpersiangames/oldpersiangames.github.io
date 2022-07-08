@@ -1,9 +1,16 @@
 [
   {
-    "file_name": "Igor.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACA7dge4HuM3tOM4dIb0EzZ8gkN4I06gACJggAAhaUwVEtVpdttxynmx8E",
-    "file_unique_id": "AgADJggAAhaUwVE",
-    "file_size": 1383148484
+    "file_name": "igor-the-game-sarirgame-photos.zip",
+    "mime_type": "application/zip",
+    "file_id": "BQACAgQAAx0CS2Z5_gACFINix-zZXTikc278WSLFee092TebjwACYAwAAm8PQFLTe4NzFhxoeykE",
+    "file_unique_id": "AgADYAwAAm8PQFI",
+    "file_size": 33702220
+  },
+  {
+    "file_name": "igor.rar",
+    "mime_type": "application/x-rar-compressed",
+    "file_id": "BQACAgQAAx0CS2Z5_gACFIRix-8u1mscSCwe4FG6AAGjDVv8_-oAAnsMAAIuF0BS4rV9tSEyrcwpBA",
+    "file_unique_id": "AgADewwAAi4XQFI",
+    "file_size": 1383174457
   }
 ]
