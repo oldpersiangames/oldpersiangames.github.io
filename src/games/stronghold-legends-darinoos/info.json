@@ -1,16 +1,8 @@
 {
-  "title": [
-    "Stronghold Legends"
-  ],
-  "titlefa": [
-    "افسانه قلعه"
-  ],
-  "producer": [
-    "darinoos"
-  ],
-  "publisher": [
-    "darinoos"
-  ],
+  "title": ["Stronghold Legends"],
+  "titlefa": ["افسانه قلعه"],
+  "producer": ["darinoos"],
+  "publisher": ["darinoos"],
   "price": [],
   "release_date": [
     {
@@ -18,15 +10,9 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [
-    "فایل‌های دیسک را بصورت کپی‌شده داریم. ایمیج دیسک را دارید؟"
-  ],
+  "released_on": ["CD", "DVD"],
+  "no_of_discs": [2, 1],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -38,9 +24,7 @@
     }
   ],
   "selling": true,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": [
     {
       "release_type": "printed",
@@ -49,23 +33,24 @@
   ],
   "contributors": [
     {
+      "username": "ABLFA1384",
+      "contribute": ["game", "cover"]
+    },
+    {
+      "username": "Iraniandub",
+      "contribute": ["game", "cover"]
+    },
+    {
       "username": "korosh_darabi",
-      "contribute": [
-        "game"
-      ]
+      "contribute": ["game"]
     },
     {
       "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
+      "contribute": ["cover", "details"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [
@@ -76,6 +61,6 @@
     {
       "title": "نمونه گیم پلی و راهنمای کامل بازی",
       "url": "https://www.youtube.com/playlist?list=PLg75mpBOAJV__m3ycbAovPMgP3ZPVHfsb"
-     }
+    }
   ]
 }
