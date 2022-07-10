@@ -1,0 +1,58 @@
+{
+  "title": [
+    "Commandos: Strike Force"
+  ],
+  "titlefa": [
+    "کماندوها ۵: گروه ضربت"
+  ],
+  "producer": [
+    "aryan"
+  ],
+  "publisher": [
+    "ebay"
+  ],
+  "price": [
+    50000
+  ],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    5
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
