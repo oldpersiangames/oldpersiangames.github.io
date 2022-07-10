@@ -1,91 +1,82 @@
 {
-	"MJSAYR": {
-		"telegram": "MJSAYR",
-		"contributes": [
-			"بنیانگذاری گروه «نسخه‌ی فارسی» و مدیریت آن"
-		]
-	},
-	"Aras_Max": {
-		"telegram": "Aras_Max",
-		"contributes": [
-			"طراحی الگوی نگارش کپشن‌ها",
-			"طراحی لوگوی Old Persian Games"
-		]
-	},
-	"alihardan": {
-		"telegram": "alihardan",
-		"website": "https://alihardan.github.io/",
-		"github": "alihardan",
-		"email": "alihardanc@gmail.com",
-		"contributes": [
-			"تأسیس و مدیریت این وبسایت (Old Persian Games)",
-			"پشتیبان‌گیری و نگهداری فایل‌های آرشیو در فضاهای ابری"
-		]
-	},
-	"AG_e_e_kA": {
-		"telegram": "AG_e_e_kA",
-		"email": "alirezash796@gmail.com",
-		"contributes": [
-			"رابط ارتباطی پایگاه",
-			"سازماندهی فایل‌های آرشیو در فضاهای ابری"
-		]
-	},
-	"docfarzad": {
-		"telegram": "docfarzad",
-		"display_name": "فرزاد عباس پور",
-		"website": "https://me.refinedview.com/",
-		"email": "farzad@refinedview.com",
-		"contributes": [
-			"تهیه‌ی دامنه‌ی oldpersiangames.org"
-		]
-	},
-	"pejman": {
-		"telegram": "none"
-	},
-	"FrozenCat": {
-		"telegram": "none"
-	},
-	"CyberDemon": {
-		"telegram": "none"
-	},
-	"Behnam12ajeloo": {
-		"telegram": "none"
-	},
-	"irmkh13": {
-		"telegram": "irmkh13",
-		"contributes": [
-			"ناظم گروه گفتگو (۱۹ آبان ۱۴۰۰ الی ۳۰ آذر ۱۴۰۰)"
-		]
-	},
-	"ruinerart": {
-		"telegram": "ruinerart",
-		"contributes": [
-			"ناظم گروه گفتگو (از ۲۱ دی ۱۴۰۰)"
-		]
-	},
-	"HaghayeghShia": {
-		"telegram": "HaghayeghShia",
-		"contributes": [
-			"ناظم گروه گفتگو (از ۴ آبان ۱۴۰۰)"
-		]
-	},
-	"mohammadn": {
-		"telegram": "none"
-	},
-	"Mr_Mohammad2002": {
-		"telegram": "Mr_Mohammad2002",
-		"display_name": "محمد اسکندری"
-	},
-	"saeed": {
-		"telegram": "none"
-	},
-	"mohamadrajaei": {
-		"telegram": "none"
-	},
-	"Abbasi": {
-		"telegram": "none"
-	},
-	"Mohammadbagher": {
-		"telegram": "none"
-	}
+  "MJSAYR": {
+    "telegram": "MJSAYR",
+    "contributes": ["بنیانگذاری گروه «نسخه‌ی فارسی» و مدیریت آن"]
+  },
+  "Aras_Max": {
+    "telegram": "Aras_Max",
+    "contributes": [
+      "طراحی الگوی نگارش کپشن‌ها",
+      "طراحی لوگوی Old Persian Games"
+    ]
+  },
+  "alihardan": {
+    "telegram": "alihardan",
+    "website": "https://alihardan.github.io/",
+    "github": "alihardan",
+    "email": "alihardanc@gmail.com",
+    "contributes": [
+      "تأسیس و مدیریت این پایگاه (Old Persian Games)",
+      "پشتیبان‌گیری و نگهداری فایل‌های آرشیو در فضاهای ابری"
+    ]
+  },
+  "AG_e_e_kA": {
+    "telegram": "AG_e_e_kA",
+    "email": "alirezash796@gmail.com",
+    "contributes": [
+      "مدیریت این پایگاه (Old Persian Games)",
+      "پاسخگویی شایسته به مراجعین پایگاه",
+      "سازماندهی فایل‌های آرشیو در فضاهای ابری"
+    ]
+  },
+  "docfarzad": {
+    "telegram": "docfarzad",
+    "display_name": "فرزاد عباس پور",
+    "website": "https://me.refinedview.com/",
+    "email": "farzad@refinedview.com",
+    "contributes": ["تهیه‌ی دامنه‌ی oldpersiangames.org"]
+  },
+  "pejman": {
+    "telegram": "none"
+  },
+  "FrozenCat": {
+    "telegram": "none"
+  },
+  "CyberDemon": {
+    "telegram": "none"
+  },
+  "Behnam12ajeloo": {
+    "telegram": "none"
+  },
+  "irmkh13": {
+    "telegram": "irmkh13",
+    "contributes": ["ناظم گروه گفتگو (۱۹ آبان ۱۴۰۰ الی ۳۰ آذر ۱۴۰۰)"]
+  },
+  "ruinerart": {
+    "telegram": "ruinerart",
+    "contributes": ["ناظم گروه گفتگو (از ۲۱ دی ۱۴۰۰)"]
+  },
+  "HaghayeghShia": {
+    "telegram": "HaghayeghShia",
+    "contributes": ["ناظم گروه گفتگو (از ۴ آبان ۱۴۰۰)"]
+  },
+  "mohammadn": {
+    "telegram": "none"
+  },
+  "Mr_Mohammad2002": {
+    "telegram": "Mr_Mohammad2002",
+    "display_name": "محمد اسکندری"
+  },
+  "saeed": {
+    "telegram": "none"
+  },
+  "mohamadrajaei": {
+    "telegram": "none"
+  },
+  "Abbasi": {
+    "telegram": "none"
+  },
+  "Mohammadbagher": {
+    "telegram": "none"
+  }
 }

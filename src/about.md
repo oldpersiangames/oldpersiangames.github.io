@@ -7,6 +7,6 @@ title: "درباره"
 
 با تشکر ویژه از:
 
-- <a href="/contributors/#AG_e_e_kA">@AG_e_e_kA</a> برای پاسخگویی شایسته به مراجعین وبگاه.
+- <a href="/contributors/#AG_e_e_kA">@AG_e_e_kA</a> برای مدیریت شایسته‌ی این پایگاه و پاسخگویی شایسته به مراجعین.
 - <a href="/contributors/#docfarzad">فرزاد عباس پور</a> برای تهیه‌ی دامنه‌ی oldpersiangames.org
 - همه‌ی <a href="/contributors/">مشارکت‌کنندگان</a>
