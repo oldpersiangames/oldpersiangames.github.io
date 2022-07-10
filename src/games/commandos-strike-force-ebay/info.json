@@ -1,58 +1,64 @@
 {
-  "title": [
-    "Commandos: Strike Force"
-  ],
-  "titlefa": [
-    "کماندوها ۵: گروه ضربت"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "ebay"
-  ],
-  "price": [
-    50000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    5
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "commandos-strike-force-ebay",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        5
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        50000
+    ],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "ebay"
+    ],
+    "release_date": [
+        {
+            "date": "2006-07-08",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Commandos: Strike Force"
+    ],
+    "titlefa": [
+        "کماندوها ۵: گروه ضربت"
+    ]
 }
