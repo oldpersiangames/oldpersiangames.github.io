@@ -1,10 +1,17 @@
 [
   {
+    "file_name": "medieval-np-photos.rar",
+    "mime_type": "application/vnd.rar",
+    "file_id": "BQACAgQAAx0CS2Z5_gACFI1iywE_oktcVG5lhY6_bxW5AYbc7QACkwwAAqt7QVK6PQG_7T1WVykE",
+    "file_unique_id": "AgADkwwAAqt7QVI",
+    "file_size": 31669654
+  },
+  {
     "file_name": "Forex.iso",
     "mime_type": "application/x-cd-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gADjWAvMsabgntK_NqRvrRrds27kBgIAAKBBgACfHjQUvLPQ8s29jN8HgQ",
-    "file_unique_id": "AgADgQYAAnx40FI",
-    "file_size": 676612096
+    "file_id": "BQACAgQAAx0CS2Z5_gACFIliyvwD_Mn2yfK-SnqttF7tRumAWwACMw0AAkLbUVIDHi5f-q_DvCkE",
+    "file_unique_id": "AgADMw0AAkLbUVI",
+    "file_size": 712824832
   },
   {
     "file_name": "Forex2.iso",
@@ -19,6 +26,20 @@
     "file_id": "BQACAgQAAx0CS2Z5_gADj2AvMtahp5wevcDeEndLR4e-he_zAAKDBgACfHjQUnEMu5ySCZufHgQ",
     "file_unique_id": "AgADgwYAAnx40FI",
     "file_size": 199163904
+  },
+  {
+    "file_name": "medieval-np-manual.rar",
+    "mime_type": "application/vnd.rar",
+    "file_id": "BQACAgQAAx0CS2Z5_gACFIpiyvw0kqxo2-9yC5c-k8WYuaObhwAClwwAAqt7QVIlQd43IXbbMCkE",
+    "file_unique_id": "AgADlwwAAqt7QVI",
+    "file_size": 79209002
+  },
+  {
+    "file_name": "Medival Total War + Viking Manual (NP).pdf",
+    "mime_type": "application/pdf",
+    "file_id": "BQACAgQAAx0CS2Z5_gACFIxiywABAYykbITNAllk3MgOKAUmQv8AApoLAALdM1lSTSm_AAETx_4yKQQ",
+    "file_unique_id": "AgADmgsAAt0zWVI",
+    "file_size": 62290142
   },
   {
     "file_name": "medieval-total-war-novinpendar-patch.7z",
