@@ -1,68 +1,103 @@
 {
-  "title": ["Medieval: Total War + Viking Invasion"],
-  "titlefa": ["نبردهای قرون وسطی + هجوم وایکینگ‌ها"],
-  "producer": ["novinpendar"],
-  "publisher": ["novinpendar"],
-  "price": [],
-  "release_date": [
-    {
-      "date": "2006-01-22",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
-  "released_on": ["CD"],
-  "no_of_discs": [3],
-  "defects": [],
-  "games": [
-    {
-      "subtitle": false,
-      "title": ["Medieval: Total War"],
-      "titlefa": ["نبردهای قرون وسطی"],
-      "dubbed": true,
-      "iranian": false
-    },
-    {
-      "subtitle": false,
-      "title": ["Medieval: Total War – Viking Invasion"],
-      "titlefa": ["نبردهای قرون وسطی: هجوم وایکینگ‌ها"],
-      "dubbed": true,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "manuals": [
-    {
-      "release_type": "printed",
-      "no_of_pages": 82,
-      "files": [
-        "medieval-np-manual.rar",
-        "Medival Total War + Viking Manual (NP).pdf"
-      ]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "MiladGharebaghi",
-      "contribute": ["game", "cover", "manual"]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["cover", "manual"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["game", "details"]
-    },
-    {
-      "username": "mostafare4",
-      "contribute": ["game"]
-    }
-  ],
-  "links": [
-    {
-      "title": "مشخصات در سایت ناشر",
-      "url": "http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000040"
-    }
-  ]
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "manual"
+            ],
+            "username": "MiladGharebaghi"
+        },
+        {
+            "contribute": [
+                "cover",
+                "manual"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "game",
+                "details"
+            ],
+            "username": "alihardan"
+        },
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "mostafare4"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "subtitle": false,
+            "title": [
+                "Medieval: Total War"
+            ],
+            "titlefa": [
+                "نبردهای قرون وسطی"
+            ]
+        },
+        {
+            "dubbed": true,
+            "iranian": false,
+            "subtitle": false,
+            "title": [
+                "Medieval: Total War – Viking Invasion"
+            ],
+            "titlefa": [
+                "نبردهای قرون وسطی: هجوم وایکینگ‌ها"
+            ]
+        }
+    ],
+    "ia_id": "medieval-total-war-viking-invasion-novinpendar",
+    "links": [
+        {
+            "title": "مشخصات در سایت ناشر",
+            "url": "http://www.npgame.net/NPWebSiteGame/ASPXForms/GameIntro.aspx?GameID=1000040"
+        }
+    ],
+    "manuals": [
+        {
+            "files": [
+                "medieval-np-manual.rar",
+                "Medival Total War + Viking Manual (NP).pdf"
+            ],
+            "no_of_pages": 82,
+            "release_type": "printed"
+        }
+    ],
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "novinpendar"
+    ],
+    "publisher": [
+        "novinpendar"
+    ],
+    "release_date": [
+        {
+            "date": "2006-01-22",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Medieval: Total War + Viking Invasion"
+    ],
+    "titlefa": [
+        "نبردهای قرون وسطی + هجوم وایکینگ‌ها"
+    ]
 }
