@@ -1,59 +1,65 @@
 {
-  "title": [
-    "Call of Duty: World at War"
-  ],
-  "titlefa": [
-    "فریاد سربازان ۵: جهان در جنگ",
-    "کال آف دیوتی ۵"
-  ],
-  "producer": [
-    "modern"
-  ],
-  "publisher": [
-    "modern"
-  ],
-  "price": [
-    50000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "call-of-duty-world-at-war-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        50000
+    ],
+    "producer": [
+        "modern"
+    ],
+    "publisher": [
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "2011-05-21",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Call of Duty: World at War"
+    ],
+    "titlefa": [
+        "فریاد سربازان ۵: جهان در جنگ",
+        "کال آف دیوتی ۵"
+    ]
 }
