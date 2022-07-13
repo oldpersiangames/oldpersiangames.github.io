@@ -1,37 +1,21 @@
 {
-  "title": [
-    "Return to Castle Wolfenstein + Mod 2"
-  ],
-  "titlefa": [
-    "بازگشت به قلعه ولفنشتاین ۲"
-  ],
-  "producer": [
-    "sanobar"
-  ],
-  "publisher": [
-    "sanobar"
-  ],
-  "price": [
-    35000
-  ],
+  "title": ["Return to Castle Wolfenstein + Mod 2"],
+  "titlefa": ["بازگشت به قلعه ولفنشتاین ۲"],
+  "producer": ["sanobar"],
+  "publisher": ["sanobar"],
+  "price": [35000],
   "release_date": [
     {
       "date": "2005-09-05",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
+  "released_on": ["CD"],
+  "no_of_discs": [2],
   "defects": [],
   "games": [
     {
-      "title": [
-        "Return to Castle Wolfenstein"
-      ],
+      "title": ["Return to Castle Wolfenstein"],
       "titlefa": [],
       "dubbed": false,
       "modified": true,
@@ -40,25 +24,19 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
       "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "contribute": ["game", "cover", "details"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [],
+  "description": "راهنمای اجرا در ویندوزهای ۷ به بالا:<br>بازی رو از لانچر اجرا نکنید. وارد پوشه نصب بازی بشید، WolfSP.exe رو اجرا کنید. در منوی بازی گزینه load رو بزنید و از بخش Show Autosaves، سیوی به نام tomb1 رو لود کنید تا وارد مراحل ماد شده بشید.",
   "ia_id": "return-to-castle-wolfenstein-mod-2-sanobar"
 }
