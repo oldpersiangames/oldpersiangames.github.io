@@ -1,16 +1,8 @@
 {
-  "title": [
-    "Max Payne 2: The Fall of Max Payne"
-  ],
-  "titlefa": [
-    "مکس پین ۲: عشق، خشم، نفرت"
-  ],
-  "producer": [
-    "darinoos"
-  ],
-  "publisher": [
-    "darinoos"
-  ],
+  "title": ["Max Payne 2: The Fall of Max Payne"],
+  "titlefa": ["مکس پین ۲: عشق، خشم، نفرت"],
+  "producer": ["darinoos"],
+  "publisher": ["darinoos"],
   "price": [],
   "release_date": [
     {
@@ -18,12 +10,8 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
+  "released_on": ["CD"],
+  "no_of_discs": [2],
   "defects": [],
   "games": [
     {
@@ -36,9 +24,7 @@
     }
   ],
   "selling": true,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": [
     {
       "release_type": "printed",
@@ -51,24 +37,21 @@
   "contributors": [
     {
       "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "manual",
-        "details"
-      ]
+      "contribute": ["game", "cover", "manual", "details"]
     },
     {
       "username": "mostafare4",
-      "contribute": [
-        "game"
-      ]
+      "contribute": ["game"]
     }
   ],
   "links": [
     {
+      "title": "نمونه گیم پلی و راهنمای کامل بازی",
+      "url": "https://www.youtube.com/playlist?list=PLg75mpBOAJV9HdDMIYLmMUwt89PM-bZYv"
+    },
+    {
       "title": "خرید از سایت ناشر",
-      "url": "http://dpc.darinoos.net/index.php?route=product/product&path=59&product_id=114"
+      "url": "https://darinoos.net/mag/2017/02/max-payne-2/"
     }
   ]
 }
