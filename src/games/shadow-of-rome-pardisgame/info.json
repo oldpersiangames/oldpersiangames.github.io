@@ -1,68 +1,46 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover",
-                "details"
-            ],
-            "username": "thehosseinxo"
-        },
-        {
-            "contribute": [
-                "cover"
-            ],
-            "username": "AG_e_e_kA"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": true,
-            "iranian": false,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "shadow-of-rome-pardisgame",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "PS2"
-    ],
-    "price": [],
-    "producer": [
-        "pardisgame"
-    ],
-    "publisher": [
-        "pardisgame"
-    ],
-    "release_date": [
-        {
-            "date": "0000-00-00",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "DVD"
-    ],
-    "selling": false,
-    "title": [
-        "Shadow of Rome"
-    ],
-    "titlefa": [
-        "امپراطوری روم"
-    ]
+  "contributors": [
+    {
+      "contribute": ["game", "cover", "details"],
+      "username": "thehosseinxo"
+    },
+    {
+      "contribute": ["cover"],
+      "username": "AG_e_e_kA"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": true,
+      "iranian": false,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "ia_id": "shadow-of-rome-pardisgame",
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [1],
+  "platform": ["PS2"],
+  "price": [],
+  "producer": ["pardisgame"],
+  "publisher": ["pardisgame"],
+  "release_date": [
+    {
+      "date": "2009-02-11",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["DVD"],
+  "selling": false,
+  "title": ["Shadow of Rome"],
+  "titlefa": ["امپراطوری روم"]
 }
