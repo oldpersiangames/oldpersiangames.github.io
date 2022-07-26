@@ -1,9 +1,9 @@
 {
   "title": [
-    "Bolt"
+    "Shadow of Rome"
   ],
   "titlefa": [
-    "بولت"
+    "امپراطوری روم"
   ],
   "producer": [
     "pardisgame"
@@ -12,12 +12,7 @@
     "pardisgame"
   ],
   "price": [],
-  "release_date": [
-    {
-      "date": "2008-10-02",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
+  "release_date": [],
   "released_on": [
     "DVD"
   ],
@@ -25,6 +20,7 @@
     1
   ],
   "defects": [],
+  "description": "",
   "games": [
     {
       "title": [],
@@ -45,6 +41,13 @@
       "username": "thehosseinxo",
       "contribute": [
         "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
         "cover"
       ]
     },
@@ -55,6 +58,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "bolt-pardisgame"
+  "links": []
 }

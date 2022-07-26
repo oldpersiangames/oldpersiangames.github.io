@@ -1,16 +1,8 @@
 {
-  "title": [
-    "Cold Fear"
-  ],
-  "titlefa": [
-    "وحشت سرد"
-  ],
-  "producer": [
-    "pardisgame"
-  ],
-  "publisher": [
-    "pardisgame"
-  ],
+  "title": ["Cold Fear"],
+  "titlefa": ["وحشت سرد"],
+  "producer": ["pardisgame"],
+  "publisher": ["pardisgame"],
   "price": [],
   "release_date": [
     {
@@ -18,12 +10,8 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
   "defects": [],
   "games": [
     {
@@ -36,23 +24,16 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "PS2"
-  ],
+  "platform": ["PS2"],
   "manuals": false,
   "contributors": [
     {
-      "username": "HosseinEnr7que",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "username": "thehosseinxo",
+      "contribute": ["game", "cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [],
