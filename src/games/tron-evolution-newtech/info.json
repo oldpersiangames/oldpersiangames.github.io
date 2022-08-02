@@ -1,58 +1,64 @@
 {
-  "title": [
-    "Tron: Evolution"
-  ],
-  "titlefa": [
-    "تکامل"
-  ],
-  "producer": [
-    "newtech"
-  ],
-  "publisher": [
-    "newtech"
-  ],
-  "price": [
-    80000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "tron-evolution-newtech",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        80000
+    ],
+    "producer": [
+        "newtech"
+    ],
+    "publisher": [
+        "newtech"
+    ],
+    "release_date": [
+        {
+            "date": "2014-08-20",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Tron: Evolution"
+    ],
+    "titlefa": [
+        "تکامل"
+    ]
 }
