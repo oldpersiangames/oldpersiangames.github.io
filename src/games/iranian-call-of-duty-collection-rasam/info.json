@@ -1,0 +1,57 @@
+{
+  "title": [
+    "Iranian Call of Duty Collection"
+  ],
+  "titlefa": [
+    "مجموعه کال آو دیوتی"
+  ],
+  "producer": [
+    "rasam"
+  ],
+  "publisher": [
+    "rasam"
+  ],
+  "price": [
+    220000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "irmkh13",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
