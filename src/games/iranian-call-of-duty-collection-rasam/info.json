@@ -1,63 +1,58 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover"
-            ],
-            "username": "irmkh13"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": false,
-            "iranian": true,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "iranian-call-of-duty-collection-rasam",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        2
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [
-        220000
-    ],
-    "producer": [
-        "rasam"
-    ],
-    "publisher": [
-        "rasam"
-    ],
-    "release_date": [
-        {
-            "date": "2019-06-08",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "DVD"
-    ],
-    "selling": false,
-    "title": [
-        "Iranian Call of Duty Collection"
-    ],
-    "titlefa": [
-        "مجموعه کال آو دیوتی"
-    ]
+  "contributors": [
+    {
+      "contribute": ["game", "cover"],
+      "username": "irmkh13"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": false,
+      "iranian": true,
+      "modified": false,
+      "subtitle": false,
+      "title": ["Call of Duty: The Massive Strike"],
+      "titlefa": ["اعتصاب گسترده"]
+    },
+    {
+      "dubbed": false,
+      "iranian": true,
+      "modified": false,
+      "subtitle": false,
+      "title": ["Call of Duty: Fractured Fronts"],
+      "titlefa": ["جبهه‌های شکسته"]
+    },
+    {
+      "dubbed": false,
+      "iranian": true,
+      "modified": false,
+      "subtitle": false,
+      "title": ["Call of Duty: Path of War"],
+      "titlefa": ["مسیر نبرد"]
+    }
+  ],
+  "ia_id": "iranian-call-of-duty-collection-rasam",
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [2],
+  "platform": ["Windows"],
+  "price": [220000],
+  "producer": ["rasam"],
+  "publisher": ["rasam"],
+  "release_date": [
+    {
+      "date": "2019-06-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["DVD"],
+  "selling": false,
+  "title": ["Iranian Call of Duty Collection"],
+  "titlefa": ["مجموعه کال آو دیوتی"]
 }
