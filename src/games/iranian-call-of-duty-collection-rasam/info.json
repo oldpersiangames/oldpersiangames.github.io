@@ -1,57 +1,63 @@
 {
-  "title": [
-    "Iranian Call of Duty Collection"
-  ],
-  "titlefa": [
-    "مجموعه کال آو دیوتی"
-  ],
-  "producer": [
-    "rasam"
-  ],
-  "publisher": [
-    "rasam"
-  ],
-  "price": [
-    220000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "irmkh13",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "irmkh13"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "iranian-call-of-duty-collection-rasam",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        220000
+    ],
+    "producer": [
+        "rasam"
+    ],
+    "publisher": [
+        "rasam"
+    ],
+    "release_date": [
+        {
+            "date": "2019-06-08",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Iranian Call of Duty Collection"
+    ],
+    "titlefa": [
+        "مجموعه کال آو دیوتی"
+    ]
 }
