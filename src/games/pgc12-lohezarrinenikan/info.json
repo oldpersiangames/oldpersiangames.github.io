@@ -1,70 +1,76 @@
 {
-  "title": [
-    "PGC12"
-  ],
-  "titlefa": [
-    "جام خلیج فارس ۱۲"
-  ],
-  "producer": [
-    "winsar"
-  ],
-  "publisher": [
-    "lohezarrinenikan"
-  ],
-  "price": [
-    35000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "aqmoein",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "Matart_m",
-      "contribute": [
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "aqmoein"
+        },
+        {
+            "contribute": [
+                "cover"
+            ],
+            "username": "Matart_m"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "pgc12-lohezarrinenikan",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        35000
+    ],
+    "producer": [
+        "winsar"
+    ],
+    "publisher": [
+        "lohezarrinenikan"
+    ],
+    "release_date": [
+        {
+            "date": "2011-08-15",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "PGC12"
+    ],
+    "titlefa": [
+        "جام خلیج فارس ۱۲"
+    ]
 }

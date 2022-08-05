@@ -1,61 +1,67 @@
 {
-  "title": [
-    "Spider-Man: Friend or Foe"
-  ],
-  "titlefa": [
-    "مرد عنکبوتی ۳"
-  ],
-  "producer": [
-    "sarirgame"
-  ],
-  "publisher": [
-    "sarirgame"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    3
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Iraniandub",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Iraniandub"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "spider-man-friend-or-foe-sarirgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "sarirgame"
+    ],
+    "publisher": [
+        "sarirgame"
+    ],
+    "release_date": [
+        {
+            "date": "2008-04-19",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Spider-Man: Friend or Foe"
+    ],
+    "titlefa": [
+        "مرد عنکبوتی ۳"
+    ]
 }
