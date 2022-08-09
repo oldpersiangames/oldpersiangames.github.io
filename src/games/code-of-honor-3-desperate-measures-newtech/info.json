@@ -1,62 +1,63 @@
 {
-  "title": [
-    "Code of Honor 3: Desperate Measures"
-  ],
-  "titlefa": [
-    "رمز افتخار ۳"
-  ],
-  "producer": [
-    "newtech"
-  ],
-  "publisher": [
-    "newtech"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sayid71sn",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Sayid71sn"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "code-of-honor-3-desperate-measures-newtech",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "newtech"
+    ],
+    "publisher": [
+        "newtech"
+    ],
+    "release_date": [],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Code of Honor 3: Desperate Measures"
+    ],
+    "titlefa": [
+        "رمز افتخار ۳"
+    ]
 }
