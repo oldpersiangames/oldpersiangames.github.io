@@ -1,0 +1,69 @@
+{
+  "title": [
+    "FIFA 15"
+  ],
+  "titlefa": [
+    "فیفا ۲۰۱۵ با گزارش مزدک میرزایی"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [
+    80000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "hosseinamanolla",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "ruinerart",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
