@@ -1,65 +1,71 @@
 {
-  "title": [
-    "Pro Evolution Soccer 2017",
-    "PES 2017"
-  ],
-  "titlefa": [
-    "فوتبال ۲۰۱۷ با گزارش مزدک میرزایی"
-  ],
-  "producer": [
-    "gerdoo"
-  ],
-  "publisher": [
-    "gerdoo"
-  ],
-  "price": [
-    140000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Xbox 360"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Ali_Parsakhoo",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Ali_Parsakhoo"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "pro-evolution-soccer-2017-gerdoo",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Xbox 360"
+    ],
+    "price": [
+        140000
+    ],
+    "producer": [
+        "gerdoo"
+    ],
+    "publisher": [
+        "gerdoo"
+    ],
+    "release_date": [
+        {
+            "date": "0000-00-00",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Pro Evolution Soccer 2017",
+        "PES 2017"
+    ],
+    "titlefa": [
+        "فوتبال ۲۰۱۷ با گزارش مزدک میرزایی"
+    ]
 }
