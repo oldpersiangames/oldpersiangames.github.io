@@ -1,0 +1,48 @@
+{
+  "title": ["Harry Potter 1 & 3"],
+  "titlefa": ["هری پاتر ۱ و ۳"],
+  "producer": ["sarirgame"],
+  "publisher": ["sarirgame"],
+  "price": [30000],
+  "release_date": [],
+  "released_on": ["CD"],
+  "no_of_discs": [2],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": ["Harry Potter and the Philosopher's Stone"],
+      "titlefa": ["هری پاتر و سنگ جادو"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": ["Harry Potter and the Prisoner of Azkaban"],
+      "titlefa": ["هری پاتر و زندانی آزکابان"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": ["Windows"],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "ruinerart",
+      "contribute": ["game", "cover"]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": ["cover", "details"]
+    },
+    {
+      "username": "alihardan",
+      "contribute": ["details"]
+    }
+  ],
+  "links": []
+}
