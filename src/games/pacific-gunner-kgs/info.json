@@ -1,23 +1,18 @@
 {
   "title": [
-    "Hasani and the Beanstalk"
+    "Pacific Gunner"
   ],
   "titlefa": [
-    "حسنی و لوبیای سحرآمیز"
+    "ضد هوایی"
   ],
   "producer": [
-    "kosarnegarrayane"
+    "unknown"
   ],
   "publisher": [
-    "century21"
+    "kgs"
   ],
   "price": [],
-  "release_date": [
-    {
-      "date": "2007-12-22",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
+  "release_date": [],
   "released_on": [
     "CD"
   ],
@@ -25,14 +20,15 @@
     1
   ],
   "defects": [],
+  "description": "",
   "games": [
     {
       "title": [],
       "titlefa": [],
-      "dubbed": false,
+      "dubbed": true,
       "modified": false,
       "subtitle": false,
-      "iranian": true
+      "iranian": false
     }
   ],
   "selling": false,
@@ -42,16 +38,15 @@
   "manuals": false,
   "contributors": [
     {
-      "username": "AG_e_e_kA",
+      "username": "Ali_Parsakhoo",
       "contribute": [
-        "game", "cover", "details"
+        "game",
+        "cover"
       ]
     },
     {
-      "username": "MANRN7",
+      "username": "AG_e_e_kA",
       "contribute": [
-        "game",
-        "cover",
         "details"
       ]
     },
@@ -62,6 +57,5 @@
       ]
     }
   ],
-  "links": [],
-  "ia_id": "hasani-and-the-beanstalk-century21"
+  "links": []
 }
