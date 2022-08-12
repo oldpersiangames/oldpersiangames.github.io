@@ -1,61 +1,67 @@
 {
-  "title": [
-    "IPL 90-91"
-  ],
-  "titlefa": [
-    "لیگ برتر ایران ۹۱-۹۰ نیم فصل دوم با گزارش مزدک میرزایی"
-  ],
-  "producer": [
-    "tgpco"
-  ],
-  "publisher": [
-    "tgpco"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "PS2"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "saeed0382",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "saeed0382"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "ipl-90-91-tgpco",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "PS2"
+    ],
+    "price": [],
+    "producer": [
+        "tgpco"
+    ],
+    "publisher": [
+        "tgpco"
+    ],
+    "release_date": [
+        {
+            "date": "2012-04-14",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "IPL 90-91"
+    ],
+    "titlefa": [
+        "لیگ برتر ایران ۹۱-۹۰ نیم فصل دوم با گزارش مزدک میرزایی"
+    ]
 }
