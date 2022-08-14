@@ -1,62 +1,63 @@
 {
-  "title": [
-    "Labkhand 4"
-  ],
-  "titlefa": [
-    "لبخند ۴"
-  ],
-  "producer": [
-    "daneshbank"
-  ],
-  "publisher": [
-    "daneshbank"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "saeed0382",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "saeed0382"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "labkhand-4-daneshbank",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "daneshbank"
+    ],
+    "publisher": [
+        "daneshbank"
+    ],
+    "release_date": [],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Labkhand 4"
+    ],
+    "titlefa": [
+        "لبخند ۴"
+    ]
 }

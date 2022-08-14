@@ -1,62 +1,68 @@
 {
-  "title": [
-    "Bahman Rally"
-  ],
-  "titlefa": [
-    "بهمن رالی"
-  ],
-  "producer": [
-    "bahmanleasing"
-  ],
-  "publisher": [
-    "bahmanleasing"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "saeed0382",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "saeed0382"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "bahman-rally-bahmanleasing",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "bahmanleasing"
+    ],
+    "publisher": [
+        "bahmanleasing"
+    ],
+    "release_date": [
+        {
+            "date": "2006-06-22",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Bahman Rally"
+    ],
+    "titlefa": [
+        "بهمن رالی"
+    ]
 }

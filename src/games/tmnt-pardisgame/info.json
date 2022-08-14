@@ -1,61 +1,67 @@
 {
-  "title": [
-    "TMNT"
-  ],
-  "titlefa": [
-    "لاکپشتهای نینجا"
-  ],
-  "producer": [
-    "pardisgame"
-  ],
-  "publisher": [
-    "pardisgame"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "hosseinamanolla",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "hosseinamanolla"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "tmnt-pardisgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "pardisgame"
+    ],
+    "publisher": [
+        "pardisgame"
+    ],
+    "release_date": [
+        {
+            "date": "2008-06-29",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "TMNT"
+    ],
+    "titlefa": [
+        "لاکپشتهای نینجا"
+    ]
 }
