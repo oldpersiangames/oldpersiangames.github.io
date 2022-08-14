@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Grand Theft Auto: San Andreas",
+    "GTA: San Andreas"
+  ],
+  "titlefa": [
+    "سرقت بزرگ سن آندریاس"
+  ],
+  "producer": [
+    "vnv"
+  ],
+  "publisher": [
+    "vnv"
+  ],
+  "price": [
+    60000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Arash_a70",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "h_m_997",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

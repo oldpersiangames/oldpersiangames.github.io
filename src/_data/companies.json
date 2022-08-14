@@ -402,5 +402,10 @@
     "titlefa": "مؤسسه نرم افزاری کوثر",
     "order": 99
   },
+  "bahmanleasing": {
+    "title": "Bahman Leasing",
+    "titlefa": "بهمن لیزرینگ",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }

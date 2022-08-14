@@ -1,0 +1,62 @@
+{
+  "title": [
+    "Bahman Rally"
+  ],
+  "titlefa": [
+    "بهمن رالی"
+  ],
+  "producer": [
+    "bahmanleasing"
+  ],
+  "publisher": [
+    "bahmanleasing"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed0382",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

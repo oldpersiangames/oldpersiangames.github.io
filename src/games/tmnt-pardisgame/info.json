@@ -1,0 +1,61 @@
+{
+  "title": [
+    "TMNT"
+  ],
+  "titlefa": [
+    "لاکپشتهای نینجا"
+  ],
+  "producer": [
+    "pardisgame"
+  ],
+  "publisher": [
+    "pardisgame"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "hosseinamanolla",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
