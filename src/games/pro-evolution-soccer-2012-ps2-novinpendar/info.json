@@ -1,27 +1,12 @@
 {
-  "title": [
-    "Pro Evolution Soccer 2012 (PS2)",
-    "PES 2012"
-  ],
-  "titlefa": [
-    "پی ای اس ۲۰۱۲ با گزارش عادل فردوسی پور"
-  ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    30000
-  ],
+  "title": ["Pro Evolution Soccer 2012 (PS2)", "PES 2012"],
+  "titlefa": ["پی ای اس ۲۰۱۲ با گزارش عادل فردوسی پور"],
+  "producer": ["novinpendar"],
+  "publisher": ["novinpendar"],
+  "price": [30000],
   "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
   "defects": [],
   "description": "",
   "games": [
@@ -35,30 +20,22 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "PS2"
-  ],
+  "platform": ["PS2"],
   "manuals": false,
   "contributors": [
     {
       "username": "YasinBasaty",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "contribute": ["game", "cover"]
     },
     {
       "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
+  "ia_id": "pro-evolution-soccer-2012-ps2-novinpendar",
   "links": []
 }
