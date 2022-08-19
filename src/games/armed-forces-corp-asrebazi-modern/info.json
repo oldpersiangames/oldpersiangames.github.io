@@ -1,0 +1,66 @@
+{
+  "title": [
+    "Armed Forces Corp"
+  ],
+  "titlefa": [
+    "نیروهای مسلح"
+  ],
+  "producer": [
+    "asrebazi",
+    "modern"
+  ],
+  "publisher": [
+    "asrebazi",
+    "modern"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sayid71sn",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
