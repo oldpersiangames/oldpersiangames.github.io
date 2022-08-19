@@ -1,0 +1,69 @@
+{
+  "title": [
+    "Armed Forces Corp"
+  ],
+  "titlefa": [
+    "رسته نیروهای مسلح"
+  ],
+  "producer": [
+    "sarirgame"
+  ],
+  "publisher": [
+    "sarirgame"
+  ],
+  "price": [
+    30000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Sayid71sn",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "Sepehr_Gamer",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
