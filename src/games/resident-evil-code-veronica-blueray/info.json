@@ -1,0 +1,61 @@
+{
+  "title": [
+    "Resident Evil – Code: Veronica"
+  ],
+  "titlefa": [
+    "رزیدنت ایول کد: ورونیکا"
+  ],
+  "producer": [
+    "blueray"
+  ],
+  "publisher": [
+    "blueray"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "PS2"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "HosseinFd1363",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "MJSAYR",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
