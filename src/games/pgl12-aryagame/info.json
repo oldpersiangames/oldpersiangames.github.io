@@ -1,0 +1,68 @@
+{
+  "title": [
+    "PGL12"
+  ],
+  "titlefa": [
+    "لیگ حرفه ای خلیج فارس ۹۱-۹۰"
+  ],
+  "producer": [
+    "aryagame"
+  ],
+  "publisher": [
+    "aryagame"
+  ],
+  "price": [
+    60000
+  ],
+  "release_date": [
+    {
+      "date": "2012-05-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alikarimi0870",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "Matart_m",
+      "contribute": [
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
