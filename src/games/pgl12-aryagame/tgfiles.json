@@ -1,30 +1,6 @@
 [
-  {
-    "file_name": "PGL12.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFTZjAnwKuBES62D3ZKTAMt_0UzrNTQAC_g0AAksjEFCPrxyhNrNc5SkE",
-    "file_unique_id": "AgAD_g0AAksjEFA",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PGL12.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFTdjAnwKOmLzHShOYK4Y9gAB9k7nr38AAv8NAAJLIxBQbIPhcVQOjgspBA",
-    "file_unique_id": "AgAD_w0AAksjEFA",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PGL12.part3.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFThjAnwKg0Hokzz67h2LJNVSODbHnQACAQ4AAksjEFAq0sJ-TdG3PikE",
-    "file_unique_id": "AgADAQ4AAksjEFA",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PGL12.part4.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFTljAnwKtiqUKEbsfdX0qY-VWq68twACAg4AAksjEFBjG5W79J7rXCkE",
-    "file_unique_id": "AgADAg4AAksjEFA",
-    "file_size": 1179149187
-  }
+    {"file_name": "PGL12.part1.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACFTpjCSudG2uNIWlu5w8bDGUCUdDPOQAC9g4AAtc4SVDFoAUnbm_mKikE", "file_unique_id": "AgAD9g4AAtc4SVA", "file_size": 2097152000},
+    {"file_name": "PGL12.part2.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACFTtjCSuddz0ss5Vz1OblidFIcgABkFEAAvQOAALXOElQxJrPrWcJjh0pBA", "file_unique_id": "AgAD9A4AAtc4SVA", "file_size": 2097152000},
+    {"file_name": "PGL12.part3.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACFTxjCSudeP3oI1ZCYzfxXnrszJQ_fAAC8A4AAtc4SVB4nW-xk1dRYSkE", "file_unique_id": "AgAD8A4AAtc4SVA", "file_size": 2097152000},
+    {"file_name": "PGL12.part4.rar", "mime_type": "application/vnd.rar", "file_id": "BQACAgQAAx0CS2Z5_gACFT1jCSude6I3SCu2hyD5i56zQPP4xAAC9Q4AAtc4SVBPWRC_ELSIiikE", "file_unique_id": "AgAD9Q4AAtc4SVA", "file_size": 1179943791}
 ]
