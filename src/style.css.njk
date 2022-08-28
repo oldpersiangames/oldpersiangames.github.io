@@ -380,6 +380,21 @@ position:relative
 	text-align: left;
 }
 
+.contributors-group {
+   margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    background: #fff;
+    border: 1px solid #000;
+    font-weight: 700;
+    color: #000;
+    display: flow-root;
+    background: #f5c373;
+}
+
+.contributors-group img {
+  width:200px;height:100px;float: left;
+}
+
 @media (max-width: 480px) {
 .game-infobox {
   margin: 0;
@@ -401,6 +416,14 @@ position:relative
 .join-channel .join {
 	text-align: center;
 }
+
+.contributors-group img {
+    width: 100%;
+    height: auto;
+    float: none;
+    display: block;
+}
+
 }
 
 
@@ -565,5 +588,6 @@ ul.defects a {
   width: 200px;
   font-size: 90%;
 }
+
 
 {% endset %}{{ css | cssmin | safe }}
