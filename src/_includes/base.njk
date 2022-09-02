@@ -3,117 +3,138 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{% if game %}{% set title = game | genGameObjectTitle %}{% else %}
-  {# if title %}{% set title = title + " - " %}{% else %}{% set title = "" %}{% endif %}{% set title = title + site.title #}
-  {% if title %}{% else %}{% set title = site.title %}{% endif %}
-{% endif %}
-{% if game %}{% set description = game | genGameObjectTitle %}{% else %}{% if description %}{% else %}{% set description = site.description %}{% endif %}{% endif %}
-<title>{{ title }}</title>
-<meta name="description" content="{{ description }}">
-<meta name="robots" content="index,follow">
-
-<link rel="canonical" href="{{ site.url }}{{ page.url | url }}">
-{% if game %}
-{% if game.photos | length %}
-{% set pageImage = site.url + (game | getFirstPhotoPath) %}
-{% endif %}
-{% else %}
-{% set pageImage = site.url + "/OPG.jpg" %}
-{% endif %}
-
-{% if pageImage %}
-<meta name="thumbnail" content="{{ pageImage }}" />
-{% endif %}
-<meta property="og:title" content="{{ title }}">
-<meta property="og:locale" content="fa_IR">
-<meta property="og:type" content="{% if game %}game{% else %}website{% endif %}">
-
-<meta property="og:url" content="{{ site.url }}{{ page.url | url }}">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:description" content="{{ description }}">
-{% if pageImage %}
-<meta property="og:image" content="{{ pageImage }}">
-{% endif %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@alihardan76">
-<meta name="twitter:url" content="{{ site.url }}{{ page.url | url }}">
-<meta name="twitter:title" content="{{ title }}">
-<meta name="twitter:description" content="{{ description }}">
-{% if pageImage %}
-<meta name="twitter:image" content="{{ pageImage }}">
-{% endif %}
-    {% if datatables %}
-    <link rel="stylesheet" type="text/css" href="/datatables.min.css"/>
-    <script type="text/javascript" src="/scripts.js"></script>
+    {% if game %}{% set title = game | genGameObjectTitle %}
+    {% else %}
+      {# if title %}{% set title = title + " - " %}{% else %}{% set title = "" %}{% endif %}{% set title = title + site.title #}
+      {% if title %}
+      {% else %}{% set title = site.title %}
+      {% endif %}
     {% endif %}
-<link rel="stylesheet" type="text/css" href="/style.css" />
-{# <script src="//cdn.jsdelivr.net/npm/eruda"></script> #}
-{# <script>eruda.init();</script> #}
-  {% favicon './src/favicon.png' %}
+    {% if game %}{% set description = game | genGameObjectTitle %}
+    {% else %}
+      {% if description %}
+      {% else %}{% set description = site.description %}
+      {% endif %}
+    {% endif %}
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description }}">
+    <meta name="robots" content="index,follow">
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | url }}">
+    {% if game %}
+      {% if game.photos | length %}
+        {% set pageImage = site.url + (game | getFirstPhotoPath) %}
+      {% endif %}
+    {% else %}
+      {% set pageImage = site.url + "/OPG.jpg" %}
+    {% endif %}
+
+    {% if pageImage %}
+      <meta name="thumbnail" content="{{ pageImage }}"/>
+    {% endif %}
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:locale" content="fa_IR">
+    <meta property="og:type" content="{% if game %}game{% else %}website{% endif %}">
+
+    <meta property="og:url" content="{{ site.url }}{{ page.url | url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:description" content="{{ description }}">
+    {% if pageImage %}
+      <meta property="og:image" content="{{ pageImage }}">
+    {% endif %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@alihardan76">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url | url }}">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    {% if pageImage %}
+      <meta name="twitter:image" content="{{ pageImage }}">
+    {% endif %}
+    {% if datatables %}
+      <link rel="stylesheet" type="text/css" href="/datatables.min.css"/>
+      <script type="text/javascript" src="/scripts.js"></script>
+    {% endif %}
+    <link rel="stylesheet" type="text/css" href="/style.css"/>
+    {# <script src="//cdn.jsdelivr.net/npm/eruda"></script> #}
+    {# <script>eruda.init();</script> #}
+    {% favicon './src/favicon.png' %}
   </head>
   <body>
     <header class="website-header">
-      <div><a href="/">Old Persian Games | بازی‌های فارسی قدیمی</a></div>
+      <div>
+        <a href="/">Old Persian Games | بازی‌های فارسی قدیمی</a>
+      </div>
       <p>{{ site.description }}</p>
-<nav>
-  <a href="/">صفحه اصلی و لیست کامل بازی‌ها</a> |
+      <nav>
+        <a href="/">صفحه اصلی و لیست کامل بازی‌ها</a> |
   <a href="/contribute-guide/">چگونه مشارکت کنیم؟</a> |
   <a href="/guides/">راهنمای نصب بازی‌ها</a> |
   <a href="/blog/">وبلاگ</a>
-</nav>
+      </nav>
     </header>
     <main>
-    {% include "bulletin2.html" %}
-{% if has_modal %}
-<div id="myModal" class="modal">
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">&times;</span>
-      <h2>مشارکت</h2>
-    </div>
-    <div class="modal-body">
-      <p style="text-align:center;font-weight:bold">ازتون سپاسگزاریم که قصد دارید در تکمیل این مجموعه مشارکت کنید!</p>
-        <div style="border:1px solid #000;font-size:90%">
-          {% include "invite.html" %}
+      {% include "bulletin2.html" %}
+      {% if has_modal %}
+        <div id="myModal" class="modal">
+          <div class="modal-content">
+            <div class="modal-header">
+              <span class="close">&times;</span>
+              <h2>مشارکت</h2>
+            </div>
+            <div class="modal-body">
+              <p style="text-align:center;font-weight:bold">ازتون سپاسگزاریم که قصد دارید در تکمیل این مجموعه مشارکت کنید!</p>
+              <div style="border:1px solid #000;font-size:90%">
+                {% include "invite.html" %}
+              </div>
+              <p style="text-align:center">برای توضیحات بیشتر به صفحه‌ی <a href="/contribute-guide/" style="font-weight:bold">«چگونه مشارکت کنیم؟»</a> مراجعه کنید.</p>
+            </div>
+          </div>
         </div>
-        <p style="text-align:center">برای توضیحات بیشتر به صفحه‌ی <a href="/contribute-guide/" style="font-weight:bold">«چگونه مشارکت کنیم؟»</a> مراجعه کنید.</p>
-    </div>
-  </div>
-</div>
-<script>{% set js %}
-// Get the modal
-var modal = document.getElementById("myModal");
+        <script>
+          {% set js %}
+          // Get the modal
+          var modal = document.getElementById("myModal");
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+          // Get the <span> element that closes the modal
+          var span = document.getElementsByClassName("close")[0];
 
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
+          // When the user clicks on <span> (x), close the modal
+          span.onclick = function () {
+            modal.style.display = "none";
+          }
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-{% endset %}{{ js | jsmin | safe }}</script>
-{% endif %}
-{{ content | safe }}
+          // When the user clicks anywhere outside of the modal, close it
+          window.onclick = function (event) {
+            if (event.target == modal) {
+              modal.style.display = "none";
+            }
+          }
+          {% endset %}{{ js | jsmin | safe }}
+        </script>
+      {% endif %}
+      {{ content | safe }}
     </main>
     <footer>
       <p>آخرین بروزرسانی سایت: {% today_date %}</p>
       <p>
-      ارتباط با مدیران: <span dir="ltr"><a href="https://t.me/alihardan">@ALIHARDAN</a></span> <a href="mailto:alihardanc@gmail.com">(ایمیل)</a>، <span dir="ltr"><a href="https://t.me/AG_e_e_kA">@AG_e_e_kA</a></span> <a href="mailto:alirezash796@gmail.com">(ایمیل)</a><br>
+      ارتباط با مدیران: <span dir="ltr">
+          <a href="https://t.me/alihardan">@ALIHARDAN</a>
+        </span>
+        <a href="mailto:alihardanc@gmail.com">(ایمیل)</a>، <span dir="ltr">
+          <a href="https://t.me/AG_e_e_kA">@AG_e_e_kA</a>
+        </span>
+        <a href="mailto:alirezash796@gmail.com">(ایمیل)</a><br>
+      ارتباط با مدیر گروه <a href="/about/" style="color:#f5c373">نسخه‌ی فارسی</a>: <span dir="ltr">
+          <a href="https://t.me/MJSAYR">@MJSAYR</a>
+        </span><br>
       این وبگاه در <a href="https://github.com/oldpersiangames/oldpersiangames.github.io" target="_blank">گیت‌هاب</a> میزبانی می‌شود.
     </p>
-    <p style="font-size:0.8em">محتوای این وبسایت تحت مجوز <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank">CC Attribution-Share Alike 4.0 International</a> در دسترس قرار دارد؛ مگر آثار بایگانی شده که تحت کپی‌رایت ناشران و تولیدکنندگان هستند. این پایگاه صرفاً جهت نگهداری و آرشیو آثار قدیمی فعالیت می‌کند و پایبند به کپی‌رایت است.<br>در صورت عدم رضایت صاحب حق، فایل در دسترس قرار نمی‌گیرد. برای اعلام وضعیت حقوقی آثار خود با ما در تماس باشید.</p>
-    <p style="font-size:0.8em">بر اساس مجوز CC Attribution-Share Alike 4.0 International، کپی‌برداری از محتوای این پایگاه تنها با ذکر منبع مجاز است.</p>
-    <p>
-      <a href="/contributors/">مشارکت‌کنندگان</a> |
+      <p style="font-size:0.8em">محتوای این وبسایت تحت مجوز <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank">CC Attribution-Share Alike 4.0 International</a> در دسترس قرار دارد؛ مگر آثار بایگانی شده که تحت کپی‌رایت ناشران و تولیدکنندگان هستند. این پایگاه صرفاً جهت نگهداری و آرشیو آثار قدیمی فعالیت می‌کند و پایبند به کپی‌رایت است.<br>در صورت عدم رضایت صاحب حق، فایل در دسترس قرار نمی‌گیرد. برای اعلام وضعیت حقوقی آثار خود با ما در تماس باشید.</p>
+      <p style="font-size:0.8em">بر اساس مجوز CC Attribution-Share Alike 4.0 International، کپی‌برداری از محتوای این پایگاه تنها با ذکر منبع مجاز است.</p>
+      <p>
+        <a href="/contributors/">مشارکت‌کنندگان</a> |
       <a href="/about/">درباره</a>
-    </p>
+      </p>
     </footer>
   </body>
 </html>
