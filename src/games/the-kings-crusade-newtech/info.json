@@ -1,63 +1,69 @@
 {
-  "title": [
-    "The Kings' Crusade"
-  ],
-  "titlefa": [
-    "پادشاه شیردل"
-  ],
-  "producer": [
-    "newtech"
-  ],
-  "publisher": [
-    "newtech"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-03T17:41:10.511Z",
-  "updated_at": "2022-09-03T17:41:10.511Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Saeid_gm66",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Saeid_gm66"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-03T17:41:10.511Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "the-kings-crusade-newtech",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "newtech"
+    ],
+    "publisher": [
+        "newtech"
+    ],
+    "release_date": [
+        {
+            "date": "2012-11-06",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "The Kings' Crusade"
+    ],
+    "titlefa": [
+        "پادشاه شیردل"
+    ],
+    "updated_at": "2022-09-03T17:41:10.511Z"
 }
