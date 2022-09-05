@@ -1,69 +1,53 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game"
-            ],
-            "username": "Saeid_gm66"
-        },
-        {
-            "contribute": [
-                "cover",
-                "details"
-            ],
-            "username": "AG_e_e_kA"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "created_at": "2022-09-05T20:58:19.080Z",
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": true,
-            "iranian": false,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "sniper-art-of-victory-vnv",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [],
-    "producer": [
-        "vnv"
-    ],
-    "publisher": [
-        "vnv"
-    ],
-    "release_date": [
-        {
-            "date": "2008-07-18",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "CD"
-    ],
-    "selling": false,
-    "title": [
-        "Sniper: Art of Victory"
-    ],
-    "titlefa": [
-        "تک تیرانداز: هنر پیروزی"
-    ],
-    "updated_at": "2022-09-05T20:58:19.080Z"
+  "contributors": [
+    {
+      "contribute": ["game"],
+      "username": "Saeid_gm66"
+    },
+    {
+      "contribute": ["cover", "details"],
+      "username": "AG_e_e_kA"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "created_at": "2022-09-05T20:58:19.080Z",
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": true,
+      "iranian": false,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "ia_id": "sniper-art-of-victory-vnv",
+  "links": [],
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 0
+    }
+  ],
+  "no_of_discs": [1],
+  "platform": ["Windows"],
+  "price": [],
+  "producer": ["vnv"],
+  "publisher": ["vnv"],
+  "release_date": [
+    {
+      "date": "2008-07-18",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["CD"],
+  "selling": false,
+  "title": ["Sniper: Art of Victory"],
+  "titlefa": ["تک تیرانداز: هنر پیروزی"],
+  "updated_at": "2022-09-05T20:58:19.080Z"
 }
