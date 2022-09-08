@@ -1,64 +1,70 @@
 {
-  "title": [
-    "Penumbra: Overture"
-  ],
-  "titlefa": [
-    "سایه ها ۱ {فصل اول: در اعماق}"
-  ],
-  "producer": [
-    "sanobar"
-  ],
-  "publisher": [
-    "sanobar"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-08T22:59:22.112Z",
-  "updated_at": "2022-09-08T22:59:22.113Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "BUSK_4",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "BUSK_4"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-08T22:59:22.112Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "penumbra-overture-sanobar",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "sanobar"
+    ],
+    "publisher": [
+        "sanobar"
+    ],
+    "release_date": [
+        {
+            "date": "2008-06-08",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Penumbra: Overture"
+    ],
+    "titlefa": [
+        "سایه ها ۱ {فصل اول: در اعماق}"
+    ],
+    "updated_at": "2022-09-08T22:59:22.113Z"
 }
