@@ -1,65 +1,66 @@
 {
-  "title": [
-    "Toy Story 3"
-  ],
-  "titlefa": [
-    "داستان اسباب بازی ۳"
-  ],
-  "producer": [
-    "newtech"
-  ],
-  "publisher": [
-    "newtech"
-  ],
-  "price": [
-    40000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-11T13:17:56.263Z",
-  "updated_at": "2022-09-11T13:17:56.263Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Saeid_gm66",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Saeid_gm66"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-11T13:17:56.263Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "toy-story-3-newtech",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        40000
+    ],
+    "producer": [
+        "newtech"
+    ],
+    "publisher": [
+        "newtech"
+    ],
+    "release_date": [],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Toy Story 3"
+    ],
+    "titlefa": [
+        "داستان اسباب بازی ۳"
+    ],
+    "updated_at": "2022-09-11T13:17:56.263Z"
 }
