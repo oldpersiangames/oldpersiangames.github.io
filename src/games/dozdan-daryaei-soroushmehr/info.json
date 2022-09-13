@@ -1,0 +1,57 @@
+{
+  "title": [
+    "Dozdan Daryaei"
+  ],
+  "titlefa": [
+    "دزدان دریایی"
+  ],
+  "producer": [
+    "soroushmehr"
+  ],
+  "publisher": [
+    "soroushmehr"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-09-13T17:05:29.974Z",
+  "updated_at": "2022-09-13T17:05:29.974Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Aammiirr5732",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
