@@ -1,63 +1,69 @@
 {
-  "title": [
-    "Agatha Christie: Murder on the Orient Express"
-  ],
-  "titlefa": [
-    "هرکول پوآرو: قتل در قطار سریع السیر شرق"
-  ],
-  "producer": [
-    "sarirgame"
-  ],
-  "publisher": [
-    "sarirgame"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-15T16:40:15.767Z",
-  "updated_at": "2022-09-15T16:40:15.767Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "mhkaaaa",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "mhkaaaa"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-15T16:40:15.767Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "agatha-christie-murder-on-the-orient-express-sarirgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "sarirgame"
+    ],
+    "publisher": [
+        "sarirgame"
+    ],
+    "release_date": [
+        {
+            "date": "2007-11-18",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Agatha Christie: Murder on the Orient Express"
+    ],
+    "titlefa": [
+        "هرکول پوآرو: قتل در قطار سریع السیر شرق"
+    ],
+    "updated_at": "2022-09-15T16:40:15.767Z"
 }
