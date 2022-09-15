@@ -412,5 +412,10 @@
     "titlefa": "بهمن لیزینگ",
     "order": 99
   },
+  "rayanafzarrata": {
+    "title": "Rayan Afzar Rata",
+    "titlefa": "رایان افزار راتا",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
