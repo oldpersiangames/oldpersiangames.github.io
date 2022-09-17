@@ -1,74 +1,80 @@
 {
-  "title": [
-    "Airborne Troops: Countdown to D-Day"
-  ],
-  "titlefa": [
-    "گروهان هوابرد"
-  ],
-  "producer": [
-    "asrebazi",
-    "modern"
-  ],
-  "publisher": [
-    "asrebazi",
-    "modern"
-  ],
-  "price": [
-    40000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-17T16:51:33.457Z",
-  "updated_at": "2022-09-17T16:51:33.457Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Saeid_gm66",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "Pepe_the_Frog_999",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Saeid_gm66"
+        },
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Pepe_the_Frog_999"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-17T16:51:33.457Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "airborne-troops-countdown-to-d-day-asrebazi-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        40000
+    ],
+    "producer": [
+        "asrebazi",
+        "modern"
+    ],
+    "publisher": [
+        "asrebazi",
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "2010-01-05",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Airborne Troops: Countdown to D-Day"
+    ],
+    "titlefa": [
+        "گروهان هوابرد"
+    ],
+    "updated_at": "2022-09-17T16:51:33.457Z"
 }
