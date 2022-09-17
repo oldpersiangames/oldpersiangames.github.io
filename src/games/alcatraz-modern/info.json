@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Alcatraz"
+  ],
+  "titlefa": [
+    "آلکاتراز"
+  ],
+  "producer": [
+    "modern"
+  ],
+  "publisher": [
+    "modern"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-09-17T16:22:55.638Z",
+  "updated_at": "2022-09-17T16:22:55.638Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Pepe_the_Frog_999",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

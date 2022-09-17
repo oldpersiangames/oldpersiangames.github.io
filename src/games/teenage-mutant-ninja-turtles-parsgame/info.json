@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Teenage Mutant Ninja Turtles"
+  ],
+  "titlefa": [
+    "لاک پشت های نینجا"
+  ],
+  "producer": [
+    "parsgame"
+  ],
+  "publisher": [
+    "parsgame"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-09-17T16:29:49.332Z",
+  "updated_at": "2022-09-17T16:29:49.332Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Pepe_the_Frog_999",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
