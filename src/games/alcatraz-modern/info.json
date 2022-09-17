@@ -1,63 +1,69 @@
 {
-  "title": [
-    "Alcatraz"
-  ],
-  "titlefa": [
-    "آلکاتراز"
-  ],
-  "producer": [
-    "modern"
-  ],
-  "publisher": [
-    "modern"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-17T16:22:55.638Z",
-  "updated_at": "2022-09-17T16:22:55.638Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Pepe_the_Frog_999",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Pepe_the_Frog_999"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-17T16:22:55.638Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "alcatraz-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "modern"
+    ],
+    "publisher": [
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "\u0000\u0000\u0000\u0000-\u0000\u0000-\u0000\u0000",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Alcatraz"
+    ],
+    "titlefa": [
+        "آلکاتراز"
+    ],
+    "updated_at": "2022-09-17T16:22:55.638Z"
 }
