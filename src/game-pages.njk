@@ -65,7 +65,7 @@ permalink: "games/{{ game.id }}/"
         <tr>
             <th scope="row">سکو(ها)</th>
             <td>
-            {%- for platform in game.platform -%}{% if platform == "Android" %}اندروید{% endif %}{% if platform == "Windows" %}ویندوز{% endif %}{% if platform == "PS2" %}پلی‌استیشن ۲{% endif %}{% if platform == "Xbox 360" %}اکس‌باکس ۳۶۰{% endif %}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}
+            {%- for platform in game.platform -%}{% if platform == "Android" %}اندروید{% endif %}{% if platform == "Windows" %}ویندوز{% endif %}{% if platform == "PS1" %}پلی‌استیشن ۱{% endif %}{% if platform == "PS2" %}پلی‌استیشن ۲{% endif %}{% if platform == "Xbox 360" %}اکس‌باکس ۳۶۰{% endif %}{{ '' if loop.last else "<br>" | safe }}{%- endfor -%}
             </td>
         </tr>
         {% endif %}
