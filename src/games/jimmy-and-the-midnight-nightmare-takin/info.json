@@ -1,63 +1,69 @@
 {
-  "title": [
-    "Jimmy and the Midnight Nightmare"
-  ],
-  "titlefa": [
-    "جیمی و کابوس نیمه شب"
-  ],
-  "producer": [
-    "takin"
-  ],
-  "publisher": [
-    "takin"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-18T13:55:39.504Z",
-  "updated_at": "2022-09-18T13:55:39.504Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Pepe_the_Frog_999",
-      "contribute": [
-        "game"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Pepe_the_Frog_999"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-18T13:55:39.504Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "jimmy-and-the-midnight-nightmare-takin",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "takin"
+    ],
+    "publisher": [
+        "takin"
+    ],
+    "release_date": [
+        {
+            "date": "2013-04-30",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Jimmy and the Midnight Nightmare"
+    ],
+    "titlefa": [
+        "جیمی و کابوس نیمه شب"
+    ],
+    "updated_at": "2022-09-18T13:55:39.504Z"
 }
