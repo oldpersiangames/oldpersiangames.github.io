@@ -417,5 +417,10 @@
     "titlefa": "رایان افزار راتا",
     "order": 99
   },
+  "takin": {
+    "title": "Takin",
+    "titlefa": "تکین",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
