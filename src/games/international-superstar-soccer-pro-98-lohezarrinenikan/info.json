@@ -1,64 +1,49 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover"
-            ],
-            "username": "Mahdi_Jafarzadeh"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "created_at": "2022-09-18T14:19:34.183Z",
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": true,
-            "iranian": false,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "international-superstar-soccer-pro-98-lohezarrinenikan",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "PS1"
-    ],
-    "price": [],
-    "producer": [
-        "lohezarrinenikan"
-    ],
-    "publisher": [
-        "lohezarrinenikan"
-    ],
-    "release_date": [
-        {
-            "date": "2006-01-01",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "CD"
-    ],
-    "selling": false,
-    "title": [
-        "International Superstar Soccer Pro 98",
-        "Winning Eleven 3"
-    ],
-    "titlefa": [
-        "یازده برنده ۳ با گزارش عادل فردوسی پور"
-    ],
-    "updated_at": "2022-09-18T14:19:34.183Z"
+  "contributors": [
+    {
+      "contribute": ["game"],
+      "username": "Mahdi_Jafarzadeh"
+    },
+    {
+      "contribute": ["cover"],
+      "username": "thehosseinxo"
+    },
+
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "created_at": "2022-09-18T14:19:34.183Z",
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": true,
+      "iranian": false,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "ia_id": "international-superstar-soccer-pro-98-lohezarrinenikan",
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [1],
+  "platform": ["PS1"],
+  "price": [],
+  "producer": ["lohezarrinenikan"],
+  "publisher": ["lohezarrinenikan"],
+  "release_date": [
+    {
+      "date": "2006-01-01",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["CD"],
+  "selling": false,
+  "title": ["International Superstar Soccer Pro 98", "Winning Eleven 3"],
+  "titlefa": ["یازده برنده ۳ با گزارش عادل فردوسی پور"],
+  "updated_at": "2022-09-18T14:19:34.183Z"
 }
