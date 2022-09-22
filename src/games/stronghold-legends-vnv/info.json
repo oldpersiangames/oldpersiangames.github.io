@@ -1,72 +1,80 @@
 {
-  "title": [
-    "Stronghold Legends"
-  ],
-  "titlefa": [
-    "قلعه: افسانه‌ها"
-  ],
-  "producer": [
-    "vnv"
-  ],
-  "publisher": [
-    "vnv"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-09-22T21:14:21.847Z",
-  "updated_at": "2022-09-22T21:14:21.847Z",
-  "manuals": [
-    {
-      "release_type": "printed",
-      "no_of_pages": 0,
-      "files": ["Stronghold Legends Manual (VNV).pdf"]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "Saeid_gm66",
-      "contribute": [
-        "game",
-        "cover",
-        "manual"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "manual",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "manual"
+            ],
+            "username": "Saeid_gm66"
+        },
+        {
+            "contribute": [
+                "cover",
+                "manual",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-09-22T21:14:21.847Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "stronghold-legends-vnv",
+    "links": [],
+    "manuals": [
+        {
+            "files": [
+                "Stronghold Legends Manual (VNV).pdf"
+            ],
+            "no_of_pages": 0,
+            "release_type": "printed"
+        }
+    ],
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "vnv"
+    ],
+    "publisher": [
+        "vnv"
+    ],
+    "release_date": [
+        {
+            "date": "2008-03-19",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Stronghold Legends"
+    ],
+    "titlefa": [
+        "قلعه: افسانه‌ها"
+    ],
+    "updated_at": "2022-09-22T21:14:21.847Z"
 }
