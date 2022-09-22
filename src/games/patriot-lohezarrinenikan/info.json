@@ -1,0 +1,71 @@
+{
+  "title": [
+    "Patriot"
+  ],
+  "titlefa": [
+    "میهن پرست"
+  ],
+  "producer": [
+    "lohezarrinenikan"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [
+    {
+      "date": "2010-09-03",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-09-22T22:41:15.357Z",
+  "updated_at": "2022-09-22T22:41:15.357Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Saeid_gm66",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
