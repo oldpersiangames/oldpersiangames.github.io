@@ -1,73 +1,52 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover"
-            ],
-            "username": "TakPar_ArtWorks"
-        },
-        {
-            "contribute": [
-                "cover",
-                "details"
-            ],
-            "username": "AG_e_e_kA"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "created_at": "2022-10-24T17:06:08.060Z",
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": true,
-            "iranian": false,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "command-and-conquer-generals-lohezarrinenikan",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [
-        35000
-    ],
-    "producer": [
-        "lohezarrinenikan"
-    ],
-    "publisher": [
-        "lohezarrinenikan"
-    ],
-    "release_date": [
-        {
-            "date": "2010-05-04",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "DVD"
-    ],
-    "selling": false,
-    "title": [
-        "Command & Conquer: Generals"
-    ],
-    "titlefa": [
-        "فرمان و تسخیر: ژنرال‌ها",
-        "جنرال"
-    ],
-    "updated_at": "2022-10-24T17:06:08.060Z"
+  "contributors": [
+    {
+      "contribute": ["game", "cover"],
+      "username": "TakPar_ArtWorks"
+    },
+    {
+      "contribute": ["cover", "details"],
+      "username": "AG_e_e_kA"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "created_at": "2022-10-24T17:06:08.060Z",
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": true,
+      "iranian": false,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "links": [
+    {
+      "title": "خرید از سایت سازنده",
+      "url": "https://afm-rayan.ir/"
+    }
+  ],
+  "manuals": false,
+  "no_of_discs": [1],
+  "platform": ["Windows"],
+  "price": [35000],
+  "producer": ["lohezarrinenikan"],
+  "publisher": ["lohezarrinenikan"],
+  "release_date": [
+    {
+      "date": "2010-05-04",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["DVD"],
+  "selling": true,
+  "title": ["Command & Conquer: Generals"],
+  "titlefa": ["فرمان و تسخیر: ژنرال‌ها", "جنرال"],
+  "updated_at": "2022-10-24T17:06:08.060Z"
 }
