@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Hostage"
-  ],
-  "titlefa": [
-    "گروگان"
-  ],
-  "producer": [
-    "modern"
-  ],
-  "publisher": [
-    "modern"
-  ],
-  "price": [
-    60000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-10-26T19:40:13.239Z",
-  "updated_at": "2022-10-26T19:40:13.239Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "saeed0382",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "saeed0382"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-10-26T19:40:13.239Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "hostage-modern",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        60000
+    ],
+    "producer": [
+        "modern"
+    ],
+    "publisher": [
+        "modern"
+    ],
+    "release_date": [
+        {
+            "date": "2011-06-27",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Hostage"
+    ],
+    "titlefa": [
+        "گروگان"
+    ],
+    "updated_at": "2022-10-26T19:40:13.239Z"
 }

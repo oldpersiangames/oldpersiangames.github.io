@@ -1,58 +1,25 @@
 [
-  {
-    "file_name": "Hostage Modern_1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVk2NZjBtbfbyT7IcTOIk0lyz4vuueAAJgDQAC0EhYUWhIiUdf5xe7AQAHbQADKgQ",
-      "file_unique_id": "AQADYA0AAtBIWFFy",
-      "file_size": 28367,
-      "width": 236,
-      "height": 320
+    {
+        "date": "2022-10-26 20:50:47",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFZpjWZ2nfCdf2wABMhoRG5eMMJzljToAAkMLAALxWMlSURHtkknYCU4eBA",
+        "file_name": "hostage-modern-photos.zip",
+        "file_size": 2169843,
+        "file_unique_id": "AgADQwsAAvFYyVI",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZNjWYwbW328k-yHEziJNJcs-L7rngACYA0AAtBIWFFoSIlHX-cXuyoE",
-    "file_unique_id": "AgADYA0AAtBIWFE",
-    "file_size": 722684
-  },
-  {
-    "file_name": "Hostage Modern_2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVlGNZjBt7vPmdu6Y7lvJ4f3L4P0_bAAJfDQAC0EhYUXEomtui6kyAAQAHbQADKgQ",
-      "file_unique_id": "AQADXw0AAtBIWFFy",
-      "file_size": 29808,
-      "width": 234,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFZZjWYyyl2KjtE9G-ssEt-e025lqcQAC6gsAAuxoyFJr61lARYzkhyoE",
+        "file_name": "Gerogan.part1.rar",
+        "file_size": 2097152000,
+        "file_unique_id": "AgAD6gsAAuxoyFI",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZRjWYwbe7z5nbumO5byeH9y-D9P2wACXw0AAtBIWFFxKJrboupMgCoE",
-    "file_unique_id": "AgADXw0AAtBIWFE",
-    "file_size": 932482
-  },
-  {
-    "file_name": "Hostage Modern_3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVlWNZjBuwDSxaWb9JZuvRgt-MWVhJAAJhDQAC0EhYUZKaxv7cIy4CAQAHbQADKgQ",
-      "file_unique_id": "AQADYQ0AAtBIWFFy",
-      "file_size": 21403,
-      "width": 297,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZVjWYwbsA0sWlm_SWbr0YLfjFlYSQACYQ0AAtBIWFGSmsb-3CMuAioE",
-    "file_unique_id": "AgADYQ0AAtBIWFE",
-    "file_size": 514307
-  },
-  {
-    "file_name": "Gerogan.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZZjWYyyl2KjtE9G-ssEt-e025lqcQAC6gsAAuxoyFJr61lARYzkhyoE",
-    "file_unique_id": "AgAD6gsAAuxoyFI",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "Gerogan.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZdjWYyya5zWFXmqZPV2FmeFWrqWuAAC7AsAAuxoyFIfDXcCJ2sz9ioE",
-    "file_unique_id": "AgAD7AsAAuxoyFI",
-    "file_size": 1735944559
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFZdjWYyya5zWFXmqZPV2FmeFWrqWuAAC7AsAAuxoyFIfDXcCJ2sz9ioE",
+        "file_name": "Gerogan.part2.rar",
+        "file_size": 1735944559,
+        "file_unique_id": "AgAD7AsAAuxoyFI",
+        "mime_type": "application/x-rar-compressed"
+    }
 ]
