@@ -1,19 +1,18 @@
 {
   "title": [
-    "Hostage"
+    "Over the Hedge"
   ],
   "titlefa": [
-    "گروگان"
+    "آن سوی پرچین"
   ],
   "producer": [
-    "modern"
+    "asrebazi",
+    "newtech"
   ],
   "publisher": [
-    "modern"
+    "newtech"
   ],
-  "price": [
-    60000
-  ],
+  "price": [],
   "release_date": [],
   "released_on": [
     "DVD"
@@ -27,25 +26,30 @@
     {
       "title": [],
       "titlefa": [],
-      "dubbed": false,
+      "dubbed": true,
       "modified": false,
       "subtitle": false,
-      "iranian": true
+      "iranian": false
     }
   ],
   "selling": false,
   "platform": [
     "Windows"
   ],
-  "created_at": "2022-10-26T19:40:13.239Z",
-  "updated_at": "2022-10-26T19:40:13.239Z",
+  "created_at": "2022-10-26T20:22:38.213Z",
+  "updated_at": "2022-10-26T20:22:38.213Z",
   "manuals": false,
   "contributors": [
     {
       "username": "Saeid_gm66",
       "contribute": [
         "game",
-        "cover",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
         "details"
       ]
     },
