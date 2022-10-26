@@ -1,60 +1,44 @@
 {
-  "title": [
-    "Hostage"
+  "contributors": [
+    {
+      "contribute": ["game", "cover", "details"],
+      "username": "Saeid_gm66"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
   ],
-  "titlefa": [
-    "گروگان"
-  ],
-  "producer": [
-    "modern"
-  ],
-  "publisher": [
-    "modern"
-  ],
-  "price": [
-    60000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
+  "created_at": "2022-10-26T19:40:13.239Z",
   "defects": [],
   "description": "",
   "games": [
     {
-      "title": [],
-      "titlefa": [],
       "dubbed": false,
+      "iranian": true,
       "modified": false,
       "subtitle": false,
-      "iranian": true
+      "title": [],
+      "titlefa": []
     }
   ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-10-26T19:40:13.239Z",
-  "updated_at": "2022-10-26T19:40:13.239Z",
+  "ia_id": "hostage-modern",
+  "links": [],
   "manuals": false,
-  "contributors": [
+  "no_of_discs": [1],
+  "platform": ["Windows"],
+  "price": [60000],
+  "producer": ["modern"],
+  "publisher": ["modern"],
+  "release_date": [
     {
-      "username": "Saeid_gm66",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "date": "2011-06-27",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "links": []
+  "released_on": ["DVD"],
+  "selling": false,
+  "title": ["Hostage"],
+  "titlefa": ["گروگان"],
+  "updated_at": "2022-10-26T19:40:13.239Z"
 }
