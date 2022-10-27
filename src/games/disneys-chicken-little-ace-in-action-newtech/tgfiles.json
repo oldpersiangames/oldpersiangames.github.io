@@ -1,65 +1,32 @@
 [
-  {
-    "file_name": "Chicken Little Ace in Action NewTech_1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVoWNav16aNJZ9sc_YH4daBwFZ2dpBAALtDgACRCMwUVrG8mCqWT_UAQAHbQADKgQ",
-      "file_unique_id": "AQAD7Q4AAkQjMFFy",
-      "file_size": 31566,
-      "width": 250,
-      "height": 320
+    {
+        "date": "2022-10-27 18:07:49",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFahjWsj1gLamm1himK-vyBY_QL1NKQACLg4AAvFY2VKD5DNJuEZv4R4E",
+        "file_name": "disneys-chicken-little-ace-in-action-newtech-photos.zip",
+        "file_size": 2128517,
+        "file_unique_id": "AgADLg4AAvFY2VI",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaFjWr9emjSWfbHP2B-HWgcBWdnaQQAC7Q4AAkQjMFFaxvJgqlk_1CoE",
-    "file_unique_id": "AgAD7Q4AAkQjMFE",
-    "file_size": 734462
-  },
-  {
-    "file_name": "Chicken Little Ace in Action NewTech_2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVomNav141c7x-YK0LpgceAAExeCkR6wAC7g4AAkQjMFGbG4pAJq7DSQEAB20AAyoE",
-      "file_unique_id": "AQAD7g4AAkQjMFFy",
-      "file_size": 28918,
-      "width": 251,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFaRjWr9qKsH6oim9_BJ599myLw4BSwACZw0AArrSKVGWs2t9ehzMYioE",
+        "file_name": "Chicken Little.part1.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADZw0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaJjWr9eNXO8fmCtC6YHHgABMXgpEesAAu4OAAJEIzBRmxuKQCauw0kqBA",
-    "file_unique_id": "AgAD7g4AAkQjMFE",
-    "file_size": 697231
-  },
-  {
-    "file_name": "Chicken Little Ace in Action NewTech_3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVo2Nav17Q6HQVI6jhPCEAAdj0CuhCDgAC7A4AAkQjMFGM2zBrccW2EgEAB20AAyoE",
-      "file_unique_id": "AQAD7A4AAkQjMFFy",
-      "file_size": 28128,
-      "width": 320,
-      "height": 301
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFaVjWr9qgCK399g8O1UmEwn3w5I7rwACaA0AArrSKVFwYFHrSounuyoE",
+        "file_name": "Chicken Little.part2.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADaA0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaNjWr9e0Oh0FSOo4TwhAAHY9AroQg4AAuwOAAJEIzBRjNswa3HFthIqBA",
-    "file_unique_id": "AgAD7A4AAkQjMFE",
-    "file_size": 696322
-  },
-  {
-    "file_name": "Chicken Little.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaRjWr9qKsH6oim9_BJ599myLw4BSwACZw0AArrSKVGWs2t9ehzMYioE",
-    "file_unique_id": "AgADZw0AArrSKVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "Chicken Little.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaVjWr9qgCK399g8O1UmEwn3w5I7rwACaA0AArrSKVFwYFHrSounuyoE",
-    "file_unique_id": "AgADaA0AArrSKVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "Chicken Little.part3.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaZjWr9qFsVtfSuKN_7EWx0LZ8-_fwACaw0AArrSKVEdrdV_fgrbJioE",
-    "file_unique_id": "AgADaw0AArrSKVE",
-    "file_size": 104522803
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFaZjWr9qFsVtfSuKN_7EWx0LZ8-_fwACaw0AArrSKVEdrdV_fgrbJioE",
+        "file_name": "Chicken Little.part3.rar",
+        "file_size": 104522803,
+        "file_unique_id": "AgADaw0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
+    }
 ]
