@@ -1,0 +1,66 @@
+{
+  "title": [
+    "The Mission of Destruction"
+  ],
+  "titlefa": [
+    "ماموریت انهدام"
+  ],
+  "producer": [
+    "newtech"
+  ],
+  "publisher": [
+    "newtech"
+  ],
+  "price": [
+    40000
+  ],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-10-27T17:24:31.651Z",
+  "updated_at": "2022-10-27T17:24:31.651Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Saeid_gm66",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
