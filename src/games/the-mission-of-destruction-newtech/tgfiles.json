@@ -1,65 +1,32 @@
 [
-  {
-    "file_name": "The Mission of Destruction_1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVm2Navp7YAwyHT2VOIJgy9FIEZ7nPAAI_DwACRCMwUVJldT26NLVCAQAHbQADKgQ",
-      "file_unique_id": "AQADPw8AAkQjMFFy",
-      "file_size": 29566,
-      "width": 229,
-      "height": 320
+    {
+        "date": "2022-10-27 17:34:51",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFadjWsE7x4XaaSq18GxQcl-JJ0ISqQACLA4AAvFY2VK4xWrwC1YX_B4E",
+        "file_name": "the-mission-of-destruction-newtech-photos.zip",
+        "file_size": 2053059,
+        "file_unique_id": "AgADLA4AAvFY2VI",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZtjWr6e2AMMh09lTiCYMvRSBGe5zwACPw8AAkQjMFFSZXU9ujS1QioE",
-    "file_unique_id": "AgADPw8AAkQjMFE",
-    "file_size": 799899
-  },
-  {
-    "file_name": "The Mission of Destruction_2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVnGNavp4EIzWuMWzkvE76AAH4jC_qLAACPQ8AAkQjMFE1M7NLHHJgawEAB20AAyoE",
-      "file_unique_id": "AQADPQ8AAkQjMFFy",
-      "file_size": 27293,
-      "width": 232,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFZ5jWr6o9wKlvMcqll8kbciV8Xd6tgACdw8AArrSMVGxdRXIIsi8gioE",
+        "file_name": "The Mission of Destruction NewTech.part1.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADdw8AArrSMVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZxjWr6eBCM1rjFs5LxO-gAB-Iwv6iwAAj0PAAJEIzBRNTOzSxxyYGsqBA",
-    "file_unique_id": "AgADPQ8AAkQjMFE",
-    "file_size": 672750
-  },
-  {
-    "file_name": "The Mission of Destruction_3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVnWNavp7pjoegznuNGQxqGbzapVAzAAI-DwACRCMwUc7hh-xW6VNaAQAHbQADKgQ",
-      "file_unique_id": "AQADPg8AAkQjMFFy",
-      "file_size": 26683,
-      "width": 311,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFZ9jWr6odBuzvHRz3Jeq9IyB2ziAcgACeQ8AArrSMVGOjQECqHAXvSoE",
+        "file_name": "The Mission of Destruction NewTech.part2.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADeQ8AArrSMVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZ1jWr6e6Y6HoM57jRkMahm82qVQMwACPg8AAkQjMFHO4YfsVulTWioE",
-    "file_unique_id": "AgADPg8AAkQjMFE",
-    "file_size": 579968
-  },
-  {
-    "file_name": "The Mission of Destruction NewTech.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZ5jWr6o9wKlvMcqll8kbciV8Xd6tgACdw8AArrSMVGxdRXIIsi8gioE",
-    "file_unique_id": "AgADdw8AArrSMVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "The Mission of Destruction NewTech.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFZ9jWr6odBuzvHRz3Jeq9IyB2ziAcgACeQ8AArrSMVGOjQECqHAXvSoE",
-    "file_unique_id": "AgADeQ8AArrSMVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "The Mission of Destruction NewTech.part3.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaBjWr6oxvD-ZDSb3xW6HAMUI11sRQACeg8AArrSMVGheER4m84xIyoE",
-    "file_unique_id": "AgADeg8AArrSMVE",
-    "file_size": 352708691
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFaBjWr6oxvD-ZDSb3xW6HAMUI11sRQACeg8AArrSMVGheER4m84xIyoE",
+        "file_name": "The Mission of Destruction NewTech.part3.rar",
+        "file_size": 352708691,
+        "file_unique_id": "AgADeg8AArrSMVE",
+        "mime_type": "application/x-rar-compressed"
+    }
 ]
