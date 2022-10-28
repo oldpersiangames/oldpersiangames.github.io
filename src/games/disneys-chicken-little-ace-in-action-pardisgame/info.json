@@ -1,58 +1,64 @@
 {
-  "title": [
-    "Disney's Chicken Little: Ace in Action"
-  ],
-  "titlefa": [
-    "جوجه کوچولو ۲: نبرد ایس قهرمان"
-  ],
-  "producer": [
-    "pardisgame"
-  ],
-  "publisher": [
-    "pardisgame"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "PS2"
-  ],
-  "created_at": "2022-10-28T16:55:53.966Z",
-  "updated_at": "2022-10-28T16:55:53.966Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-10-28T16:55:53.966Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "disneys-chicken-little-ace-in-action-pardisgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "PS2"
+    ],
+    "price": [],
+    "producer": [
+        "pardisgame"
+    ],
+    "publisher": [
+        "pardisgame"
+    ],
+    "release_date": [
+        {
+            "date": "2008-04-30",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Disney's Chicken Little: Ace in Action"
+    ],
+    "titlefa": [
+        "جوجه کوچولو ۲: نبرد ایس قهرمان"
+    ],
+    "updated_at": "2022-10-28T16:55:53.966Z"
 }
