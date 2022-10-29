@@ -1,70 +1,52 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover"
-            ],
-            "username": "godof_warr"
-        },
-        {
-            "contribute": [
-                "cover",
-                "details"
-            ],
-            "username": "AG_e_e_kA"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": false,
-            "iranian": true,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "golhaye-behesht-daneshbank",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [
-        38000
-    ],
-    "producer": [
-        "daneshbank"
-    ],
-    "publisher": [
-        "daneshbank"
-    ],
-    "release_date": [
-        {
-            "date": "2005-10-22",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "CD"
-    ],
-    "selling": false,
-    "title": [
-        "Golhaye Behesht"
-    ],
-    "titlefa": [
-        "گلهای بهشت ۱"
-    ]
+  "contributors": [
+    {
+      "contribute": ["details"],
+      "username": "Raykar1381"
+    },
+    {
+      "contribute": ["game", "cover"],
+      "username": "godof_warr"
+    },
+    {
+      "contribute": ["cover", "details"],
+      "username": "AG_e_e_kA"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "defects": [
+    "ایمیج دیسک نشر قدیمی‌تر این اثر که شامل بخش‌های متفاوتی بود مفقود است. دیسکش را دارید؟"
+  ],
+  "description": "",
+  "games": [
+    {
+      "dubbed": false,
+      "iranian": true,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "ia_id": "golhaye-behesht-daneshbank",
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [1],
+  "platform": ["Windows"],
+  "price": [38000],
+  "producer": ["daneshbank"],
+  "publisher": ["daneshbank"],
+  "release_date": [
+    {
+      "date": "2005-10-22",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["CD"],
+  "selling": false,
+  "title": ["Golhaye Behesht"],
+  "titlefa": ["گلهای بهشت ۱"]
 }
