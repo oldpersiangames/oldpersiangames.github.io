@@ -1,16 +1,8 @@
 {
-  "title": [
-    "Mihman-e Nakhandeh"
-  ],
-  "titlefa": [
-    "میهمان ناخوانده"
-  ],
-  "producer": [
-    "nigc"
-  ],
-  "publisher": [
-    "nigc"
-  ],
+  "title": ["Mihman-e Nakhandeh"],
+  "titlefa": ["میهمان ناخوانده"],
+  "producer": ["nigc"],
+  "publisher": ["nigc"],
   "price": [],
   "release_date": [
     {
@@ -18,15 +10,9 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [
-    "فایل‌های دیسک را بصورت غیر ایمیج داریم. دیسک اصلی را دارید؟"
-  ],
+  "released_on": ["CD"],
+  "no_of_discs": [1],
+  "defects": ["فایل‌های دیسک را بصورت غیر ایمیج داریم. دیسک اصلی را دارید؟"],
   "games": [
     {
       "title": [],
@@ -38,23 +24,16 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
-      "username": "sslazio99",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "username": "Raykar1381",
+      "contribute": ["game", "cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [],
