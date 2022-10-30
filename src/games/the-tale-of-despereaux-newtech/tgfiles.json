@@ -1,72 +1,39 @@
 [
-  {
-    "file_name": "The Tale of Despereaux NewTech_1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVq2Ne31U37HVe7Hr8t_3QSrQeDo3VAAKwDQAC0AgwUcmZ3HMzT53TAQAHbQADKgQ",
-      "file_unique_id": "AQADsA0AAtAIMFFy",
-      "file_size": 27052,
-      "width": 249,
-      "height": 320
+    {
+        "date": "2022-10-30 20:48:58",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFbJjXuM6muZMhiS0_pP4qLvLUD0cEAACtA0AAkUr-VLBQ9GJPbQJjR4E",
+        "file_name": "the-tale-of-despereaux-newtech-photos.zip",
+        "file_size": 1870445,
+        "file_unique_id": "AgADtA0AAkUr-VI",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFatjXt9VN-x1Xux6_Lf90Eq0Hg6N1QACsA0AAtAIMFHJmdxzM0-d0yoE",
-    "file_unique_id": "AgADsA0AAtAIMFE",
-    "file_size": 687044
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech_2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVrGNe31U6mg9KanJTcp8qJJh62flRAAKxDQAC0AgwUZKuS5xk8EKSAQAHbQADKgQ",
-      "file_unique_id": "AQADsQ0AAtAIMFFy",
-      "file_size": 28022,
-      "width": 248,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFa5jXt-nnYIIIlj1gp_ern6ieX_2ZgACbQ0AArrSKVENRElfYT1ZKyoE",
+        "file_name": "The Tale of Despereaux NewTech.part1.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADbQ0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFaxjXt9VOpoPSmpyU3KfKiSYetn5UQACsQ0AAtAIMFGSrkucZPBCkioE",
-    "file_unique_id": "AgADsQ0AAtAIMFE",
-    "file_size": 657577
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech_3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIVrWNe31VdkyjQIReWQ00lnt-gaVEVAAKyDQAC0AgwUXYI-Yam4AABggEAB20AAyoE",
-      "file_unique_id": "AQADsg0AAtAIMFFy",
-      "file_size": 24283,
-      "width": 291,
-      "height": 320
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFa9jXt-noQr5HUMZqNZLf2sKSAne_AACbg0AArrSKVHlDBMxOaYH_CoE",
+        "file_name": "The Tale of Despereaux NewTech.part2.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADbg0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFa1jXt9VXZMo0CEXlkNNJZ7foGlRFQACsg0AAtAIMFF2CPmGpuAAAYIqBA",
-    "file_unique_id": "AgADsg0AAtAIMFE",
-    "file_size": 525358
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFa5jXt-nnYIIIlj1gp_ern6ieX_2ZgACbQ0AArrSKVENRElfYT1ZKyoE",
-    "file_unique_id": "AgADbQ0AArrSKVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFa9jXt-noQr5HUMZqNZLf2sKSAne_AACbg0AArrSKVHlDBMxOaYH_CoE",
-    "file_unique_id": "AgADbg0AArrSKVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech.part3.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFbBjXt-nWwdYrviCq_0xnGttxE3BZgACbw0AArrSKVELM9gu5a_ufioE",
-    "file_unique_id": "AgADbw0AArrSKVE",
-    "file_size": 1073741824
-  },
-  {
-    "file_name": "The Tale of Despereaux NewTech.part4.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFbFjXt-neZkZGNjdjO4Z0fGK44NIrAACcA0AArrSKVEyUenbtpixfSoE",
-    "file_unique_id": "AgADcA0AArrSKVE",
-    "file_size": 641196641
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFbBjXt-nWwdYrviCq_0xnGttxE3BZgACbw0AArrSKVELM9gu5a_ufioE",
+        "file_name": "The Tale of Despereaux NewTech.part3.rar",
+        "file_size": 1073741824,
+        "file_unique_id": "AgADbw0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
+    },
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFbFjXt-neZkZGNjdjO4Z0fGK44NIrAACcA0AArrSKVEyUenbtpixfSoE",
+        "file_name": "The Tale of Despereaux NewTech.part4.rar",
+        "file_size": 641196641,
+        "file_unique_id": "AgADcA0AArrSKVE",
+        "mime_type": "application/x-rar-compressed"
+    }
 ]
