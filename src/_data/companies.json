@@ -171,7 +171,7 @@
   },
   "iranianarmy": {
     "title": "Islamic Republic of Iran Army",
-    "titlefa": "ارتش جمهوری اسلامی ایران‎",
+    "titlefa": "ارتش جمهوری اسلامی ایران",
     "order": 99
   },
   "pcgame": { "title": "PC Game", "titlefa": "PC Game", "order": 99 },
@@ -420,6 +420,11 @@
   "takin": {
     "title": "Takin",
     "titlefa": "تکین",
+    "order": 99
+  },
+  "shirazi-jahromi": {
+    "title": "Shirazi, Jahromi",
+    "titlefa": "شیرازی، جهرمی",
     "order": 99
   },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
