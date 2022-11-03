@@ -427,5 +427,10 @@
     "titlefa": "شیرازی، جهرمی",
     "order": 99
   },
+  "pakhshkimia": {
+    "title": "Pakhsh Kimia",
+    "titlefa": "پخش کیمیا",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
