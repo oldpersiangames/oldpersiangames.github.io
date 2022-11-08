@@ -1,0 +1,58 @@
+{
+  "title": [
+    "WWF Raw"
+  ],
+  "titlefa": [
+    "کشتی کج"
+  ],
+  "producer": [
+    "roga"
+  ],
+  "publisher": [
+    "novinsazan"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-11-08T17:53:38.585Z",
+  "updated_at": "2022-11-08T17:53:38.585Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
