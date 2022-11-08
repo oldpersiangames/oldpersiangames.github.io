@@ -4,7 +4,12 @@
   "producer": ["sarirgame"],
   "publisher": ["sarirgame"],
   "price": [],
-  "release_date": [],
+  "release_date": [
+    {
+      "date": "2011-01-08",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
   "released_on": ["CD"],
   "no_of_discs": [2],
   "defects": [],
