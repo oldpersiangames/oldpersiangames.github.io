@@ -25,8 +25,8 @@ def insensitive_glob(pattern):
 def progress(current, total, *args):
     print("Downloading " + dict(args)
           ["file_name"] + ". " + str(current/1024/1024))
-    # total_file_size = dict(args)["file_size"]
-    # print(f"{current * 100 / total_file_size:.1f}%")
+    #total_file_size = dict(args)["file_size"]
+    #print(f"{current * 100 / total_file_size:.1f}%")
 
 
 app = Client(
@@ -51,11 +51,11 @@ tgfilesfile.close()
 
 if not os.path.exists(os.path.expanduser('~/.ia')):
     configure('oldpersiangames@gmail.com',
-              os.environ["ARCHIVEORG"], config_file=os.path.expanduser('~/.ia')
+              os.environ["ARCHIVEORG"], config_file=os.path.expanduser('~/.ia'))
 
-iafiles=get_files(sys.argv[1])
-iafnames=[f.name for f in iafiles]
-rar_to_extract=[]
+iafiles = get_files(sys.argv[1])
+iafnames = [f.name for f in iafiles]
+rar_to_extract = []
 os.mkdir(sys.argv[1] + "/")
 for index, file in enumerate(tgfiles):
     if file["file_name"] in iafnames:
@@ -71,26 +71,26 @@ for index, file in enumerate(tgfiles):
         print("Error on downloading.")
         quit()
 
-tgfiles[:]=[x for x in tgfiles if not x["file_name"].lower().endswith(
+tgfiles[:] = [x for x in tgfiles if not x["file_name"].lower().endswith(
     ('.jpg', ".png", ".bmp"))]  # Remove photos from tgfiles json
 
 
-photosFiles=insensitive_glob(sys.argv[1] + "/" + "*.jpg") + insensitive_glob(
+photosFiles = insensitive_glob(sys.argv[1] + "/" + "*.jpg") + insensitive_glob(
     sys.argv[1] + "/" + "*.png") + insensitive_glob(sys.argv[1] + "/" + "*.bmp")
 if photosFiles:
-    zipObj=ZipFile(sys.argv[1] + "/" + sys.argv[1] + '-photos.zip', 'w')
+    zipObj = ZipFile(sys.argv[1] + "/" + sys.argv[1] + '-photos.zip', 'w')
     for file in photosFiles:
         zipObj.write(file, os.path.basename(file))
         os.remove(file)
     zipObj.close()
-    result=app.send_document(-1001265007102,
+    result = app.send_document(-1001265007102,
                                sys.argv[1] + "/" + sys.argv[1] + '-photos.zip')
-    documentDict=result.document.__dict__
+    documentDict = result.document.__dict__
     documentDict.pop("_client")
     result.edit_caption(json.dumps(
         documentDict, ensure_ascii=False, indent=4, sort_keys=True, default=str))
     tgfiles.insert(0, documentDict)
-    tgfilesfile=open("src/games/" + sys.argv[1] + "/tgfiles.json", "w")
+    tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json", "w")
     tgfilesfile.write(json.dumps(tgfiles, ensure_ascii=False,
                       indent=4, sort_keys=True, default=str))
     tgfilesfile.close()
@@ -106,30 +106,30 @@ if rar_to_extract:
 
     # Move extracted files in sub-folders into root folder:
     import shutil
-    allfiles=list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
-    allfiles=[f for f in allfiles if os.path.isfile(f)]
+    allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
+    allfiles = [f for f in allfiles if os.path.isfile(f)]
     for f in allfiles:
         # If not exists samename file in that place
         if not os.path.isfile(sys.argv[1] + "/" + os.path.basename(f)):
             shutil.move(f, sys.argv[1] + "/")
 
-    files=tgfiles.copy()
-    rar_parts=insensitive_glob(
+    files = tgfiles.copy()
+    rar_parts = insensitive_glob(
         sys.argv[1] + "/" + "*part*.rar") + insensitive_glob(sys.argv[1] + "/" + "*.7z.*")
     # Insert extracted files into files json
     # Get index
     for index, file in enumerate(files):
         if file["file_name"].lower().endswith(('part1.rar', "part01.rar", ".7z.001")):
-            rar_to_extract_index=index
+            rar_to_extract_index = index
             break
     for file in sorted(glob.glob(sys.argv[1] + "/" + "*")):
         # It's file (not folder), and it's new file. add it.
         if os.path.isfile(file) and not [item for item in files if item["file_name"] == os.path.basename(file)]:
             files.insert(rar_to_extract_index, {"file_name": os.path.basename(
                 file), "file_size": os.path.getsize(file)})
-            rar_to_extract_index=rar_to_extract_index + 1
+            rar_to_extract_index = rar_to_extract_index + 1
 
-    files[:]=[x for x in files if not sys.argv[1] + "/" +
+    files[:] = [x for x in files if not sys.argv[1] + "/" +
                 x["file_name"] in rar_parts]  # Remove rar parts from ia-files json
     for filePath in rar_parts:
         os.remove(filePath)
@@ -139,11 +139,11 @@ if rar_to_extract:
             os.remove(file)
 
 
-md=dict(collection='open_source_software', title=sys.argv[1], description=info["title"][0] +
+md = dict(collection='open_source_software', title=sys.argv[1], description=info["title"][0] +
           " (Persian Video Game)\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/games/"+sys.argv[1]+"/", mediatype='software')
 
-allfiles=list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
-allfiles=[f for f in allfiles if os.path.isfile(f)]
+allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
+allfiles = [f for f in allfiles if os.path.isfile(f)]
 
 print("hello")
 print(allfiles)
@@ -162,20 +162,20 @@ print(iafnames)
 
 # If there's nothing to upload or if uploaded succesfully
 if (not allfiles) or upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
-    info["ia_id"]=sys.argv[1]
+    info["ia_id"] = sys.argv[1]
     if rar_to_extract:
-        f=open("src/games/" + sys.argv[1] + "/files.json", "w")
+        f = open("src/games/" + sys.argv[1] + "/files.json", "w")
         f.write(json.dumps(files, ensure_ascii=False,
                 indent=4, sort_keys=True, default=str))
         f.close()
     if not info["release_date"]:
         from iso9660 import Iso9660
-        isos=insensitive_glob(sys.argv[1] + "/*.iso")
+        isos = insensitive_glob(sys.argv[1] + "/*.iso")
         if isos:
-            data=Iso9660.from_file(isos[0])
+            data = Iso9660.from_file(isos[0])
             try:
-                primary_vol_desc_date=data.primary_vol_desc.vol_desc_primary.vol_mod_datetime
-                date=primary_vol_desc_date.year + "-" + \
+                primary_vol_desc_date = data.primary_vol_desc.vol_desc_primary.vol_mod_datetime
+                date = primary_vol_desc_date.year + "-" + \
                     primary_vol_desc_date.month + "-" + primary_vol_desc_date.day
             except:
                 print("Can't get date")
@@ -184,7 +184,7 @@ if (not allfiles) or upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
                 info["release_date"].append(
                     {"date": date, "ref": "بر اساس تاریخ فایل‌های دیسک."})
 
-    infofile=open("src/games/" + sys.argv[1] + "/info.json", "w")
+    infofile = open("src/games/" + sys.argv[1] + "/info.json", "w")
     infofile.write(json.dumps(info, ensure_ascii=False,
                    indent=4, sort_keys=True, default=str))
     infofile.close()
