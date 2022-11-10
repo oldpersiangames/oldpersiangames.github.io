@@ -146,7 +146,7 @@ print("hello")
 print(allfiles)
 
 for file in allfiles:
-    if file in iafnames:
+    if file.name in iafnames:
         print('find one')
         os.remove(file)
         allfiles.remove(file)
