@@ -142,11 +142,20 @@ md = dict(collection='open_source_software', title=sys.argv[1], description=info
 allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
 allfiles = [f for f in allfiles if os.path.isfile(f)]
 
+print("hello")
+print(allfiles)
+
 for file in allfiles:
     if file in iafnames:
+        print('find one')
         os.remove(file)
         allfiles.remove(file)
 
+print("allfiles:")
+print(allfiles)
+
+print("iafnames:")
+print(iafnames)
 
 # If there's nothing to upload or if uploaded succesfully
 if (not allfiles) or upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
