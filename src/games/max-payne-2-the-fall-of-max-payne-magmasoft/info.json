@@ -1,66 +1,67 @@
 {
-  "title": [
-    "Max Payne 2: The Fall of Max Payne"
-  ],
-  "titlefa": [
-    "مکس پین ۲"
-  ],
-  "producer": [
-    "parsgame"
-  ],
-  "publisher": [
-    "magmasoft"
-  ],
-  "price": [
-    20000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-11-10T15:30:24.134Z",
-  "updated_at": "2022-11-10T15:30:24.134Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Arash_a70",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Arash_a70"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-11-10T15:30:24.134Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "max-payne-2-the-fall-of-max-payne-magmasoft",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        20000
+    ],
+    "producer": [
+        "parsgame"
+    ],
+    "publisher": [
+        "magmasoft"
+    ],
+    "release_date": [],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Max Payne 2: The Fall of Max Payne"
+    ],
+    "titlefa": [
+        "مکس پین ۲"
+    ],
+    "updated_at": "2022-11-10T15:30:24.134Z"
 }
