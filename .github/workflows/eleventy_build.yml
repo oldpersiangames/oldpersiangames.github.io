@@ -1,13 +1,11 @@
 name: Eleventy Build
 
-
 on:
   push:
     branches:
       - master
   workflow_dispatch:
-  
-      
+
 jobs:
   job1:
     runs-on: ubuntu-latest
@@ -21,7 +19,7 @@ jobs:
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
-          python-version: '3.10'
+          python-version: "3.10"
       - name: Install unrar p7zip
         run: sudo apt-get install -y unrar p7zip
       - name: Install dependencies
@@ -67,8 +65,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '14'
-
+          node-version: "14"
 
       - run: npm install
       - run: npm run build
