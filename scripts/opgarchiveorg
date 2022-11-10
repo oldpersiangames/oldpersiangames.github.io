@@ -49,9 +49,11 @@ tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json")
 tgfiles = json.load(tgfilesfile)
 tgfilesfile.close()
 
-if not os.path.exists(os.path.expanduser('~/.ia')):
-    configure('oldpersiangames@gmail.com',
-              os.environ["ARCHIVEORG"], config_file=os.path.expanduser('~/.ia'))
+if os.path.exists(os.path.expanduser('~/.ia')):
+    os.remove(os.path.expanduser('~/.ia'))
+
+configure('oldpersiangames@gmail.com',
+          os.environ["ARCHIVEORG"], config_file=os.path.expanduser('~/.ia'))
 
 iafiles = get_files(sys.argv[1])
 iafnames = [f.name for f in iafiles]
