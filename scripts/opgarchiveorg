@@ -49,7 +49,9 @@ tgfilesfile = open("src/games/" + sys.argv[1] + "/tgfiles.json")
 tgfiles = json.load(tgfilesfile)
 tgfilesfile.close()
 
-configure('oldpersiangames@gmail.com', os.environ["ARCHIVEORG"])
+if not os.path.exists(os.path.expanduser('~/.ia')) and not os.path.exists(os.path.expanduser('~/.config/ia.ini')):
+    configure('oldpersiangames@gmail.com', os.environ["ARCHIVEORG"])
+
 iafiles = get_files(sys.argv[1])
 iafnames = [f.name for f in iafiles]
 rar_to_extract = []
