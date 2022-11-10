@@ -46,7 +46,7 @@ jobs:
           echo "${{ steps.gameswoid.outputs.gameswoid }}"
           cp ${{ github.workspace }}/scripts/opgarchiveorg ./
           cp ${{ github.workspace }}/scripts/iso9660.py ./
-          for word in ${{ steps.gameswoid.outputs.gameswoid }}; do ./opgarchiveorg $word; done
+          for word in ${{ steps.gameswoid.outputs.gameswoid }}; do ./opgarchiveorg $word && sleep 5; done
       - name: Commit files
         if: steps.gameswoid.outputs.gameswoid
         run: |
