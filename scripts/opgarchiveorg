@@ -142,6 +142,10 @@ md = dict(collection='open_source_software', title=sys.argv[1], description=info
 allfiles = list(pathlib.Path(sys.argv[1] + "/").rglob("*"))
 allfiles = [f for f in allfiles if os.path.isfile(f)]
 
+print("hello")
+print(allfiles)
+print("bye")
+
 # If there's nothing to upload or if uploaded succesfully
 if (not allfiles) or upload(sys.argv[1], sys.argv[1] + "/", metadata=md):
     info["ia_id"] = sys.argv[1]
