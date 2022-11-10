@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       game:
-        description: 'game'
+        description: "game"
         required: true
 jobs:
   Explore-GitHub-Actions:
@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install pyrogram TgCrypto PyGithub internetarchive patool kaitaistruct
+          python -m pip install pyrogram TgCrypto PyGithub internetarchive==3.0.0 patool kaitaistruct
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Doing the job
         env:
