@@ -4,6 +4,13 @@
   "producer": ["sarirgame"],
   "publisher": ["sarirgame"],
   "price": [],
+  "release_date": [
+    {
+      "date": "2011-01-10",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "id_id": "the-incredible-hulk-sarirgame",
   "released_on": ["CD"],
   "no_of_discs": [2],
   "games": [
