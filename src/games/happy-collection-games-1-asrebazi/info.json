@@ -1,0 +1,58 @@
+{
+  "title": ["Happy Collection Games 1"],
+  "titlefa": ["ایستگاه شادی ۱"],
+  "producer": ["asrebazi"],
+  "publisher": ["asrebazi"],
+  "price": [30000],
+  "release_date": [],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": ["Meet The Robinsons"],
+      "titlefa": ["ملاقات با خانواده رابینسون"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": ["Space Chimps"],
+      "titlefa": ["میمون های فضایی"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    },
+    {
+      "title": ["Ratatouille"],
+      "titlefa": ["موش سرآشپز"],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": ["Windows"],
+  "created_at": "2022-11-11T00:31:10.253Z",
+  "updated_at": "2022-11-11T00:31:10.253Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Core_tm",
+      "contribute": ["game", "cover"]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": ["details"]
+    },
+    {
+      "username": "alihardan",
+      "contribute": ["details"]
+    }
+  ],
+  "links": []
+}
