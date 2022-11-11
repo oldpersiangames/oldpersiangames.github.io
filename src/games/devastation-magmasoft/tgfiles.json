@@ -1,65 +1,18 @@
 [
-  {
-    "file_name": "Devastation Front.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIV_mNtkn6Hjq-vuPgsMBvdp9nIMhQZAAKaCwACWOIQU07oqDyBy2K0AQAHbQADKwQ",
-      "file_unique_id": "AQADmgsAAljiEFNy",
-      "file_size": 33310,
-      "width": 266,
-      "height": 320
+    {
+        "date": "2022-11-11 00:31:06",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFgxjbZfKUWl-kDsHBSW0ixXvNA1rrQACRw4AAsThcVNsp5Gt7EJCvx4E",
+        "file_name": "devastation-magmasoft-photos.zip",
+        "file_size": 6112882,
+        "file_unique_id": "AgADRw4AAsThcVM",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFf5jbZJ-h46vr7j4LDAb3afZyDIUGQACmgsAAljiEFNO6Kg8gctitCsE",
-    "file_unique_id": "AgADmgsAAljiEFM",
-    "file_size": 2022575
-  },
-  {
-    "file_name": "Devastation Back.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIV_2Ntkn5sOW1SsrTNeVmCs-xLnntTAAKbCwACWOIQU48qBLrIpPrwAQAHbQADKwQ",
-      "file_unique_id": "AQADmwsAAljiEFNy",
-      "file_size": 33740,
-      "width": 263,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFf9jbZJ-bDltUrK0zXlZgrPsS557UwACmwsAAljiEFOPKgS6yKT68CsE",
-    "file_unique_id": "AgADmwsAAljiEFM",
-    "file_size": 2708133
-  },
-  {
-    "file_name": "IMG_20220328_0008.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWAAFjbZJ-CNyoYHOGaD9bRpJimSQmPgACHQsAAutduFJhzGH32fqcWQEAB20AAysE",
-      "file_unique_id": "AQADHQsAAutduFJy",
-      "file_size": 21485,
-      "width": 320,
-      "height": 270
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFgABY22SfgjcqGBzhmg_W0aSYpkkJj4AAh0LAALrXbhSYcxh99n6nFkrBA",
-    "file_unique_id": "AgADHQsAAutduFI",
-    "file_size": 650479
-  },
-  {
-    "file_name": "IMG_20220418_0017.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWAWNtkn47GSVc9-5_2liBLSOAXpMuAAJlDAACWnHpUspHn904OEAAAQEAB20AAysE",
-      "file_unique_id": "AQADZQwAAlpx6VJy",
-      "file_size": 22379,
-      "width": 320,
-      "height": 261
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFgFjbZJ-OxklXPfuf9pYgS0jgF6TLgACZQwAAlpx6VLKR5_dODhAAAErBA",
-    "file_unique_id": "AgADZQwAAlpx6VI",
-    "file_size": 731203
-  },
-  {
-    "file_name": "Devastation.iso",
-    "mime_type": "application/x-iso9660-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFgJjbZKNde5_FxWgDyeQ8peRbnF3OgAC4QsAAszRwVKU1Cza3xDN2ysE",
-    "file_unique_id": "AgAD4QsAAszRwVI",
-    "file_size": 682403840
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFgJjbZKNde5_FxWgDyeQ8peRbnF3OgAC4QsAAszRwVKU1Cza3xDN2ysE",
+        "file_name": "Devastation.iso",
+        "file_size": 682403840,
+        "file_unique_id": "AgAD4QsAAszRwVI",
+        "mime_type": "application/x-iso9660-image"
+    }
 ]
