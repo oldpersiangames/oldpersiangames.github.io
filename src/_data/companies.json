@@ -432,5 +432,10 @@
     "titlefa": "پخش کیمیا",
     "order": 99
   },
+  "isiri": {
+    "title": "ISIRI",
+    "titlefa": "سازمان ملی استاندارد ایران",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }

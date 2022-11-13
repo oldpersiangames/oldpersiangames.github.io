@@ -1,0 +1,41 @@
+{
+  "title": ["Standard for Children"],
+  "titlefa": [
+    "لوح کودکانه استاندارد",
+    "بازی و سرگرمی کودکانه جهت آشنایی با استاندارد"
+  ],
+  "producer": ["isiri"],
+  "publisher": ["isiri"],
+  "price": [],
+  "release_date": [],
+  "released_on": ["CD"],
+  "no_of_discs": [1],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": ["Windows"],
+  "created_at": "2022-11-13T20:37:23.124Z",
+  "updated_at": "2022-11-13T20:37:23.124Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AmirOr6",
+      "contribute": ["game", "cover"]
+    },
+    {
+      "username": "alihardan",
+      "contribute": ["details"]
+    }
+  ],
+  "links": []
+}
