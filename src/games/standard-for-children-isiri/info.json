@@ -1,41 +1,64 @@
 {
-  "title": ["Standard for Children"],
-  "titlefa": [
-    "لوح کودکانه استاندارد",
-    "بازی و سرگرمی کودکانه جهت آشنایی با استاندارد"
-  ],
-  "producer": ["isiri"],
-  "publisher": ["isiri"],
-  "price": [],
-  "release_date": [],
-  "released_on": ["CD"],
-  "no_of_discs": [1],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2022-11-13T20:37:23.124Z",
-  "updated_at": "2022-11-13T20:37:23.124Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AmirOr6",
-      "contribute": ["game", "cover"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "AmirOr6"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-11-13T20:37:23.124Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "standard-for-children-isiri",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "isiri"
+    ],
+    "publisher": [
+        "isiri"
+    ],
+    "release_date": [
+        {
+            "date": "2002-08-06",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Standard for Children"
+    ],
+    "titlefa": [
+        "لوح کودکانه استاندارد",
+        "بازی و سرگرمی کودکانه جهت آشنایی با استاندارد"
+    ],
+    "updated_at": "2022-11-13T20:37:23.124Z"
 }
