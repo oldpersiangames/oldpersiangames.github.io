@@ -1,59 +1,44 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover",
-                "details"
-            ],
-            "username": "AG_e_e_kA"
-        },
-        {
-            "contribute": [
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "created_at": "2022-11-14T22:34:43.720Z",
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": true,
-            "iranian": false,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "stronghold-2-cyber",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        2
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [],
-    "producer": [
-        "cyber"
-    ],
-    "publisher": [
-        "cyber"
-    ],
-    "release_date": [],
-    "released_on": [
-        "CD"
-    ],
-    "selling": false,
-    "title": [
-        "Stronghold 2"
-    ],
-    "titlefa": [
-        "قلعه مستحکم ۲"
-    ],
-    "updated_at": "2022-11-14T22:34:43.720Z"
+  "contributors": [
+    {
+      "contribute": ["game", "cover", "details"],
+      "username": "AG_e_e_kA"
+    },
+    {
+      "contribute": ["details"],
+      "username": "alihardan"
+    }
+  ],
+  "created_at": "2022-11-14T22:34:43.720Z",
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "dubbed": true,
+      "iranian": false,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "ia_id": "stronghold-2-cyber",
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [2],
+  "platform": ["Windows"],
+  "price": [],
+  "producer": ["cyber"],
+  "publisher": ["cyber"],
+  "release_date": [
+    {
+      "date": "2005-07-07",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["CD"],
+  "selling": false,
+  "title": ["Stronghold 2"],
+  "titlefa": ["قلعه مستحکم ۲"],
+  "updated_at": "2022-11-14T22:34:43.720Z"
 }
