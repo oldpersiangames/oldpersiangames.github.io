@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Cold Zero: No Mercy"
-  ],
-  "titlefa": [
-    "نقطه صفر"
-  ],
-  "producer": [
-    "roga"
-  ],
-  "publisher": [
-    "novinsazan"
-  ],
-  "price": [
-    32000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-11-18T13:34:26.461Z",
-  "updated_at": "2022-11-18T13:34:26.461Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-11-18T13:34:26.461Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "cold-zero-no-mercy-novinsazan",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        32000
+    ],
+    "producer": [
+        "roga"
+    ],
+    "publisher": [
+        "novinsazan"
+    ],
+    "release_date": [
+        {
+            "date": "2003-05-09",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Cold Zero: No Mercy"
+    ],
+    "titlefa": [
+        "نقطه صفر"
+    ],
+    "updated_at": "2022-11-18T13:34:26.461Z"
 }
