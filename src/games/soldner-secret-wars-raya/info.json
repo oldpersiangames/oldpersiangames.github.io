@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Söldner: Secret Wars"
-  ],
-  "titlefa": [
-    "سرفرمانده"
-  ],
-  "producer": [
-    "raya"
-  ],
-  "publisher": [
-    "raya"
-  ],
-  "price": [
-    22000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-11-18T13:49:15.714Z",
-  "updated_at": "2022-11-18T13:49:15.714Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-11-18T13:49:15.714Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "soldner-secret-wars-raya",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        22000
+    ],
+    "producer": [
+        "raya"
+    ],
+    "publisher": [
+        "raya"
+    ],
+    "release_date": [
+        {
+            "date": "2004-03-30",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Söldner: Secret Wars"
+    ],
+    "titlefa": [
+        "سرفرمانده"
+    ],
+    "updated_at": "2022-11-18T13:49:15.714Z"
 }
