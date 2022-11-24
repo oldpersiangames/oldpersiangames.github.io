@@ -1,42 +1,64 @@
 {
-  "title": ["2014 FIFA World Cup Brazil"],
-  "titlefa": ["جام جهانی ۲۰۱۴ با گزارش جواد خیابانی"],
-  "producer": ["lohezarrinenikan"],
-  "publisher": ["lohezarrinenikan"],
-  "price": [],
-  "release_date": [],
-  "released_on": ["CD"],
-  "no_of_discs": [1],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": ["PS1"],
-  "created_at": "2022-11-24T10:34:03.998Z",
-  "updated_at": "2022-11-24T10:34:03.998Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AMIN_MF9",
-      "contribute": ["game", "cover"]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "AMIN_MF9"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-11-24T10:34:03.998Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "2014-fifa-world-cup-brazil-lohezarrinenikan",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "PS1"
+    ],
+    "price": [],
+    "producer": [
+        "lohezarrinenikan"
+    ],
+    "publisher": [
+        "lohezarrinenikan"
+    ],
+    "release_date": [],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "2014 FIFA World Cup Brazil"
+    ],
+    "titlefa": [
+        "جام جهانی ۲۰۱۴ با گزارش جواد خیابانی"
+    ],
+    "updated_at": "2022-11-24T10:34:03.998Z"
 }
