@@ -1,66 +1,72 @@
 {
-  "title": [
-    "Paradise"
-  ],
-  "titlefa": [
-    "بهشت گمشده"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "ebay"
-  ],
-  "price": [
-    60000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    3
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-12-15T10:16:17.233Z",
-  "updated_at": "2022-12-15T10:16:17.233Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-15T10:16:17.233Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "paradise-ebay",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        60000
+    ],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "ebay"
+    ],
+    "release_date": [
+        {
+            "date": "2006-12-22",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Paradise"
+    ],
+    "titlefa": [
+        "بهشت گمشده"
+    ],
+    "updated_at": "2022-12-15T10:16:17.233Z"
 }
