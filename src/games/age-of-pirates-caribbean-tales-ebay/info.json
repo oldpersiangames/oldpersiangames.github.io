@@ -1,65 +1,71 @@
 {
-  "title": [
-    "Age of Pirates: Caribbean Tales",
-    "Corsairs III"
-  ],
-  "titlefa": [
-    "عصر دزدان دریائی"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "ebay"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    5
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-12-24T17:02:13.712Z",
-  "updated_at": "2022-12-24T17:02:13.712Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Sepehr_Gamer",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "Sepehr_Gamer"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-24T17:02:13.712Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "age-of-pirates-caribbean-tales-ebay",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        5
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "ebay"
+    ],
+    "release_date": [
+        {
+            "date": "2006-12-23",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Age of Pirates: Caribbean Tales",
+        "Corsairs III"
+    ],
+    "titlefa": [
+        "عصر دزدان دریائی"
+    ],
+    "updated_at": "2022-12-24T17:02:13.712Z"
 }
