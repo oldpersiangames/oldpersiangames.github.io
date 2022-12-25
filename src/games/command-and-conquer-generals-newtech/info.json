@@ -1,66 +1,72 @@
 {
-  "title": [
-    "Command & Conquer: Generals"
-  ],
-  "titlefa": [
-    "ژنرال ها",
-    "جنرالز"
-  ],
-  "producer": [
-    "newtech"
-  ],
-  "publisher": [
-    "newtech"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-12-25T20:58:35.320Z",
-  "updated_at": "2022-12-25T20:58:35.320Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "PesareShojae",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "game",
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "PesareShojae"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "game",
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-25T20:58:35.320Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "command-and-conquer-generals-newtech",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "newtech"
+    ],
+    "publisher": [
+        "newtech"
+    ],
+    "release_date": [
+        {
+            "date": "2010-06-10",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Command & Conquer: Generals"
+    ],
+    "titlefa": [
+        "ژنرال ها",
+        "جنرالز"
+    ],
+    "updated_at": "2022-12-25T20:58:35.320Z"
 }
