@@ -1,68 +1,74 @@
 {
-  "title": [
-    "I.G.I.-2: Covert Strike",
-    "Project I.G.I. 2"
-  ],
-  "titlefa": [
-    "عملیات سری",
-    "آی جی آی ۲"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "pcgame"
-  ],
-  "price": [
-    30000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-12-27T21:27:08.705Z",
-  "updated_at": "2022-12-27T21:27:08.705Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "BahramDVD",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "BahramDVD"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-27T21:27:08.705Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "igi-2-covert-strike-pcgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        30000
+    ],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "pcgame"
+    ],
+    "release_date": [
+        {
+            "date": "2003-04-27",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "I.G.I.-2: Covert Strike",
+        "Project I.G.I. 2"
+    ],
+    "titlefa": [
+        "عملیات سری",
+        "آی جی آی ۲"
+    ],
+    "updated_at": "2022-12-27T21:27:08.705Z"
 }
