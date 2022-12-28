@@ -1,46 +1,82 @@
 {
-  "title": ["Rise of Nations + Rise of Nations: Thrones and Patriots"],
-  "titlefa": ["قیام ملت ها ۱ و ۲"],
-  "producer": ["sarirgame"],
-  "publisher": ["sarirgame"],
-  "price": [30000],
-  "release_date": [],
-  "released_on": ["CD"],
-  "no_of_discs": [2],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": ["Rise of Nations"],
-      "titlefa": ["قیام ملت ها 1"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    },
-    {
-      "title": ["Rise of Nations: Thrones and Patriots"],
-      "titlefa": ["قیام ملت ها ۲"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2022-12-28T19:31:11.039Z",
-  "updated_at": "2022-12-28T19:31:11.039Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["game", "cover", "details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-28T19:31:11.039Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Rise of Nations"
+            ],
+            "titlefa": [
+                "قیام ملت ها 1"
+            ]
+        },
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Rise of Nations: Thrones and Patriots"
+            ],
+            "titlefa": [
+                "قیام ملت ها ۲"
+            ]
+        }
+    ],
+    "ia_id": "rise-of-nations-thrones-and-patriots-sarirgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        30000
+    ],
+    "producer": [
+        "sarirgame"
+    ],
+    "publisher": [
+        "sarirgame"
+    ],
+    "release_date": [
+        {
+            "date": "2009-01-12",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Rise of Nations + Rise of Nations: Thrones and Patriots"
+    ],
+    "titlefa": [
+        "قیام ملت ها ۱ و ۲"
+    ],
+    "updated_at": "2022-12-28T19:31:11.039Z"
 }
