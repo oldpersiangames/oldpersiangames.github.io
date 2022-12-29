@@ -1,0 +1,60 @@
+{
+  "title": [
+    "Max Payne 2: The Fall of Max Payne"
+  ],
+  "titlefa": [
+    "مکس پین ۲: سقوط مکس پین"
+  ],
+  "producer": [
+    "ariana"
+  ],
+  "publisher": [
+    "ariana"
+  ],
+  "price": [
+    35000
+  ],
+  "release_date": [],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-12-29T11:48:37.211Z",
+  "updated_at": "2022-12-29T11:48:37.211Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
