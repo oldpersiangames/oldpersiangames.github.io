@@ -1,65 +1,71 @@
 {
-  "title": [
-    "Pro Evolution Soccer 2009",
-    "PES 2009"
-  ],
-  "titlefa": [
-    "لیگ پارسیان ۲ + گزارش فارسی"
-  ],
-  "producer": [
-    "pardisgame"
-  ],
-  "publisher": [
-    "pardisgame"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "PS2"
-  ],
-  "created_at": "2022-12-29T12:51:42.106Z",
-  "updated_at": "2022-12-29T12:51:42.106Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "saeed0382",
-      "contribute": [
-        "cover"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "cover"
+            ],
+            "username": "saeed0382"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-29T12:51:42.106Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "pro-evolution-soccer-2009-pardisgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "PS2"
+    ],
+    "price": [],
+    "producer": [
+        "pardisgame"
+    ],
+    "publisher": [
+        "pardisgame"
+    ],
+    "release_date": [
+        {
+            "date": "2009-02-19",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Pro Evolution Soccer 2009",
+        "PES 2009"
+    ],
+    "titlefa": [
+        "لیگ پارسیان ۲ + گزارش فارسی"
+    ],
+    "updated_at": "2022-12-29T12:51:42.106Z"
 }
