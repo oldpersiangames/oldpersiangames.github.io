@@ -7,17 +7,10 @@
     "file_size": 2908994
   },
   {
-    "file_name": "PES2009EU.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFldjrYyBkR_dpoVWVWXznb1kY625kwACSw4AAskx4VIq5gg1OI0WFCwE",
-    "file_unique_id": "AgADSw4AAskx4VI",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "PES2009EU.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFlhjrYyB7pJ0AAHt73mQpSyAKrzUFbAAAkwOAALJMeFSKT48IJMx_rgsBA",
-    "file_unique_id": "AgADTA4AAskx4VI",
-    "file_size": 1446805879
+    "file_name": "PES2009EU.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgUAAx0CS2Z5_gACFlljrZYX28W0ZzKFcCNvuGqsSMwc6QACMAgAAjq4aFWWFwnQ--Ux1ywE",
+    "file_unique_id": "AgADMAgAAjq4aFU",
+    "file_size": 3543957504
   }
 ]
