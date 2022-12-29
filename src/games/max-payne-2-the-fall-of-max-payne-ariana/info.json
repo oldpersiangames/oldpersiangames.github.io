@@ -1,60 +1,66 @@
 {
-  "title": [
-    "Max Payne 2: The Fall of Max Payne"
-  ],
-  "titlefa": [
-    "مکس پین ۲: سقوط مکس پین"
-  ],
-  "producer": [
-    "ariana"
-  ],
-  "publisher": [
-    "ariana"
-  ],
-  "price": [
-    35000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2022-12-29T11:48:37.211Z",
-  "updated_at": "2022-12-29T11:48:37.211Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2022-12-29T11:48:37.211Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "max-payne-2-the-fall-of-max-payne-ariana",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        35000
+    ],
+    "producer": [
+        "ariana"
+    ],
+    "publisher": [
+        "ariana"
+    ],
+    "release_date": [
+        {
+            "date": "2003-11-16",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Max Payne 2: The Fall of Max Payne"
+    ],
+    "titlefa": [
+        "مکس پین ۲: سقوط مکس پین"
+    ],
+    "updated_at": "2022-12-29T11:48:37.211Z"
 }
