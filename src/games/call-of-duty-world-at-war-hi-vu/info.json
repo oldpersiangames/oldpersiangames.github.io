@@ -1,0 +1,57 @@
+{
+  "title": [
+    "Call of Duty: World at War"
+  ],
+  "titlefa": [
+    "ندای وظیفه: جهان در جنگ"
+  ],
+  "producer": [
+    "hi-vu"
+  ],
+  "publisher": [
+    "hi-vu"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2022-12-30T12:09:19.324Z",
+  "updated_at": "2022-12-30T12:09:19.324Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "Mahdi_Jafarzadeh",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
