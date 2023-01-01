@@ -1,58 +1,64 @@
 {
-  "title": [
-    "Deadly Dozen: Pacific Theater"
-  ],
-  "titlefa": [
-    "دوازده کماندو ۲"
-  ],
-  "producer": [
-    "aryan"
-  ],
-  "publisher": [
-    "aryan"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2023-01-01T22:38:08.263Z",
-  "updated_at": "2023-01-01T22:38:08.263Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-01T22:38:08.263Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "deadly-dozen-pacific-theater-aryan",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "aryan"
+    ],
+    "publisher": [
+        "aryan"
+    ],
+    "release_date": [
+        {
+            "date": "2003-01-26",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Deadly Dozen: Pacific Theater"
+    ],
+    "titlefa": [
+        "دوازده کماندو ۲"
+    ],
+    "updated_at": "2023-01-01T22:38:08.263Z"
 }
