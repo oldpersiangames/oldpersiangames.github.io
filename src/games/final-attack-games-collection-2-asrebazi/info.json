@@ -1,54 +1,92 @@
 {
-  "title": ["Final Attack Games Collection"],
-  "titlefa": ["آخرین حمله ۲"],
-  "producer": ["asrebazi"],
-  "publisher": ["asrebazi"],
-  "price": [],
-  "release_date": [],
-  "released_on": ["DVD"],
-  "no_of_discs": [1],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": ["Terrawars: New York Invasion"],
-      "titlefa": ["تهاجم"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    },
-    {
-      "title": ["Patriots: A Nation Under Fire"],
-      "titlefa": ["میهن پرستان: ملتی زیر آتش"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    },
-    {
-      "title": ["Battlestrike: Shadow of Stalingrad"],
-      "titlefa": ["نیروهای مقاومت ۲: سایه استالین گراد"],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2023-01-02T20:41:59.711Z",
-  "updated_at": "2023-01-02T20:41:59.711Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["game", "cover", "details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-02T20:41:59.711Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Terrawars: New York Invasion"
+            ],
+            "titlefa": [
+                "تهاجم"
+            ]
+        },
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Patriots: A Nation Under Fire"
+            ],
+            "titlefa": [
+                "میهن پرستان: ملتی زیر آتش"
+            ]
+        },
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [
+                "Battlestrike: Shadow of Stalingrad"
+            ],
+            "titlefa": [
+                "نیروهای مقاومت ۲: سایه استالین گراد"
+            ]
+        }
+    ],
+    "ia_id": "final-attack-games-collection-2-asrebazi",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "asrebazi"
+    ],
+    "publisher": [
+        "asrebazi"
+    ],
+    "release_date": [
+        {
+            "date": "2011-06-27",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Final Attack Games Collection"
+    ],
+    "titlefa": [
+        "آخرین حمله ۲"
+    ],
+    "updated_at": "2023-01-02T20:41:59.711Z"
 }
