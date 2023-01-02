@@ -437,5 +437,10 @@
     "titlefa": "سازمان ملی استاندارد ایران",
     "order": 99
   },
+  "blueskygamestudio": {
+    "title": "Blue Sky Game Studio",
+    "titlefa": "آسمان آبی",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
