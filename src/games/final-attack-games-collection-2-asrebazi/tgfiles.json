@@ -1,16 +1,9 @@
 [
   {
-    "file_name": "FATT2.part1.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFmJjs0FWtx-pnYnAb3zqdIKOlviYtQACVg4AAskx4VKnJXXLeEiU4i0E",
-    "file_unique_id": "AgADVg4AAskx4VI",
-    "file_size": 2097152000
-  },
-  {
-    "file_name": "FATT2.part2.rar",
-    "mime_type": "application/x-rar-compressed",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFmNjs0FWuFI-wGmHHThNbqU9XvpxvAACVw4AAskx4VJEDyK69tI2Oy0E",
-    "file_unique_id": "AgADVw4AAskx4VI",
-    "file_size": 1661118823
+    "file_name": "FATT2.iso",
+    "mime_type": "application/x-iso9660-image",
+    "file_id": "BQACAgUAAx0CS2Z5_gACFmVjs0u46vphGulNo7ekaJdm3V8AARkAArMFAALjeplVXnHTz-mrae8tBA",
+    "file_unique_id": "AgADswUAAuN6mVU",
+    "file_size": 3758270464
   }
 ]
