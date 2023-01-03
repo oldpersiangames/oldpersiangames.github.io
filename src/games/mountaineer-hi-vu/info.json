@@ -1,31 +1,17 @@
 {
-  "title": [
-    "Mountaineer"
-  ],
-  "titlefa": [
-    "کوهنورد"
-  ],
-  "producer": [
-    "tebyan"
-  ],
-  "publisher": [
-    "hi-vu"
-  ],
-  "price": [
-    40000
-  ],
+  "title": ["Mountaineer"],
+  "titlefa": ["کوهنورد"],
+  "producer": ["tebyan"],
+  "publisher": ["hi-vu"],
+  "price": [40000],
   "release_date": [
     {
       "date": "2011-07-20",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [1],
   "defects": [],
   "games": [
     {
@@ -37,46 +23,31 @@
       "iranian": true
     }
   ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "selling": true,
+  "platform": ["Windows"],
   "manuals": [
     {
       "release_type": "printed",
       "no_of_pages": 17,
-      "files": [
-        "Koohnavard Guide.pdf"
-      ]
+      "files": ["Koohnavard Guide.pdf"]
     }
   ],
   "contributors": [
     {
       "username": "SHERLOCKED3",
-      "contribute": [
-        "game",
-        "cover",
-        "manual"
-      ]
+      "contribute": ["game", "cover", "manual"]
     },
     {
       "username": "Aras_Max",
-      "contribute": [
-        "manual",
-        "cover"
-      ]
+      "contribute": ["manual", "cover"]
     },
     {
       "username": "ruinerart",
-      "contribute": [
-        "cover"
-      ]
+      "contribute": ["cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": []
