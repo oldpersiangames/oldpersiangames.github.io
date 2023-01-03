@@ -1,44 +1,72 @@
 {
-  "title": ["Eragon"],
-  "titlefa": ["اراگون"],
-  "producer": ["goldensoftware"],
-  "publisher": ["goldensoftware"],
-  "price": [],
-  "release_date": [],
-  "released_on": ["CD"],
-  "no_of_discs": [3],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2023-01-03T20:26:53.887Z",
-  "updated_at": "2023-01-03T20:26:53.887Z",
-  "manuals": [
-    {
-      "release_type": "printed",
-      "no_of_pages": 23,
-      "files": ["Eragon Manual (GS).pdf"]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["game", "cover", "details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-03T20:26:53.887Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "eragon-goldensoftware",
+    "links": [],
+    "manuals": [
+        {
+            "files": [
+                "Eragon Manual (GS).pdf"
+            ],
+            "no_of_pages": 23,
+            "release_type": "printed"
+        }
+    ],
+    "no_of_discs": [
+        3
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "goldensoftware"
+    ],
+    "publisher": [
+        "goldensoftware"
+    ],
+    "release_date": [
+        {
+            "date": "2007-07-21",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Eragon"
+    ],
+    "titlefa": [
+        "اراگون"
+    ],
+    "updated_at": "2023-01-03T20:26:53.887Z"
 }
