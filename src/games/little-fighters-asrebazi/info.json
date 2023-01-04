@@ -1,66 +1,72 @@
 {
-  "title": [
-    "Little Fighters"
-  ],
-  "titlefa": [
-    "کوچولوهای مبارز"
-  ],
-  "producer": [
-    "asrebazi"
-  ],
-  "publisher": [
-    "asrebazi"
-  ],
-  "price": [
-    32000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2023-01-04T22:38:46.239Z",
-  "updated_at": "2023-01-04T22:38:46.239Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AMIN_MF9",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "AMIN_MF9"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-04T22:38:46.239Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "little-fighters-asrebazi",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        32000
+    ],
+    "producer": [
+        "asrebazi"
+    ],
+    "publisher": [
+        "asrebazi"
+    ],
+    "release_date": [
+        {
+            "date": "\u0000\u0000\u0000\u0000-\u0000\u0000-\u0000\u0000",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Little Fighters"
+    ],
+    "titlefa": [
+        "کوچولوهای مبارز"
+    ],
+    "updated_at": "2023-01-04T22:38:46.239Z"
 }
