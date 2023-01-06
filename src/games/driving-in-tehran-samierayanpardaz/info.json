@@ -1,44 +1,75 @@
 {
-  "title": ["Driving in Tehran"],
-  "titlefa": ["رانندگی در تهران"],
-  "producer": ["samierayanpardaz"],
-  "publisher": ["samierayanpardaz"],
-  "price": [45000],
-  "release_date": [],
-  "released_on": ["CD"],
-  "no_of_discs": [2],
-  "defects": [
-    "ایمیج دیسک مسابقه در پیست که همراه این بازی منتشر شده بود را نداریم. آن را دارید؟"
-  ],
-  "description": "نحوه‌ی رجیستر کردن بازی:\n\nکد فایل Serial.txt را در فیلد اول وارد کنید. فایل \"Driving In Tehran KeyG v4.exe\" را اجرا کنید و عددی که به شما می‌دهد را در فیلد دوم وارد کنید. بر روی تأیید کلیک کنید و بازی را اجرا کنید.",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2023-01-06T20:19:44.437Z",
-  "updated_at": "2023-01-06T20:19:44.437Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "BahramDVD",
-      "contribute": ["game", "cover", "details"]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["cover", "details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "BahramDVD"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-06T20:19:44.437Z",
+    "defects": [
+        "ایمیج دیسک مسابقه در پیست که همراه این بازی منتشر شده بود را نداریم. آن را دارید؟"
+    ],
+    "description": "نحوه‌ی رجیستر کردن بازی:\n\nکد فایل Serial.txt را در فیلد اول وارد کنید. فایل \"Driving In Tehran KeyG v4.exe\" را اجرا کنید و عددی که به شما می‌دهد را در فیلد دوم وارد کنید. بر روی تأیید کلیک کنید و بازی را اجرا کنید.",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "driving-in-tehran-samierayanpardaz",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        45000
+    ],
+    "producer": [
+        "samierayanpardaz"
+    ],
+    "publisher": [
+        "samierayanpardaz"
+    ],
+    "release_date": [
+        {
+            "date": "2006-01-09",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Driving in Tehran"
+    ],
+    "titlefa": [
+        "رانندگی در تهران"
+    ],
+    "updated_at": "2023-01-06T20:19:44.437Z"
 }
