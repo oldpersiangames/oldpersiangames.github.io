@@ -442,5 +442,10 @@
     "titlefa": "آسمان آبی",
     "order": 99
   },
+  "samierayanpardaz": {
+    "title": "Samie Rayan Pardaz",
+    "titlefa": "سمیع رایان پرداز",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
