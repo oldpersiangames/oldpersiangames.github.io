@@ -1,0 +1,58 @@
+{
+  "title": [
+    "Persian Gulf Cup 90-91"
+  ],
+  "titlefa": [
+    "فوتبال جام خلیج فارس ایران ۹۱-۹۰"
+  ],
+  "producer": [
+    "lohezarrinenikan"
+  ],
+  "publisher": [
+    "lohezarrinenikan"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    2
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2023-01-07T21:06:40.617Z",
+  "updated_at": "2023-01-07T21:06:40.617Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
