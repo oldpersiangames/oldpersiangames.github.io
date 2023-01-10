@@ -54,15 +54,19 @@
   },
   "irmkh13": {
     "telegram": "irmkh13",
-    "contributes": ["ناظم گروه گفتگو (۱۹ آبان ۱۴۰۰ الی ۳۰ آذر ۱۴۰۰)"]
+    "contributes": [
+      "ادمین گپ @OldPersianGamesChat تلگرام (از ۱۴۰۰/۰۸/۱۹ تا ۱۴۰۰/۰۹/۳۰)"
+    ]
   },
   "ruinerart": {
     "telegram": "ruinerart",
-    "contributes": ["ناظم گروه گفتگو (از ۲۱ دی ۱۴۰۰)"]
+    "contributes": ["ادمین گپ @OldPersianGamesChat تلگرام (از ۱۴۰۰/۱۰/۲۱)"]
   },
   "HaghayeghShia": {
     "telegram": "HaghayeghShia",
-    "contributes": ["ناظم گروه گفتگو (از ۴ آبان ۱۴۰۰)"]
+    "contributes": [
+      "ادمین گپ @OldPersianGamesChat تلگرام (از ۱۴۰۰/۰۸/۰۴ تا ۱۴۰۰/۱۲/۰۷)"
+    ]
   },
   "alikarimi0870": {
     "contributes": ["+ مشارکت در تهیه‌ی ۷۰ بازی دیگر"]
@@ -85,5 +89,11 @@
   },
   "Mohammadbagher": {
     "telegram": "none"
+  },
+  "saeed0382": {
+    "contributes": ["ادمین گپ @OldPersianGamesChat تلگرام (از ۱۴۰۱/۱۰/۱۱)"]
+  },
+  "Bardia006plus1": {
+    "contributes": ["ادمین گپ @OldPersianGamesChat تلگرام (از ۱۴۰۱/۱۰/۱۷)"]
   }
 }
