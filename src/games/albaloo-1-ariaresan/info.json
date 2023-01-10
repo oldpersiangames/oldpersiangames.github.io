@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Albaloo 1"
+  ],
+  "titlefa": [
+    "مجله و لوح کودک و نوجوان آلبالو ۱"
+  ],
+  "producer": [
+    "ariaresan"
+  ],
+  "publisher": [
+    "ariaresan"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2023-01-10T20:45:26.445Z",
+  "updated_at": "2023-01-10T20:45:26.445Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "saeed0382",
+      "contribute": [
+        "game",
+        "cover"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}

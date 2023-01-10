@@ -447,5 +447,10 @@
     "titlefa": "سمیع رایان پرداز",
     "order": 99
   },
+  "ariaresan": {
+    "title": "Aria Resan Rayan",
+    "titlefa": "آریا رسان رایان",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
