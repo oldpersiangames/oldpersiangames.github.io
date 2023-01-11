@@ -1,0 +1,63 @@
+{
+  "title": [
+    "Total War: Shogun 2"
+  ],
+  "titlefa": [
+    "جنگ تمام عیار: شوگان ۲"
+  ],
+  "producer": [
+    "asrebazi"
+  ],
+  "publisher": [
+    "asrebazi"
+  ],
+  "price": [],
+  "release_date": [],
+  "released_on": [
+    "DVD"
+  ],
+  "no_of_discs": [
+    3
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2023-01-11T23:20:54.149Z",
+  "updated_at": "2023-01-11T23:20:54.149Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "hosseinamanolla",
+      "contribute": [
+        "game"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
