@@ -452,5 +452,10 @@
     "titlefa": "آریا رسان رایان",
     "order": 99
   },
+  "medrick": {
+    "title": "Medrick Game Studio",
+    "titlefa": "استودیو بازی سازی مدریک",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }

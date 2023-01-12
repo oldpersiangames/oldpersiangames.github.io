@@ -1,0 +1,39 @@
+{
+  "title": ["Bakhtak City"],
+  "titlefa": ["شهر بختک ها"],
+  "producer": ["medrick"],
+  "publisher": ["ariogames"],
+  "price": [],
+  "release_date": [
+    {
+      "date": "2017-12-24",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["web"],
+  "no_of_discs": [1],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": false,
+      "modified": false,
+      "subtitle": false,
+      "iranian": true
+    }
+  ],
+  "selling": false,
+  "platform": ["Windows"],
+  "created_at": "2023-01-12T01:42:03.606Z",
+  "updated_at": "2023-01-12T01:42:03.606Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "alihardan",
+      "contribute": ["game", "cover", "details"]
+    }
+  ],
+  "links": []
+}
