@@ -1,23 +1,25 @@
 {
   "title": [
-    "Iran Pro League 91-92"
+    "Safety and Traffic"
   ],
   "titlefa": [
-    "لیگ برتر ایران ۹۲-۹۱"
+    "ایمنی و ترافیک"
   ],
   "producer": [
-    "newtech"
+    "tehran-trafficorg"
   ],
   "publisher": [
-    "newtech"
+    "tehran-trafficorg"
   ],
-  "price": [],
+  "price": [
+    15000
+  ],
   "release_date": [],
   "released_on": [
-    "DVD"
+    "CD"
   ],
   "no_of_discs": [
-    2
+    1
   ],
   "defects": [],
   "description": "",
@@ -35,12 +37,12 @@
   "platform": [
     "Windows"
   ],
-  "created_at": "2023-01-12T19:42:12.881Z",
-  "updated_at": "2023-01-12T19:42:12.881Z",
+  "created_at": "2023-01-13T10:26:46.123Z",
+  "updated_at": "2023-01-13T10:26:46.123Z",
   "manuals": false,
   "contributors": [
     {
-      "username": "saeed0382",
+      "username": "Arash_a70",
       "contribute": [
         "game",
         "cover"
@@ -49,6 +51,7 @@
     {
       "username": "AG_e_e_kA",
       "contribute": [
+        "cover",
         "details"
       ]
     },
