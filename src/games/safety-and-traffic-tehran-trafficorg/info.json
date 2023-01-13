@@ -1,66 +1,72 @@
 {
-  "title": [
-    "Safety and Traffic"
-  ],
-  "titlefa": [
-    "ایمنی و ترافیک"
-  ],
-  "producer": [
-    "tehran-trafficorg"
-  ],
-  "publisher": [
-    "tehran-trafficorg"
-  ],
-  "price": [
-    15000
-  ],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2023-01-13T10:26:46.123Z",
-  "updated_at": "2023-01-13T10:26:46.123Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "Arash_a70",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "Arash_a70"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-13T10:26:46.123Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "safety-and-traffic-tehran-trafficorg",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        15000
+    ],
+    "producer": [
+        "tehran-trafficorg"
+    ],
+    "publisher": [
+        "tehran-trafficorg"
+    ],
+    "release_date": [
+        {
+            "date": "2008-05-10",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Safety and Traffic"
+    ],
+    "titlefa": [
+        "ایمنی و ترافیک"
+    ],
+    "updated_at": "2023-01-13T10:26:46.123Z"
 }
