@@ -1,66 +1,72 @@
 {
-  "title": [
-    "Pro Evolution Soccer 93-94",
-    "PES 93-94"
-  ],
-  "titlefa": [
-    "لیگ برتر ۹۴-۹۳ با ترکیب نهایی تیم ملی ایران"
-  ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    50000
-  ],
-  "release_date": [],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    1
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "PS2"
-  ],
-  "created_at": "2023-01-13T15:46:44.242Z",
-  "updated_at": "2023-01-13T15:46:44.242Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "YasinBasaty",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "YasinBasaty"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-13T15:46:44.242Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "pro-evolution-soccer-93-94-novinpendar",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "PS2"
+    ],
+    "price": [
+        50000
+    ],
+    "producer": [
+        "novinpendar"
+    ],
+    "publisher": [
+        "novinpendar"
+    ],
+    "release_date": [
+        {
+            "date": "2014-08-24",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Pro Evolution Soccer 93-94",
+        "PES 93-94"
+    ],
+    "titlefa": [
+        "لیگ برتر ۹۴-۹۳ با ترکیب نهایی تیم ملی ایران"
+    ],
+    "updated_at": "2023-01-13T15:46:44.242Z"
 }
