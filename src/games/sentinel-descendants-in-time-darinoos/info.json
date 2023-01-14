@@ -1,17 +1,8 @@
 {
-  "title": [
-    "Sentinel: Descendants in Time",
-    "Realms of Illusion"
-  ],
-  "titlefa": [
-    "نگهبان: بازماندگان در زمان"
-  ],
-  "producer": [
-    "darinoos"
-  ],
-  "publisher": [
-    "darinoos"
-  ],
+  "title": ["Sentinel: Descendants in Time", "Realms of Illusion"],
+  "titlefa": ["نگهبان: بازماندگان در زمان"],
+  "producer": ["darinoos"],
+  "publisher": ["darinoos"],
   "price": [],
   "release_date": [
     {
@@ -19,15 +10,9 @@
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [
-    "ایمیجی که از این بازی موجود داریم دستکاری شده است. دیسک اصلی را دارید؟"
-  ],
+  "released_on": ["CD"],
+  "no_of_discs": [2],
+  "defects": [],
   "games": [
     {
       "title": [],
@@ -39,28 +24,30 @@
     }
   ],
   "selling": true,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": [
     {
       "release_type": "printed",
-      "no_of_pages": 0,
-      "files": []
+      "no_of_pages": 33,
+      "files": ["SENTINEL  DESCENDANTS IN TIME.pdf"]
     }
   ],
   "contributors": [
     {
       "username": "MJSAYR",
-      "contribute": [
-        "game"
-      ]
+      "contribute": ["game"]
+    },
+    {
+      "username": "BahramDVD",
+      "contribute": ["game", "cover", "manual"]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": ["cover", "manual", "details"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [
