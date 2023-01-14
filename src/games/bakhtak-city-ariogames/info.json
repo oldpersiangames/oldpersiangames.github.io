@@ -1,58 +1,43 @@
 {
-    "contributors": [
-        {
-            "contribute": [
-                "game",
-                "cover",
-                "details"
-            ],
-            "username": "alihardan"
-        }
-    ],
-    "created_at": "2023-01-12T01:42:03.606Z",
-    "defects": [],
-    "description": "",
-    "games": [
-        {
-            "dubbed": false,
-            "iranian": true,
-            "modified": false,
-            "subtitle": false,
-            "title": [],
-            "titlefa": []
-        }
-    ],
-    "ia_id": "bakhtak-city-ariogames",
-    "links": [],
-    "manuals": false,
-    "no_of_discs": [
-        1
-    ],
-    "platform": [
-        "Windows"
-    ],
-    "price": [],
-    "producer": [
-        "medrick"
-    ],
-    "publisher": [
-        "ariogames"
-    ],
-    "release_date": [
-        {
-            "date": "2017-12-24",
-            "ref": "بر اساس تاریخ فایل‌های دیسک."
-        }
-    ],
-    "released_on": [
-        "web"
-    ],
-    "selling": false,
-    "title": [
-        "Bakhtak City"
-    ],
-    "titlefa": [
-        "شهر بختک ها"
-    ],
-    "updated_at": "2023-01-12T01:42:03.606Z"
+  "contributors": [
+    {
+      "contribute": ["game", "cover", "details"],
+      "username": "alihardan"
+    },
+    {
+      "contribute": ["engineering"],
+      "username": "LASTOFASS"
+    }
+  ],
+  "created_at": "2023-01-12T01:42:03.606Z",
+  "defects": [],
+  "description": "نحوه اجرای بازی: ۱. بازی را استخراج کنید. ۲. محتویات پوشه lastofass که در Bakhtak_City_Ario_Games_FIX.7z قرار دارد را در محل بازی کپی کنید.",
+  "games": [
+    {
+      "dubbed": false,
+      "iranian": true,
+      "modified": false,
+      "subtitle": false,
+      "title": [],
+      "titlefa": []
+    }
+  ],
+  "links": [],
+  "manuals": false,
+  "no_of_discs": [1],
+  "platform": ["Windows"],
+  "price": [],
+  "producer": ["medrick"],
+  "publisher": ["ariogames"],
+  "release_date": [
+    {
+      "date": "2017-12-24",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": ["web"],
+  "selling": false,
+  "title": ["Bakhtak City"],
+  "titlefa": ["شهر بختک ها"],
+  "updated_at": "2023-01-12T01:42:03.606Z"
 }
