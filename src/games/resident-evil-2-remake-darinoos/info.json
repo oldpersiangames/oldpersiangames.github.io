@@ -1,0 +1,48 @@
+{
+  "title": ["Resident Evil 2: Remake"],
+  "titlefa": ["اهریمن ساکن ۲"],
+  "producer": ["darinoos"],
+  "publisher": ["darinoos"],
+  "price": [],
+  "release_date": [],
+  "released_on": ["DVD"],
+  "no_of_discs": [3],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": ["Windows"],
+  "created_at": "2023-01-14T22:51:18.539Z",
+  "updated_at": "2023-01-14T22:51:18.539Z",
+  "manuals": [
+    {
+      "release_type": "printed",
+      "no_of_pages": 97,
+      "files": ["Resident Evil 2 Remake Manual (Darinoos).pdf"]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "BahramDVD",
+      "contribute": ["game", "cover", "manual"]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": ["cover", "manual", "details"]
+    },
+    {
+      "username": "alihardan",
+      "contribute": ["details"]
+    }
+  ],
+  "links": []
+}
