@@ -247,7 +247,7 @@ permalink: "games/{{ game.id }}/"
       {%- for contributor in game.contributors -%}
         <span dir="ltr">
           <a href="/contributors/#{{ contributor.username }}">@{{ contributor.username }}</a>
-        </span> ({%- for contribute in contributor.contribute -%}{{ contribute | contribute_type }}{{ '' if loop.last else "، " }}
+        </span>&nbsp;({%- for contribute in contributor.contribute -%}{{ contribute | contribute_type }}{{ '' if loop.last else "، " }}
         {%- endfor -%}){{ '' if loop.last else "<br>" | safe }}
       {%- endfor -%}
     </p>
