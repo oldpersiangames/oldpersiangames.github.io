@@ -1,42 +1,73 @@
 {
-  "title": ["Counter-Strike: Modern Warfare 2 Gold Edtion"],
-  "titlefa": ["کانتر استرایک: مدرن وارفار ۲", "شمارش معکوس: جنگ های پیشرفته ۲"],
-  "producer": ["asrebazi"],
-  "publisher": ["asrebazi"],
-  "price": [60000],
-  "release_date": [],
-  "released_on": ["DVD"],
-  "no_of_discs": [1],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "created_at": "2023-01-25T16:49:38.299Z",
-  "updated_at": "2023-01-25T16:49:38.299Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "PesareShojae",
-      "contribute": ["game", "cover"]
-    },
-    {
-      "username": "AG_e_e_kA",
-      "contribute": ["cover", "details"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["details"]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "PesareShojae"
+        },
+        {
+            "contribute": [
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-25T16:49:38.299Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "counter-strike-modern-warfare-2-gold-edtion-asrebazi",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [
+        60000
+    ],
+    "producer": [
+        "asrebazi"
+    ],
+    "publisher": [
+        "asrebazi"
+    ],
+    "release_date": [
+        {
+            "date": "0000-00-00",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Counter-Strike: Modern Warfare 2 Gold Edtion"
+    ],
+    "titlefa": [
+        "کانتر استرایک: مدرن وارفار ۲",
+        "شمارش معکوس: جنگ های پیشرفته ۲"
+    ],
+    "updated_at": "2023-01-25T16:49:38.299Z"
 }
