@@ -1,59 +1,83 @@
 {
-  "title": ["Quest of Persia: Lotfali Khan Zand"],
-  "titlefa": ["لطفعلی خان زند"],
-  "producer": ["pouyaarts"],
-  "publisher": ["pardisgame"],
-  "price": [],
-  "release_date": [
-    {
-      "date": "2008-05-05",
-      "ref": ""
-    }
-  ],
-  "released_on": ["DVD"],
-  "no_of_discs": [1],
-  "defects": [],
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": false,
-      "modified": false,
-      "subtitle": false,
-      "iranian": true
-    }
-  ],
-  "selling": false,
-  "platform": ["Windows"],
-  "manuals": [
-    {
-      "release_type": "inweb",
-      "no_of_pages": 0,
-      "files": ["walkthrough.zip", "walkthrough-en.zip"]
-    }
-  ],
-  "contributors": [
-    {
-      "username": "Mahdi_Jafarzadeh",
-      "contribute": ["game"]
-    },
-    {
-      "username": "alihardan",
-      "contribute": ["cover", "manual", "details"]
-    }
-  ],
-  "links": [
-    {
-      "title": "وبسایت رسمی",
-      "url": "http://www.questofpersia.com/"
-    },
-    {
-      "title": "کتابچه‌ی راهنمای فارسی",
-      "url": "http://www.questofpersia.com/fa/walkthrough.html"
-    },
-    {
-      "title": "کتابچه‌ی راهنمای انگلیسی",
-      "url": "http://www.questofpersia.com/lotfali/walkthrough.html"
-    }
-  ]
+    "contributors": [
+        {
+            "contribute": [
+                "game"
+            ],
+            "username": "Mahdi_Jafarzadeh"
+        },
+        {
+            "contribute": [
+                "cover",
+                "manual",
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "defects": [],
+    "games": [
+        {
+            "dubbed": false,
+            "iranian": true,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "quest-of-persia-lotfali-khan-zand-pardisgame-reupload",
+    "links": [
+        {
+            "title": "وبسایت رسمی",
+            "url": "http://www.questofpersia.com/"
+        },
+        {
+            "title": "کتابچه‌ی راهنمای فارسی",
+            "url": "http://www.questofpersia.com/fa/walkthrough.html"
+        },
+        {
+            "title": "کتابچه‌ی راهنمای انگلیسی",
+            "url": "http://www.questofpersia.com/lotfali/walkthrough.html"
+        }
+    ],
+    "manuals": [
+        {
+            "files": [
+                "walkthrough.zip",
+                "walkthrough-en.zip"
+            ],
+            "no_of_pages": 0,
+            "release_type": "inweb"
+        }
+    ],
+    "no_of_discs": [
+        1
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "pouyaarts"
+    ],
+    "publisher": [
+        "pardisgame"
+    ],
+    "release_date": [
+        {
+            "date": "2008-05-05",
+            "ref": ""
+        }
+    ],
+    "released_on": [
+        "DVD"
+    ],
+    "selling": false,
+    "title": [
+        "Quest of Persia: Lotfali Khan Zand"
+    ],
+    "titlefa": [
+        "لطفعلی خان زند"
+    ]
 }
