@@ -1,63 +1,64 @@
 {
-  "title": [
-    "Worms 3D"
-  ],
-  "titlefa": [
-    "جنگ کرم ها"
-  ],
-  "producer": [
-    "parsgame"
-  ],
-  "publisher": [
-    "parsgame"
-  ],
-  "price": [],
-  "release_date": [
-    {
-      "date": "2004-01-28",
-      "ref": "بر اساس تاریخ فایل‌های دیسک."
-    }
-  ],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2023-01-29T21:00:43.665Z",
-  "updated_at": "2023-01-29T21:00:43.665Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover",
-        "details"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover",
+                "details"
+            ],
+            "username": "AG_e_e_kA"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-01-29T21:00:43.665Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "worms-3d-parsgame",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "parsgame"
+    ],
+    "publisher": [
+        "parsgame"
+    ],
+    "release_date": [
+        {
+            "date": "2004-01-28",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "Worms 3D"
+    ],
+    "titlefa": [
+        "جنگ کرم ها"
+    ],
+    "updated_at": "2023-01-29T21:00:43.665Z"
 }
