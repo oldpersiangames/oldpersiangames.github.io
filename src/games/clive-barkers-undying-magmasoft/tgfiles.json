@@ -1,79 +1,18 @@
 [
-  {
-    "file_name": "Clive Barker's Undying- Cover 1.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWw2PYD2xZuWd1GPT_TyyJpKwu-R_NAAIIDQACvDtIUIiM6_duXxYnAQAHbQADLQQ",
-      "file_unique_id": "AQADCA0AArw7SFBy",
-      "file_size": 13124,
-      "width": 240,
-      "height": 320
+    {
+        "date": "2023-01-30 18:48:49",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFslj2BER2n5Njmi2OCuN22TepVuwfwACrQ0AAvo1wVIx6wwO5kq_nh4E",
+        "file_name": "clive-barkers-undying-magmasoft-photos.zip",
+        "file_size": 48779811,
+        "file_unique_id": "AgADrQ0AAvo1wVI",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsNj2A9sWblndRj0_08siaSsLvkfzQACCA0AArw7SFCIjOv3bl8WJy0E",
-    "file_unique_id": "AgADCA0AArw7SFA",
-    "file_size": 12317598
-  },
-  {
-    "file_name": "Clive Barker's Undying- Cover 2.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWxGPYD2yqQnANpqGyWbRv38M1ARoWAAIJDQACvDtIUPVP64k37mcMAQAHbQADLQQ",
-      "file_unique_id": "AQADCQ0AArw7SFBy",
-      "file_size": 12754,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsRj2A9sqkJwDaahslm0b9_DNQEaFgACCQ0AArw7SFD1T-uJN-5nDC0E",
-    "file_unique_id": "AgADCQ0AArw7SFA",
-    "file_size": 11681539
-  },
-  {
-    "file_name": "Clive Barker's Undying- Cover 3.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWxWPYD2wkDopst-7Rlqy4JW455U8BAAIKDQACvDtIUGQZMgJG0AuFAQAHbQADLQQ",
-      "file_unique_id": "AQADCg0AArw7SFBy",
-      "file_size": 11826,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsVj2A9sJA6KbLfu0ZasuCVuOeVPAQACCg0AArw7SFBkGTICRtALhS0E",
-    "file_unique_id": "AgADCg0AArw7SFA",
-    "file_size": 11627785
-  },
-  {
-    "file_name": "Clive Barker's Undying- Cover 4.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWxmPYD2wlc-HcZSPqkJKjvPGCyArdAAILDQACvDtIUF-yLr82As6WAQAHbQADLQQ",
-      "file_unique_id": "AQADCw0AArw7SFBy",
-      "file_size": 11012,
-      "width": 240,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsZj2A9sJXPh3GUj6pCSo7zxgsgK3QACCw0AArw7SFBfsi6_NgLOli0E",
-    "file_unique_id": "AgADCw0AArw7SFA",
-    "file_size": 12013267
-  },
-  {
-    "file_name": "Clive Barker's Undying- Cover 5.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWx2PYD2wzn6dS1IKloXYNMsFknDCRAAIMDQACvDtIUJ9VOiR4YV6jAQAHbQADLQQ",
-      "file_unique_id": "AQADDA0AArw7SFBy",
-      "file_size": 6948,
-      "width": 287,
-      "height": 320
-    },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsdj2A9sM5-nUtSCpaF2DTLBZJwwkQACDA0AArw7SFCfVTokeGFeoy0E",
-    "file_unique_id": "AgADDA0AArw7SFA",
-    "file_size": 1138870
-  },
-  {
-    "file_name": "Undying.iso",
-    "mime_type": "application/x-iso9660-image",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFshj2A96uVw91xWji1hwpigOwEy6cwACMw4AAgRWIVCJkiczwBQ2WC0E",
-    "file_unique_id": "AgADMw4AAgRWIVA",
-    "file_size": 551600128
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFshj2A96uVw91xWji1hwpigOwEy6cwACMw4AAgRWIVCJkiczwBQ2WC0E",
+        "file_name": "Undying.iso",
+        "file_size": 551600128,
+        "file_unique_id": "AgADMw4AAgRWIVA",
+        "mime_type": "application/x-iso9660-image"
+    }
 ]
