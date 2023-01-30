@@ -1,0 +1,72 @@
+{
+  "title": [
+    "Clive Barker's Undying"
+  ],
+  "titlefa": [
+    "روئین تن",
+    "رویین تن"
+  ],
+  "producer": [
+    "novinpendar"
+  ],
+  "publisher": [
+    "magmasoft"
+  ],
+  "price": [
+    10000
+  ],
+  "release_date": [
+    {
+      "date": "2006-09-11",
+      "ref": "بر اساس تاریخ فایل‌های دیسک."
+    }
+  ],
+  "released_on": [
+    "CD"
+  ],
+  "no_of_discs": [
+    1
+  ],
+  "defects": [],
+  "description": "",
+  "games": [
+    {
+      "title": [],
+      "titlefa": [],
+      "dubbed": true,
+      "modified": false,
+      "subtitle": false,
+      "iranian": false
+    }
+  ],
+  "selling": false,
+  "platform": [
+    "Windows"
+  ],
+  "created_at": "2023-01-30T18:44:14.483Z",
+  "updated_at": "2023-01-30T18:44:14.483Z",
+  "manuals": false,
+  "contributors": [
+    {
+      "username": "MANRN7",
+      "contribute": [
+        "game",
+        "cover",
+        "details"
+      ]
+    },
+    {
+      "username": "AG_e_e_kA",
+      "contribute": [
+        "details"
+      ]
+    },
+    {
+      "username": "alihardan",
+      "contribute": [
+        "details"
+      ]
+    }
+  ],
+  "links": []
+}
