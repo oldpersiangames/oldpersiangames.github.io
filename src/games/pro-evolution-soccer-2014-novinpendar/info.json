@@ -1,32 +1,19 @@
 {
-  "title": [
-    "Pro Evolution Soccer 2014",
-    "PES 2014"
-  ],
+  "title": ["Pro Evolution Soccer 2014", "PES 2014"],
   "titlefa": [
     "فوتبال تکاملی ۲۰۱۴ (به همراه لیگ برتر) {با گزارشگری عادل فردوسی پور)"
   ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    80000
-  ],
+  "producer": ["novinpendar"],
+  "publisher": ["novinpendar"],
+  "price": [80000],
   "release_date": [
     {
       "date": "2014-04-16",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [2],
   "defects": [],
   "games": [
     {
@@ -39,25 +26,19 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
       "username": "mrwinner78",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "contribute": ["game", "cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [],
-  "ia_id": "pro-evolution-soccer-2014-novinpendar"
+  "ia_id": "pro-evolution-soccer-2014-novinpendar",
+  "description": "این بازی قفل‌دار است و تاکنون کرکی برای آن تهیه نشده است. پیشنهاد می‌کنیم دانلود نکنید."
 }

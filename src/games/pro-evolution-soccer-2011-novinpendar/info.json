@@ -1,32 +1,19 @@
 {
-  "title": [
-    "Pro Evolution Soccer 2011",
-    "PES 2011"
-  ],
+  "title": ["Pro Evolution Soccer 2011", "PES 2011"],
   "titlefa": [
     "فوتبال تکاملی ۲۰۱۱ (به همراه لیگ برتر) {با گزارشگری عادل فردوسی پور)"
   ],
-  "producer": [
-    "novinpendar"
-  ],
-  "publisher": [
-    "novinpendar"
-  ],
-  "price": [
-    55000
-  ],
+  "producer": ["novinpendar"],
+  "publisher": ["novinpendar"],
+  "price": [55000],
   "release_date": [
     {
       "date": "2011-02-01",
       "ref": "بر اساس تاریخ فایل‌های دیسک."
     }
   ],
-  "released_on": [
-    "DVD"
-  ],
-  "no_of_discs": [
-    2
-  ],
+  "released_on": ["DVD"],
+  "no_of_discs": [2],
   "defects": [],
   "games": [
     {
@@ -39,25 +26,19 @@
     }
   ],
   "selling": false,
-  "platform": [
-    "Windows"
-  ],
+  "platform": ["Windows"],
   "manuals": false,
   "contributors": [
     {
       "username": "AG_e_e_kA",
-      "contribute": [
-        "game",
-        "cover"
-      ]
+      "contribute": ["game", "cover"]
     },
     {
       "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
+      "contribute": ["details"]
     }
   ],
   "links": [],
-  "ia_id": "pro-evolution-soccer-2011-novinpendar"
+  "ia_id": "pro-evolution-soccer-2011-novinpendar",
+  "description": "این بازی قفل‌دار است و تاکنون کرکی برای آن تهیه نشده است. پیشنهاد می‌کنیم دانلود نکنید."
 }
