@@ -1,23 +1,18 @@
 [
-  {
-    "file_name": "Trinity Island.jpg",
-    "mime_type": "image/jpeg",
-    "thumb": {
-      "file_id": "AAMCBAADHQJLZnn-AAIWzGPwwZex3u6vzz5AEkP7LHzzPjxLAAIqDgACVygZU9kl1w5JC2TWAQAHbQADLgQ",
-      "file_unique_id": "AQADKg4AAlcoGVNy",
-      "file_size": 22556,
-      "width": 320,
-      "height": 180
+    {
+        "date": "2023-02-18 12:19:05",
+        "file_id": "BQACAgQAAx0ES2Z5_gACFs5j8MI5RZyAYRkr0WRYT0cE2Sq9zwACHg4AAk37iFNpXhbG8AxdmB4E",
+        "file_name": "trinity-islands-ariogames-photos.zip",
+        "file_size": 503228,
+        "file_unique_id": "AgADHg4AAk37iFM",
+        "mime_type": "application/zip",
+        "thumbs": null
     },
-    "file_id": "BQACAgQAAx0CS2Z5_gACFsxj8MGXsd7ur88-QBJD-yx88z48SwACKg4AAlcoGVPZJdcOSQtk1i4E",
-    "file_unique_id": "AgADKg4AAlcoGVM",
-    "file_size": 503094
-  },
-  {
-    "file_name": "com.blazingfall.trinityislands.rar",
-    "mime_type": "application/vnd.rar",
-    "file_id": "BQACAgQAAx0CS2Z5_gACFs1j8MGX8eoJy8Sn2MxVedBEuJ8jWAACxA4AAhVxSVHnlOgTkbk3IC4E",
-    "file_unique_id": "AgADxA4AAhVxSVE",
-    "file_size": 73106082
-  }
+    {
+        "file_id": "BQACAgQAAx0CS2Z5_gACFs1j8MGX8eoJy8Sn2MxVedBEuJ8jWAACxA4AAhVxSVHnlOgTkbk3IC4E",
+        "file_name": "com.blazingfall.trinityislands.rar",
+        "file_size": 73106082,
+        "file_unique_id": "AgADxA4AAhVxSVE",
+        "mime_type": "application/vnd.rar"
+    }
 ]
