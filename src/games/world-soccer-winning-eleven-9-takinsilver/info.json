@@ -1,59 +1,65 @@
 {
-  "title": [
-    "World Soccer: Winning Eleven 9",
-    "Pro Evolution Soccer 5",
-    "PES 5"
-  ],
-  "titlefa": [
-    "فوتبال تکاملی حرفه‌ای ۵"
-  ],
-  "producer": [
-    "takinsilver"
-  ],
-  "publisher": [
-    "takinsilver"
-  ],
-  "price": [],
-  "release_date": [],
-  "released_on": [
-    "CD"
-  ],
-  "no_of_discs": [
-    2
-  ],
-  "defects": [],
-  "description": "",
-  "games": [
-    {
-      "title": [],
-      "titlefa": [],
-      "dubbed": true,
-      "modified": false,
-      "subtitle": false,
-      "iranian": false
-    }
-  ],
-  "selling": false,
-  "platform": [
-    "Windows"
-  ],
-  "created_at": "2023-03-12T18:32:47.257Z",
-  "updated_at": "2023-03-12T18:32:47.257Z",
-  "manuals": false,
-  "contributors": [
-    {
-      "username": "RezaTofani",
-      "contribute": [
-        "game",
-        "cover"
-      ]
-    },
-    {
-      "username": "alihardan",
-      "contribute": [
-        "details"
-      ]
-    }
-  ],
-  "links": []
+    "contributors": [
+        {
+            "contribute": [
+                "game",
+                "cover"
+            ],
+            "username": "RezaTofani"
+        },
+        {
+            "contribute": [
+                "details"
+            ],
+            "username": "alihardan"
+        }
+    ],
+    "created_at": "2023-03-12T18:32:47.257Z",
+    "defects": [],
+    "description": "",
+    "games": [
+        {
+            "dubbed": true,
+            "iranian": false,
+            "modified": false,
+            "subtitle": false,
+            "title": [],
+            "titlefa": []
+        }
+    ],
+    "ia_id": "world-soccer-winning-eleven-9-takinsilver",
+    "links": [],
+    "manuals": false,
+    "no_of_discs": [
+        2
+    ],
+    "platform": [
+        "Windows"
+    ],
+    "price": [],
+    "producer": [
+        "takinsilver"
+    ],
+    "publisher": [
+        "takinsilver"
+    ],
+    "release_date": [
+        {
+            "date": "2007-05-23",
+            "ref": "بر اساس تاریخ فایل‌های دیسک."
+        }
+    ],
+    "released_on": [
+        "CD"
+    ],
+    "selling": false,
+    "title": [
+        "World Soccer: Winning Eleven 9",
+        "Pro Evolution Soccer 5",
+        "PES 5"
+    ],
+    "titlefa": [
+        "فوتبال تکاملی حرفه‌ای ۵"
+    ],
+    "updated_at": "2023-03-12T18:32:47.257Z"
 }
