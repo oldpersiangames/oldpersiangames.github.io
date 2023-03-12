@@ -462,5 +462,10 @@
     "titlefa": "سازمان حمل و نقل و ترافیک تهران",
     "order": 99
   },
+  "takinsilver": {
+    "title": "Takin Silver",
+    "titlefa": "تکین لوح نقره ای",
+    "order": 99
+  },
   "unknown": { "title": "Unknown", "titlefa": "نامعلوم", "order": 99 }
 }
