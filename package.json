@@ -8,7 +8,7 @@
     "clean-css": "*",
     "html-minifier": "*",
     "terser": "*",
-    "glob": "*"
+    "glob": "7.2.0"
   },
   "scripts": {
     "build": "eleventy"
