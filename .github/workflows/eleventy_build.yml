@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: "14"
+          node-version: "16"
       - name: Install unrar p7zip
         run: sudo apt-get install -y unrar p7zip
       - name: Install dependencies
