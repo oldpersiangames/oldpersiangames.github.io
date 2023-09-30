@@ -13,9 +13,6 @@ const types = [
   { id: 'iranian', name: t('iranian') },
   { id: 'modified', name: t('modified') },
 ]
-const selectedPlatforms = ref([])
-const selectedTypes = ref([])
-
 const { pending: gamesPending, data: games } = await useLazyFetch(
   "https://backend.oldpersiangames.org/api/games/websiteIndex"
 );
@@ -23,17 +20,22 @@ const { pending: gamesPending, data: games } = await useLazyFetch(
 const { pending: companiesPending, data: companies } = await useLazyFetch(
   "https://backend.oldpersiangames.org/api/companies/websiteIndex"
 );
-const selectedCompanies = ref([]);
+
 
 const pageCount = ref(50);
-const page = ref(1);
+const page = ref(process.client ? JSON.parse(sessionStorage.getItem("gamesPage")) ?? 1 : 1);
 
-
-
-
-const filter = ref({
+const defaultFilter = {
   q: "",
-});
+  selectedCompanies: [],
+  selectedPlatforms: [],
+  selectedTypes: [],
+};
+const filter = ref(
+  process.client
+    ? JSON.parse(sessionStorage.getItem("gamesFilter")) ?? defaultFilter
+    : defaultFilter
+);
 
 const filteredGames = computed(() => {
   if (!games.value) return [];
@@ -42,9 +44,9 @@ const filteredGames = computed(() => {
     (item) =>
       (item.games[0].title_fa.some((string) => string.includes(q)) ||
         item.games[0].title_en.some((string) => string.toLowerCase().includes(q))) &&
-      (!selectedPlatforms.value.length || item.platforms.some(el => selectedPlatforms.value.map((e) => e.name).includes(el))) &&
-      (!selectedCompanies.value.length || item.publishers.map(x => x.id).some(el => selectedCompanies.value.map((e) => e.id).includes(el))) &&
-      (!selectedTypes.value.length || selectedTypes.value.map((e) => e.id).some(el => item.games.some(x => x[el])))
+      (!filter.value.selectedPlatforms.length || item.platforms.some(el => filter.value.selectedPlatforms.map((e) => e.name).includes(el))) &&
+      (!filter.value.selectedCompanies.length || item.publishers.map(x => x.id).some(el => filter.value.selectedCompanies.map((e) => e.id).includes(el))) &&
+      (!filter.value.selectedTypes.length || filter.value.selectedTypes.map((e) => e.id).some(el => item.games.some(x => x[el])))
   );
 });
 
@@ -54,11 +56,19 @@ const rows = computed(() => {
 });
 
 
-
-watch(filteredGames, () => {
-  page.value = 1;
-});
-
+if (process.client) {
+  watch(
+    filter,
+    (newFilter) => {
+      page.value = 1;
+      sessionStorage.setItem("gamesFilter", JSON.stringify(newFilter));
+    },
+    { deep: true }
+  );
+  watch(page, (newPage) => {
+    sessionStorage.setItem("gamesPage", JSON.stringify(newPage));
+  });
+}
 
 </script>
 <template>
@@ -82,30 +92,30 @@ watch(filteredGames, () => {
       </UInput>
 
 
-      <USelectMenu v-model="selectedTypes" :options="types" by="id" option-attribute="name" class="flex-1" multiple>
+      <USelectMenu v-model="filter.selectedTypes" :options="types" by="id" option-attribute="name" class="flex-1" multiple>
         <template #label>
-          <span v-if="selectedTypes.length" class="truncate">{{ selectedTypes.map(e => e.name).join(', ')
+          <span v-if="filter.selectedTypes.length" class="truncate">{{ filter.selectedTypes.map(e => e.name).join(', ')
           }}</span>
           <span v-else>{{ $t('allTypes') }}</span>
         </template>
       </USelectMenu>
 
 
-      <USelectMenu v-model="selectedPlatforms" :options="platforms" by="id" option-attribute="name" class="flex-1"
+      <USelectMenu v-model="filter.selectedPlatforms" :options="platforms" by="id" option-attribute="name" class="flex-1"
         multiple>
         <template #label>
-          <span v-if="selectedPlatforms.length" class="truncate">{{ selectedPlatforms.map(e => e.name).join(', ')
+          <span v-if="filter.selectedPlatforms.length" class="truncate">{{ filter.selectedPlatforms.map(e => e.name).join(', ')
           }}</span>
           <span v-else>{{ $t('allPlatforms') }}</span>
         </template>
       </USelectMenu>
 
-      <USelectMenu v-model="selectedCompanies"
+      <USelectMenu v-model="filter.selectedCompanies"
         :options="companies.map((e) => { return { id: e.id, label: e[$t('primaryTitleKey')][0] } })" by="id"
         option-attribute="label" class="flex-1" searchable multiple :placeholder="$t('selectPublisher')"
         :searchable-placeholder="$t('selectPublisher')">
         <template #label>
-          <span v-if="selectedCompanies.length" class="truncate">{{ selectedCompanies.map(e => e.label).join(', ')
+          <span v-if="filter.selectedCompanies.length" class="truncate">{{ filter.selectedCompanies.map(e => e.label).join(', ')
           }}</span>
           <span v-else>{{ $t('allPublishers') }}</span>
         </template>
