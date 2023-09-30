@@ -12,12 +12,11 @@
   "devDependencies": {
     "@nuxt/image": "^1.0.0-rc.2",
     "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge",
-    "@nuxtseo/module": "^2.0.0-beta.15",
+    "@nuxtseo/module": "^2.0.0-beta.34",
     "@types/node": "^20.5.6",
     "nuxt": "^3.7.0"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.16",
     "@iconify-json/emojione": "^1.1.7",
     "@iconify-json/logos": "^1.1.37",
     "@nuxt/ui": "^2.8.1",

@@ -10,7 +10,7 @@ const i18nHead = useLocaleHead({
 
 useHead({
     htmlAttrs: i18nHead.value.htmlAttrs,
-    link: [...(i18nHead.value.link || [])],
+    link: [...(i18nHead.value.link.filter(link => link.rel != 'canonical').map((link) => { if (link.rel == 'alternate') { link.href = link.href + '/'; } return link }) || [])],
     meta: [...(i18nHead.value.meta || [])],
 
 });
