@@ -1,4 +1,17 @@
 <script setup>
+import uFuzzy from "@leeoniya/ufuzzy"
+
+const uf = new uFuzzy({
+  unicode: true,
+  interSplit: "[^\\p{L}\\d']+",
+  intraSplit: "\\p{Ll}\\p{Lu}",
+  intraBound: "\\p{L}\\d|\\d\\p{L}|\\p{Ll}\\p{Lu}",
+  intraChars: "[\\p{L}\\d']",
+  intraContr: "'\\p{L}{1,2}\\b",
+
+  intraIns: 2,
+});
+
 const localePath = useLocalePath();
 const { t, locale } = useI18n();
 const platforms = [
@@ -37,13 +50,20 @@ const filter = ref(
     : defaultFilter
 );
 
+const gamesSearchIndex = computed(() => {
+  return games.value.map(r => r.games.map(m => m.title_fa.join('¦') + '¦' + m.title_en.join('¦')).join('¦'))
+})
+
 const filteredGames = computed(() => {
   if (!games.value) return [];
-  let q = filter.value.q.toLowerCase();
-  return games.value.filter(
+  let filterSource = games.value;
+  if (filter.value.q) {
+    let idxs = uf.search(gamesSearchIndex.value, filter.value.q, true);
+    if (idxs)
+      filterSource = idxs[0].map(i => games.value[i]);
+  }
+  return filterSource.filter(
     (item) =>
-      (item.games[0].title_fa.some((string) => string.includes(q)) ||
-        item.games[0].title_en.some((string) => string.toLowerCase().includes(q))) &&
       (!filter.value.selectedPlatforms.length || item.platforms.some(el => filter.value.selectedPlatforms.map((e) => e.name).includes(el))) &&
       (!filter.value.selectedCompanies.length || item.publishers.map(x => x.id).some(el => filter.value.selectedCompanies.map((e) => e.id).includes(el))) &&
       (!filter.value.selectedTypes.length || filter.value.selectedTypes.map((e) => e.id).some(el => item.games.some(x => x[el])))
@@ -92,7 +112,8 @@ if (process.client) {
       </UInput>
 
 
-      <USelectMenu v-model="filter.selectedTypes" :options="types" by="id" option-attribute="name" class="flex-1" multiple>
+      <USelectMenu v-model="filter.selectedTypes" :options="types" by="id" option-attribute="name" class="flex-1"
+        multiple>
         <template #label>
           <span v-if="filter.selectedTypes.length" class="truncate">{{ filter.selectedTypes.map(e => e.name).join(', ')
           }}</span>
@@ -104,7 +125,8 @@ if (process.client) {
       <USelectMenu v-model="filter.selectedPlatforms" :options="platforms" by="id" option-attribute="name" class="flex-1"
         multiple>
         <template #label>
-          <span v-if="filter.selectedPlatforms.length" class="truncate">{{ filter.selectedPlatforms.map(e => e.name).join(', ')
+          <span v-if="filter.selectedPlatforms.length" class="truncate">{{ filter.selectedPlatforms.map(e =>
+            e.name).join(', ')
           }}</span>
           <span v-else>{{ $t('allPlatforms') }}</span>
         </template>
@@ -115,7 +137,8 @@ if (process.client) {
         option-attribute="label" class="flex-1" searchable multiple :placeholder="$t('selectPublisher')"
         :searchable-placeholder="$t('selectPublisher')">
         <template #label>
-          <span v-if="filter.selectedCompanies.length" class="truncate">{{ filter.selectedCompanies.map(e => e.label).join(', ')
+          <span v-if="filter.selectedCompanies.length" class="truncate">{{ filter.selectedCompanies.map(e =>
+            e.label).join(', ')
           }}</span>
           <span v-else>{{ $t('allPublishers') }}</span>
         </template>
@@ -171,7 +194,7 @@ if (process.client) {
                     <template v-if="platform == 'PS1'">
                       <!-- <UIcon name="i-logos-microsoft-windows-icon" /> -->
                     </template>
-                    {{ $t(platform) }}
+                    {{ platform }}
                   </span>
                 </div>
               </div>

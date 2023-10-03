@@ -19,6 +19,7 @@
   "dependencies": {
     "@iconify-json/emojione": "^1.1.7",
     "@iconify-json/logos": "^1.1.37",
+    "@leeoniya/ufuzzy": "^1.0.10",
     "@nuxt/ui": "^2.8.1",
     "filesize": "^10.0.12",
     "postcss-rtlcss": "^4.0.7",
