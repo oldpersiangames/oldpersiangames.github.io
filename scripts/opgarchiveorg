@@ -92,3 +92,8 @@ for game in games:
         )
 
 tgclient.stop()
+
+requests.get(
+    "https://backend.oldpersiangames.org/api/makeBackup?key="
+    + quote(os.environ["OPG_KEY"])
+)
