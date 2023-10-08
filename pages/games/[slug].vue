@@ -21,6 +21,13 @@ const { pending, data: game } = await useLazyFetch(
 
 const title = computed(() => {
   if (!game.value) return "";
+  if (locale == 'en') {
+    return game.value.title_en ?? game.value.collection_title_en ? 'Download ' + game.value.collection_title_en : 'Download '
+      +
+      (game.value.games[0].dubbed ? 'Persian Dubbed ' : '') +
+      (game.value.games[0].iranian ? 'Iranian ' : '') + 'Game ' + game.value.games[0].title_en[0] +
+      (game.value.games[0].dubbed ? ' | ' + (game.value.publishers.length ? ' - ' + game.value.publishers.map(x => x.title_en[0]).join(' & ') : '') : '')
+  }
   return game.value.title_fa ?? game.value.collection_title_fa ? 'دانلود ' + game.value.collection_title_fa : 'دانلود '
     +
     (game.value.games[0].dubbed ? 'نسخه دوبله فارسی ' : '') + 'بازی ' +
