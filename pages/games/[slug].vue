@@ -9,6 +9,7 @@ const { pending, data: game } = await useLazyFetch(
   "https://backend.oldpersiangames.org/api/games/websiteShow/" + route.params.slug
   , {
     transform: (game) => {
+      game.tgfiles = game.tgfiles.map(({ file_id, ...keepAttrs }) => keepAttrs)
       game.contributes = game.contributes.reduce((group, contribute) => {
         group[contribute.user.name] = group[contribute.user.name] ?? [];
         group[contribute.user.name].push(contribute.contribute);
