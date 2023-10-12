@@ -60,7 +60,7 @@ const title = computed(() => {
             <strong class="py-1  whitespace-nowrap">{{ $t('primaryTitle') }}</strong>
             <div class="flex-1 h-px bg-gray-300 dark:bg-neutral-700"></div>
             <span class="text-gray-500 dark:text-gray-400">
-              {{ game.collection_title_fa ?? game.games[0][$t('primaryTitleKey')].join($t('joinCharacter')) }}
+              {{ game["collection_title_" + locale] ?? game.games[0][$t('primaryTitleKey')].join($t('joinCharacter')) }}
             </span>
           </li>
           <li class="flex items-center mt-2 gap-2">
@@ -76,13 +76,13 @@ const title = computed(() => {
             <strong class="py-1  whitespace-nowrap">{{ $t('producer') }}</strong>
             <div class="flex-1 h-px bg-gray-300 dark:bg-neutral-700"></div>
             <span class="text-gray-500 dark:text-gray-400">{{ game.producers.map(x =>
-              x.title_fa[0]).join($t('joinCharacter')) }}</span>
+              x["title_" + locale][0]).join($t('joinCharacter')) }}</span>
           </li>
           <li v-if="game?.publishers?.length" class="flex items-center mt-2 gap-2">
             <strong class="py-1  whitespace-nowrap">{{ $t('publisher') }}</strong>
             <div class="flex-1 h-px bg-gray-300 dark:bg-neutral-700"></div>
             <span class="text-gray-500 dark:text-gray-400">{{ game.publishers.map(x =>
-              x.title_fa[0]).join($t('joinCharacter')) }}</span>
+              x["title_" + locale][0]).join($t('joinCharacter')) }}</span>
           </li>
           <li v-if="game?.release_dates?.length" class="flex items-center mt-2 gap-2">
             <strong class="py-1  whitespace-nowrap">{{ $t('releaseDate') }}</strong>
