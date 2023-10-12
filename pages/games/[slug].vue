@@ -48,6 +48,7 @@ const title = computed(() => {
       <Title>{{ title }}</Title>
       <Meta name="description" :content="title" />
     </Head>
+
     <h1 class="mt-4 text-center text-xl font-bold leading-none tracking-tight text-gray-900 dark:text-white">{{
       title }}</h1>
     <div class="mt-8 flex flex-col md:flex-row-reverse gap-6">
@@ -198,6 +199,8 @@ const title = computed(() => {
             </tfoot>
           </table>
         </div>
+        <div class="mt-4 prose prose-primary dark:prose-invert"
+          v-html="locale == 'en' ? game.content_en ?? game.content_fa : game.content_fa"></div>
       </div>
     </div>
     <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700">
