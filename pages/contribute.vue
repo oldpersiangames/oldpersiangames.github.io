@@ -36,8 +36,20 @@
         <p>اگر اثری که در اختیار دارید بر دیسک عرضه نشده و یا دیسکش رو در اختیار ندارین، طبیعتاً امکان تهیه‌ی ایمیج وجود
             نداره. همون فایلی که در اختیارتون هست رو ارسال کنید.</p>
 
-        <p style="border:thin solid #bbd;background-color:#ddf;padding:5px;">توجه کنید که کپی کردن فایل‌های داخل دیسک بصورت
-            دستی مورد تأیید نیست و حتماً باید از دیسک، بصورت مستقیم، ایمیج تهیه بشه.</p>
+
+        <div class="flex items-center p-4 mb-4 text-sm text-yellow-800 border border-yellow-300 rounded-lg bg-yellow-50 dark:bg-gray-800 dark:text-yellow-300 dark:border-yellow-800"
+            role="alert">
+            <svg class="flex-shrink-0 inline w-4 h-4 mr-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                fill="currentColor" viewBox="0 0 20 20">
+                <path
+                    d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5ZM9.5 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM12 15H8a1 1 0 0 1 0-2h1v-3H8a1 1 0 0 1 0-2h2a1 1 0 0 1 1 1v4h1a1 1 0 0 1 0 2Z" />
+            </svg>
+            <span class="sr-only">Info</span>
+            <div>
+                <span class="font-medium">توجه کنید</span> که کپی کردن فایل‌های داخل دیسک بصورت
+                دستی مورد تأیید نیست و حتماً باید از دیسک، بصورت مستقیم، ایمیج تهیه بشه.
+            </div>
+        </div>
 
         <h3>تهیه‌ی ایمیج</h3>
 
@@ -46,12 +58,12 @@
             نصب کنید. این برنامه کاملاً رایگان هست.</p>
 
         <p>۱. برنامه‌ی AnyBurn را اجرا کنید و بر &quot;Copy disc to image file&quot; کلیک کنید.</p>
-        <p><img style="max-width:100%" src="https://www.anyburn.com/tutorials/images/copy-disc-to-bin-cue-file-1.png"></p>
+        <p><img src="https://www.anyburn.com/tutorials/images/copy-disc-to-bin-cue-file-1.png"></p>
         <p>۲. درایوی که دیسک در آن قرار گرفته را انتخاب کنید و مسیر ذخیره‌ی ایمیج را مشخص کنید. فرمت فایل ایمیج را انتخاب
             کنید (فرمت پیشنهادی: ISO). سپس بر &quot;Create Now&quot; کلیک کنید.</p>
-        <p><img style="max-width:100%" src="https://www.anyburn.com/tutorials/images/copy-disc-to-iso-file-2.png"></p>
+        <p><img src="https://www.anyburn.com/tutorials/images/copy-disc-to-iso-file-2.png"></p>
         <p>۳. AnyBurn شروع به کپی دیسک در فایل ایمیج می‌کند.</p>
-        <p><img style="max-width:100%" src="https://www.anyburn.com/tutorials/images/copy-disc-to-iso-file-3.png"></p>
+        <p><img src="https://www.anyburn.com/tutorials/images/copy-disc-to-iso-file-3.png"></p>
 
 
         <p>
