@@ -19,7 +19,6 @@ export default defineNuxtConfig({
     },
   },
   runtimeConfig: {
-    indexable: false, // TODO: remove it
     public:{
       trailingSlash:true
     }

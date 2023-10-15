@@ -54,8 +54,6 @@ export default defineI18nConfig(() => ({
         "به وبسایت {sitename} خوش آمدید. ما در اینجا از بازی‌های ویدئویی فارسی در برابر گم شدن محافظت می‌کنیم. اگر اطلاعات یا هرگونه نسخه از بازی‌های ایرانی / بازی‌های دوبله فارسی در اختیار دارید، می‌توانید به ما کمک کنید.",
       tgIntroUnderFiles: 'با لینک‌های دانلود مشکلی دارید؟ از کانال تلگرامی‌مان هم می‌توانید دانلود کنید:',
       pictures: "تصاویر",
-      primaryTitleKey: 'title_fa',
-      secondaryTitleKey: 'title_en',
       joinCharacter: '، ',
       contribute: "مشارکت",
       joinTG: 'در کانال تلگرامی Old Persian Games عضو شوید',

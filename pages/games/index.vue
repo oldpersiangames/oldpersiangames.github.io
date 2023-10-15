@@ -133,7 +133,7 @@ if (process.client) {
       </USelectMenu>
 
       <USelectMenu v-model="filter.selectedCompanies"
-        :options="companies.map((e) => { return { id: e.id, label: e[$t('primaryTitleKey')][0] } })" by="id"
+        :options="companies.map((e) => { return { id: e.id, label: e['title_' + locale][0] } })" by="id"
         option-attribute="label" class="flex-1" searchable multiple :placeholder="$t('selectPublisher')"
         :searchable-placeholder="$t('selectPublisher')">
         <template #label>
@@ -171,8 +171,8 @@ if (process.client) {
               <div class="flex flex-col justify-between gap-3  h-full">
                 <div class="text-gray-900 dark:text-white">
                   <SiteLink :to="localePath('/games/' + game.slug)" class="h-full">{{
-                    game['collection_' + $t('primaryTitleKey')] ??
-                    game.games[0][$t('primaryTitleKey')][0] }}</SiteLink>
+                    game['collection_title_' + locale] ??
+                    game.games[0][$t('title_' + locale)][0] }}</SiteLink>
                 </div>
                 <div v-if="game.release_dates?.length" class="text-xs">{{ $t('releaseDate') }}: {{ (new
                   Date(game.release_dates[0])).toLocaleDateString(locale == 'en' ? 'en-CA' : locale) }}</div>
@@ -180,8 +180,9 @@ if (process.client) {
             </th>
             <td class="px-6 py-4 h-full hidden md:table-cell">
               <div class="flex  flex-col justify-between gap-3 h-full">
-                <div class="text-gray-900 dark:text-white">{{ game['collection_' + $t('secondaryTitleKey')] ??
-                  game.games[0][$t('secondaryTitleKey')][0] }}
+                <div class="text-gray-900 dark:text-white">{{ game['collection_title_' + (locale == 'en' ? 'fa' : 'en')]
+                  ??
+                  game.games[0]['title_' + (locale == 'en' ? 'fa' : 'en')][0] }}
                 </div>
                 <div class="text-xs flex gap-2">
                   <span v-for="platform in game.platforms" class="flex gap-1">
@@ -204,9 +205,9 @@ if (process.client) {
             <td class="px-6 py-4 hidden md:table-cell">
               <div class="flex  flex-col justify-between gap-3 h-full">
                 <div class="text-gray-900 dark:text-white">{{ game.publishers.map((e) =>
-                  e[$t('primaryTitleKey')]).join($t('joinCharacter')) }}</div>
+                  e['title_' + locale]).join($t('joinCharacter')) }}</div>
                 <div class="text-xs" v-if="game.producers.length">
-                  {{ $t('producer') }}: {{ game.producers.map((e) => e[$t('primaryTitleKey')]).join($t('joinCharacter'))
+                  {{ $t('producer') }}: {{ game.producers.map((e) => e['title_' + locale]).join($t('joinCharacter'))
                   }}
                 </div>
               </div>
