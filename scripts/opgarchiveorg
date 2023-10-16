@@ -80,7 +80,7 @@ for game in games:
     toPost = {"key": os.environ["OPG_KEY"], "slug": game["slug"]}
 
     if filesToExtract:  # if the files in ia differ from tg files
-        toPost["files"] = [
+        toPost["filesJSON"] = [
             {"file_name": f, "file_size": os.path.getsize(game["slug"] + "/" + f)}
             for f in os.listdir(game["slug"] + "/")
         ]
