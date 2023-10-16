@@ -141,10 +141,15 @@ watch(() => route.fullPath, () => {
                         Contributors
                     </SiteLink>
                 </p>
+                <p class="font-light">
+                    <span class="font-medium">&#x3c;&#x2f;&#x3e;</span> on <a
+                        class="text-primary-600 font-medium hover:underline" target="_blank"
+                        href="https://github.com/oldpersiangames/oldpersiangames.github.io/">GitHub</a>
+                </p>
 
             </div>
             <a href="https://t.me/OldPersianGames" target="_blank" :title="$t('joinTG')" class="hover:animate-spin">
-                <UIcon name="i-logos-telegram" class="block w-5 h-5" />
+                <UIcon name="i-logos-telegram" class="block w-6 h-6" />
             </a>
         </div>
     </footer>
