@@ -140,7 +140,7 @@ const title = computed(() => {
             <tr v-else-if="game.selling">
               <th class="bg-indigo-500 text-white p-4" colspan="4">{{ $t('gameSelling') }}</th>
             </tr>
-            <tr v-if="!game.selling && !game.ia_id">
+            <tr v-if="!game.ia_id && !game.selling">
               <th class="bg-indigo-500 text-white p-4" colspan="4"
                 v-html="$t('downloadOnlyFromTG', { tgchannel: '<a href=\'https://t.me/OldPersianGames\' class=\'text-yellow-400\'>@OldPersianGames</a>' })">
               </th>
@@ -155,7 +155,7 @@ const title = computed(() => {
               <th scope="col" class="px-2 py-3" v-if="!game.files">
                 {{ $t('uploadedAt') }}
               </th>
-              <th scope="col" class="py-3" v-if="!game.selling && game.ia_id">
+              <th scope="col" class="py-3" v-if="game.ia_id">
 
               </th>
             </tr>
@@ -172,7 +172,7 @@ const title = computed(() => {
               <td class="px-2 py-4" v-if="!game.files" dir="ltr">
                 {{ file.date }}
               </td>
-              <td class="px-2 py-4" v-if="!game.selling && game.ia_id">
+              <td class="px-2 py-4" v-if="game.ia_id">
                 <a :href="`https://archive.org/download/${encodeURIComponent(game.ia_id)}/${encodeURIComponent(file.file_name)}`"
                   target="_blank" class="font-medium text-primary-600 dark:text-primary-500 hover:underline">
                   <UIcon class="w-6 h-6 text-primary-600" name="i-heroicons-inbox-arrow-down" />
@@ -182,7 +182,7 @@ const title = computed(() => {
             </tr>
           </tbody>
           <tfoot>
-            <tr v-if="!game.selling">
+            <tr v-if="game.ia_id">
               <td class="bg-white shadow dark:bg-gray-800 text-left text-xs px-6 py-4" colspan="4">{{
                 $t('tgIntroUnderFiles') }} <a href="https://t.me/OldPersianGames" class="text-red-600 font-bold"
                   dir="ltr">@OldPersianGames</a></td>
