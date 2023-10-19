@@ -140,6 +140,10 @@ watch(() => route.fullPath, () => {
                     <SiteLink :to="localePath('/contributors/')" class="text-primary-600 font-medium hover:underline">
                         Contributors
                     </SiteLink>
+                    |
+                    <SiteLink :to="localePath('/about/')" class="text-primary-600 font-medium hover:underline">
+                        About
+                    </SiteLink>
                 </p>
                 <p class="font-light">
                     <span class="font-medium">&#x3c;&#x2f;&#x3e;</span> on <a
