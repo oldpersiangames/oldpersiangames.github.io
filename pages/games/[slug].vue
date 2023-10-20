@@ -198,7 +198,7 @@ const title = computed(() => {
           </tfoot>
         </table>
       </div>
-      <div class="mt-4 prose prose-primary dark:prose-invert"
+      <div class="mt-4 prose prose-primary dark:prose-invert max-w-none"
         v-html="(locale == 'en' ? game.content_en ?? game.content_fa : game.content_fa) ?? ''"></div>
     </div>
   </div>
