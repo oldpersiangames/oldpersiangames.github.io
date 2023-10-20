@@ -28,6 +28,7 @@ jobs:
   opgarchiveorg:
     runs-on: ubuntu-22.04
     steps:
+      - run: sudo rm -rf /usr/local /opt/hostedtoolcache /opt/az /opt/microsoft /opt/pipx /opt/google
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
