@@ -40,7 +40,8 @@ export default defineI18nConfig(() => ({
       gameSelling: 'This game is being sold by the publisher/producer and it is not possible to download from this website. To get this work, buy it from official sources.',
       downloadOnlyFromTG: 'It is possible to download this game only through the Telegram channel. Enter the Telegram channel {tgchannel} and search for the name of this game.',
       donation: 'Donation',
-      books: 'Books & Magazines'
+      books: 'Books & Magazines',
+      lostGames: 'Lost Games',
     },
     fa: {
       welcome: "خوش آمدید!",
@@ -79,7 +80,8 @@ export default defineI18nConfig(() => ({
       gameSelling: 'این اثر در حال عرضه و فروش توسط ناشر/تولیدکننده است و امکان دانلود از این پایگاه وجود ندارد. برای تهیه‌ی این اثر، آن را از مراجع رسمی خریداری کنید.',
       downloadOnlyFromTG: 'امکان دانلود این بازی فقط از طریق کانال تلگرامی فراهم شده است. وارد کانال تلگرامی {tgchannel} شوید و نام این بازی را جستجو کنید.',
       donation: 'حمایت مالی',
-      books: 'کتاب‌ها و مجلات'
+      books: 'کتاب‌ها و مجلات',
+      lostGames: 'بازی های گمشده',
     },
   },
 }));
