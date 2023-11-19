@@ -325,13 +325,6 @@
 
       <div>
         <LinkedNuxtImage
-          src="/img/lost-games/image47.jpeg"
-          class="my-0 mx-auto h-96"
-        />
-      </div>
-
-      <div>
-        <LinkedNuxtImage
           src="/img/lost-games/image48.jpeg"
           class="my-0 mx-auto h-96"
         />

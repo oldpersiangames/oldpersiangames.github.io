@@ -80,6 +80,7 @@ const title = computed(() => {
       class="w-full md:w-96 max-w-full px-6 py-4 shadow-md rounded-lg bg-white dark:bg-gray-800"
     >
       <a
+        v-if="game.photos"
         target="_blank"
         :href="
           img(
@@ -91,7 +92,6 @@ const title = computed(() => {
           )
         "
         ><nuxt-img
-          v-if="game.photos"
           class="mx-auto"
           width="264"
           :src="
