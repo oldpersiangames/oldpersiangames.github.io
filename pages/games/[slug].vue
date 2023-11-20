@@ -62,6 +62,24 @@ const title = computed(() => {
               : "")
           : "");
 });
+
+if (game.value.photos)
+  useSeoMeta({
+    ogImage: img(
+      "/gamePhotos/" +
+        game.value.id.toString() +
+        "/" +
+        game.value.photos[0].id.toString() +
+        ".jpg"
+    ),
+    "twitter:image:src": img(
+      "/gamePhotos/" +
+        game.value.id.toString() +
+        "/" +
+        game.value.photos[0].id.toString() +
+        ".jpg"
+    ),
+  });
 </script>
 
 <template>
