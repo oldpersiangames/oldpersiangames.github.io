@@ -1,10 +1,14 @@
 <script setup>
 const img = useImage();
 
-const images = useState("counter", () => {
-  const fs = require("fs");
-  const files = fs.readdirSync("./public/img/lost-games").reverse();
-  return files;
+const images = useState("lostGames", () => {
+  const files = import.meta.glob("../public/img/lost-games/*", {
+    import: "default",
+    eager: true,
+  });
+  return Object.keys(files)
+    .reverse()
+    .map((f) => f.slice(9));
 });
 </script>
 <template>
@@ -31,14 +35,11 @@ const images = useState("counter", () => {
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
       <div v-for="image in images">
-        <a target="_blank" :href="img('/img/lost-games/' + image)"
-          ><NuxtImg
-            :src="'/img/lost-games/' + image"
-            class="my-0 mx-auto h-96"
-            loading="lazy"
+        <a target="_blank" :href="img(image)"
+          ><NuxtImg :src="image" class="my-0 mx-auto h-96" loading="lazy"
         /></a>
 
-        <span dir="ltr">{{ image }}</span>
+        <span dir="ltr">{{ image.slice(16) }}</span>
       </div>
     </div>
     <table>

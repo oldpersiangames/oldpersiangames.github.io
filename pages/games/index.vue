@@ -241,7 +241,7 @@ if (process.client) {
                     class="h-full"
                     >{{
                       game["collection_title_" + locale] ??
-                      game.games[0][$t("title_" + locale)][0]
+                      game.games[0]["title_" + locale][0]
                     }}</SiteLink
                   >
                 </div>
