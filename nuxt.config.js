@@ -34,6 +34,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/i18n",
     '@nuxtseo/module',
+    '@nuxt/content',
   ],
   colorMode: { classSuffix: "" },
   content: {
