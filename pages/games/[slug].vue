@@ -352,6 +352,27 @@ if (game.value.photos)
                 ⚠️ {{ game.notes_fa }}
               </th>
             </tr>
+            <tr
+              v-if="
+                game['defects_' + locale] && game['defects_' + locale].length
+              "
+            >
+              <th
+                class="text-left p-4 mb-4 text-sm rounded-lg bg-yellow-50 dark:bg-gray-800 font-light"
+                colspan="4"
+              >
+                <p class="dark:text-yellow-300 text-yellow-800">
+                  ⚠️ {{ $t("defectsIntro") }}
+                </p>
+                <ul
+                  class="list-disc mt-2 list-inside marker:text-red-600 text-xs"
+                >
+                  <li v-for="defect in game['defects_' + locale]">
+                    {{ defect }}
+                  </li>
+                </ul>
+              </th>
+            </tr>
           </tfoot>
         </table>
       </div>
