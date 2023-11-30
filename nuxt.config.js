@@ -5,7 +5,9 @@ export default defineNuxtConfig({
   sitemap: {
     exclude: [
       '/games/allgames',
-      '/en/games/allgames'
+      '/en/games/allgames',
+      '/misc/allitems',
+      '/en/misc/allitems',
     ]
   },
   site: {
@@ -27,6 +29,7 @@ export default defineNuxtConfig({
     domains: ["backend.oldpersiangames.org"],
     alias: {
       gamePhotos: "https://backend.oldpersiangames.org/storage/gamePhotos",
+      'item-photos': "https://backend.oldpersiangames.org/storage/item-photos",
     },
   },
   modules: [

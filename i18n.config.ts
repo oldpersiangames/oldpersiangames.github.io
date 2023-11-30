@@ -43,6 +43,7 @@ export default defineI18nConfig(() => ({
       books: 'Books & Magazines',
       lostGames: 'Lost Games',
       defectsIntro: 'It seems the archived work has some defects. You can contribute to completing these deficiencies:',
+      'miscellaneous': 'Miscellaneous'
     },
     fa: {
       welcome: "خوش آمدید!",
@@ -84,6 +85,7 @@ export default defineI18nConfig(() => ({
       books: 'کتاب‌ها و مجلات',
       lostGames: 'بازی های گمشده',
       defectsIntro: 'بنظر می‌رسد دارایی ما از این اثر نواقصی دارد. می‌توانید درتکمیل این نواقص مشارکت کنید:',
+      'miscellaneous': 'آثار متفرقه'
     },
   },
 }));
