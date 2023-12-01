@@ -71,7 +71,7 @@ for game in games:
         "collection": "open_source_software",
         "title": game["slug"],
         "description": game["title"]
-        + f"""{" (Persian Video Game)" if game["type"]=="game" else ""}\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/games/"""
+        + f"""{" (Persian Video Game)" if game["type"]=="game" else ""}\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/{"games" if game["type"]=="game" else "misc"}/"""
         + game["slug"]
         + "/",
         "mediatype": "software",
