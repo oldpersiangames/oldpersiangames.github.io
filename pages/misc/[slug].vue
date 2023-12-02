@@ -214,7 +214,7 @@ if (item.value.photos)
                 {{ filesize(file.file_size) }}
               </td>
               <td class="px-2 py-4" v-if="!item.files" dir="ltr">
-                {{ item.date }}
+                {{ file.date }}
               </td>
               <td class="px-2 py-4" v-if="item.ia_id">
                 <a
