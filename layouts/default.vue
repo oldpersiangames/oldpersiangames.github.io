@@ -11,14 +11,7 @@ const i18nHead = useLocaleHead({
 useHead({
   htmlAttrs: i18nHead.value.htmlAttrs,
   link: [
-    ...(i18nHead.value.link
-      .filter((link) => link.rel != "canonical")
-      .map((link) => {
-        if (link.rel == "alternate") {
-          link.href = link.href == "/" ? "/" : link.href + "/";
-        }
-        return link;
-      }) || []),
+    ...(i18nHead.value.link.filter((link) => link.rel != "canonical") || []),
   ],
   meta: [...(i18nHead.value.meta || [])],
 });
@@ -225,10 +218,7 @@ watch(
                     e.code == 'fa'
                       ? 'i-emojione-flag-for-iran'
                       : 'i-emojione-flag-for-united-states',
-                  to:
-                    switchLocalePath(e.code) == '/'
-                      ? '/'
-                      : switchLocalePath(e.code) + '/',
+                  to: switchLocalePath(e.code),
                 };
               }),
             ]"
