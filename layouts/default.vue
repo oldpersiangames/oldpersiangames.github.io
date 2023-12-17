@@ -255,7 +255,7 @@ watch(
           Founded with <span class="text-rose-600">❤️</span> by
           <NuxtLink
             :to="{
-              path: localePath('/contributors') + '/',
+              path: localePath('/contributors'),
               hash: '#alihardan',
             }"
             class="text-primary-600 font-medium hover:underline"
