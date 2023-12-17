@@ -25,7 +25,7 @@ const localePath = useLocalePath();
       در ۱۳۹۹/۰۱/۲۰ برای جمع‌آوری بازی‌های ویدئویی فارسی بدست
       <NuxtLink
         dir="ltr"
-        :to="{ path: localePath('/contributors') + '/', hash: '#alihardan' }"
+        :to="{ path: localePath('/contributors'), hash: '#alihardan' }"
         class="text-primary-600 no-underline font-light hover:underline"
         >@alihardan</NuxtLink
       >
@@ -37,7 +37,7 @@ const localePath = useLocalePath();
       <li>
         <NuxtLink
           dir="ltr"
-          :to="{ path: localePath('/contributors') + '/', hash: '#AG_e_e_kA' }"
+          :to="{ path: localePath('/contributors'), hash: '#AG_e_e_kA' }"
           class="text-primary-600 no-underline font-light hover:underline"
           >@AG_e_e_kA</NuxtLink
         >: بخاطر قبول مسئولیت مدیریت OPG در شرایط بحرانی و جلوگیری از تعطیل شدن
@@ -46,7 +46,7 @@ const localePath = useLocalePath();
       <li>
         <NuxtLink
           dir="ltr"
-          :to="{ path: localePath('/contributors') + '/', hash: '#MJSAYR' }"
+          :to="{ path: localePath('/contributors'), hash: '#MJSAYR' }"
           class="text-primary-600 no-underline font-light hover:underline"
           >@MJSAYR</NuxtLink
         >: بخاطر ایجاد گروه تلگرامی صمیمی اشتراک‌گذاری بازی‌های فارسی که موجب

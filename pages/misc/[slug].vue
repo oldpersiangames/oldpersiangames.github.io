@@ -338,7 +338,7 @@ if (item.value.photos)
       class="py-2 px-4 shadow-md sm:rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-400 rounded-xl"
     >
       <NuxtLink
-        :to="{ path: localePath('/contributors') + '/', hash: '#' + username }"
+        :to="{ path: localePath('/contributors'), hash: '#' + username }"
         class="text-primary-600 hover:underline font-medium"
         dir="ltr"
         >@{{ username }}</NuxtLink

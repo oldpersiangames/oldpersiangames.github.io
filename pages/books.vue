@@ -62,7 +62,7 @@ const localePath = useLocalePath();
         <NuxtLink
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
-          :to="{ path: localePath('/contributors') + '/', hash: '#irmkh13' }"
+          :to="{ path: localePath('/contributors'), hash: '#irmkh13' }"
           >@irmkh13</NuxtLink
         >
 
@@ -75,7 +75,7 @@ const localePath = useLocalePath();
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
           :to="{
-            path: localePath('/contributors') + '/',
+            path: localePath('/contributors'),
             hash: '#alihardan',
           }"
           >@alihardan</NuxtLink
@@ -90,7 +90,7 @@ const localePath = useLocalePath();
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
           :to="{
-            path: localePath('/contributors') + '/',
+            path: localePath('/contributors'),
             hash: '#AG_e_e_kA',
           }"
           >@AG_e_e_kA</NuxtLink
@@ -144,7 +144,7 @@ const localePath = useLocalePath();
         <NuxtLink
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
-          :to="{ path: localePath('/contributors') + '/', hash: '#aqmoein' }"
+          :to="{ path: localePath('/contributors'), hash: '#aqmoein' }"
           >@aqmoein</NuxtLink
         >
 
@@ -156,7 +156,7 @@ const localePath = useLocalePath();
         <NuxtLink
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
-          :to="{ path: localePath('/contributors') + '/', hash: '#irmkh13' }"
+          :to="{ path: localePath('/contributors'), hash: '#irmkh13' }"
           >@irmkh13</NuxtLink
         >
 
@@ -169,7 +169,7 @@ const localePath = useLocalePath();
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
           :to="{
-            path: localePath('/contributors') + '/',
+            path: localePath('/contributors'),
             hash: '#alihardan',
           }"
           >@alihardan</NuxtLink
@@ -184,7 +184,7 @@ const localePath = useLocalePath();
           class="text-primary-600 hover:underline font-medium"
           dir="ltr"
           :to="{
-            path: localePath('/contributors') + '/',
+            path: localePath('/contributors'),
             hash: '#AG_e_e_kA',
           }"
           >@AG_e_e_kA</NuxtLink
