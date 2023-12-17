@@ -163,10 +163,7 @@ watch(
                   return {
                     label: e.name,
                     icon: e.icon,
-                    to:
-                      switchLocalePath(e.code) == '/'
-                        ? '/'
-                        : switchLocalePath(e.code) + '/',
+                    to: switchLocalePath(e.code),
                   };
                 }),
               ]"
