@@ -226,23 +226,23 @@ if (process.client) {
               v-if="game"
               class="px-6 py-4 font-medium flex items-top gap-2 h-full"
             >
-              <SiteLink :to="localePath('/games/' + game.slug)" class="h-full"
+              <NuxtLink :to="localePath('/games/' + game.slug)" class="h-full"
                 ><nuxt-img
                   v-if="game.photo"
                   class="h-full w-10"
                   width="40"
                   :src="'/gamePhotos/' + game.id + '/' + game.photo.id + '.jpg'"
                 />
-              </SiteLink>
+              </NuxtLink>
               <div class="flex flex-col justify-between gap-3 h-full">
                 <div class="text-gray-900 dark:text-white">
-                  <SiteLink
+                  <NuxtLink
                     :to="localePath('/games/' + game.slug)"
                     class="h-full"
                     >{{
                       game["collection_title_" + locale] ??
                       game.games[0]["title_" + locale][0]
-                    }}</SiteLink
+                    }}</NuxtLink
                   >
                 </div>
                 <div v-if="game.release_dates?.length" class="text-xs">
@@ -302,7 +302,7 @@ if (process.client) {
               </div>
             </td>
             <td class="py-4 px-6 text-center">
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/games/' + game.slug)"
                 class="text-primary-600 hover:underline"
               >
@@ -310,7 +310,7 @@ if (process.client) {
                   class="h-6 w-6 rounded-full"
                   name="i-heroicons-inbox-arrow-down"
                 />
-              </SiteLink>
+              </NuxtLink>
             </td>
           </tr>
         </template>

@@ -9,7 +9,7 @@ const localePath = useLocalePath();
     <ul>
       <ContentList path="/blog" v-slot="{ list }">
         <li v-for="post in list" :key="post._path">
-          <SiteLink :to="localePath(post._path)">{{ post.title }}</SiteLink>
+          <NuxtLink :to="localePath(post._path)">{{ post.title }}</NuxtLink>
         </li>
       </ContentList>
     </ul>

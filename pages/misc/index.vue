@@ -127,7 +127,7 @@ if (process.client) {
               v-if="item"
               class="px-6 py-4 font-medium flex items-top gap-2 h-full"
             >
-              <SiteLink :to="localePath('/misc/' + item.slug)" class="h-full"
+              <NuxtLink :to="localePath('/misc/' + item.slug)" class="h-full"
                 ><nuxt-img
                   v-if="item.photo"
                   class="h-full w-10"
@@ -136,13 +136,13 @@ if (process.client) {
                     '/item-photos/' + item.id + '/' + item.photo.id + '.jpg'
                   "
                 />
-              </SiteLink>
+              </NuxtLink>
               <div class="flex flex-col justify-between gap-3 h-full">
                 <div class="text-gray-900 dark:text-white">
-                  <SiteLink
+                  <NuxtLink
                     :to="localePath('/misc/' + item.slug)"
                     class="h-full"
-                    >{{ item["title_" + locale] }}</SiteLink
+                    >{{ item["title_" + locale] }}</NuxtLink
                   >
                 </div>
                 <div v-if="item.release_dates?.length" class="text-xs">
@@ -175,7 +175,7 @@ if (process.client) {
               </div>
             </td>
             <td class="py-4 px-6 text-center">
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/misc/' + item.slug)"
                 class="text-primary-600 hover:underline"
               >
@@ -183,7 +183,7 @@ if (process.client) {
                   class="h-6 w-6 rounded-full"
                   name="i-heroicons-inbox-arrow-down"
                 />
-              </SiteLink>
+              </NuxtLink>
             </td>
           </tr>
         </template>

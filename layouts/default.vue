@@ -54,14 +54,14 @@ watch(
     >
       <div class="container relative mx-auto flex flex-wrap items-center">
         <div class="flex flex-1 justify-center md:flex-initial">
-          <SiteLink :to="localePath('/')">
+          <NuxtLink :to="localePath('/')">
             <svg
               viewBox="0 0 756.73141 823.04122"
               class="w-10 fill-[#252422] dark:fill-purple-500"
             >
               <use xlink:href="/img/logo.svg#g3577"></use>
             </svg>
-          </SiteLink>
+          </NuxtLink>
         </div>
         <button
           @click="toggleMenu"
@@ -95,62 +95,62 @@ watch(
             class="mt-4 flex flex-col rounded-lg border border-gray-100 bg-gray-50 p-4 font-medium dark:border-gray-700 dark:bg-gray-800 md:mt-0 md:flex-row md:gap-6 md:border-0 md:bg-white md:p-0 md:dark:bg-gray-800"
           >
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
                 aria-current="page"
-                >{{ $t("home") }}</SiteLink
+                >{{ $t("home") }}</NuxtLink
               >
             </li>
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/games/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("games") }}</SiteLink
+                {{ $t("games") }}</NuxtLink
               >
             </li>
 
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/books/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("books") }}</SiteLink
+                {{ $t("books") }}</NuxtLink
               >
             </li>
 
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/misc/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("miscellaneous") }}</SiteLink
+                {{ $t("miscellaneous") }}</NuxtLink
               >
             </li>
 
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/lost-games/')"
                 class="bg-red-600 text-white block rounded px-3 py-2 hover:bg-gray-100 dark:border-gray-700 dark:hover:bg-gray-700 dark:hover:text-white md:py-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("lostGames") }}</SiteLink
+                {{ $t("lostGames") }}</NuxtLink
               >
             </li>
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/blog/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("blog") }}</SiteLink
+                {{ $t("blog") }}</NuxtLink
               >
             </li>
             <li>
-              <SiteLink
+              <NuxtLink
                 :to="localePath('/donation/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
-                {{ $t("donation") }}</SiteLink
+                {{ $t("donation") }}</NuxtLink
               >
             </li>
           </ul>
@@ -278,19 +278,19 @@ watch(
             >Ali Hardan</NuxtLink
           >
           |
-          <SiteLink
+          <NuxtLink
             :to="localePath('/contributors/')"
             class="text-primary-600 font-medium hover:underline"
           >
             Contributors
-          </SiteLink>
+          </NuxtLink>
           |
-          <SiteLink
+          <NuxtLink
             :to="localePath('/about/')"
             class="text-primary-600 font-medium hover:underline"
           >
             About
-          </SiteLink>
+          </NuxtLink>
         </p>
         <p class="font-light">
           <span class="font-medium">&#x3c;&#x2f;&#x3e;</span> on
