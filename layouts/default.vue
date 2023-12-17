@@ -171,10 +171,7 @@ watch(
               />
             </UDropdown>
 
-            <UButton
-              size="md"
-              class="md:hidden"
-              :to="localePath('/contribute') + '/'"
+            <UButton size="md" class="md:hidden" :to="localePath('/contribute')"
               >{{ $t("contribute") }}
             </UButton>
           </div>
@@ -235,7 +232,7 @@ watch(
           <UButton
             size="md"
             class="hidden md:block"
-            :to="localePath('/contribute') + '/'"
+            :to="localePath('/contribute')"
             >{{ $t("contribute") }}
           </UButton>
         </div>
