@@ -73,7 +73,7 @@ const filteredGames = computed(() => {
   let filterSource = games.value;
   if (filter.value.q) {
     let idxs = uf.search(gamesSearchIndex.value, filter.value.q, true);
-    if (idxs) filterSource = idxs[0].map((i) => games.value[i]);
+    if (idxs && idxs[0]) filterSource = idxs[0].map((i) => games.value[i]);
   }
   return filterSource.filter(
     (item) =>
