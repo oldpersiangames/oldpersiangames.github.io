@@ -132,6 +132,14 @@ watch(
             </li>
             <li>
               <NuxtLink
+                :to="localePath('/uncategorized/')"
+                class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
+              >
+                {{ $t("uncategorizedArchive") }}</NuxtLink
+              >
+            </li>
+            <li>
+              <NuxtLink
                 :to="localePath('/blog/')"
                 class="block rounded px-3 py-2 text-gray-900 hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-red-600 md:dark:hover:bg-transparent md:dark:hover:text-red-500"
               >
@@ -275,6 +283,13 @@ watch(
           >
             About
           </NuxtLink>
+          |
+          <NuxtLink
+            :to="localePath('/links/')"
+            class="text-primary-600 font-medium hover:underline"
+          >
+            Links
+          </NuxtLink>
         </p>
         <p class="font-light">
           <span class="font-medium">&#x3c;&#x2f;&#x3e;</span> on
@@ -283,6 +298,12 @@ watch(
             target="_blank"
             href="https://github.com/oldpersiangames/oldpersiangames.github.io/"
             >GitHub</a
+          >
+          | DMCA Takedown:
+          <a
+            class="text-primary-600 font-medium hover:underline"
+            href="mailto:oldpersiangames@gmail.com"
+            >oldpersiangames@gmail.com</a
           >
         </p>
       </div>
