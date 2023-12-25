@@ -39,6 +39,23 @@ const localePath = useLocalePath();
       <li>
         <a
           class="text-primary-600 no-underline font-light hover:underline"
+          href="https://fansub.ir/"
+          target="_blank"
+          >فن ساب</a
+        >: گروهی از مهندس‌های نرم‌افزار که بصورت داوطلبانه برای بازی‌ها زیرنویس
+        فارسی می‌سازن
+      </li>
+      <li>
+        <a
+          class="text-primary-600 no-underline font-light hover:underline"
+          href="https://t.me/game_lost_mobile"
+          target="_blank"
+          >Game lost mobile</a
+        >: کانالی که در زمینه آرشیو بازی‌های اندرویدی ایرانی فعالیت می‌کنه
+      </li>
+      <li>
+        <a
+          class="text-primary-600 no-underline font-light hover:underline"
           href="https://t.me/Bazi_Farsi"
           target="_blank"
           >بازی فارسی</a
