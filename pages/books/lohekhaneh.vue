@@ -22,11 +22,10 @@ const localePath = useLocalePath();
   >
     <div>
       <h2>مجموعه کامل کد، رمز و استراتژی بازی های پلی استیشن ۱</h2>
-      <figure class="text-center">
+      <figure class="max-w-xl mx-auto text-center">
         <img
           src="/img/lohekhaneh-ps1-book-cover.jpg"
           alt="مجموعه کامل کد، رمز، واستراتژی بازی های پلی استیشن ۱ لوحه خانه"
-          class="max-w-xl mx-auto"
         />
         <figcaption>
           کتاب کد، رمز و استراتژی بازی های پلی استیشن ۱ - باشگاه نرم افزاری لوحه
@@ -64,11 +63,10 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کامل کد، رمز و راه یابی بازی های پلی استیشن ۲</h2>
-      <figure class="text-center">
+      <figure class="text-center max-w-sm mx-auto">
         <img
           src="/img/ps2-book.jpg"
           alt="مجموعه کامل کد، رمز و راه یابی بازی های پلی استیشن ۲ لوحه خانه"
-          class="max-w-sm mx-auto"
         />
         <figcaption>
           کتاب کد، رمز و راه یابی بازی های پلی استیشن ۲ - باشگاه نرم افزاری لوحه
@@ -106,11 +104,10 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۱ و ۲)</h2>
-      <figure class="text-center">
+      <figure class="text-center max-w-xl mx-auto">
         <img
           src="/img/lohekhaneh-pc-1-2-book-cover.jpg"
           alt="مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۱ و ۲)"
-          class="max-w-xl mx-auto"
         />
         <figcaption>
           مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۱ و ۲) - باشگاه نرم
@@ -147,11 +144,10 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۳)</h2>
-      <figure class="text-center">
+      <figure class="text-center max-w-xl mx-auto">
         <img
           src="/img/lohekhaneh-pc-3-book-cover.jpg"
           alt="مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۳)"
-          class="max-w-xl mx-auto"
         />
         <figcaption>
           مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۳) - باشگاه نرم
@@ -188,11 +184,10 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کامل رمزهای سگا</h2>
-      <figure class="text-center">
+      <figure class="text-center max-w-xl mx-auto">
         <img
           src="/img/lohekhaneh-sega-book-cover.jpg"
           alt="مجموعه کامل رمزهای سگا"
-          class="max-w-xl mx-auto"
         />
         <figcaption>
           مجموعه کامل رمزهای سگا - باشگاه نرم افزاری لوحه خانه
@@ -228,11 +223,10 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کد، رمز و راه یابی بازی های ایکس باسک ۳۶۰</h2>
-      <figure class="text-center">
+      <figure class="text-center max-w-xl mx-auto">
         <img
           src="/img/lohekhaneh-xbox360-book-cover.jpg"
           alt="مجموعه کد، رمز و راه یابی بازی های ایکس باسک ۳۶۰"
-          class="max-w-xl mx-auto"
         />
         <figcaption>
           مجموعه کد، رمز و راه یابی بازی های ایکس باسک ۳۶۰ - باشگاه نرم افزاری
