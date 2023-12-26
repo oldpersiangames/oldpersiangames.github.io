@@ -256,9 +256,9 @@ watch(
     dir="ltr"
   >
     <div
-      class="mx-auto w-full container px-4 py-2 flex justify-between items-center"
+      class="mx-auto w-full container px-2 py-2 flex justify-between items-center"
     >
-      <div class="text-zinc-500 text-xs">
+      <div class="text-zinc-500 text-xs min-w-0">
         <p class="font-light">
           Founded with <span class="text-rose-600">❤️</span> by
           <NuxtLink
@@ -291,7 +291,7 @@ watch(
             Links
           </NuxtLink>
         </p>
-        <p class="font-light">
+        <p class="font-light whitespace-nowrap text-ellipsis overflow-hidden">
           <span class="font-medium">&#x3c;&#x2f;&#x3e;</span> on
           <a
             class="text-primary-600 font-medium hover:underline"
