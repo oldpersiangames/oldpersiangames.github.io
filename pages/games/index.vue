@@ -64,7 +64,9 @@ const gamesSearchIndex = computed(() => {
       "¦" +
       r.games
         .map((m) => m.title_fa.join("¦") + "¦" + m.title_en.join("¦"))
-        .join("¦")
+        .join("¦") +
+      "¦" +
+      r.slug // make slug searchable, it allows games like "IGI" and "FEAR" be searchable also
   );
 });
 
