@@ -392,21 +392,23 @@ if (game.value.photos)
   </div>
   <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700" />
 
-  <h3
-    class="text-lg font-bold my-4 leading-none tracking-tight text-gray-900 dark:text-white"
-  >
-    {{ $t("otherReleases") }}
-    <span class="block w-14 h-0.5 bg-primary-600 mt-2"></span>
-  </h3>
-  <ul class="list-disc list-inside marker:text-primary-400">
-    <li v-for="related in game.related">
-      <NuxtLink
-        :to="localePath('/games/' + related.slug)"
-        class="font-light text-sm text-primary-600 dark:text-primary-500 hover:underline"
-        >{{ titleGenerator(related) }}</NuxtLink
-      >
-    </li>
-  </ul>
+  <template v-if="game.related.length">
+    <h3
+      class="text-lg font-bold my-4 leading-none tracking-tight text-gray-900 dark:text-white"
+    >
+      {{ $t("otherReleases") }}
+      <span class="block w-14 h-0.5 bg-primary-600 mt-2"></span>
+    </h3>
+    <ul class="list-disc list-inside marker:text-primary-400">
+      <li v-for="related in game.related">
+        <NuxtLink
+          :to="localePath('/games/' + related.slug)"
+          class="font-light text-sm text-primary-600 dark:text-primary-500 hover:underline"
+          >{{ titleGenerator(related) }}</NuxtLink
+        >
+      </li>
+    </ul>
+  </template>
 
   <h3
     class="text-lg font-bold mt-8 mb-4 leading-none tracking-tight text-gray-900 dark:text-white"
