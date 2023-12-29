@@ -47,10 +47,10 @@ const localePath = useLocalePath();
       <h3>فعالین در زمینه بایگانی بازی‌ها + اضافات</h3>
       <ul>
         <li>
-          <a
+          <NuxtLink
             class="text-primary-600 no-underline font-light hover:underline"
-            href="https://t.me/game_lost_mobile"
-            >Old Persian Games</a
+            :to="localePath('/')"
+            >Old Persian Games</NuxtLink
           >: مجموعه‌ای که برای حفاظت از بازی‌های ویدئویی فارسی و ملحقاتشون
           فعالیت می‌کنه
         </li>
@@ -85,6 +85,14 @@ const localePath = useLocalePath();
             target="_blank"
             >پاروس گیم</a
           >: فروشگاهی از آرشیو بازی‌های فارسی
+        </li>
+        <li>
+          <a
+            class="text-primary-600 no-underline font-light hover:underline"
+            href="https://paroosgame.com/"
+            target="_blank"
+            >PS4 JAILBREAK</a
+          >: کانالی که بعضی از زیرنویس‌ها رو برای PS4 پورت می‌کنه
         </li>
       </ul>
     </div>
