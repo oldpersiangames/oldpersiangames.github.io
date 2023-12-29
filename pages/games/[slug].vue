@@ -402,7 +402,6 @@ if (game.value.photos)
     <li v-for="related in game.related">
       <NuxtLink
         :to="localePath('/games/' + related.slug)"
-        target="_blank"
         class="font-light text-sm text-primary-600 dark:text-primary-500 hover:underline"
         >{{ titleGenerator(related) }}</NuxtLink
       >
