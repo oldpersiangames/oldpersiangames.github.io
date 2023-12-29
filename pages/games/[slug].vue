@@ -340,7 +340,7 @@ if (game.value.photos)
                 {{ $t("tgIntroUnderFiles") }}
                 <a
                   href="https://t.me/OldPersianGames"
-                  class="text-red-600 font-bold"
+                  class="text-primary-600 dark:text-primary-500 hover:underline font-bold"
                   dir="ltr"
                   >@OldPersianGames</a
                 >
