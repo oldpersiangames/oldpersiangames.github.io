@@ -30,37 +30,40 @@ if (!game.value) {
   });
 }
 
-const title = computed(() => {
-  if (!game.value) return "";
+function titleGenerator(game) {
   if (locale.value == "en") {
-    return game.value.title_en ?? game.value.collection_title_en
-      ? "Download " + game.value.collection_title_en
+    return game.title_en ?? game.collection_title_en
+      ? "Download " + game.collection_title_en
       : "Download " +
-          game.value.games[0].title_en[0] +
-          (game.value.games[0].dubbed ? " (Persian Dubbed)" : "") +
-          (game.value.games[0].iranian ? " (Iranian Game)" : "") +
-          (game.value.games[0].dubbed
+          game.games[0].title_en[0] +
+          (game.games[0].dubbed ? " (Persian Dubbed)" : "") +
+          (game.games[0].iranian ? " (Iranian Game)" : "") +
+          (game.games[0].dubbed
             ? " | " +
-              (game.value.publishers.length
-                ? game.value.publishers.map((x) => x.title_en[0]).join(" & ")
+              (game.publishers.length
+                ? game.publishers.map((x) => x.title_en[0]).join(" & ")
                 : "")
             : "");
   }
-  return game.value.title_fa ?? game.value.collection_title_fa
-    ? "دانلود " + game.value.collection_title_fa
+  return game.title_fa ?? game.collection_title_fa
+    ? "دانلود " + game.collection_title_fa
     : "دانلود " +
-        (game.value.games[0].dubbed ? "نسخه دوبله فارسی " : "") +
+        (game.games[0].dubbed ? "نسخه دوبله فارسی " : "") +
         "بازی " +
-        (game.value.games[0].iranian ? "ایرانی " : "") +
-        game.value.games[0].title_fa[0] +
-        (game.value.games[0].dubbed
+        (game.games[0].iranian ? "ایرانی " : "") +
+        game.games[0].title_fa[0] +
+        (game.games[0].dubbed
           ? " | " +
-            game.value.games[0].title_en[0] +
-            (game.value.publishers.length
-              ? " - " +
-                game.value.publishers.map((x) => x.title_fa[0]).join(" و ")
+            game.games[0].title_en[0] +
+            (game.publishers.length
+              ? " - " + game.publishers.map((x) => x.title_fa[0]).join(" و ")
               : "")
           : "");
+}
+
+const title = computed(() => {
+  if (!game.value) return "";
+  return titleGenerator(game.value);
 });
 
 if (game.value.photos)
@@ -376,6 +379,7 @@ if (game.value.photos)
           </tfoot>
         </table>
       </div>
+
       <div
         class="mt-4 prose prose-primary dark:prose-invert max-w-none"
         v-html="
@@ -387,6 +391,24 @@ if (game.value.photos)
     </div>
   </div>
   <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700" />
+
+  <h3
+    class="text-lg font-bold my-4 leading-none tracking-tight text-gray-900 dark:text-white"
+  >
+    {{ $t("otherReleases") }}
+    <span class="block w-14 h-0.5 bg-primary-600 mt-2"></span>
+  </h3>
+  <ul class="list-disc list-inside marker:text-primary-400">
+    <li v-for="related in game.related">
+      <NuxtLink
+        :to="localePath('/games/' + related.slug)"
+        target="_blank"
+        class="font-light text-sm text-primary-600 dark:text-primary-500 hover:underline"
+        >{{ titleGenerator(related) }}</NuxtLink
+      >
+    </li>
+  </ul>
+
   <h3
     class="text-lg font-bold mt-8 mb-4 leading-none tracking-tight text-gray-900 dark:text-white"
   >
@@ -422,6 +444,7 @@ if (game.value.photos)
       </li>
     </ul>
   </template>
+
   <h3
     class="text-lg font-bold my-4 leading-none tracking-tight text-gray-900 dark:text-white"
   >

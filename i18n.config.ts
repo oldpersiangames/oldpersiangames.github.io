@@ -49,6 +49,7 @@ export default defineI18nConfig(() => ({
         "It seems the archived work has some defects. You can contribute to completing these deficiencies:",
       miscellaneous: "Miscellaneous",
       uncategorizedArchive: "Uncategorized Archive",
+      otherReleases: "Other Releases of This Game",
     },
     fa: {
       welcome: "خوش آمدید!",
@@ -96,6 +97,7 @@ export default defineI18nConfig(() => ({
         "بنظر می‌رسد دارایی ما از این اثر نواقصی دارد. می‌توانید درتکمیل این نواقص مشارکت کنید:",
       miscellaneous: "آثار متفرقه",
       uncategorizedArchive: "آرشیو طبقه‌بندی نشده",
+      otherReleases: "انتشارهای دیگر این بازی",
     },
   },
 }));
