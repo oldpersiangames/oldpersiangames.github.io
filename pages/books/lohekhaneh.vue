@@ -63,7 +63,7 @@ const localePath = useLocalePath();
 
     <div>
       <h2>مجموعه کامل کد، رمز و راه یابی بازی های پلی استیشن ۲</h2>
-      <figure class="text-center max-w-sm mx-auto">
+      <figure class="text-center max-w-xl mx-auto">
         <img
           src="/img/ps2-book.jpg"
           alt="مجموعه کامل کد، رمز و راه یابی بازی های پلی استیشن ۲ لوحه خانه"
