@@ -25,17 +25,23 @@ watch(
   }
 );
 
-const menu = ref(null);
-
-function toggleMenu() {
-  menu.value.classList.toggle("hidden");
+const showMenu = ref(false);
+const showBottomDialog = ref(false);
+const lastScrollY = ref(0);
+if (process.client) {
+  window.addEventListener("scroll", () => {
+    const r = window.scrollY || document.documentElement.scrollTop;
+    (showBottomDialog.value = r < lastScrollY.value),
+      (lastScrollY.value = r <= 0 ? 0 : r);
+  });
 }
 
 const route = useRoute();
 watch(
   () => route.fullPath,
   () => {
-    menu.value.classList.add("hidden");
+    showMenu.value = false;
+    showBottomDialog.value = false;
   }
 );
 </script>
@@ -57,7 +63,7 @@ watch(
           </NuxtLink>
         </div>
         <button
-          @click="toggleMenu"
+          @click="showMenu = !showMenu"
           type="button"
           class="absolute left-0 top-0 ml-1 inline-flex items-center rounded-lg p-2 text-sm text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600 md:static md:hidden"
           aria-controls="mobile-menu-language-select"
@@ -80,7 +86,10 @@ watch(
         </button>
 
         <div
-          class="hidden w-full items-center justify-between md:ml-6 md:flex md:w-auto"
+          :class="[
+            'w-full items-center justify-between md:ml-6 md:flex md:w-auto',
+            { hidden: !showMenu },
+          ]"
           ref="menu"
           id="mobile-menu-language-select"
         >
@@ -250,7 +259,31 @@ watch(
   <main class="container mx-auto p-4 flex-1">
     <slot />
   </main>
-
+  <div
+    data-v-0a3a27a4=""
+    :class="[
+      'fixed z-50 bottom-0 w-full transition duration-200 ease-in-out',
+      { 'translate-y-full': !showBottomDialog },
+    ]"
+    style="
+      background: radial-gradient(
+        50% 132.7% at 50% 60%,
+        #232323 17.7177%,
+        #bbbaba30 63.6637%
+      );
+    "
+  >
+    <div
+      class="mt-px flex flex-col md:flex-row justify-center items-center w-full bg-white dark:bg-neutral-900 py-5 gap-3"
+    >
+      <p class="dark:text-mint text-sm font-medium">
+        آرشیو این وبگاه از فایل‌های ارسالی بازدیدکنندگان جمع‌آوری شده است.
+      </p>
+      <UButton size="md" :to="localePath('/contribute')">
+        شما هم می‌توانید کمک کنید
+      </UButton>
+    </div>
+  </div>
   <footer
     class="border-t border-gray-200 bg-white shadow-lg dark:border-gray-700 dark:bg-gray-800"
     dir="ltr"
