@@ -274,7 +274,7 @@ watch(
     "
   >
     <div
-      class="mt-px flex flex-col md:flex-row justify-center items-center w-full bg-white dark:bg-neutral-900 py-5 gap-3"
+      class="mt-px flex flex-col md:flex-row justify-center items-center w-full bg-white dark:bg-neutral-900 py-5 gap-3 text-center"
     >
       <p class="dark:text-mint text-sm font-medium">
         آرشیو این وبگاه از فایل‌های ارسالی بازدیدکنندگان جمع‌آوری شده است.
