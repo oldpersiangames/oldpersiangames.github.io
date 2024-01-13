@@ -2,13 +2,15 @@
 const img = useImage();
 
 const images = useState("lostGames", () => {
-  const files = import.meta.glob("../public/img/lost-games/*", {
+  const files = import.meta.glob("/public/img/lost-games/*", {
     import: "default",
+    as: "url",
     eager: true,
   });
+
   return Object.keys(files)
     .reverse()
-    .map((f) => f.slice(9));
+    .map((f) => f.slice(7));
 });
 </script>
 <template>
