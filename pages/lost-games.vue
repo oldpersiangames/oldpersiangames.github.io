@@ -35,14 +35,15 @@ const images = useState("lostGames", () => {
       >
     </p>
 
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
-      <div v-for="image in images">
-        <a target="_blank" :href="img(image)"
-          ><NuxtImg :src="image" class="my-0 mx-auto h-96" loading="lazy"
-        /></a>
-
-        <span dir="ltr">{{ image.slice(16) }}</span>
-      </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-center">
+      <UCard v-for="image in images">
+        <div class="flex flex-row items-start gap-2">
+          <a target="_blank" :href="img(image)" class="w-48"
+            ><NuxtImg :src="image" class="my-0 h-48" loading="lazy"
+          /></a>
+          <span dir="ltr">{{ image.slice(16) }}</span>
+        </div>
+      </UCard>
     </div>
     <table>
       <tr>
