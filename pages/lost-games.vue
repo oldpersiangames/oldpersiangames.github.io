@@ -5,7 +5,7 @@ const images = useState("lostGames", () => {
   const files = import.meta.glob("/public/img/lost-games/*", {
     import: "default",
     as: "url",
-    eager: true,
+    eager: false,
   });
 
   return Object.keys(files)
