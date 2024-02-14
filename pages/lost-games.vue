@@ -26,20 +26,22 @@ const images = useState("lostGames", () => {
     <p>
       اینجا لیست بازی‌های فارسی (دوبله و ایرانی) که آرشیو نشدن (گمشده‌ها) قرار
       میگیره. این لیست می‌تونه به شدت ناقص باشه، اگه اثر دیگه‌ای می‌شناسین لطفاً
-      خبر بدین:
-      <a
-        class="text-primary-600 font-medium hover:underline"
-        href="https://t.me/alihardan"
-        dir="ltr"
-        >@alihardan</a
-      >
+      به ادمین بازی‌های گمشده پیام بدین:
+      <div dir="ltr">
+        <a
+          class="text-primary-600 font-medium hover:underline"
+          href="https://t.me/Raykar1381"
+          
+          >@Raykar1381</a
+        > (در تلگرام)
+      </div>
     </p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-center">
       <UCard v-for="image in images">
         <div class="flex flex-row items-start gap-2">
           <a target="_blank" :href="img(image)" class="w-48"
-            ><NuxtImg :src="image" class="my-0 h-48" loading="lazy"
+            ><NuxtImg :src="image" class="my-0 h-48"
           /></a>
           <span dir="ltr">{{ image.slice(16) }}</span>
         </div>
