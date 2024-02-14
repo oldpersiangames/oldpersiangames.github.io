@@ -23,6 +23,7 @@
     "@nuxt/image": "^1.2.0",
     "@nuxt/ui": "^2.12.0",
     "filesize": "^10.1.0",
+    "glob": "^10.3.10",
     "postcss-rtlcss": "^5.1.0",
     "vazirmatn": "^33.0.3"
   }

@@ -1,17 +1,8 @@
 <script setup>
 const img = useImage();
 
-const images = useState("lostGames", () => {
-  const files = import.meta.glob("/public/img/lost-games/*", {
-    import: "default",
-    as: "url",
-    eager: false,
-  });
+const { data: lostGames } = await useFetch('/api/lost-games');
 
-  return Object.keys(files)
-    .reverse()
-    .map((f) => f.slice(7));
-});
 </script>
 <template>
   <Head>
@@ -19,7 +10,7 @@ const images = useState("lostGames", () => {
     <Meta name="description" content="لیست بازی های فارسی گمشده" />
   </Head>
 
-  <div
+  <div 
     class="mt-4 pb-24 prose prose-primary dark:prose-invert max-w-none font-light"
     dir="rtl"
   >
@@ -38,12 +29,12 @@ const images = useState("lostGames", () => {
     </p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-center">
-      <UCard v-for="image in images">
+      <UCard v-for="image in lostGames">
         <div class="flex flex-row items-start gap-2">
-          <a target="_blank" :href="img(image)" class="w-48"
-            ><NuxtImg :src="image" class="my-0 h-48"
+          <a target="_blank" :href="img(image.slice(6))" class="w-48"
+            ><NuxtImg :src="'/'+image.slice(6)" class="my-0 h-48" loading="lazy"
           /></a>
-          <span dir="ltr">{{ image.slice(16) }}</span>
+          <span dir="ltr">{{ image.slice(22) }}</span>
         </div>
       </UCard>
     </div>
