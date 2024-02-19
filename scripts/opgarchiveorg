@@ -18,7 +18,7 @@ internetarchive.configure(
 )
 
 games = requests.get(
-    "https://backend.oldpersiangames.org/api/beforeIA?key="
+    "http://localhost:8000/api/beforeIA?key="
     + quote(os.environ["OPG_KEY"])
 ).json()
 
@@ -87,13 +87,13 @@ for game in games:
 
     if internetarchive.upload(game["slug"], game["slug"] + "/", metadata=metadata):
         requests.post(
-            "https://backend.oldpersiangames.org/api/setIA",
+            "http://localhost:8000/api/setIA",
             json=toPost,
         )
 
 tgclient.stop()
 
 requests.get(
-    "https://backend.oldpersiangames.org/api/makeBackup?key="
+    "http://localhost:8000/api/makeBackup?key="
     + quote(os.environ["OPG_KEY"])
 )

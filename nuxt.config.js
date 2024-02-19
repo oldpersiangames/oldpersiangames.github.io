@@ -26,10 +26,10 @@ export default defineNuxtConfig({
     },
   },
   image: {
-    domains: ["backend.oldpersiangames.org"],
+    domains: ["localhost:8000"],
     alias: {
-      gamePhotos: "https://backend.oldpersiangames.org/storage/gamePhotos",
-      "item-photos": "https://backend.oldpersiangames.org/storage/item-photos",
+      gamePhotos: "http://localhost:8000/storage/gamePhotos",
+      "item-photos": "http://localhost:8000/storage/item-photos",
     },
   },
   modules: [
