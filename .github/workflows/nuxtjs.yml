@@ -30,6 +30,9 @@ jobs:
     steps:
       - run: sudo rm -rf /usr/local /opt/hostedtoolcache /opt/az /opt/microsoft /opt/pipx /opt/google
       - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
       - env:
           READPACKAGES: ${{ secrets.READPACKAGES }}
           APP_KEY: base64:4ytdRMnjO8RiDzdqUUKANyXdDInMl9+CFSLhsJeTjtM=
@@ -49,9 +52,6 @@ jobs:
           echo ${{ READPACKAGES }} | docker login ghcr.io -u alihardan --password-stdin
           docker compose up -d
           docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
       - env:
