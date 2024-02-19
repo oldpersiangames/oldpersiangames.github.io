@@ -49,7 +49,7 @@ jobs:
         run: |
           sudo apt-get install -y docker
           cd ${{ github.workspace }}/backend-runner
-          echo ${{ READPACKAGES }} | docker login ghcr.io -u alihardan --password-stdin
+          echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
           docker compose up -d
           docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
       - run: sudo apt-get install -y unrar p7zip
