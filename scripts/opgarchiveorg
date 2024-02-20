@@ -17,10 +17,13 @@ internetarchive.configure(
     config_file=os.path.expanduser("~/.ia"),
 )
 
-games = requests.get(
+r = requests.get(
     "http://localhost:8000/api/beforeIA?key="
     + quote(os.environ["OPG_KEY"])
-).json()
+)
+print(r.status_code)
+print(r.text)
+games = r.json()
 
 for game in games:
     iafiles = internetarchive.get_files(game["slug"])
