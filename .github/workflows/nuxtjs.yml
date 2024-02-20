@@ -51,7 +51,7 @@ jobs:
           cd ${{ github.workspace }}/backend-runner
           echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
           docker compose up -d
-          sleep 5
+          sleep 30
           docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
