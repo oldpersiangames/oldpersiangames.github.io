@@ -46,6 +46,7 @@ jobs:
           OWNER_TG_ID: "421353623"
           TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
           TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+          APP_DEBUG: true
         run: |
           sudo apt-get install -y docker
           cd ${{ github.workspace }}/backend-runner
