@@ -1,6 +1,6 @@
 <script setup>
 const { pending, data: users } = await useLazyFetch(
-  "http://localhost:8000/api/users/websiteIndex",
+  "https://backend.oldpersiangames.org/api/users/websiteIndex",
   {
     transform: (users) => {
       return users.map((user) => ({

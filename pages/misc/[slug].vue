@@ -7,7 +7,8 @@ const img = useImage();
 const route = useRoute();
 
 const { data: item } = await useFetch(
-  "http://localhost:8000/api/items/websiteShow/" + route.params.slug,
+  "https://backend.oldpersiangames.org/api/items/websiteShow/" +
+    route.params.slug,
   {
     transform: (item) => {
       item.tgfiles = item.tgfiles.map(({ file_id, ...keepAttrs }) => keepAttrs);

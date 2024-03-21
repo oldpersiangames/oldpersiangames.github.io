@@ -16,7 +16,7 @@ const localePath = useLocalePath();
 const { t, locale } = useI18n();
 
 const { pending: itemsPending, data: items } = await useLazyFetch(
-  "http://localhost:8000/api/items/websiteIndex"
+  "https://backend.oldpersiangames.org/api/items/websiteIndex"
 );
 
 const pageCount = ref(50);

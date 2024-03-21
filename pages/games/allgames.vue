@@ -1,7 +1,7 @@
 <script setup>
 const localePath = useLocalePath();
 const { data: games } = await useFetch(
-  "http://localhost:8000/api/games/websiteIndex"
+  "https://backend.oldpersiangames.org/api/games/websiteIndex"
 );
 </script>
 

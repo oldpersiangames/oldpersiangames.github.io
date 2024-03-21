@@ -183,6 +183,46 @@ const localePath = useLocalePath();
     </div>
 
     <div>
+      <h2>مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۴)</h2>
+      <figure class="text-center max-w-xl mx-auto">
+        <img
+          src="/img/lohekhaneh-pc-4-book-cover.jpg"
+          alt="مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۴)"
+        />
+        <figcaption>
+          مجموعه کد، رمز و راهنمایی بازی های کامپیوتر (جلد ۴) - باشگاه نرم
+          افزاری لوحه خانه
+        </figcaption>
+      </figure>
+      <div>
+        <a
+          href="https://archive.org/download/pc-4-lohekhaneh/lohekhaneh-pc-4-book.pdf"
+          target="_blank"
+          class="text-primary-600 no-underline font-light hover:underline"
+        >
+          <UIcon
+            class="w-6 h-6 text-primary-600 align-middle"
+            name="i-heroicons-inbox-arrow-down"
+          />
+          دانلود کتاب
+        </a>
+      </div>
+      <div class="mt-4">
+        <a
+          href="https://archive.org/download/pc-4-lohekhaneh/lohekhaneh-pc-4-book-cover.jpg"
+          target="_blank"
+          class="text-primary-600 no-underline font-light hover:underline"
+        >
+          <UIcon
+            class="w-6 h-6 text-primary-600 align-middle"
+            name="i-heroicons-inbox-arrow-down"
+          />
+          دانلود طرح جلد
+        </a>
+      </div>
+    </div>
+
+    <div>
       <h2>مجموعه کامل رمزهای سگا</h2>
       <figure class="text-center max-w-xl mx-auto">
         <img
@@ -368,7 +408,6 @@ const localePath = useLocalePath();
             رو در اختیار نداریم.
           </li>
           <li>طرح جلد اصلی کتاب پلی‌استیشن ۲ رو در اختیار نداریم.</li>
-          <li>فایل جلد چهارم راهنمای بازی های کامپیوتر رو در اختیار نداریم.</li>
           <li>...؟</li>
         </ul>
       </div>

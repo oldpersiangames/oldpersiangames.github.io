@@ -27,11 +27,11 @@ const types = [
   { id: "modified", name: t("modified") },
 ];
 const { pending: gamesPending, data: games } = await useLazyFetch(
-  "http://localhost:8000/api/games/websiteIndex"
+  "https://backend.oldpersiangames.org/api/games/websiteIndex"
 );
 
 const { pending: companiesPending, data: companies } = await useLazyFetch(
-  "http://localhost:8000/api/companies/websiteIndex"
+  "https://backend.oldpersiangames.org/api/companies/websiteIndex"
 );
 
 const pageCount = ref(50);
