@@ -13,7 +13,7 @@ const localePath = useLocalePath();
     دانلود کتاب ها و مجلات لوحه خانه
   </h1>
   <div class="text-center font-extralight text-sm mt-2">
-    آخرین بروزرسانی: <span dir="ltr">2023-12-25</span>
+    آخرین بروزرسانی: <span dir="ltr">2024-03-21</span>
   </div>
 
   <div
