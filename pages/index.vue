@@ -1,12 +1,35 @@
-<script setup></script>
-
+<script setup lang="ts">
+const localePath = useLocalePath();
+</script>
 <template>
   <ULandingHero
     :title="$t('welcome')"
     orientation="horizontal"
     :ui="{
-      title: 'sm:text-4xl',
+      title: 'sm:text-4xl text-4xl',
     }"
+    :links="[
+      {
+        label: $t('gamesList'),
+        icon: 'i-iconoir-gamepad',
+        size: 'lg',
+        to: localePath('/games'),
+      },
+      {
+        label: $t('books'),
+        icon: 'i-heroicons-book-open',
+        size: 'lg',
+        color: 'gray',
+        to: localePath('/books'),
+      },
+      {
+        label: $t('miscellaneous'),
+        icon: 'i-heroicons-chart-pie',
+        size: 'lg',
+        color: 'gray',
+        to: localePath('/misc'),
+      },
+    ]"
   >
     <template #description>
       <span
@@ -20,7 +43,7 @@
     </template>
     <template #default>
       <div
-        class="order-first mx-auto w-full max-w-80 px-3 lg:order-none lg:ltr:ml-auto lg:ltr:mr-0 lg:rtl:ml-0 lg:rtl:mr-auto"
+        class="order-first mx-auto w-full max-w-64 px-3 lg:order-none lg:ltr:ml-auto lg:ltr:mr-0 lg:rtl:ml-0 lg:rtl:mr-auto"
       >
         <svg viewBox="0 0 756.73141 823.04122" class="fill-current">
           <use xlink:href="/img/logo.svg#g3577"></use>

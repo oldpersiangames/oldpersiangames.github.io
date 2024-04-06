@@ -55,7 +55,8 @@ export default defineI18nConfig(() => ({
       about: 'About',
       'dmca': 'DMCA Takedown',
       copyrightDetails: 'All archived works are subject to the copyright of the producers and the publishers, and if the copyright holders are not satisfied with their files being published, the files will be removed from access.',
-      subtitle: 'Subtitled'
+      subtitle: 'Subtitled',
+      gamesList: 'List of Games',
     },
     fa: {
       welcome: "خوش آمدید!",
@@ -107,7 +108,8 @@ export default defineI18nConfig(() => ({
       about: 'درباره',
       dmca: 'ارسال مسائل حقوقی',
       copyrightDetails: 'آثار بایگانی شده همواره تحت کپی‌رایت تولیدکنندگان و ناشرانند و در صورت عدم رضایت صاحب حق، فایل از دسترس خارج خواهد شد.',
-      subtitle: 'زیرنویس فارسی'
+      subtitle: 'زیرنویس فارسی',
+      gamesList: 'لیست بازی‌ها',
     },
   },
 }));
