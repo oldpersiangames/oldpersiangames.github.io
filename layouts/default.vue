@@ -1,8 +1,44 @@
 <script setup lang="ts">
 const { locale, locales } = useI18n();
+const { t } = useI18n();
 const switchLocalePath = useSwitchLocalePath();
 
 const localePath = useLocalePath();
+
+const headerLinks = [
+  {
+    label: t("home"),
+    to: localePath("/"),
+  },
+  {
+    label: t("games"),
+    to: localePath("/games"),
+  },
+  {
+    label: t("books"),
+    to: localePath("/books"),
+  },
+  {
+    label: t("miscellaneous"),
+    to: localePath("/misc"),
+  },
+  {
+    label: t("lostGames"),
+    to: localePath("/lost-games"),
+  },
+  {
+    label: t("uncategorizedArchive"),
+    to: localePath("/uncategorized"),
+  },
+  {
+    label: t("blog"),
+    to: localePath("/blog"),
+  },
+  {
+    label: t("donation"),
+    to: localePath("/donation"),
+  },
+];
 
 // Bottom Dialog
 const bottomDialogClosed = ref(false);
@@ -20,40 +56,7 @@ if (process.client) {
 <template>
   <div>
     <UHeader
-      :links="[
-        {
-          label: $t('home'),
-          to: localePath('/'),
-        },
-        {
-          label: $t('games'),
-          to: localePath('/games'),
-        },
-        {
-          label: $t('books'),
-          to: localePath('/books'),
-        },
-        {
-          label: $t('miscellaneous'),
-          to: localePath('/misc'),
-        },
-        {
-          label: $t('lostGames'),
-          to: localePath('/lost-games'),
-        },
-        {
-          label: $t('uncategorizedArchive'),
-          to: localePath('/uncategorized'),
-        },
-        {
-          label: $t('blog'),
-          to: localePath('/blog'),
-        },
-        {
-          label: $t('donation'),
-          to: localePath('/donation'),
-        },
-      ]"
+      :links="headerLinks"
       :ui="{ left: 'lg:flex-initial flex items-center gap-1.5' }"
     >
       <template #logo>
@@ -75,6 +78,7 @@ if (process.client) {
         />
         <UColorModeButton />
         <UDropdown
+          class="hidden lg:block"
           mode="hover"
           :items="[
             locales.map((e) => ({
@@ -101,6 +105,39 @@ if (process.client) {
           />
         </UDropdown>
         <UButton :label="$t('contribute')" color="primary" to="/contribute" />
+      </template>
+
+      <template #panel>
+        <UAsideLinks :links="headerLinks" />
+        <UDivider />
+        <div class="mt-4 flex">
+          <UDropdown
+            mode="hover"
+            :items="[
+              locales.map((e) => ({
+                label: e.name,
+                icon: {
+                  fa: 'i-emojione-flag-for-iran',
+                  en: 'i-emojione-flag-for-united-states',
+                }[e.code],
+                to: switchLocalePath(e.code),
+              })),
+            ]"
+          >
+            <UButton
+              variant="soft"
+              size="md"
+              :label="locales.find((x) => x.code === locale)!.name"
+              :icon="
+                {
+                  fa: 'i-emojione-flag-for-iran',
+                  en: 'i-emojione-flag-for-united-states',
+                }[locales.find((x) => x.code === locale)!.code]
+              "
+              dynamic
+            />
+          </UDropdown>
+        </div>
       </template>
     </UHeader>
 
