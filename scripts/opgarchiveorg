@@ -1,0 +1,102 @@
+#!/usr/bin/env python
+
+import requests, json, sys, os, re, internetarchive, pyrogram, patoolib, sys
+from urllib.parse import quote
+
+tgclient = pyrogram.Client(
+    "my_account",
+    bot_token=os.environ["BOT_TOKEN"],
+    api_id=os.environ["TELEGRAM_API"],
+    api_hash=os.environ["TELEGRAM_HASH"],
+)
+tgclient.start()
+
+internetarchive.configure(
+    "oldpersiangames@gmail.com",
+    os.environ["ARCHIVEORG"],
+    config_file=os.path.expanduser("~/.ia"),
+)
+
+r = requests.get(
+    "https://backend.oldpersiangames.org/api/beforeIA?key="
+    + quote(os.environ["OPG_KEY"])
+)
+print(r.status_code)
+print(r.text)
+games = r.json()
+
+for game in games:
+    iafiles = internetarchive.get_files(game["slug"])
+    filesToDownload = list(
+        filter(
+            lambda tgfile: not any(
+                x.name == tgfile["file_name"] and x.size == tgfile["file_size"]
+                for x in iafiles
+            ),
+            game["tgfiles"],
+        )
+    )
+    for file in filesToDownload:
+        if (
+            tgclient.download_media(
+                file["file_id"], game["slug"] + "/" + file["file_name"]
+            )
+            == None
+        ):
+            sys.exit("Error on downloading")
+
+    filesToExtract = [
+        f["file_name"]
+        for f in (
+            filter(
+                lambda tgfile: tgfile["file_name"]
+                .lower()
+                .endswith(("part1.rar", "part01.rar", ".7z.001")),
+                filesToDownload,
+            )
+        )
+    ]
+    for file in filesToExtract:
+        if not patoolib.extract_archive(
+            game["slug"] + "/" + file, outdir=game["slug"] + "/"
+        ):
+            sys.exit("Error on extracting")
+
+    filesToRemove = [
+        filename
+        for filename in os.listdir(game["slug"] + "/")
+        if re.search(r"(\.part\d+\.rar$)|(\.7z\.\d+$)", filename, re.IGNORECASE)
+    ]
+    for file in filesToRemove:
+        os.remove(game["slug"] + "/" + file)
+
+    metadata = {
+        "collection": "open_source_software",
+        "title": game["slug"],
+        "description": game["title"]
+        + f"""{" (Persian Video Game)" if game["type"]=="game" else ""}\n\nFull details at Old Persian Games website:\nhttps://oldpersiangames.org/{"games" if game["type"]=="game" else "misc"}/"""
+        + game["slug"]
+        + "/",
+        "mediatype": "software",
+    }
+
+    toPost = {"key": os.environ["OPG_KEY"], "slug": game["slug"]}
+
+    if filesToExtract:  # if the files in ia differ from tg files
+        toPost["filesJSON"] = [
+            {"file_name": f, "file_size": os.path.getsize(game["slug"] + "/" + f)}
+            for f in os.listdir(game["slug"] + "/")
+        ]
+
+    if internetarchive.upload(game["slug"], game["slug"] + "/", metadata=metadata):
+        requests.post(
+            "https://backend.oldpersiangames.org/api/setIA",
+            json=toPost,
+        )
+
+tgclient.stop()
+
+requests.get(
+    "https://backend.oldpersiangames.org/api/makeBackup?key="
+    + quote(os.environ["OPG_KEY"])
+)

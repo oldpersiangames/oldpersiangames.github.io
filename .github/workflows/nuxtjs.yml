@@ -1,0 +1,97 @@
+# Sample workflow for building and deploying a Nuxt site to GitHub Pages
+#
+# To get started with Nuxt see: https://nuxtjs.org/docs/get-started/installation
+#
+name: Deploy Nuxt site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - run: sudo rm -rf /usr/local /opt/hostedtoolcache /opt/az /opt/microsoft /opt/pipx /opt/google
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      # - env:
+      #     READPACKAGES: ${{ secrets.READPACKAGES }}
+      #     APP_KEY: base64:4ytdRMnjO8RiDzdqUUKANyXdDInMl9+CFSLhsJeTjtM=
+      #     DB_CONNECTION: mysql
+      #     DB_HOST: db
+      #     DB_PORT: 3306
+      #     DB_DATABASE: opg
+      #     DB_USERNAME: opg
+      #     DB_PASSWORD: 123456
+      #     TELEGRAM_TOKEN: ${{ secrets.BOT_TOKEN }}
+      #     OWNER_TG_ID: "421353623"
+      #     TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+      #     TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+      #     APP_DEBUG: true
+      #   run: |
+      #     sudo apt-get install -y docker
+      #     cd ${{ github.workspace }}/backend-runner
+      #     echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
+      #     docker compose up -d
+      #     sleep 30
+      #     docker compose exec app su -s /bin/bash -c "cd /opgactions/opg-backups && git pull" -g application application
+      #     docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
+      - run: sudo apt-get install -y unrar p7zip
+      - run: pip install pyrogram TgCrypto internetarchive patool
+      - env:
+          TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+          TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
+          OPG_KEY: ${{ secrets.OPG_KEY }}
+        run: |
+          cd ${{ github.workspace }}/scripts
+          python opgarchiveorg
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install dependencies
+        env:
+          C: ${{ secrets.C }}
+        run: |
+          npm ci
+          bash -c "$C"
+      - name: Static HTML export with Nuxt
+        run: NODE_OPTIONS=--max_old_space_size=8192 npm run generate
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./dist
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

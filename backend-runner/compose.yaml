@@ -1,0 +1,37 @@
+version: "3.8"
+services:
+  app:
+    image: ghcr.io/oldpersiangames/opgmanager-backend:main
+    restart: unless-stopped
+    environment:
+      - APP_KEY=${APP_KEY}
+      - DB_CONNECTION=${DB_CONNECTION}
+      - DB_HOST=${DB_HOST}
+      - DB_PORT=${DB_PORT}
+      - DB_DATABASE=${DB_DATABASE}
+      - DB_USERNAME=${DB_USERNAME}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - OWNER_TG_ID=${OWNER_TG_ID}
+      - TELEGRAM_API=${TELEGRAM_API}
+      - TELEGRAM_HASH=${TELEGRAM_HASH}
+      - APP_DEBUG=${APP_DEBUG}
+    ports:
+      - 8000:80
+    networks:
+      - app-network
+  db:
+    image: mysql:8.3
+    restart: unless-stopped
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_DATABASE: opg
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_PASSWORD: 123456
+      MYSQL_USER: opg
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
