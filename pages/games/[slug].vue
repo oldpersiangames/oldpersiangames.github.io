@@ -83,7 +83,7 @@ useSeoMeta({
       >
         <template #headline>
           <UCard
-            class="mb-4 flex-1 overflow-hidden text-ellipsis whitespace-nowrap"
+            class="mb-4 min-w-0 flex-1"
             :ui="{
               body: {
                 padding: 'px-3 py-3 sm:p-3',
@@ -316,10 +316,7 @@ useSeoMeta({
                 }"
               >
                 <NuxtLink
-                  :to="{
-                    path: localePath('/contributors'),
-                    hash: '#' + username,
-                  }"
+                  :to="localePath('/contributors') + '#' + username"
                   dir="ltr"
                   >@{{ username }}</NuxtLink
                 >

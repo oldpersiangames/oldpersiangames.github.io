@@ -10,7 +10,7 @@ useSeoMeta({
 <template>
   <UContainer class="py-8">
     <UCard
-      class="mb-4 overflow-hidden text-ellipsis whitespace-nowrap"
+      class="mb-4"
       :ui="{
         body: {
           padding: 'px-3 py-3 sm:p-3',

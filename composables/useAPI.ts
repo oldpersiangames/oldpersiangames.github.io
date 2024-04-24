@@ -9,6 +9,6 @@ export function useAPI<T>(
 ) {
     return useFetch(url, {
         ...options,
-        baseURL: process.dev ? 'http://localhost:8000' : 'https://backend.oldpersiangames.org',
+        baseURL: 'https://backend.oldpersiangames.org',
     })
 }

@@ -34,7 +34,6 @@ useSeoMeta({
       >
         <template #headline>
           <UCard
-            class="overflow-hidden text-ellipsis whitespace-nowrap"
             :ui="{
               body: {
                 padding: 'px-3 py-3 sm:p-3',
