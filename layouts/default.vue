@@ -5,7 +5,7 @@ const switchLocalePath = useSwitchLocalePath();
 
 const localePath = useLocalePath();
 
-const headerLinks = [
+const headerLinks = computed(() => [
   {
     label: t("home"),
     to: localePath("/"),
@@ -38,7 +38,7 @@ const headerLinks = [
     label: t("donation"),
     to: localePath("/donation"),
   },
-];
+]);
 
 // Bottom Dialog
 const bottomDialogClosed = ref(false);
