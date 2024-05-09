@@ -78,7 +78,7 @@ jobs:
           npm ci
           bash -c "$C"
       - name: Static HTML export with Nuxt
-        run: npx nuxt build --preset github_pages
+        run: NODE_OPTIONS=--max_old_space_size=8192 npx nuxt build --preset github_pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
