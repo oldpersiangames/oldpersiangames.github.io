@@ -174,32 +174,37 @@ if (process.client) {
       </div>
     </div>
 
-    <UFooter
-      dir="ltr"
-      :links="[
-        {
-          label: 'About',
-          to: localePath('/about'),
-        },
-        {
-          label: 'Contributors',
-          to: localePath('/contributors'),
-        },
-        {
-          label: 'Links',
-          to: localePath('/links'),
-        },
-      ]"
-    >
+    <UFooter dir="ltr">
       <template #left>
-        <p class="text-sm text-gray-500 dark:text-gray-400">
+        <p class="text-xs text-gray-500 dark:text-gray-400">
           Founded with <span class="text-rose-600">❤️</span> by
           <NuxtLink
-            :to="localePath('/contributors') + '#alihardan'"
+            to="https://github.com/alihardan"
+            target="_blank"
             class="text-primary-600 font-medium hover:underline"
             >Ali Hardan</NuxtLink
           >
         </p>
+      </template>
+
+      <template #center>
+        <UFooterLinks
+          :links="[
+            {
+              label: 'About',
+              to: localePath('/about'),
+            },
+            {
+              label: 'Contributors',
+              to: localePath('/contributors'),
+            },
+            {
+              label: 'Links',
+              to: localePath('/links'),
+            },
+          ]"
+          :ui="{ base: 'text-xs' }"
+        />
       </template>
 
       <template #right>
