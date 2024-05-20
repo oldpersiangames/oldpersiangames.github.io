@@ -153,7 +153,7 @@ useSeoMeta({
               </UAlert>
               <UTable
                 class="text-center"
-                :ui="{ th: { base: 'text-center rtl:text-center' } }"
+                :ui="{ th: { base: 'text-center rtl:text-center' }, td:{size:'text-xs'} }"
                 :rows="game.files || game.tgfiles"
                 :columns="[
                   {
