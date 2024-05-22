@@ -41,6 +41,8 @@ const { results } = useFuse(search, items, {
       "producers.title_fa",
       "slug",
     ],
+    threshold: 0.3,
+    ignoreLocation: true,
   },
   matchAllWhenSearchEmpty: true,
 });

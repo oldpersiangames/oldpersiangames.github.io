@@ -31,6 +31,27 @@ const columns = [
 const firstColumnSlotName = computed(() => columns[0].key + "-data");
 const secondColumnSlotName = computed(() => columns[1].key + "-data");
 
+// Filters list
+const defaultPublishers = games.value.data.reduce((acc: any, game: any) => {
+  game.publishers.forEach((publisher: any) => {
+    if (!acc.some((e: any) => e.slug === publisher.slug)) {
+      acc.push(publisher);
+    }
+  });
+
+  return acc;
+}, [] as string[]);
+const defaultPlatforms = games.value.data.reduce((acc, game) => {
+  game.platforms.forEach((platform: any) => {
+    if (!acc.includes(platform)) {
+      acc.push(platform);
+    }
+  });
+
+  return acc;
+}, [] as string[]);
+const defaultTypes = ["dubbed", "iranian", "modified", "subtitle"];
+
 // Data Management
 
 const filter = ref(
@@ -54,6 +75,8 @@ const { results } = useFuse(() => filter.value.search, games.value.data, {
       "slug",
       "extra_searchables",
     ],
+    threshold: 0.3,
+    ignoreLocation: true,
   },
   matchAllWhenSearchEmpty: true,
 });
@@ -61,9 +84,9 @@ const computedResults = computed(() => {
   let result = results.value.map((e) => e.item); // Revert the useFuse format to the original
 
   if (filter.value.selectedPublishers.length) {
-    const selectedPublisherSlugs = filter.value.selectedPublishers.map(
-      (e: any) => e.slug,
-    );
+    const selectedPublisherSlugs = defaultPublishers
+      .filter((e) => filter.value.selectedPublishers.includes(e.slug))
+      .map((e: any) => e.slug);
 
     result = result.filter((game: any) =>
       game.publishers.some((publisher: any) =>
@@ -96,27 +119,6 @@ const rows = computed(() => {
     page.value * pageCount.value,
   );
 });
-
-// Filters list
-const defaultPublishers = games.value.data.reduce((acc: any, game: any) => {
-  game.publishers.forEach((publisher: any) => {
-    if (!acc.some((e: any) => e.slug === publisher.slug)) {
-      acc.push(publisher);
-    }
-  });
-
-  return acc;
-}, [] as string[]);
-const defaultPlatforms = games.value.data.reduce((acc, game) => {
-  game.platforms.forEach((platform: any) => {
-    if (!acc.includes(platform)) {
-      acc.push(platform);
-    }
-  });
-
-  return acc;
-}, [] as string[]);
-const defaultTypes = ["dubbed", "iranian", "modified", "subtitle"];
 
 // Pagination
 const page = ref(
@@ -208,10 +210,12 @@ watch(page, () => {
         class="flex-1"
         searchable
         :option-attribute="'title_' + locale"
+        value-attribute="slug"
       >
         <template #label>
           <span v-if="filter.selectedPublishers.length" class="truncate">{{
-            filter.selectedPublishers
+            defaultPublishers
+              .filter((e) => filter.selectedPublishers.includes(e.slug))
               .map((e) => e["title_" + locale])
               .join(", ")
           }}</span>
