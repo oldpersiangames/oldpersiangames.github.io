@@ -50,7 +50,13 @@ const defaultPlatforms = games.value.data.reduce((acc, game) => {
 
   return acc;
 }, [] as string[]);
-const defaultTypes = ["dubbed", "iranian", "modified", "subtitle"];
+const defaultTypes = [
+  "dubbed",
+  "iranian",
+  "modified",
+  "subtitle",
+  "collection",
+];
 
 // Data Management
 
