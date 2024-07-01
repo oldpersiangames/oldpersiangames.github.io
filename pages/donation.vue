@@ -81,6 +81,7 @@ useSeoMeta({
             { key: 'amount', label: 'مبلغ' },
           ]"
           :rows="[
+            { name: 'کیتی', amount: '۱۰۰ هزار تومان' },
             { name: 'حسین نصیرایی', amount: '۱۰۰ هزار تومان' },
             { name: 'پارسا ابراهیمی', amount: '۵۰ هزار تومان' },
             {

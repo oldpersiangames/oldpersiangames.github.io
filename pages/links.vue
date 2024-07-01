@@ -140,6 +140,10 @@ useSeoMeta({
               (زیرنویس)
             </li>
             <li>
+              <a href="https://parsiteamsite.ir" target="_blank">پارسی تیم</a>
+              (زیرنویس)
+            </li>
+            <li>
               <a href="https://www.darinoos.net/" target="_blank">دارینوس</a>
               (دوبله)
             </li>
