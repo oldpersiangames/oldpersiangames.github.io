@@ -63,9 +63,9 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
           OPG_KEY: ${{ secrets.OPG_KEY }}
-        run: |
-          cd ${{ github.workspace }}/scripts
-          python opgarchiveorg
+        # run: |
+        #   cd ${{ github.workspace }}/scripts
+        #   python opgarchiveorg
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
