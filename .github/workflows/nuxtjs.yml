@@ -57,15 +57,15 @@ jobs:
       #     docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
-      - env:
-          TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
-          TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
-          OPG_KEY: ${{ secrets.OPG_KEY }}
-        # run: |
-        #   cd ${{ github.workspace }}/scripts
-        #   python opgarchiveorg
+      # - env:
+      #     TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+      #     TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+      #     BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      #     ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
+      #     OPG_KEY: ${{ secrets.OPG_KEY }}
+      #   run: |
+      #     cd ${{ github.workspace }}/scripts
+      #     python opgarchiveorg
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
