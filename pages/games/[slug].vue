@@ -135,6 +135,29 @@ useSeoMeta({
                 :description="$t('gameSelling')"
                 color="violet"
               />
+
+              <UAlert
+                v-if="
+                  game.producers.find((e) => e.id == 11) ||
+                  game.producers.find((e) => e.id == 12)
+                "
+                color="violet"
+              >
+                <template #description>
+                  برای رعایت حق تولیدکننده اصلی این اثر (شرکت‌های
+                  <span class="font-bold">پارس گیم</span> و
+                  <span class="font-bold">سایبر</span>) لینک‌های دانلود از دسترس
+                  خارج شده‌اند. برای تهیه قانونی بازی به پیج اینستای تهیه‌کننده
+                  مراجعه کنید:
+                  <a
+                    class="font-bold text-amber-200 underline dark:text-amber-900"
+                    href="https://www.instagram.com/saeid.gholami27/"
+                    target="_blank"
+                    dir="ltr"
+                    >@saeid.gholami27</a
+                  >
+                </template>
+              </UAlert>
               <UAlert
                 v-if="!game.ia_id && !game.selling"
                 color="primary"
@@ -153,7 +176,10 @@ useSeoMeta({
               </UAlert>
               <UTable
                 class="text-center"
-                :ui="{ th: { base: 'text-center rtl:text-center' }, td:{size:'text-xs'} }"
+                :ui="{
+                  th: { base: 'text-center rtl:text-center' },
+                  td: { size: 'text-xs' },
+                }"
                 :rows="game.files || game.tgfiles"
                 :columns="[
                   {
@@ -174,7 +200,11 @@ useSeoMeta({
                       ]
                     : []),
 
-                  ...(!!game.ia_id
+                  ...(!!game.ia_id &&
+                  !(
+                    game.producers.find((e) => e.id == 11) ||
+                    game.producers.find((e) => e.id == 12)
+                  )
                     ? [
                         {
                           key: 'actions',
@@ -207,7 +237,17 @@ useSeoMeta({
                   />
                 </template>
               </UTable>
-              <UAlert v-if="game.ia_id" color="primary" variant="soft">
+              <UAlert
+                v-if="
+                  !!game.ia_id &&
+                  !(
+                    game.producers.find((e) => e.id == 11) ||
+                    game.producers.find((e) => e.id == 12)
+                  )
+                "
+                color="primary"
+                variant="soft"
+              >
                 <template #description>
                   {{ $t("tgIntroUnderFiles") }}
                   <a
