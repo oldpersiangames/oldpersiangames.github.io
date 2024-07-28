@@ -158,6 +158,16 @@ useSeoMeta({
                   >
                 </template>
               </UAlert>
+
+              <UAlert
+                v-if="game.publishers.find((e) => e.id == 75)"
+                color="violet"
+              >
+                <template #description>
+                  فایل این اثر برای رعایت حقوق تولیدکننده و ناشر اصلی از دسترس
+                  خارج شده است. پوزش می‌طلبیم.
+                </template>
+              </UAlert>
               <UAlert
                 v-if="!game.ia_id && !game.selling"
                 color="primary"
@@ -203,7 +213,8 @@ useSeoMeta({
                   ...(!!game.ia_id &&
                   !(
                     game.producers.find((e) => e.id == 11) ||
-                    game.producers.find((e) => e.id == 12)
+                    game.producers.find((e) => e.id == 12) ||
+                    game.producers.find((e) => e.id == 75)
                   )
                     ? [
                         {
@@ -242,7 +253,8 @@ useSeoMeta({
                   !!game.ia_id &&
                   !(
                     game.producers.find((e) => e.id == 11) ||
-                    game.producers.find((e) => e.id == 12)
+                    game.producers.find((e) => e.id == 12) ||
+                    game.producers.find((e) => e.id == 75)
                   )
                 "
                 color="primary"
