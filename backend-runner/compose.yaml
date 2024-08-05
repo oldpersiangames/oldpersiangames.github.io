@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   app:
-    image: ghcr.io/oldpersiangames/opgmanager-backend:main
+    image: ghcr.io/oldpersiangames/opgbackend:main
     restart: unless-stopped
     environment:
       - APP_KEY=${APP_KEY}

@@ -33,28 +33,6 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-      # - env:
-      #     READPACKAGES: ${{ secrets.READPACKAGES }}
-      #     APP_KEY: base64:4ytdRMnjO8RiDzdqUUKANyXdDInMl9+CFSLhsJeTjtM=
-      #     DB_CONNECTION: mysql
-      #     DB_HOST: db
-      #     DB_PORT: 3306
-      #     DB_DATABASE: opg
-      #     DB_USERNAME: opg
-      #     DB_PASSWORD: 123456
-      #     TELEGRAM_TOKEN: ${{ secrets.BOT_TOKEN }}
-      #     OWNER_TG_ID: "421353623"
-      #     TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
-      #     TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
-      #     APP_DEBUG: true
-      #   run: |
-      #     sudo apt-get install -y docker
-      #     cd ${{ github.workspace }}/backend-runner
-      #     echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
-      #     docker compose up -d
-      #     sleep 30
-      #     docker compose exec app su -s /bin/bash -c "cd /opgactions/opg-backups && git pull" -g application application
-      #     docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
       - env:
@@ -66,6 +44,30 @@ jobs:
         run: |
           cd ${{ github.workspace }}/scripts
           python opgarchiveorg
+
+      - env:
+          READPACKAGES: ${{ secrets.READPACKAGES }}
+          APP_KEY: base64:4ytdRMnjO8RiDzdqUUKANyXdDInMl9+CFSLhsJeTjtM=
+          DB_CONNECTION: mysql
+          DB_HOST: db
+          DB_PORT: 3306
+          DB_DATABASE: opg
+          DB_USERNAME: opg
+          DB_PASSWORD: 123456
+          TELEGRAM_TOKEN: ${{ secrets.BOT_TOKEN }}
+          OWNER_TG_ID: "421353623"
+          TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+          TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+          APP_DEBUG: true
+        run: |
+          sudo apt-get install -y docker
+          cd ${{ github.workspace }}/backend-runner
+          echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
+          docker compose up -d
+          sleep 30
+          docker compose exec app su -s /bin/bash -c "mkdir -p /opgactions/opg-backups && cd /opgactions/opg-backups && git clone https://a:${{ secrets.BACKUP_TOKEN }}@github.com/oldpersiangames/opg-backups /opgactions/opg-backups" -g application application
+          docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgmanager.sql"
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
