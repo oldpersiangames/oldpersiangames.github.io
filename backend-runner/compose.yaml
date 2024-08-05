@@ -20,8 +20,6 @@ services:
       - 8000:80
     networks:
       - app-network
-    volumes:
-      - /opgactions:/opgactions
   db:
     image: mysql:8.3
     restart: unless-stopped
