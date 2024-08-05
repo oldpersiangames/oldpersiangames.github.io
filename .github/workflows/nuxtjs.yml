@@ -65,7 +65,7 @@ jobs:
           echo $READPACKAGES | docker login ghcr.io -u alihardan --password-stdin
           docker compose up -d
           sleep 30
-          docker compose exec app bash -c "mkdir -p /opgactions/opg-backups && git clone https://a:${{ secrets.BACKUP_TOKEN }}@github.com/oldpersiangames/opg-backups /opgactions/opg-backups"
+          docker compose exec app bash -c "mkdir -p /opgactions/opg-backups && git clone https://a:${{ secrets.BACKUP_TOKEN }}@github.com/oldpersiangames/opg-backups /opgactions/opg-backups && ln -s /opgactions/opg-backups/public /app/storage/app/public"
           docker compose exec app bash -c "mysql -h db -u opg -p123456 opg < /opgactions/opg-backups/opgbackend.sql"
 
       - name: Setup Node
