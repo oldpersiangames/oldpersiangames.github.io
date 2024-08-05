@@ -4,6 +4,7 @@ services:
     image: ghcr.io/oldpersiangames/opgbackend:main
     restart: unless-stopped
     environment:
+      - APP_URL=http://localhost:8000
       - APP_KEY=${APP_KEY}
       - DB_CONNECTION=${DB_CONNECTION}
       - DB_HOST=${DB_HOST}
