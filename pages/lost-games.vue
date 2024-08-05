@@ -1,5 +1,4 @@
-<template>Temporary Disabled</template>
-<!-- <script setup>
+<script setup>
 const localePath = useLocalePath();
 const img = useImage();
 
@@ -79,4 +78,4 @@ const storageUrl =
       </UPageBody>
     </UPage>
   </UContainer>
-</template> -->
+</template>
