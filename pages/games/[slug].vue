@@ -283,6 +283,47 @@ useSeoMeta({
 
               <UAlert
                 icon="i-heroicons-exclamation-triangle"
+                v-if="game.publishers.some((e) => e.id == 15)"
+                color="red"
+                variant="soft"
+              >
+                <template #description>
+                  <p>
+                    این بازی از شرکت سریرگیم است. بسیاری از کاربران سایت با
+                    مشکلاتی در هنگام نصب بازی‌های سریر مواجه شده‌اند. شاید این
+                    راهنما کمک کند:
+                  </p>
+                  <blockquote style="font-style: italic">
+                    راهی برای کپی فایل‌های بازی سریر بدون استفاده از فایل ستاپ
+                    وجود داره:
+                    <br />
+                    داخل دیسک اول فایلی به نام Setup.cab وجود داره. این فایل رو
+                    با WinRAR باز کنید. از شما پسورد میخواد؛ پسوردش اینه:
+                    <br />
+                    Sarir_CO_1
+                    <br />
+                    واضحه که باید اکسترکت کنیدش (در یکی از پوشه‌های مورد نظر
+                    سیستم خودتون). بعد توی دیسک دوم، فایل Setup2.cab رو هم کنار
+                    فایل‌های اکسترکت شده‌ی قبلی اکسترکت کنید (رمزش همونه).
+                    <br />
+                    بازی آمادس. (در محل اکسترکت شده)
+                  </blockquote>
+                </template>
+              </UAlert>
+
+              <UAlert
+                icon="i-heroicons-exclamation-triangle"
+                v-if="game['notes_' + locale]"
+                color="primary"
+                variant="soft"
+              >
+                <template #description>
+                  <div v-html="game['notes_' + locale]"></div>
+                </template>
+              </UAlert>
+
+              <UAlert
+                icon="i-heroicons-exclamation-triangle"
                 v-if="
                   game['defects_' + locale] && game['defects_' + locale].length
                 "
