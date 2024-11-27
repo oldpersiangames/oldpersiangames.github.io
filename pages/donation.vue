@@ -81,6 +81,8 @@ useSeoMeta({
             { key: 'amount', label: 'مبلغ' },
           ]"
           :rows="[
+            { name: 'ERFAN (@Not_Erfan)', amount: '۲۰۰ هزار تومان' },
+            { name: 'PR0CESSS (@PR0CESSS)', amount: '۱۰۰ هزار تومان' },
             { name: 'سید', amount: '۱۰ تتر' },
             { name: 'محمدامین', amount: '۱ میلیون و ۲۰۰ هزار تومان' },
             { name: 'ramtin', amount: '۶۰۰ هزار تومان' },

@@ -160,7 +160,7 @@ useSeoMeta({
               </UAlert>
 
               <UAlert
-                v-if="game.publishers.find((e) => e.id == 75)"
+                v-if="game.publishers.find((e) => e.id == 75) || game.slug=='the-lost-land-barareh-vijehpardazpars'"
                 color="violet"
               >
                 <template #description>
@@ -214,7 +214,8 @@ useSeoMeta({
                   !(
                     game.producers.find((e) => e.id == 11) ||
                     game.producers.find((e) => e.id == 12) ||
-                    game.producers.find((e) => e.id == 75)
+                    game.producers.find((e) => e.id == 75) ||
+                    game.slug=='the-lost-land-barareh-vijehpardazpars'
                   )
                     ? [
                         {
@@ -254,7 +255,8 @@ useSeoMeta({
                   !(
                     game.producers.find((e) => e.id == 11) ||
                     game.producers.find((e) => e.id == 12) ||
-                    game.producers.find((e) => e.id == 75)
+                    game.producers.find((e) => e.id == 75) ||
+                    game.slug=='the-lost-land-barareh-vijehpardazpars'
                   )
                 "
                 color="primary"
