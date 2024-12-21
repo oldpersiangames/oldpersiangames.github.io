@@ -21,8 +21,7 @@ r = requests.get(
     "https://backend.oldpersiangames.org/api/before-ia?key="
     + quote(os.environ["OPG_KEY"])
 )
-print(r.status_code)
-print(r.text)
+
 games = r.json()
 
 for game in games:
