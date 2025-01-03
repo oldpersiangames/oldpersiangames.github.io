@@ -35,15 +35,15 @@ jobs:
           python-version: "3.10"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
-      # - env:
-      #     TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
-      #     TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
-      #     BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-      #     ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
-      #     OPG_KEY: ${{ secrets.OPG_KEY }}
-      #   run: |
-      #     cd ${{ github.workspace }}/scripts
-      #     python opgarchiveorg
+      - env:
+          TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+          TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
+          OPG_KEY: ${{ secrets.OPG_KEY }}
+        run: |
+          cd ${{ github.workspace }}/scripts
+          python opgarchiveorg
 
       - env:
           READPACKAGES: ${{ secrets.READPACKAGES }}
