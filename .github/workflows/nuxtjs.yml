@@ -35,15 +35,15 @@ jobs:
           python-version: "3.10"
       - run: sudo apt-get install -y unrar p7zip
       - run: pip install pyrogram TgCrypto internetarchive patool
-      # - env:
-      #     TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
-      #     TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
-      #     BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-      #     ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
-      #     OPG_KEY: ${{ secrets.OPG_KEY }}
-      #   run: |
-      #     cd ${{ github.workspace }}/scripts
-      #     python opgarchiveorg
+      - env:
+          TELEGRAM_API: ${{ secrets.TELEGRAM_API }}
+          TELEGRAM_HASH: ${{ secrets.TELEGRAM_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ARCHIVEORG: ${{ secrets.ARCHIVEORG }}
+          OPG_KEY: ${{ secrets.OPG_KEY }}
+        run: |
+          cd ${{ github.workspace }}/scripts
+          python opgarchiveorg
 
       - env:
           READPACKAGES: ${{ secrets.READPACKAGES }}
@@ -86,15 +86,14 @@ jobs:
         with:
           path: ./.output/public
 
-
   # Deployment job
   deploy:
     # Add a dependency to the build job
     needs: build
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from an appropriate source
     # Deploy to the github_pages environment
     environment:
       name: github_pages
