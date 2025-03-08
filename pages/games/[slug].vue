@@ -14,6 +14,7 @@ const { data: game } = await useAPI("/api/games/" + route.params.slug, {
       group[contribute.user.name].push(contribute.contribute);
       return group;
     }, {});
+    game.id_id=null;
     return game;
   },
 });
