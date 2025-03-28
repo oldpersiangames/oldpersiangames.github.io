@@ -70,8 +70,21 @@ useSeoMeta({
               dir="ltr"
               :to="{ path: localePath('/contributors'), hash: '#AG_e_e_kA' }"
               >@AG_e_e_kA</NuxtLink
-            >: بخاطر قبول مسئولیت مدیریت OPG در شرایط بحرانی و جلوگیری از تعطیل
-            شدن پروژه.
+            >: بخاطر مدیریت شایسته این پایگاه.
+          </li>
+          <li>
+            <NuxtLink
+              dir="ltr"
+              :to="{ path: localePath('/contributors'), hash: '#Nofuzy' }"
+              >@Nofuzy</NuxtLink
+            >: بخاطر مدیریت شایسته این پایگاه.
+          </li>
+          <li>
+            <NuxtLink
+              dir="ltr"
+              :to="{ path: localePath('/contributors'), hash: '#MotherboardZone' }"
+              >@MotherboardZone</NuxtLink
+            >: بخاطر مدیریت شایسته این پایگاه.
           </li>
           <li>
             <NuxtLink
