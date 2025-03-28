@@ -56,7 +56,7 @@ const storageUrl =
           قرار میگیره. این لیست می‌تونه به شدت ناقص باشه، اگه اثر دیگه‌ای
           می‌شناسین لطفاً به ادمین بازی‌های گمشده پیام بدین:
 
-          <a dir="ltr" href="https://t.me/AR_1381">@AR_1381</a> (در تلگرام)
+          <a dir="ltr" href="https://t.me/MotherboardZone">@MotherboardZone</a> (در تلگرام)
         </p>
 
         <div
