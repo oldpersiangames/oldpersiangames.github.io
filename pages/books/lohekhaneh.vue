@@ -51,8 +51,129 @@ useSeoMeta({
 
       <UPageBody prose>
         <div class="mt-2 text-center text-sm font-extralight">
-          آخرین بروزرسانی: <span dir="ltr">2024-03-21</span>
+          آخرین بروزرسانی: <span dir="ltr">2025-06-29</span>
         </div>
+
+           <UAlert
+           color="blue"
+          icon="i-heroicons-exclamation-triangle"
+          title="لینک‌های دانلود حذف شده، از تلگرام دانلود کنین!"
+          
+        >
+          <template #description>
+           <p>بچه‌ها چون لینک‌های دانلود مشکل پیدا کرده، می‌تونین به جاش وارد کانال تلگرامیمون بشین و کتاب‌ها رو دانلود کنین. کافیه اسمشو سرچ کنین.</p>
+            <p>کانال تلگرام: <a href='https://t.me/OldPersianGames' class='text-black font-medium'>@OldPersianGames</a></p>
+           
+        </template>
+        </UAlert>
+
+
+              <div>
+          <h2>مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۱ - لوحه خانه</h2>
+          <figure class="mx-auto max-w-xl text-center">
+            <img
+              src="/img/lohekhaneh-ps2-1.jpg"
+              alt="مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۱ - لوحه خانه"
+            />
+            <figcaption>
+              مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۱ - لوحه خانه
+            </figcaption>
+          </figure>
+          <div class="flex gap-2">
+            <UButton
+              to="https://t.me/OldPersianGames"
+              target="_blank"
+              icon="i-heroicons-inbox-arrow-down"
+              label="دانلود کتاب"
+            />
+          </div>
+        </div>
+
+              <div>
+          <h2>مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۲ - لوحه خانه</h2>
+          <figure class="mx-auto max-w-xl text-center">
+            <img
+              src="/img/lohekhaneh-ps2-2.jpg"
+              alt="مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۲ - لوحه خانه"
+            />
+            <figcaption>
+              مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۲ - لوحه خانه
+            </figcaption>
+          </figure>
+          <div class="flex gap-2">
+            <UButton
+              to="https://t.me/OldPersianGames"
+              target="_blank"
+              icon="i-heroicons-inbox-arrow-down"
+              label="دانلود کتاب"
+            />
+          </div>
+        </div>
+
+              <div>
+          <h2>مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۳ - لوحه خانه</h2>
+          <figure class="mx-auto max-w-xl text-center">
+            <img
+              src="/img/lohekhaneh-ps2-3.jpg"
+              alt="مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۳ - لوحه خانه"
+            />
+            <figcaption>
+              مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۳ - لوحه خانه
+            </figcaption>
+          </figure>
+          <div class="flex gap-2">
+            <UButton
+              to="https://t.me/OldPersianGames"
+              target="_blank"
+              icon="i-heroicons-inbox-arrow-down"
+              label="دانلود کتاب"
+            />
+          </div>
+        </div>
+
+
+              <div>
+          <h2>مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۴ - لوحه خانه</h2>
+          <figure class="mx-auto max-w-xl text-center">
+            <img
+              src="/img/lohekhaneh-ps2-4.jpg"
+              alt="مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۴ - لوحه خانه"
+            />
+            <figcaption>
+              مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۴ - لوحه خانه
+            </figcaption>
+          </figure>
+          <div class="flex gap-2">
+            <UButton
+              to="https://t.me/OldPersianGames"
+              target="_blank"
+              icon="i-heroicons-inbox-arrow-down"
+              label="دانلود کتاب"
+            />
+          </div>
+        </div>
+
+              <div>
+          <h2>مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۵ - لوحه خانه</h2>
+          <figure class="mx-auto max-w-xl text-center">
+            <img
+              src="/img/lohekhaneh-ps2-5.jpg"
+              alt="مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۵ - لوحه خانه"
+            />
+            <figcaption>
+              مجموعه کد و رمز بازی های رایانه ای پلی استیشن ۲ - جلد ۵ - لوحه خانه
+            </figcaption>
+          </figure>
+          <div class="flex gap-2">
+            <UButton
+              to="https://t.me/OldPersianGames"
+              target="_blank"
+              icon="i-heroicons-inbox-arrow-down"
+              label="دانلود کتاب"
+            />
+          </div>
+        </div>
+
 
         <div>
           <h2>مجموعه کامل کد، رمز و استراتژی بازی های پلی استیشن ۱</h2>
@@ -69,13 +190,13 @@ useSeoMeta({
           <p>این کتاب توسط «لوحه خانه» تهیه و در سال ۱۳۸۲ چاپ شده است.</p>
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/ps1-lohekhaneh/lohekhaneh-ps1-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
             <UButton
-              to="https://archive.org/download/ps1-lohekhaneh/lohekhaneh-ps1-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -98,14 +219,14 @@ useSeoMeta({
           <p>این کتاب توسط «لوحه خانه» تهیه و در سال ۱۳۸۷ چاپ شده است.</p>
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/ps2-lohekhaneh/lohekhaneh-ps2-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/ps2-lohekhaneh/lohekhaneh-ps2-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -127,14 +248,14 @@ useSeoMeta({
           </figure>
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/pc-1-2-lohekhaneh/lohekhaneh-pc-1-2-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/pc-1-2-lohekhaneh/lohekhaneh-pc-1-2-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -157,14 +278,14 @@ useSeoMeta({
 
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/pc-3-lohekhaneh/lohekhaneh-pc-3-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/pc-3-lohekhaneh/lohekhaneh-pc-3-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -187,14 +308,14 @@ useSeoMeta({
 
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/pc-4-lohekhaneh/lohekhaneh-pc-4-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/pc-4-lohekhaneh/lohekhaneh-pc-4-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -216,14 +337,14 @@ useSeoMeta({
 
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/sega-lohekhaneh/lohekhaneh-sega-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/sega-lohekhaneh/lohekhaneh-sega-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -246,14 +367,14 @@ useSeoMeta({
 
           <div class="flex gap-2">
             <UButton
-              to="https://archive.org/download/xbox360-lohekhaneh/lohekhaneh-xbox360-book.pdf"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود کتاب"
             />
 
             <UButton
-              to="https://archive.org/download/xbox360-lohekhaneh/lohekhaneh-xbox360-book-cover.jpg"
+              to="https://t.me/OldPersianGames"
               target="_blank"
               icon="i-heroicons-inbox-arrow-down"
               label="دانلود طرح جلد"
@@ -338,11 +459,6 @@ useSeoMeta({
                 فایل مجلات لوحه‌خانه (غیر از کتاب‌ها هستن) رو در اختیار نداریم.
                 اگر فایل رو بصورت اصلی و یا اسکن شده دارید، برای ما ارسال کنید.
               </li>
-              <li>
-                فایل چاپ‌های دیگر کتاب راهنمای پلی‌استیشن ۲ که در چند جلد منتشر
-                بود رو در اختیار نداریم.
-              </li>
-              <li>طرح جلد اصلی کتاب پلی‌استیشن ۲ رو در اختیار نداریم.</li>
               <li>...؟</li>
             </ul>
           </template>
