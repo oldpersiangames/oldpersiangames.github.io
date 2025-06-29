@@ -24,22 +24,27 @@ export default defineNuxtConfig({
   extends: ["@nuxt/ui-pro"],
   modules: ["@nuxt/ui", "@nuxt/image", "@nuxtjs/i18n", "@nuxtjs/seo",
     "@nuxt/content", "@nuxt/fonts"],
+
   i18n: {
+
     detectBrowserLanguage: false,
     strategy: "prefix_except_default",
     defaultLocale: "fa",
+    
     locales: [
       {
         code: "fa",
         name: "فارسی",
         dir: "rtl",
         iso: "fa-IR",
+        file:'fa.json'
       },
       {
         code: "en",
         name: "English",
         dir: "ltr",
         iso: "en-US",
+        file:'en.json'
       },
     ],
   },
