@@ -1,5 +1,7 @@
 <script setup lang="ts">
 const { t } = useI18n();
+const localePath = useLocalePath();
+
 const shuffle = <T,>(array: readonly T[]): T[] => {
   return array
     .map((a) => ({ rand: Math.random(), value: a }))
