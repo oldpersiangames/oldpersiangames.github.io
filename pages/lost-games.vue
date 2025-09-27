@@ -8,8 +8,7 @@ useSeoMeta({
   description: "لیست بازی های فارسی گمشده",
 });
 const storageUrl =
-  (process.dev ? "http://localhost:8000" : "http://localhost:8000") +
-  // : "https://backend.oldpersiangames.org"
+  (process.dev ? "http://localhost:8000" : "https://backend.oldpersiangames.org") +
 
   "/storage";
 </script>

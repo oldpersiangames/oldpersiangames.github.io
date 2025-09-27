@@ -9,7 +9,7 @@ export function useAPI<T>(
 ) {
     return useFetch(url, {
         ...options,
-        // baseURL: 'https://backend.oldpersiangames.org',
-        baseURL: 'http://localhost:8000',
+        baseURL: 'https://backend.oldpersiangames.org',
+        // baseURL: 'http://localhost:8000',
     })
 }
