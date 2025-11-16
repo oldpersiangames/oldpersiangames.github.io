@@ -76,6 +76,11 @@ useSeoMeta({
               فعالیت می‌کنه
             </li>
             <li>
+              <a href="https://t.me/Pirates_of_Persia_Community" target="_blank"
+                >Pirates of Persia Community</a
+              >: کانالی که بازی های دوبله رو بصورت پچ قرار می‌ده
+            </li>
+            <li>
               <a href="https://t.me/game_lost_mobile" target="_blank"
                 >Game lost mobile</a
               >: کانالی که در زمینه آرشیو بازی‌های اندرویدی ایرانی فعالیت می‌کنه
